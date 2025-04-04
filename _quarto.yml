@@ -9,7 +9,7 @@ website:
     search: true
     contents:
       - index.qmd
-      - da_rules.qmd
+      - Regole.qmd
 
 format:
   html:
