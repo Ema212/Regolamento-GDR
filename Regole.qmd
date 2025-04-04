@@ -4,19 +4,14 @@ format:
   html:
     theme: default
 ---
- Regole del Sistema
 
-### Ma i Livelli? 
-Ottima domanda. Il GDR per Babbei nasce risolvendo l'annoso problema dei livelli con una risposta decisamente elegante: niente livelli. 
-Si diventa più forti quando il master concede abilità, in linea con il character development, quando vi potenziate da soli (parlando con Fabbri magicanti ed Erboristi andando avanti nel gioco non è difficile), facendo patti con creature, dèi, e così via. 
+### Regole generali, le Prove
 
-Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bensì il gioco che state realmente giocando è "scegliete come sviluppare i conflitti che Ema ha pensato sulla base del background del vostro pg". I livelli  si fottano.  Se giocate bene e l'ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)
-### Regole generali
 - Prova di Combattimento: una prova di combatteimento consiste in 
 	- Un attaccante che effettua un tiro per colpire su Destrezza
 	- Un difensore che effettua un tiro per difendere su Destrezza
 - Prove di Abilità: tutti i giocatori possono eseguire le prove di Abilità usando i proprio modificatori 
-- Prove di Abilità Speciali: queste prove sono abilità non riproducibili dalle persone normalmente senza un training specifico. Molto sta al master decidere se o meno lasciare eseguire tentativi disperati. Per esempio, è facile concedere a una persona che non ne sa nulla, comunque provare un tiro di Medicina, anche se rischia di fare più danno che altro, mentre è un po' meno credibile pensare di improvissare "Percezione del magico" o "Scassinare" senza saperlo fare. 
+- Prove di Abilità Speciali: queste prove sono abilità non riproducibili dalle persone normalmente senza un training specifico. Molto sta al master decidere se o meno lasciare eseguire tentativi disperati. Per esempio, è facile concedere a una persona che non ne sa nulla, comunque provare un tiro di Medicina, anche se rischia di fare più danno che altro, mentre è un po' meno credibile pensare di improvissare "Percezione del magico" o "Scassinare" senza saperlo fare.
 - Prove di Inganno e Persuasione: 
 	- Quando un pg dice una bugia a un npc o pg, deve tirare di Carisma per Ingannare 
 	- Quando un pg cerca di convincere un npc, deve tirare di Carisma per Persuadere
@@ -25,6 +20,7 @@ Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bens�
 - Svantaggio: la meccanica per cui tiri contemporaneamente due dadi e tieni il risultato più basso
 - Ispirazione: il DM può darti una ispirazione se ritiene che tu abbia effettuato in modo  particolarmente brillante o riilevante un aspetto del gioco. Puoi consumare una ispirazione in qualsiasi momento per iritrare un qualsiasi dado a tuo piacere, prima di consocere le conseguenze del primo  risultato. Devi però usare il nuovo risultato.  
 - PF: ottenete di norma indietro tutti i vostri PF con un riposo Lungo, e nessuno con un riposo Breve. Inoltre i vostri PF possono salire oltre il massimo utilizzando pozioni o altre abilità, e rimangono oltre il massimo fino alla fine della giornata. 
+
 ### Regole di Fight
 
 Durante il combattimento si divide 1 minuto di combattimento in 10 rounds.
@@ -34,23 +30,26 @@ I turni si susseguono uno dopo l'altro, poi ricominciano.
 Il primo a giocare un round è il giocatore con iniziativa più alta. Il dm può comunque decidere un'altra successione per motivi magari legati alla situazione contingente. 
 
 Durante ogni turno si ha a disposizione le seguenti possibilità, non necessariamente in quest'ordine.
+
 - **Un'Azione**: che può essere alternativamente 
 	- Un attacco con arma
 	- Una delle capacità concesse dal sistema 
 	- Una prova di Abilità
 	- Un'altra azione che il pg intende eseguire, da discutere col DM
+	
 - **Un'Azione Bonus**: che può essere spesa per
 	- Consumare una pozione 
 	- Eseguire una capacità di quelle concesse dal regolamento
+	
 - **Movimento**: il movimento è di default per tutti di 9 metri. Il movimento può essere diviso in più parti nello stesso turno.
 
-**Ingaggio**
-Se si entra in fight all'arma non a distanza, attaccando o venendo attaccati, si è considerati *ingaggiati*. Durante l'ingaggio non è possibile staccarsi dal combattimento a meno che 
+**Ingaggio**: Se si entra in fight all'arma non a distanza, attaccando o venendo attaccati, si è considerati *ingaggiati*. Durante l'ingaggio non è possibile staccarsi dal combattimento a meno che 
+
 - L'avversario non finisca a terra
 - L'avversario non perda conoscenza
 - Non si spenda una azione per *Disingaggiare*
 
-Se ci si sposta da un ingaggio, si è soggetti a *Attacco di opportunità*. Cioè l'avversario può tentare di colpirti per il fatto che ti sei mosso. 
+- Se ci si sposta da un ingaggio, si è soggetti a *Attacco di opportunità*. Cioè l'avversario può tentare di colpirti per il fatto che ti sei mosso. 
 
 Ovviamente, questa meccanica vale anche al contrario, cioè hai a disposizione attacco di opportunità se l'avversario scappa senza disingaggiare.
 
@@ -59,12 +58,14 @@ Quando colpisci un avversario ingaggiato ottieni Vantaggio al tiro per colpire.
 
 **Reazione**
 Durante il turno degli avversari non potete fare niente, a meno che non utilizziate una reazione. Ne avete una a fight a testa come minimo. 
+
 - Reazioni: Con la reazione puoi 
 	- Utilizzare le manovre che consentono l’uso in reazione.
 	- Darsi vantaggio a un tiro di attacco di opportunità o contrattacco.
 	- Qualsiasi cosa non sia utilizzare un’abilità, attaccare, o usare pozioni, da discutere con il DM.  
 
 **Critici**
+
 - Se si fa 20 nat a Difendere, il tiro vince automaticamente. Inoltre si ottiene *contrattacco*, cioè è possibile provare a colpire nel turno dell'avversario. (è possibile darsi vantaggio con una reazione)
 - Se si fa 20 nat a Colpire, il tiro infligge il doppio dei danni, e può essere parato solo da 20 nat 
 - Se si fa 1 nat a Colpire, il tiro perde automaticamente. Non ci sono conseguenze aggiuntive, a meno che il DM non lo ritenga opportuno. 
@@ -73,17 +74,21 @@ Durante il turno degli avversari non potete fare niente, a meno che non utilizzi
 *NB* Concatenazione di critici: se a un contrattacco si risponde con un 20 nat, si va avanti in una catena di contrattacchi continui finché uno dei due perde. 
 
 #### Condizioni e note particolari 
+
 - Hai vantaggio a colpire un nemico a terra con arma in mischia, a distanza non cambia niente
 - Se si è coperti in qualche modo dagli attacchi a distanza è possibile  ottenere vantaggio a schivare (per esempio sei tatticamente combattendo dietro a un albero)
 - Alzarti in piedi in fight costa metà del tuo movimento 
 
 ### Regole per tiri di Conoscenza
+
 Se volete sapere una cosa su un argomento vi viene detto dal DM di tirare come al solito. A seconda di cosa viene chiesto e come viene formulata la domanda, il tiro può essere su Storia, o su Accademia, o un'altra delle 5. A seconda del risultato 
+
 - Fallimento: cazzi vostri, vi saranno dati accenni di informazioni già note a tutti
 - Successo basso: vi verranno dette alcune cose che non sapevate già
 - Successo alto: avete diritto a una introduzione dell'argomento, poi potete fare delle domande pari al vostro  modificatore sull'argomento. Se avete +2 a Natura potette  farmi 2 domande nella direzione che vi pare a voi su questo argomento. 
 
 #### Regole Biblioteca
+
 (Per consocere i dettagli delle Regole della Biblioteca, vedere il file apposito.) 
 
 Se avete conoscenze ssu un argomento ma volete approfondirle, e siete in unna città che ha una bibliteca potete fare una ricerca.
@@ -98,6 +103,7 @@ Un argomento può essere esplorato in modi diversi a seconda dell'approccio. La 
 Ricercare informazioni per una Conoscenza per la quale si ha 0 (o meno) comporta Svantaggio. 
 
 Tirate  applicando  i vostri modificatori:
+
 - Fallimento critico: informazioni sbagliate
 - Fallimento: non trovate granché 
 - Successo basso: qualche accenno di informazione 

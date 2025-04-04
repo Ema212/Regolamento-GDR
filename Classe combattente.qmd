@@ -1,0 +1,546 @@
+---
+title: "Classe combattente"
+format:
+  html:
+    theme: default
+---
+
+# _Come costruire il personaggio_
+
+Per generare i personaggi si eseguono i seguenti passaggi 
+
+-  Scegliere le abilità 
+	1. Comprare Abilita Caratterizzanti (altrimenti note come Abilità molto forti) utilizzando i tuoi 20 punti Car.
+	2. Comprare le Abilità Generiche (altrimenti note come Abilità meno forti) utilizzando i tuoi 60 punti generici.
+	3. Con i rimanenti punti generici comprare Le Competenze (aka  quali armi il tuo pg sa usare).
+	4. Con i rimanenti ancora comprare le Manovre (aka se per esempio il tuo pg sa disarmare, con dette armi).
+- Scegliere le abilità speciali 
+- Scegliere la razza
+- Scegliere le lingue
+- A quel punto, potete compilare la scheda che trovate infondo, seguendo le istruzione della scheda
+- (Infine, infondo ci sono precisate delle regole nel ccaso non le sapeste/ricordaste)
+
+_Principi di costruzione, più che regole:_
+
+Con il DM è possibile rinegoziare le varie built. È possibile che una built sia per esempio fuori di un paio di punti, in quel caso il DM può autorizzare la build, o concedere a tutti 2 punti in più, se vede che il concept della build è coerente, o che sarebbe un peccato non riuscire a costruirlo per via dei numeri. In ogni caso il DM può inventare altre capacità e modificare in ogni senso tutte le regole abilità, a sua discrezione.
+
+*Nota* (Ci sono delle indicazioni aggiuntive per alcune abilità previste per alcune modalità di gioco. Sono scritte come segue
+
+```
+MODALITA: capacità
+```
+Se non stati giocando questa modalità ignorale e basta. Puoi comunque comprare una caratteristica. Se per esempio compri "Pronto alla battaglia" e non stai giocando HORRO, ottieni i benfici di pronto alla battaglia, ma non ottieni "+1 ai tiri di equlibrio psichico")
+
+Con *Creatura* si intendono 
+
+- Creature Umanoide 
+- *Bestie*:  Le Bestie hanno le seguenti caratteristiche
+	- Le manovre non funzionano sulle bestie 
+	- Stratega non funziona sulle bestie 
+	- Non si ottiene Attacco Furtivo fiancheggiando una bestia (ma vantaggio Sì)
+	
+# **Capacità Caratterizzanti (20)**
+
+- _Conversione a ferita_: in alternativa all’acquisto delle capacità di seguito elencate, si può spendere un unto di capacità car per ottenere 1 punto Ferita permanente aggiuntivo (Fino a un massimo di +15).
+
+## Guerriere
+
+- _Pronto alla battaglia_: **Car 13** ottieni tutte le competenze e +1 a Forza. (+1 Iniziativa)
+
+```
+HORROR: + 1 ai tiri di equilibrio psichico 
+```
+- _Sempre Reattivo_: **Car 3** ha a disposizione altre 6 reazioni al minuto.
+
+- _Stratega_: **Car 4** può osservare una creatura umanoide con un’azione bonus, dopo di che tira un d20. A seconda del risultato ottiene le seguenti informazioni (può ritentare il tiro e considerare il risultato più alto una volta per riposo breve. Questi effetti vengono mantenuti a vita, o comunque per anni, finchè la creatura rimane la stessa o non cambia drasticamente il suo modo di combattere):
+
+	- fino a 4 niente
+	- 6-8 sa il suo punteggio di Destrezza e Forza
+	- 9-11 ha +1(pre-armatura) danno contro di lui e vantaggio per tutte le manovre contro di lui.
+	- 12-13 ha vantaggio a due colpi a sua scelta contro di lui ed ha vantaggio a schivare i suoi colpi
+	- 14-15 sa i suoi pf, inoltre infligge 1 altro danno aggiuntivo (pre-armatura) a tutti i colpi 
+	- 16-17-18-19 sa le sue capacità di classe in fight. Può diventare  immune alle seguenti capacità: elusione, Attacco furtivo, frenesia senza sosta, colpo possente. Inoltre, non può subire critici da quella persona.
+	- 20  con un venti capisce perfettamente il suo stile di combattimento ed ha +3 a tutti i tiri contro  di lui (di qualsiasi tipo). (+1 Iniziativa)
+## Assassine
+
+- _Elusione_: **Car 5** tre volte a fight, usando la sua innata sneakicità, può tirare un dado su Destrezza contro il nemico che sia in grado di vedere che ha passato il tiro per colpire contro di lui, se non lo passa dimezza il danno (post-armature), se lo passa lo elude.
+
+- _Attacco Furtivo_: **Car 10** se ha vantaggio a colpire ottiene 2d4 a sommare ai danni (pre-armature) contro una creatura umanoide.
+
+- _Attacco Inaspettato:_ **_Car 10_** Se colpisce non visto una creature umanoide. Il danno inferto da ogni arma è triplicato (pre-armature). (con non visto si intende che il nemico non sappia che sei lì)
+
+## Investigative 
+
+- _Sensibile alla verità: **Car 2**_ Vantaggio alle prove di Intelligenza contro inganno. Se vince un tiro contro inganno contro una creatura, ha successo automatico in questo tiro contro quella creatura per il resto della giornata.
+
+- _Investigare: **Car 2**_ Ottiene l'abilità Investigare (cioè ricerca di indizi) con vantaggio
+
+```
+HORROR: Non puoi comrpare questa capacità
+```
+## Barbariche
+
+- _Frenesia senza sosta: **Car 15**_ Ottiene +1 a Forza. Se colpisce può poi fare un tiro di Forza (se la creatura non è di taglia grande): se passa contro l’avversario lo può respingere di metri fino al suo punteggio di Forza x 3, e seguire il nemico, e può provare a colpirlo nuovamente. Può attivare questa capacità un numero di volte pari a tre volte il suo modificatore di  Forza a ogni riposo lungo, e fino a 2 volte per ogni turno. _(+1 Iniziativa)_
+
+- _Forte: **Car 5**_ Vantaggio alle prove che scalano su Forza
+
+## Granpasso
+
+- _Occhio di Falco: **Car 3**_ Ottiene vantaggio alle prove di percezione e seguire tracce, il suo modificatore è +7.
+
+- _Ricostruzione_: **Car 9** osservando un terreno può capire quante creature e quali siano passate, approssimativamente quanto tempo prima e in che direzione siano andate. A seconda del risultato otterrà comunque delle informazioni. (Prova D20).
+
+```
+SURVIVAL (Ottiene Vantaggio alle prove di "Caccia Grossa") 
+```
+- _Marcare_: **Car 7** se colpisce una creatura può marcarla con un’azione bonus. Sa sempre dove si trova la creatura marcata ed ha vantaggio a colpire quella creatura. Solo una creatura per volta può essere marcata. La marcatura termina quando lo decide il personaggio.
+
+## Cacciatore di Maghi
+
+- _Deviare Magia:_ **Car 8** puoi usare una reazione per deviare una magia o gli effetti di una magia su di te con uno scudo (o oggetto a tuo gusto, non è essenziale che occupi una mano) fino alla fine del tuo turno. Utilizzare questa capacità ti lascia addosso un alone di mana libero, se utilizzi pozioni per recuperare punti vita l’effetto viene disperso, e ogni pozione ricarica solo 1 punto vita, per 1 mese. Inoltre, per due giorni è possibile percepirlo a chi abbia percezione del magico. (Questa capacità è immune alla magia _Countercount)._
+
+- _Occhio arcano: **Car 4**_ al momento di casting da parte di un magico di una abilità, se hai già visto quella magia, sai che magia sta per castare. Inoltre, se il mago prepara una magia mentre puoi vedere, anche se non la casta, sai che l’aveva preparata, e se la conoscevi già, sai che magia era. Se possiede punti arcana, può usare 4 punti su una creatura che può vedere e interrompere una magia castata dalla stessa. (Se non ha _deviare magia_, questa capacità costa 3 car)
+
+- _Passo di fata:_ **Car 4** Ogni volta che devia una magia ottiene 1 punto _arcana_. Puoi utilizzare un’azione bonus per usare punti arcana e tele trasportarti per 9 metri per ogni punto speso.
+## Artificiere 
+
+- *Armi da fuoco*: **Car 5**. Avendo competenza, può usare le [[Armi da fuoco]]. Con un'azione può sparare tirando su Intelligenza. La CD del colpo dipende dal tipo di bersaglio 
+
+    - (Bersaglio fermo e libero: CD 7 
+    - Bersaglio fermo ingaggiato: CD 9 (a meno di particolari condizioni o 1nat, il PG non colpisce un alleato involontariamente)
+    - Bersaglio in movimento: CD 10
+    - Bersaglio a mezza copertura: CD 13
+    - Bersaglio a copertura: CD: 17
+    
+	CD aggiuntiva varia a seconda dell'arma al variare della distanza.
+
+    Se il PG ha 6 a Intelligenza ottiene anche i seguenti benefici
+    
+	1. può ricaricare con azione bonus 
+	2. Può colpire con pistola con azione bonus dandosi svantaggio al tiro.
+## Bardiche
+
+- *Sogno bardico*: **Car** **3** data la quantità di Irradion che gli scorre nel sangue, il DM durante la notte tira un d20, a seconda del risultato il master descrive se e cosa sogna il pg. (se prende questa caratteristica “Meta Seduzione”, “Preveggenza” e “Echi del passato” ottengono uno sconto di 2)
+
+- _Meta seduzione:_ **Car 8** quando vuole il pg può decidere di portare avanti un’interazione sociale senza tirare il dado, provando direttamente a convincere a tutti gli effetti il master, nel loro interagire con il pg. (Aka fa una prova di Carisma senza tirare Carisma) un numero di volte pari al suo  modificatore di Carisma -1.
+
+- _Preveggenza: **Car 6**_ all'inizio della giornata, tira 3d20 e segna i risultati. Durante qualsiasi momento del gioco, può sostituire il tiro di qualunque pg e npc con uno di quei due numeri, fino ad esaurirli.
+
+- _Echi del passato **Car 9**_ puoi ottenere informazioni storiche su luoghi o oggetti toccandoli, riguardanti le persone che sono entrate in contatto con detti luoghi o oggetti. Le informazioni ottenute dipendono da una prova su Carisma. Questa capacità viene utilizzata una sola volta per lo stesso luogo o oggetto, e può essere direzionata (vale a dire che se il Bardo sa che è avvenuta una certa cosa, può andare direttamente a vedere quella cosa. Esempio: il bardo trova una spada antica, scopre poi che quella spada è stata usata dal re Tizio nell’omicidio a sangue freddo di Caio. Facendo un bel tiro, potrebbe avere una visione che rivela che in realtà Caio si è suicidato con quella spada.)
+
+```
+HORROR:non è possibile acquistare questa capacità 
+```
+## Monastiche
+Il Ki è l’abilità di sintonizzare il corpo sui ritmi della magia- e non la mente, a differenza dei maghi- per renderlo più performante. Il suo utilizzo viene insegnato nelle scuole monastiche, ma è possibile che una persona impari autonomamente ad attivarlo se viene sottoposta a grandissima privazione, a un lungo periodo di isolamento o davanti a un grandissimo dolore.
+
+**_KI:_** _**Car 3** possiede 20 punti ki, pagando i quali può usare le seguenti abilità (recupera 2d4 punti ki a riposo breve)._ NB: se si acquista abilità KI per un totale minore o uguale a 3 (sommate tra questa sezione e la sezione KI in “Capacità generiche”), KI costa **_Car 0_**
+
+- _Afferrare proiettili_: **Car 4** è in grado di afferrare le frecce al volo nella sua traiettoria. Può effettuare questa capacità mentre non è ingaggiato. Per 1 punto ki se afferra una freccia, può rispedire il proiettile al mittente nello stesso istante. Al prezzo di 1 punto Ki può afferrare le frecce anche se ingaggiato. (NB: occorre acquistare “KI”)
+
+- _Respingere proiettili:_ **Car 2** (richiede “afferrare proiettili”)Può usare afferrare proiettili senza pagare punti ki anche se ingaggiato, e senza pagare punti ki per rispedire i proiettil.
+
+- _Camminare sull’acqua o sulle pareti_: **Car 1** 2 punti ki per un minuto. (NB: occorre acquistare “KI”)
+
+- _Breccia_: **Car 4** per 3 Ki può rompere con una breccia un sasso o un asse, a discrezione del DM. Se questa abilità viene usata come attacco, il monaco elimina bonus armatura al nemico pari Intelligenza monaco. (NB: occorre acquistare “KI”)
+
+- _Pelle Sorda_: **_Car 4_** Ottiene un’armatura naturale pari a 2+Intelligenza. Quando subisce un colpo che dovrebbe spostarlo non si sposta. Non può subire critici. (NB: occorre acquistare “KI”). Non può indossare armature. Non puoi aumentare in altri modi la tua armatura naturale.
+
+- _Colpo nervino:_ **_Car 4_** Ogni volta che colpisce senz’armi può spendere 2 punti KI: l’avversario tira costituzione contro Intelligenza del monaco, se non passa viene stunnato (cioè non può effettuare la sua prossima Azione)
+
+- _Armi innervate:_ _**Car 5**_ ( _**4**_ se possiede Colpo Nervino) Può lanciare armi: al prezzo di 2 punti ki, con un’azione bonus, l’arma ha una gittata di 10 metri ed infligge il danno che normalmente infliggerebbe. Se il nemico è protetto da armature, subisce comunque 3 danni. Può spendere i punti KI per “Colpo Nervino” anche in questa modalità (NB: occorre acquistare “KI”) 
+
+# **Capacità Generiche (60)**
+
+- _Conversione a ferita_: in alternativa all’acquisto delle capacità di seguito elencate, si può spendere un unto di capacità generico per ottenere 1 punto Ferita permanente aggiuntivo (Fino a un massimo di +15).
+
+## **Di battaglia**
+
+- _Allerta_: **10** quando è soggetto ad un attacco a sorpresa, tira un d20, se il risultato è pari o superiore a 12, annulla l’effetto sorpresa per tutto il party. (Se il giocatore si dimentica di questa capacità si procede comunque) _(+1 Iniziativa)_
+
+- _Reattivo_: **3** Hai  altre 2 reazioni a fight.
+
+- _Colpo possente:_ **8** ottiene +2 a tutti i danni (pre-armatura) che infligge in mischia se ha almeno 3 a Forza, +1 con almeno 2.
+
+- _Dual di coltelli_: **5** può andare in dual di coltelli. Colpisce con entrambi i coltelli in un’azione, oppure può colpire con un coltello con un’azione bonus.
+
+- _Temporeggiare e Prevenire_: **6** può decidere di spostare il suo turno a ogni round, di volta in volta.
+
+## **Sociali**
+
+- _Avvezzo alle menzogne_: **4** nei tiri di Intelligenza contro inganno ottiene +3.
+
+- _Bugiardo_  **6** nei tiri di Carisma per Ingannare ottieni +3. 
+
+- _Persuasivo_ **4** nei tiri di Carisma per Persuadere ottieni +4. 
+    - Se compri anche "Bugiardo" persuasivo costa 2
+
+- _Empatico:_ **7** Vantaggio alle prove di Percepire Intenzioni
+
+- _Canto del coraggio:_ **25** se sei ingaggiato in mischia, ogni alleato che ti vede e combatte con te in mischia può aggiungere il tuo modificatore di Carisma al danno (pre-armatura) che infligge (nota, in caso di moltiplicazione dei danni, avviene prima questa somma,  e poi la  moltiplicazione.)
+
+- _Passo di velluto:_ **8** Ottiene +3 a Furtività, anche oltre il limite di 6.
+
+## **Di Caccia**
+
+- _Mimesi del predatore_: **10** non può essere fiutato, non ne si può percepire il calore, ha vantaggio a furtività e le sue tracce non possono essere seguite. (Anche dagli esseri umani. “Ricostruire” può sorpassare mimesi solo con un tiro pari o superiore a 20).
+
+```
+SURVIVAL (Ottiene Vantaggio alla prove di "Caccia Leggera" per ottenere Cibo)
+```
+
+- *Tecniche di caccia*: **2** sai se una Bestia tenterà una ritirata, o se cambierà bersaglio. Sai quanti punti ferita gli rimangono. 
+
+- *Flagello delle bestie*: **6** puoi effettuare una seconda azione di attacco se combatti contro una bestia. 
+
+- *Danza Ferale*: **2** contro le Bestie puoi
+	- obbligarle a mantenere l'ingaggio con te
+	- allontanarti senza disingaggiare
+
+-  *Punti Deboli*: **3** se colpisci una Bestia, essa perde 1 a Destrezza.
+
+- *Assuefatto al ruggito*: **3**: sei abituato a mantenere la concentrazione durante la caccia, la bestia non ti spaventa come spaventa gli altri. Mentre combatti con una bestia 
+	- Puoi usare Contrattacco come Reazione quando schivi
+	- Sei immune a effetti mentali, come Ruggito e Aura della Bestia, non causati da veleni.
+
+- _Istinto predatorio_: **4** sa se una persona davanti a lui sia qualcuno di particolarmente potente. Se è in dubbio può chiedere al master se la persona davanti a lui sia forte. La descrizione deve essere narrata e non usare parametri come statistiche. _(+1 Iniziativa)_
+
+- _Companion donato dalla dea_ **8** può avere un companion, accordandosi con il DM. L'animale obbedisce ai comandi senza bisogno di dover tirare alle prove di parlare animali. L’animale è straordinariamente intelligente ed abituato al pericolo. Sa evitare con relativa autonomia le situazioni di pericolo, ed è molto resiliente. Specifiche sul carattere dell’animale possono essere concordate col DM. L’animale può essere rievocato la sera del giorno dopo la sua morte offrendo un sacrificio alla dea. (La dea  va concordata col DM).
+
+- _Nottilungo_: **7** Non dorme di notte. Il suo riposo lungo dura un’ora riposando di notte senza addormentarsi. Vede al buio.
+
+## **Anime**
+
+- _Sfuggente_: **15** può usare la sua azione bonus per nascondersi o scattare o disingaggiare.
+
+- _Veloce_: **3** ottiene +3 metri di movimento.
+
+- _Prestante:_ **4** +3 metri di movimento e +2 metri di salto il lungo
+
+- _Agile_: **9** ha vantaggio alle prove di Destrezza diverse da colpire o schivare, inoltre guadagna movimento pari al suo punteggio di Intelligenza. _(+1 Iniziativa)_
+
+- _Kung-Fuiciko_: **4** può saltare in alto di 3 metri, 4 metri in lungo e tollera una caduta di 4 metri. (Si contano i danni da caduta da lì in poi, come se una persona normale saltasse da 1 metro quando lui ne salta da 3.)
+
+- _Focalcolpo:_ **6** Il colpo senza mani infligge 2, e può colpire una volta con l’azione e una volta con azione bonus. I danni sono considerati contundenti.
+
+## **_KI_**: **Car 3**
+
+Possiedi 20 punti ki, pagando i quali può usare le seguenti abilità (recupera 2d4 punti ki a riposo breve) NB: se si acquista abilità KI per un totale minore o uguale a 3 (sommate tra questa sezione e la sezione KI in “Capacità Caratterizzanti”), KI costa **_Car 0_** (Se li hai già pagati  per acquistare Car non lo ripaghi qui)
+
+- _Eliminare veleni_: **8,** 2KI rimuove un veleno da cui è afflitto concentrandosi per qualche secondo con un’azione.
+
+- _Recupero_: **6** usando 3 punti KI recupera 3xIntelligenza punti vita.
+
+- _Mente lucida_: **2** per 1 punto KI può aggiungere anche Intelligenza ad un tiro (non per colpire o schivare.)
+
+```
+HORROR: Non a un tiro di equilibrio psichico
+```
+- _Guardia marziale: **6**_ Non offri attacco di opportunità se ti allontani senza disingaggiare. _(+1 Iniziativa)_
+
+- _Mente adamantina:_ **3** È Immune a condizioni mentali, stordimenti e stunn, non può perdere la concentrazione. (+1 Iniziativa)
+
+- _Focalcolpo maggiorato:_ **8** _(richiede “Focalcolpo” e lo sostituisce)_ Il colpo senza armi è pari a +4.
+
+- _Flagello:_ **3** (richiede _Focalcolpo_) se colpisce senz'armi o con arma da monaco con 19naturale o superiore, può pagare 1 punto KI per eseguire un'altra azione di attacco.
+
+- _Maestro Kung-Fuiciko (Richiede “Kung-Fuiciko” e lo sostituisce)_ **5** Può saltare in alto fino a 3+Intelligenza metri in alto, 8+Intelligenza metri in lungo e tollera una caduta fino a 10 metri+Intelligenza. Può saltare all’interno del movimento al posto che richiedere un’azione (ma non in aggiunta al movimento). 
+
+- _Critico nervino: **10**_ Se critta, fa un tiro su Intelligenza contrapporta all’avversario: quando il nemico passa il tiro viene stunnato, se non passa sviene.
+
+## Ira:  
+Quando compri una delle seguenti abilità sblocchi l'Ira
+
+L’Ira è una condizione di rabbia amplificata dalla magia che uno trattiene nel sangue, che uno sappia di averla o meno, che uno ritenga che sia Forza propria o degli antenati, che uno ci abbia costruito una cultura sopra o che ne ignori l’esistenza. Chiunque acquisti una capacità derivata dall’Ira guadagna automaticamente la meccanica dell’Ira, e può usare le abilità derivate dall’Ira solo nei tempi dell’Ira.
+
+Hai 2 usi di ira a riposo breve. L'ira dura 1 minuto. Non è possibile entrare in Ira se si indossano armature pesanti. Mentre è in Ira ottiene svantaggio a tutti i tiri di Intelligenza. Mentre sei in Ira, ottieni quelli che accquisti dei seguenti benefici.
+
+- _Duro a morire:_ **12** Quando scende fino a -15 pf una volta per ira, i suoi pf vengono ristabiliti a 1 e l'ira termina. Finché non arriva a-10 va avanti a combattere. Tira un dado su Forza con CD10, se non lo passa sviene.
+
+- _Pelle dura:_ **8** sottrae a ogni attacco fisico che riceve il suo punteggio di Forza. (non può indossare armature)
+
+- _Passo noncurante:_ **7** ignora le difficoltà del terreno, o altre condizioni generate da effetti che dovrebbero rallentarti o bloccarti, come magia, come il passo rallentato da una magia di ghiaccio di un mago, o così via.
+
+- _Colpo ostinato:_ **10** Fino a 4 volte durante l’ira, se manca un attacco può ritentare quello stesso attacco
+
+- _Esagerato_: **10** può impugnare una lancia a due mani con una (3 a forza richiesto) ma non può andare in dual in nessun modo.
+
+# **Manovre**
+Le manovre sono speciali tipi di colpi, che vengono insegnati in addestramento all’arma bianca, che chiunque con una competenza in un’arma può imparare. 
+
+Le manovre non funzionano contro le Bestie.
+
+Ogni manovra comprata aggiunge +1 ai tuoi punti generici.
+
+- _Disarmo_: **8** Richiede una _Spada._ Effettuando con un corpo a corpo una prova di Destrezza si può disarmare l’avversario. L’arma viene lanciata lontano di 1d20 metri, oppure si può spendere una Reazione o Azione bonus per afferrare l'arma (anche se si hanno le mani occupate da altre armi).  (+1 Iniziativa) Se la destrezza è superiore a 3 possono essere tolti anche gli scudi.
+
+- _Destreggiarsi_: **10** Richiede una _Spada._ Può ingaggiare fino a 2 creature umanoidi contemporaneamente. Se non ha armatura pesante, fino a 3. Può effettuare un attacco solo contro una di quelle creature, ma può cambiarlo a ogni turno, senza penalità. Non può effettuare Inchiodatura finché usa questa manovra. (+1 Iniziativa)
+
+- _Parry_: **5** se para con lo scudo un avversario, può spingerlo all’indietro con una prova contrapposta di Forza, usando una reazione. Se passa, può tirare per colpire l’avversario, o disingaggiare. Il nemico perde tutto il suo movimento.
+
+- *Parry senza scudo*: **4** (se possiede Parry è gratuita) può utilizzare una reazione, se para il colpo dell'avversario, per eliminare l'ingaggio, e il nemico perde il movimento. 
+
+- _Guida la Battaglia_: **5** quando ingaggia un nemico già ingaggiato, può spostare su di sé l’ingaggio nemico. Come azione bonus o reazione può spostare l’ingaggio del nemico su un altro alleato a corpo a corpo (non si ottiene mai attacco di opportunità). (+1 Iniziativa)
+
+- _Inchiodatura_: **7** sceglie un nemico contro cui sta combattendo in mischia usando un’azione bonus o una reazione: il nemico non può disingaggiare, né può abbandonare il combattimento. (MN)
+
+- _Incalzare_: **5** se sta combattendo contro una sola creatura umanoide, può aggiungere a ogni colpo una prova di Forza contrapposta. Che il colpo passi o non passi, se la prova di Forza viene superata il nemico e si spostano di movimento pari a 2+Forza del guerriero metri nella direzione desiderata dal guerriero. (+1 Iniziativa).  Inoltre, se il colpo passa, aggiunge il suo punteggio di Forza ai danni pre-armatura. (6 volte a riposo breve.) (MN)
+
+- _Carica incessante_: **7** Se colpisce un avversario può dimezzare il danno (post-armatura) e fare un tiro di Forza (se la creatura umanoide non è di taglia grande): se passa può respingrlo di metri fino al suo punteggio di Forza, seguire il nemico, e può colpirlo nuovamente. Può attivare questa manovra per un totale di 6 volte a fight, massimo 3 per volta. (MN)
+
+# **Competenze**
+
+- Competenze base **3** (armi a una mano, scudo piccolo, balestra) (NB: se si compra una competenza diversa da questa, questa costa **0**)
+- Armatura leggera: **3**
+- Spada lunga a una mano: **5**
+- Tutte le armi non a distanza **8**
+- Armi a distanza **7**
+- Armature medie e leggere **8** 
+- Armature medi, pesanti e leggere **11**
+- Scudo Pesante **10**
+
+### **Armi Bianche**
+
+| **Armi in mischia**         | **Danno**               | **Descrizione**                                                                                                                                                                                                                                                        | **Costo Indicativo** |
+| --------------------------- | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| Coltello                    | 3 taglienti             |                                                                                                                                                                                                                                                                        | 5k                   |
+| Spada Corta                 | 6 taglienti             | Possibilità di effettuare Disarmo e Destreggiarsi (se possedute)                                                                                                                                                                                                       | 15k                  |
+| Ascia da guerra             | 4 taglienti + Forza     | Impugnabile con competenza spada corta                                                                                                                                                                                                                                 | 25 k                 |
+| Martello a una mano         | 5 contundenti           | Se il possessore ha almeno 3 a Forza ottiene +1 al danno.                                                                                                                                                                                                              | 16k                  |
+| Spada da lato               | 6 taglienti             | Possibilità di effettuare disarmo e Destreggiarsi (se possedute)<br><br>Se tira in difesa ottiene contrattacco (non critico) anche con 19.<br><br>Ha vantaggio ai tiri di contrattacco e Disingaggio                                                                   | 30K                  |
+| Spada lunga a una mano      | 8 taglienti             | Possibilità di effettuare disarmo e Destreggiarsi (se possedute)                                                                                                                                                                                                       | 20k                  |
+| Spada lunga _due mani_      | 9 taglienti             | Possibilità di effettuare disarmo (se si possiede la Manovra) con vantaggio, o Destreggiarsi.<br><br>Aumento al tiro per schivare di 3, se non ingaggia contro un’altra arma a _due mani_.<br><br>Critico con 18, 19 o 20 se il  possessore ha 6 a Destrezza.          | 35k                  |
+| Ascia bipenne _due mani_    | 9 taglienti/<br>+ Forza |                                                                                                                                                                                                                                                                        | 50k                  |
+| Martello pesante _due mani_ | 7 Contundenti           | Richiede 1 di Forza.<br><br>Se il possessore ha almeno 2 a Forza ottiene +1 al danno.<br><br>Critico con 19 o 20 se il possessore ha almeno 3 Forza.<br><br>Colpire 3 volte un nemico con quest’arma genera stunn (al prossimo turno l’avversario non effettua Azione) | 30k                  |
+| Lancia (_Due mani)_         | 10 perforanti           | Richiede 1 Forza, ottiene +3 al tiro schivare contro tutte le armi in mischia. Se contrattacchi con parry, o attacchi con attacco furtivo o attacco inaspettato, critti con 18, 19, 20.                                                                                | 16k                  |
+
+## **Armi a Distanza**
+
+| **Armi a distanza** | **Danno**     | **Descrizione**                         | **Costo Indicativo** |
+| ------------------- | ------------- | --------------------------------------- | -------------------- |
+| Coltello da lancio  | 2 taglienti   | 20m gittata                             | 5k                   |
+| Arco corto          | 4 perforanti  | 90m gittata                             | 20k                  |
+| Balestra            | 6 perforanti  | 150m (richiede un turno per ricaricare) | 70k                  |
+| Arco lungo          | 8 perforanti  | 200m gittata (almeno 0 a Forza)         | 40k                  |
+| Giavellotto         | 10 perforanti | 12m gittata (almeno 1 Forza)            | 15k                  |
+
+Ogni altra arma può essere offerta come una skin diversa di queste armi, o come una personalizzazione di alcune di queste caratteristiche.
+## **Armature e Scudi**
+
+| **Scudi e armature** | **Descrizione**                                                                                                                                                      | **Costo Indicativo** |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| Scudo piccolo        | Ogni colpo in mischia che passa viene parato con 1 su 1d6                                                                                                            | 20k                  |
+| Scudo grande         | Ogni colpo in mischia che passa viene parato con 1-2-3 su 1d8.<br><br>Difende in questo modo (tirando) anche da fiancheggi ed opportunità.<br><br>2 Forza richiesto. | 40k                  |
+| Armatura leggera     | -2 Danni taglienti<br><br>-1 agli altri tipi di danno.                                                                                                               | 70k                  |
+| Armatura media       | -4 Danni taglienti<br><br>-2 Danni perforanti<br><br>-2 Danni pesanti                                                                                                | 100k                 |
+| Armatura pesante     | -5 Danni taglienti<br><br>-4 Danni perforanti<br><br>-3 Danni pesanti<br><br>Necessita 2 Forza                                                                       | 200k                 |
+
+
+## Armi da fuoco 
+
+| **Nome**      | **Danno**                                                | **CD**            | **Portata massima** | **Colpi e ricarica** |
+| ------------- | -------------------------------------------------------- | ----------------- | ------------------- | -------------------- |
+| Pistola       | 7 perforanti                                             | +1 ogni 20 metri  | 200m                | 6 Colpi,             |
+| Fucile        | 10 perforanti                                            | +1 ogni 100 metri | 700m                | 4 Colpi              |
+| Gran Bastardo | 16 perforanti (danno doppio se ingaggiato corpo a corpo) | +1 ogni 5 metri   | 30m                 | 1 Colpo              |
+NB: Ricaricare costa un'azione 
+
+# **Abilità Speciali**
+
+Vengono scelte 3 abilità speciali. Abilità che meritano una posizione apposita nella scheda sotto a “Conoscere”. Sceglietele tra le seguenti:
+
+- _Scassinatore:_ +4 Nelle prove di scasso e individuare trappole e ottieni gli attrezzi da scasso di background
+
+- _Falsario_: sei perfettamente in grado di riprodurre firme, contraffarre documenti, sigilli e simboli. Per distinguere se un documento è falso o meno tiri di Intelligenza (CD solitamente saranno basse)
+
+- _Riconoscere veleni_ (che in nessun modo ti dà la possibilità di crearli).
+
+- _Erudito:_ guadagna +12 da mettere dove vuole tra le conoscenze. Inoltre ha vantaggio quando effettua prove per vedere se conosce cose fuori dal suo raggio di competenze. 
+
+- _Medicina:_ può effettuare prove di primo soccorso, valutare lo stato di salute di un personaggio, può inoltre preparare intrugli per rallentare l’effetto dei veleni. Un intruglio da lui preparato può fare recuperare 1d6 punti ferita (ma ha effetto una sola volta per riposo lungo).
+
+- _Conoscere magia:_ aggiunge ai suoi tiri di Conoscere anche Magia. Possiede altri 4 punti da distribuire come vuole.
+
+- _Percezione magico_ (occorre fornire una giustificazione di backgorund convincente per averla) (Nota, un mago per nascondere la propria magia o una sua parte deve essere stato _addestrato_ appositamente. Per violare la sua guardia si fa una prova contro l’Intelligenza del mago.)
+
+- _Calmare animi_
+
+- _Parlare animali_ (NB: questa capacità richiede un tiro, a meno che non sia altrimenti specificato)
+
+- _Cresciuto dalla foresta:_ Nei tiri su natura riguardano creature non magiche, il modificatore sale automaticamente a +6. Ottiene _Orientarsi_ a +2 con Vantaggio.
+
+- _Multilingue_: il Personaggio sa 3 lingue in più
+	- sa una lingua in più come un madrelingua; può saperla al punto da convincere ad esempio un elfo di essere stato cresciuto da un altro elfo.
+	- una lingua che conosce bene in più 
+	- una lingua di cui conosce i rudimenti
+
+- _Natura magica_: 1 (questo tiro di conoscere richiede almeno 2 capacità Di Caccia). Riguarda la conoscenza delle caratteristiche magiche delle creature.)
+
+- _Marinaio_: ottieni +4 in tutte quelle prove che riguardano l’attività in mare, dal veleggiare al nuotare.
+
+- _Condottiero_: (Devi possedere _Stratega,_ o almeno 4 _Manovre_) ottieni l’abilità speciale _Guidare +4_: al posto di un tiro di Carisma, quando cerchi di convincere la gente a combattere, o cerchi di guidare il Caos di una battaglia, puoi  utilizzare Guidare. (Il Contesto dev’essere però quello di una battaglia)
+
+- _Rumors_: essendo legato al contesto  malavitoso o suburbano della città, ottieni ogni giorno 1d3 informazioni non note sulla città dal DM.
+
+```
+HORROR: Non puoi ottenere questa abilità
+```
+- _Ingegneria_: Acquisisci _Conoscere strutturali +3_ con la quale puoi capire i punti nevralgici di un edificio o se questo è pericolante.
+
+- _Artigiano_: ottieni l’abilità speciale _manifattura +4_: sei in grado di creare piccoli oggetti, riparare le cose, generare nodi, aggiustare meccanismi. Con i giusti strumenti puoi anche creare oggetti più sofisticati, a seconda del tuo background decise col DM. 
+
+```
+SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
+```
+- _Percezione del Pericolo_ (un tiro puro che il Personaggio effettua massimo 4 volte a riposo breve. Con questo tiro è in grado di sapere se si sta avvicinando a una situazione di pericolo imminente contro la sua vita. Il DM non dichiara quale sia il pericolo in arrivo, ma i pericoli che il Personaggio percepisce sono oltre quelli che può figurarsi da solo. Se si è in una foresta piena di Manticore e il Personaggio lo sa il DM non può dichiarare alto pericolo solo perché la situazione è tendenzialmente pericolosa, da che il Personaggio se lo aspetta. Dichiarerà invece che il pericolo è alto se una Manticora li sta inseguendo o se invece si prefigura un altro pericolo, che comunque non verrà dichiarato. Se il Personaggio non sapesse di trovarsi nella foresta delle Manticore allora si darà pericolo medio mettendo sull’allerta il Personaggio, in quanto la situazione è genericamente pericolosa.
+
+# Razze
+
+*Mezzelfo*
+- Scurovisione minore (18 metri, bianco e nero)
+- Conosce l’elfico, il comune.
+- 2 a 2 _Abilità_
+- +1 a Destrezza
+- Ottiene una vita virtualmente immortale. 
+
+*Umano*
+- +2 a 3 _Abilità_
+- Una lingua in più
+- Speed Learner: L’umano ottiene 14 punti generici in più. 
+
+*Nano*
+- Ottiene la statistica Fortuna: quando loota in generale può chiedere al DM di lanciare un d20 che migliori la possibilità di trovare qualche tesoro in più che il DM non aveva inizialmente programmato (una sola volta per riposo Lungo)
+- Spirito giudaico: Vantaggio ai tiri per ogni trattativa commerciale.
+- 6m movimento
+- Inizia con 30 Kilia in più
+
+*Dragonide*
+-  Armatura naturale: se non indossa armature ha un’armatura naturale di 2 contro tutti i tipi di danni (se le indossa, -1 a tutti i danni).
+- Ottiene soffio: entro 3 metri può usare l’azione bonus per colpire a raggio con il fuoco. Il fuoco infligge 2+1d6 danni da fuoco. Il druido mantiene questa capacità per Bestie più grandi di un coniglio.
+- Ottiene l’abilità Termocezione. Estraendo a lingua velocemente come un rettile, è in grado di avvertire le fonti di calore entro 10m.
+- Lingua draconica.
+
+*Tiefling*
+- Ha vantaggio a tutti i tiri contro la morte
+- Ottiene colpo con la coda, con azione bonus fa 2d4 danni a un bersaglio ingaggiato con lui (perforante), tira con vantaggio.
+- Quando termina un riposo breve, guadagna pf pari a metà dei pf che gli rimangono, fino a max.
+- Lingua Demoniaca.
+- Possono Stringere patti minori: se una creatura si accorda con il tiefling, il tiefling può imporre condizioni legati a una punizione semplice (una morte, una morte di un congiunto, una malattia…) a guardia del patto. Il patto viene siglato col sangue.
+
+*Orco*
+- Ha 2 metri in più di movimento data l’altezza
+- +1 a Forza.
+- Vantaggio alle prove di costituzione.
+- Vantaggio alle prove di spaventare
+- Lingua Orchesca.
+
+*Gnomo*
+- +1 Intelligenza
+- Destrezza max è 5.
+- 5m movimento
+- Immune a veleni e droghe
+- Ottiene vantaggio a furtività, nascondersi, origliare, percezione.
+- Ottiene parlare con animali.
+
+**Razze Rare** 
+(aka, me le dovete giustificare bene. E aspettatevi che qualcosa della trama ci possa anche ruotare attorno. Tipo discriminazione, o  un mistero, o che so io.) A questa categoria possono essere aggiunte anche delle razze inventate dai pg.
+
+*Figlio di Fata*
+- Ottiene 9 metri di movimento come azione bonus in teletrasporto (5 volte a riposo breve)
+- Può scegliere fino a 3 creature alleate: di queste creature conosce lo stato emotivo (ottenendo vantaggio con loro per le prove di inganno e percepire intenzioni). Sa inoltre se i loro pf vanno a zero. Per cambiare creatura occorre un riposo lungo.
+- 9m movimento
+- Ottiene percezione magica
+
+*Nephelim (Figlio di un angelo)*
+- Puoi fare apparire sulla schiena delle ali, velocità di volo 9m
+- Lingua Celestiale
+- 9m movimento
+- Ottiene la capacità speciale *Empatia* (puoi tirare per capire quale sia il maggiore turbamento del momento di una creatura). 
+- Sei virtualmente immortale
+
+# **Lingue**
+
+Ogni personaggio conosce il comune di default.  Più quelle concesse da altri fattori.
+
+- _Comune_ (La lingua conosciuta da tutti più o meno. Evviva il fantasy.)
+
+- _Nanico_ (più un dialetto per nani di destra che credono alla superiorità della loro antica razza)
+
+- _Draconico_ (parlato dai dragonidi, e dai draghi. Nel tempo, i draghi smettono di saper parlare comune e parlano solo questa. Si potrebbe intuire quello che dice una viverna con questa lingua.)
+
+- _Demoniaco_ (La lingua della dea Indra, pertanto la lingua dei Tiefling) (ndt: Demone è la traduzione di Tiefling in comune, Diavolo è il modo di chiamarlo usato da chi li teme e li disprezza. Ha qualche radice comune con l'Ingvio → puoi capire giusto qualche parola scritta)
+
+- _Orchesco_ (lingua condivisa dai gruppi di Barbari Orchi, i Bruti, gli orchi civilizzato, i pochi che esistono, ovviamente non la conoscono. Lingua molto povera e raramente scritta.) 
+
+- _Elfico_ (pur essendo i barbari che sono, pertanto lingua quasi mai scritta.)
+
+- _Surdano_ (Lingua del dio Allumi, e variazione del comune per i Mari dei Tesori, e delle isole sotto la Lucida Baia)
+
+- _Oceanico_ (Una lingua cantata. Lingua Originata dal dio Seltan e dal dio Quolnam, pertanto parlata dai marinai, delle sirene, sia delle sirene di ceppo nobile, che non, delle meduse e delle bestie del Mare. Lingua ufficiale di Sorgiva, Linzia, Ali Manora e Navilla.)
+
+- _Susano_ (lago che ospita la terra natìa dei vampiri, pertanto loro antica lingua, la prima che hanno imparato.)
+
+- _Silvano_ (lingua diffusa tra gli gnomi e i gruppi silvani, cioè che vivono nelle foreste, diffusa anche tra i Basilischi e dai goblin da loro governati, portata dalla dea Selune)
+
+- *Arcano* (lingua che usano i maghi per scrivere i loro incantesimi. Conoscere questa lingua consente di comprendere le iscrizioni di sigilli e pergamene magie. Ma non ovviamente quella del grimorio personale di un mago. Questa lingua deriva dal Prima divina → puoi capire giusto qualche parola scritta)
+
+- _Celestiale_ (lingua degli angeli e del dio Elio, parlata solamente sulle Rocche del Sole, e utilizzata per i rituali Celestiali. Da questa lingua deriva l'ingvio → puoi capire giusto qualche parola scritta)
+
+- _Ingvio_ (antica lingua rituale derivata dal Celestiale, un dialetto dimenticato, una lingua delle streghe, e dei rituali di Tsathoggua. Questa lingua deriva dal Celestiale → puoi capire giusto qualche parola scritta)
+
+- _Prima divina:_ (Lingua derivata dagli Antichi Valord, (vedi [[0. Orogenesi|qui]]). Maggiormente utilizzata per essere cantata in inni. Si dice che sia la più vicina a come fosse in origine la lingua degli dèi. Da questa lingua deriva li linguaggio Arcano → puoi capire giusto qualche parola scritta)
+
+# Scheda Personaggio
+
+| PV  /35 | Movimento |
+| ------- | --------- |
+
+
+*Statistiche*: 
+Dovete distribuire i punti statistica come meglio credete. 
+Aggiungete 8 punti positivi (che valgono +1) e 2 punti negativi (che valgono  -1 ciascuno)
+Una statistica, se non altrimenti specificato, non può salire oltre 6.
+
+- Intelligenza: 0 
+- Destrezza: 0 
+- Forza: 0
+- Carisma: 0
+
+Reazioni: 1 (più quelle concesse dalle capacità)
+
+Iniziativa: 0 (più quanto eveulamente concesso dalle capacità)
+
+Competenze 
+- Armi
+- Armature
+
+*Abilità*: (segnare 16x +1, 8x-1) 
+Dovete distribuire i punti statistica come meglio credete. 
+Aggiungete 16 punti positivi (che valgono +1) e 8 punti negativi (che valgono  -1 ciascuno)
+Ognuna di queste abilità non può scendere sotto -3 né salire sopra +6 (se non diversamente espresso dalle regole).  Dove non avete messo niente avete zero.
+
+- Arrampicarsi: 0 
+- Furtività: 0
+- Nascondersi: 0
+- Rapidità di mano: 0
+- Percepire intenzioni: 0
+- Spaventare-Intimidire: 0
+- Seguire tracce: 0
+- Origliare: 0
+- Percezione: 0
+
+*Conoscere*: 
+Aggiungete 8 punti positivi (che valgono +1) e 4 punti negativi (che valgono  -1 ciascuno)
+Non ci sono limiti per le conoscenze.  Dove non avete messo niente avete zero.
+
+- Natura: 0
+- Religione: 0
+- Storia: 0
+- Folklore: 0
+- Accademica: 0
+
+*Abilità speciali*: segnate le abilità speciali che avete preso
+
+*Lingue*:  segnate le lingue che conscete.
+
+*Capacità*: segnatevi nel dettaglio le vostre Capacità, caratterizzanti e generiche.
