@@ -8,7 +8,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - Introduzione.qmd
+      - index.qmd
       - Regole.qmd
       - Classe combattente.qmd
 
