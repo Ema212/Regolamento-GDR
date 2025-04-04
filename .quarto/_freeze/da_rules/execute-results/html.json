@@ -1,0 +1,15 @@
+{
+  "hash": "140164003582a5881d916a27679dc479",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"da_rules\"\nformat:\n  html:\n    theme: default\n---\n\n::: {.cell}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

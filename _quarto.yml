@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "GDR per Babbei"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - da_rules.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
