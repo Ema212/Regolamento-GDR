@@ -11,6 +11,7 @@ website:
       - index.qmd
       - Regole.qmd
       - Classe combattente.qmd
+      - Classe Mago di Merlino.qmd
 
 format:
   html:
