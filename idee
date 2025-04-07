@@ -1,0 +1,48 @@
+1. Struttura & Navigazione
+ Sidebar con capitoli come "Regole", "Ambientazione", ecc.
+
+ Home page con immagine hero (mezzo sfondo in alto)
+
+ Pagina hub con bottoni grandi (tipo "menu iniziale")
+
+ Navbar (barra in alto) con bottoni utili
+
+ Link tra pagine .qmd (tipo "Torna all'introduzione")
+
+2. Stile & Estetica
+
+ Font personalizzabile (opzionale)
+
+ Hero banner in cima a certe pagine
+
+Esempio: immagine fantasy o mappa antica
+
+3. Contenuti extra / utility
+ Bottone per scaricare PDF del manuale
+
+ Collegamento a cartella Google Drive con materiali
+
+ Link al server Discord
+
+ Link a Owlbear Rodeo
+
+ Collegamento a modulo Google per:
+
+Creazione personaggio
+
+Feedback
+
+4. Funzioni Interattive / Esperienza
+ Box di attenzione nei testi:
+
+Avvisi (::: warning)
+
+Consigli (::: tip)
+
+ Layout a colonne per schede PNG o oggetti
+
+ Riassunto rapido delle regole in una pagina dedicata
+
+ Collegamento diretto a una sezione (es: #magia-del-fuoco)
+
+ Icone ed emoji per atmosfera

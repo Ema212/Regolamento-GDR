@@ -6,15 +6,16 @@ project:
 
 website:
   title: "GDR per Babbei"
+  favicon: imagines/favicon.png
   sidebar:
     style: "docked"
     search: true
     contents:
       - index.qmd
-      - Regole.qmd
-      - Classe combattente.qmd
-      - Classe Mago di Merlino.qmd
-      - Regole Biblioteca.qmd
+      - capitoli/Regole.qmd
+      - capitoli/Classe combattente.qmd
+      - capitoli/Classe Mago di Merlino.qmd
+      - capitoli/Regole Biblioteca.qmd
       
   navbar:
     right:
@@ -23,9 +24,17 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: darkly
     toc: true
     include-in-header: assets/include-head.html
     include-after-body: 
       - assets/dm-modal.html
       - assets/scripts.html
+      - assets/footer.html
+    css: assets/title_style.css
+    
+
+language:
+  toc-title: "Indice"

@@ -397,6 +397,7 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 # Razze
 
 *Mezzelfo*
+
 - Scurovisione minore (18 metri, bianco e nero)
 - Conosce l’elfico, il comune.
 - 2 a 2 _Abilità_
@@ -404,23 +405,27 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 - Ottiene una vita virtualmente immortale. 
 
 *Umano*
+
 - +2 a 3 _Abilità_
 - Una lingua in più
 - Speed Learner: L’umano ottiene 14 punti generici in più. 
 
 *Nano*
+
 - Ottiene la statistica Fortuna: quando loota in generale può chiedere al DM di lanciare un d20 che migliori la possibilità di trovare qualche tesoro in più che il DM non aveva inizialmente programmato (una sola volta per riposo Lungo)
 - Spirito giudaico: Vantaggio ai tiri per ogni trattativa commerciale.
 - 6m movimento
 - Inizia con 30 Kilia in più
 
 *Dragonide*
+
 -  Armatura naturale: se non indossa armature ha un’armatura naturale di 2 contro tutti i tipi di danni (se le indossa, -1 a tutti i danni).
 - Ottiene soffio: entro 3 metri può usare l’azione bonus per colpire a raggio con il fuoco. Il fuoco infligge 2+1d6 danni da fuoco. Il druido mantiene questa capacità per Bestie più grandi di un coniglio.
 - Ottiene l’abilità Termocezione. Estraendo a lingua velocemente come un rettile, è in grado di avvertire le fonti di calore entro 10m.
 - Lingua draconica.
 
 *Tiefling*
+
 - Ha vantaggio a tutti i tiri contro la morte
 - Ottiene colpo con la coda, con azione bonus fa 2d4 danni a un bersaglio ingaggiato con lui (perforante), tira con vantaggio.
 - Quando termina un riposo breve, guadagna pf pari a metà dei pf che gli rimangono, fino a max.
@@ -428,6 +433,7 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 - Possono Stringere patti minori: se una creatura si accorda con il tiefling, il tiefling può imporre condizioni legati a una punizione semplice (una morte, una morte di un congiunto, una malattia…) a guardia del patto. Il patto viene siglato col sangue.
 
 *Orco*
+
 - Ha 2 metri in più di movimento data l’altezza
 - +1 a Forza.
 - Vantaggio alle prove di costituzione.
@@ -435,6 +441,7 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 - Lingua Orchesca.
 
 *Gnomo*
+
 - +1 Intelligenza
 - Destrezza max è 5.
 - 5m movimento
@@ -442,16 +449,19 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 - Ottiene vantaggio a furtività, nascondersi, origliare, percezione.
 - Ottiene parlare con animali.
 
-**Razze Rare** 
+**Razze Rare**
+
 (aka, me le dovete giustificare bene. E aspettatevi che qualcosa della trama ci possa anche ruotare attorno. Tipo discriminazione, o  un mistero, o che so io.) A questa categoria possono essere aggiunte anche delle razze inventate dai pg.
 
 *Figlio di Fata*
+
 - Ottiene 9 metri di movimento come azione bonus in teletrasporto (5 volte a riposo breve)
 - Può scegliere fino a 3 creature alleate: di queste creature conosce lo stato emotivo (ottenendo vantaggio con loro per le prove di inganno e percepire intenzioni). Sa inoltre se i loro pf vanno a zero. Per cambiare creatura occorre un riposo lungo.
 - 9m movimento
 - Ottiene percezione magica
 
 *Nephelim (Figlio di un angelo)*
+
 - Puoi fare apparire sulla schiena delle ali, velocità di volo 9m
 - Lingua Celestiale
 - 9m movimento

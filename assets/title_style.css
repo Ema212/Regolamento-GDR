@@ -1,0 +1,4 @@
+/* Centrare il titolo principale della pagina */
+h1.title {
+  text-align: center;
+}
