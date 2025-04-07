@@ -12,13 +12,19 @@ Le magie di Merlino sono incantesimi che richiedono pochissima magia. Merlino ha
 ## "You mere mortals…
 
 La magia è una forza più grande dei mortali che la manipolano. Figurarsi una amgia ottimizzata per essere lanciata a volontà: questa forza primitiva dà alla testa in varie forme.
-1. La magia dà dipendenza.
+
+1. La magia dà dipendenza:
+
 	- *Overdose*: quando lancia un incanto che dà Overdose tira 2d20  se fa da 1 fino ai suoi punti Dipendenza ottiene un livello di Astinenza. Perde un livello di Astinenza ogni riposo Lungo. 
 	- _Dipendenza:_ usare l’incantesimo aggiunge un punto alla barra della Dipendenza. Alla fine di ogni riposo breve o lungo toglie un punto Dipendenza dalla barra. Se arriva a 20+INT non può più pagare punti Dipendenza.
-2. Alcuni incantesimi sono difficili da mantenere
+
+2. Alcuni incantesimi sono difficili da mantenere:
+
 	- _Concentrazione_: va mantenuta per mantenere l’incantesimo. Qualsiasi cosa possa rompere la concertazione richiede un tiro INT per mantenerla. Castare contemporaneamente rischia di rompere la Concentrazione.
 	- _Ricarica:_ l’incantesimo non può essere attivato per un certo periodo di tempo espresso.
-3. La magia ti consuma fisicamente
+
+3. La magia ti consuma fisicamente:
+
 	- *Pf*: i punti PF sono il costo di una magia espresso in PF temporanei, sottratti al caster per castare.
 
 ### NOTE MECCANICHE
@@ -26,6 +32,7 @@ La magia è una forza più grande dei mortali che la manipolano. Figurarsi una a
 - Un’_arma da mago_ è un oggetto che a prescindere dalle sue statistiche o caratteristiche infligge danno non magico sempre e solo pari all’INT del mago, ed è solo _tagliente_. (se l’arma aveva altri effetti vengono mantenuti).
 - Lo _Spirito_ è la quantità di valore che la persona attribuisce alla propria esistenza. Un npc tipo farmer normalmente ha 3 di spirito. Un PG 15+ int. Quando arriva a 1 una persona ha paura della persona verso la quale è abbassato, e non viene più rialzata. Quando si arriva a 0 la persona si sentirà completamente annullata, agendo come uno zombie.
 - *Dimenticare*: quando si specifica che un incanto viene dimenticato si intende che non può più essere usato fino al prossimo riposo Lungo
+
 # Overdose: 
 
 Un mago una volta assaggiato il potere magico non potrà più farne a meno, e ci sono costi nell'usare più di quanto il fisico può sopportare. Seguono i Livello di Overdose. Una volta a riposo Lungo un livello di Overdose scende.
@@ -35,16 +42,19 @@ Un mago una volta assaggiato il potere magico non potrà più farne a meno, e ci
 - *Deragliamento*: quando il mago parla le parole che pronuncia hanno piccoli effetti involontari negativi sul mondo che lo circonda in accordo a quello che dice. (DM's discretion)
 - *Briciole di pane*: Ogni incantesimo lanciato lascia una traccia magica che può essere percepita facilmente da entità ostili. (Le tracce sono anche fisiche: odori lacrimevoli, suoni disturbanti e alterazione dei colori. Crescono sulle pareti cristalli di magia velenosi o esplosivi. Tanto più forti quanto più forti l'incanto.)
 - *Instabilità*: più magia viene usata, più la realtà diventa instabile intorno al mago. Pergamene si srotolano, serrature si bloccano, gli oggetti si corrompono o prendono vita, divampano incendi,  o i fiumi vanno in secca… non tutti gli eventi sono prevedibili. Maggiore il pericolo maggiore la potenza dell'incanto.
+
 # Come creare un mago
 
 Per creare un mago sarebbe meglio avere in mente un concept di mago, un'idea estetica del mago che si vuole giocare. Il mago da battaglia, il mago Demoniaco, il mago alchimista… Una volta pensato il tipo di mago scegliere gli incantesimi che meglio lo definiscono, e poi prendere i Marchi che lo migliorano.
 
 Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insieme al manuale a cui ispirarsi, infondo al manmuale.
+
 # Magie
 
 - Scegli 13 incantesimi, di cui solo uno di tipo Celestiale.
 - Dove non altrimenti specificato, un incantesimi richiede un'azione.
 - Conosci questo primo incantesimo gratuitamente: _Anthos:_ fioriscono fiori, piantine, o viene chiusa una finestra, o il mago accende una fiammella, o fa partire uno sbuffo di vento, o fa comparire una farfalla da una tasca, o qualcosa del genere. Piccoli trucchetti innocui. (Il buon senso del DM la fa padrone)
+
 ## Spaziali e aerei 
 
 - _Coordinata:_ crei un cristallo grande come una candela, detto "cristallo liminale", su una superficie (_Overdose)_. Puoi teletrasportati in quel punto, caricando la magia per un minuto (_Concentrazione_). Se quel cristallo viene spostato si rompe (e tu non te ne avvedi). Puoi creare cristalli pari al tuo punteggio di INT al giorno.
@@ -70,6 +80,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 -  _Vincolare_: scegli una creatura a vista. Tirate INT contrapposta. Se vinci, nessuno dei due può più spostarsi. Se uno dei due viene spostato l'incantesimo è rotto (_Concentrazione_)  
 	- Secondo Effetto: hai vantaggio a quel tiro di int.
+	
 ## Dell’etere 
 
 - _Umbratile:_ Finché rimani nell’ombra sei assolutamente intangibile. Se vieni colpito dalla luce la magia si spezza. La penombra richiede un tiro su int. (_Dipendenza 2, Overdose, Ricarica 1 ora_)
@@ -93,6 +104,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 -  _Stella polare_: Una stella davanti a voi indica la strada da seguire verso la sicurezza. (Il costrutto è relativo a cosa significa sicurezza in quel momento per una persona a scelta da te). In alternativa indica un Focolare di Estia o un luogo dove si possa trovare la soluzione a ciò che rappresenta una minaccia per il gruppo. (Per esempio se un membro sta morendo di sete è possibile che la stella indichi un posto con dell'acqua, magari pure potabile). Dura tutto il giorno. (_2 Dipendenza_ o _2 PF_)
 
 -  *Stella del Mattino*: Solo durante la notte, convochi una stella incandescente nel Cielo che porti con sè un Dio, nella sua manifestazione mondana. Il terreno attorno si modifica per accoglierlo a seconda del dio scelto. Non ha diritto ad essere esaudito, e nemmeno nel caso a non essere punto, ma ha diritto ad essere ascoltato. Quando l'incantesimo termina, la stella ripristina tutti i danni portati dalla divinità, ma non le morti associate a danni secondari (*Dipendenza 2*, *Ricarica: 1 volta a riposo lungo*) 
+
 ## Psichici 
 
 -  _Sesto senso:_ Pensi a qualcosa o qualcuno che stai cercando. Puoi vedere se questa cosa si trova oltre una parete, oltre una scatola, o una casa a vista. Se parliamo di grotte o luoghi più grandi tira un D20, con CD a discrezione del DM. (_Ricarica:_ 1 riposo breve oppure 5 *PF*.)
@@ -117,6 +129,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
     (2 _PF_)
 
 - *Oblamente*: una creatura bersaglio a contatto fisico con te fa un tiro di INT contrapposto. Se perde dimentica l'ultimo minuto di avvenimenti. ( _Dipendenza 3_ ). La stessa creatura non può essere colpita per il prossimo minuto da questo incantesimo.
+
 ## Demoniaci
 
 -  _Tentazione e sottomissione:_ tenti di entrare nell’inconscio di una o più creature a vista con un tiro contrapposto di INT (Se conosci “Sussurri” hai vantaggio). (_Dipendenza 2_) 
@@ -132,6 +145,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 - _Dissennare:_ scegli una creatura a vista, puoi togliergli una tra le sue *capacità* (le magie non contano come capacità, ma i marchi sì). Conservi quella capacità in una piccola pietra. La creatura che ha perso la capacità guadagna +4 a Forza e Destrezza, anche oltre il limite di statistica. Se quella creatura era un alleato, funzionerà solo se era consenziente, e le capacità devono essere 2. (_PF 3_)
 
 - _Maniera:_ scegli una creatura a vista. Se hai una o più capacità conservate in una pietra, puoi fonderla/e in una creatura a vista. Quella creatura perde 4 a Forza e Destrezza. (_PF 2_) Se la creatura che ottiene quella capacità non la possedeva in origine, perde 10 PF permanenti finchè non gli viene estirpata.
+
 ## Negromanzia
 
 - _Amici dall’altra parte_: un cadavere prende vita per 1 minuto. Può subire colpi pari a tua INT (fino a un cap ragionevole a discrezione del DM). Mantiene le sue caratteristiche tranne quelle magiche. Non può parlare nè ricordare nulla. Può allungare la durata di un altro minuto con 1 _PF_. Alla fine di questo incantesimo il cadavere viene distrutto. (_Dipendenza 1, Overdose)
@@ -169,6 +183,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
     - Se si tratta di forme vitali (tipo statua gatto) prendono vita se sono più piccole di 1metro cubo. Eseguono solo un comando di protezione di qualcosa, (non qualcuno) altrimenti vagano liberi.
 
 - _Piertotum Locomotor_: statue fino a INT si muovono eseguendo un tuo comando. Il comando viene portato a compimento e poi le statue collassano. (Le statue non combatteranno in modo chissà che abile). Se hanno le ali non riescono a volare. (_Concentrazione, Dipendenza 4, Overdose_)
+
 ## Evocazioni
 
 - _Guardiano_: evochi un gargoyle. Il Gargoyle esegue un solo comando fin quando non muore. Se lo porta a termine è poi libero. _(Ricarica 1 ora, Overdose, Dipendenza.)_
@@ -203,16 +218,19 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 - _Maledizione di Chrollo_: con un'azione o az bonus puoi sacrificare un ricordo di un'anima (vedi "Predatore di anime") ed evocare uno "Scaglia-Bianca Abissale". (1 _Dipendenza_ o 1 _PF_ )
     - Esso ha 0 a destrezza e Forza e movimento in volo pari alla tua INT. Non può essere ferito. Si muove entro la tua vista. Può solo eseguire attacco e movimento. Se colpisce vengono registrati 3 danni perforanti, ma il bersaglio non li sente. Quando termini l'incanto i bersagli subiscono i danni.
+    
     - NB: non creano ingaggio al nemico.
 
 ## Antimagia 
 
 - _Dissolvenza:_  Il DM determina la quantità di tempo in ore necessaria a rompere un incantesimoi sulla base di un tiro di INT. Durante quel periodo, hai svantaggio a tutti i tiri magici e devi rimanere entro 3 km dalla magia.
+
      - Un Celestiale non può essere annullato, a meno che tu non abbia "Cerchi magici" (in turno, non ore)
 
 - _Veto arcano_: se colpisci un creatura con una lama e usi una reazione per usare questa abilità, blocchi qualsiasi abilità magica dell'altra persona per 5 turni. (_Concentrazione_)
 
 - _Countercount:_ puoi usare una reazione per negare un incantesimo o una capacità magica, con un tiro contrapposto di int. Se vinci, quella capacità o magia non può più essere attivata per almeno un’ora dal tuo avversario, inoltre tu tiri (_Overdose, 3pf_) Se perdi, non subisci conseguenze. 
+
     - Se hai "Occhio arcano" ottieni vantaggio.
     - Se hai "Cerchi magici" ottieni Vantaggio. 
     (Possono essere usati entrambi i vantaggi )
@@ -227,15 +245,15 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 
 - _Urania:_ modifichi il meteo da una condizione a un'altra, anche al chiuso. Se crei delle condizioni estreme, l’incantesimo aggiunge i seguenti costi: (_Dipendenza, Concentrazione)._ (le sonceguenze vengono concordate col DM, ma per capirci una tempesta forte può impedire di vedere oltre qualche metro, di scagliare frecce e di perdere l’equilibrio con certe sferzate di vento). Sei immune agli effetti che genera, con un n° alleati pari a INT.
 
-- _Cronomalia:_ come reazione puoi piegare il tempo, il turno di un giocatore o di un nemico si ripete, tutti i dadi vengono rilanciati, le scelte possono essere riprese. (_Dipendenza 1, Ricarica 1 riposo breve, Overdose)_
+- _Cronomalia:_ come reazione puoi piegare il tempo, il turno di un giocatore o di un nemico si ripete, tutti i dadi vengono rilanciati, le scelte possono essere riprese. _(_Dipendenza 1, Ricarica 1 riposo breve, Overdose)_
 
 - _Ardere malefico:_ accendi un fuoco di colore verde, viola o nero, che si espande a macchia d’olio, alla stessa velocità, continuando senza fermarsi, fuori dal tuo controllo. Brucia qualsiasi cosa, qualsiasi materiale, finanche l’acqua (se non è tipo un lago), tranne la roccia, e non rimane attaccata alle creature. Ad ogni minuto in cui rimane attivo perdi 5 PF. Puoi aggiungerti tanti punti _Dipendenza_ quanti vuoi. Ogni creatura nel fuoco tranne te, perde punti pari a metà dei tuoi punti Dipendenza a ogni turno. Se muori o lo annulli il fuoco si ferma, ma non può essere spento finché non ha consumato quello su cui si è fermato.
 
 - _Neralbo:_ la luce scompare. Tutta la luce. Se ci si trova all’esterno scompare il sole. L’effetto si espande fino a kilometri e kilometri. L’oscurità è tale che scurovisione non la vince. (_Dipendenza 1, Overdose, Concentrazione_)  Pagando 2 PF al turno, tu ci vedi. Non vei se un altro _Neralbo_ viene castato. _Ardere malefico_ illumina questo tipo di buio, ma solo se ci si trova in prossimità del fuoco.
 
 # Marchi
-- Ottieni 8 marchi. I marchi sono una rappresentazione di quanto nel suo studio si sia concentrato su uno specifico aspetto del sapere.  (I marchi hanno vengono detti tali perché nel momento in cui si fa 20nat a indiviudare magia è anche possibile sapere quali marchi aveva il mago che ha lanciato la magia. I marchi cioè lasciano una traccia  del mago che li esegue) 
-- Durante l'arco del gioco, puoi ottenere nuovi marchi se fa un addestramento, o fa qualcosa di particolarmente eclatante.
+
+Ottieni 8 marchi. I marchi sono una rappresentazione di quanto nel suo studio si sia concentrato su uno specifico aspetto del sapere.  (I marchi hanno vengono detti tali perché nel momento in cui si fa 20nat a indiviudare magia è anche possibile sapere quali marchi aveva il mago che ha lanciato la magia. I marchi cioè lasciano una traccia  del mago che li esegue). Durante l'arco del gioco, puoi ottenere nuovi marchi se fa un addestramento, o fa qualcosa di particolarmente eclatante.
 
 ### Accademico
 
@@ -250,10 +268,12 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - _Terebrissa_: quando  usi "Ardere Malefico" paghi 3 pf all'ora.
 
 - _Predatore di anime:_ quando uccidi qualcuno puoi ottenere un suo ricordo significativo. Vedi magia “_Tessitore di anime_" e “_Faino_”. 
+
     - Puoi anche provare a ottenerlo da un cadavere già morto con una prova di int, tanto più facile quanto più recente è il lutto.
     - Consoci la quantità di Spirito che una creatura ha guardandola.
 
-- _Arte vampirica_: puoi assorbire 3 pf da un bersaglio che uccidi e conservarli nella tua anima.
+- _Arte vampirica_: puoi assorbire 3 pf da un bersaglio che uccidi e conservarli nella tua anima
+
     - Puoi recuperare INT punti ferita dalla tua anima una volta a riposo breve.
     - Puoi concedere pf alle tue creazioni con "Seconda vita" utilizzando la riserva.
 
@@ -265,16 +285,19 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 
 ### Alchimista
 
-- _Flamél_: quando usi un "Materico" non devi mantenere la Concentrazione. Le modifiche alle cose apportate con quegli incantesimi si mantengono in modo permanente. 
+- _Flamél_: quando usi un "Materico" non devi mantenere la Concentrazione. Le modifiche alle cose apportate con quegli incantesimi si mantengono in modo permanente.
+
     - Se usi "Alchimia" impiega un terzo dei Punti Dipendenza.
     - Sai infondere le armi (se gli dai il veleno)
 
 - *Tecniche di Relias*: se utilizzi "Higitus Figitus" puoi usarlo su un'arma bianca in tuo possesso. L'arma ha movimento in aria pari a INT e il tuo  modificatore per colpire. Una tua azione consiste nel dargli ordini. (Non crea ingaggio)
 
 - _Tesseract_: puoi usare gli effetti secondari degli incantesimi "Aerei"
+
 ### Arcimago
 
 - _Occhio arcano:_ al momento di casting da parte di un magico di una abilità, se hai già visto quella magia, sai che magia sta per castare. Inoltre, se il mago prepara una magia mentre puoi vedere, anche se non la casta, sai che l’aveva preparata, e se la conoscevi già, sai che magia era.
+
     - Vedi attraverso l’oscurità magica creata da _Neralbo_. 
     - Vedi i fantasmi
     - Hai vantaggio a percezione del magico.
@@ -282,6 +305,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - _Aura bianca_: puoi eludere la propria presenza magica. Se una individuazione rischia di esporlo, tira su INT con doppio vantaggio, contrapposto a chi lo sta cercando. (Se l'avversario vince non se ne avvede)
 
 - _Mente Alveare_: se usi un effetto mentale e Vince, l'avversario non se ne avvede. Ti accorgi se
+
     - una sua magia viene indagata da qualcuno 
     - Qualcuno cerca di varcare "Denique fines" da yr castato
     - un tuo sigillo viene rotto
@@ -293,20 +317,24 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
     - Hai vantaggio se usi "Oblamente"
 
 - *Cerchi magici*: quando usi "Sigillo" puoi rompere i sigilli degli altri maghi che non hanno Cerchi magici. I tuoi sigilli non possono essere rotti da maghi senza cerchi magici. Quando crei un sigillo puoi scegliere alleati in grado di romperlo, o aprirlo temporaneamente senza romperlo. 
+
     - Se usi "Cristallizzare" hai il secondo effetto. 
     - Se usi "Dissolvenza" non hai Concentrazione e il raggio è 100km.
 
 - _Kagebushin_: quando crei un clone, il clone può castare (incantesimi sotto ricarica sono in ricarica per tutti i cloni). Puoi dare 1pf in più alla creazione del clone per ogni pf in più che vuoi dargli. (La pool di dipende è la stessa)
 
 - _Kagebushin alveare_: quando crei un clone, puoi spostare la presenza originale con i suoi pf da un clone all'altro con un'azione bonus. 
+
     - Sei consapevole contemporaneamente di tutto quello che sanno tutti i cloni.
     - Incantesimi sotto ricarica, se possono castare, sono sotto ricarica per singolo clone. 
     - La pool di Dipendenza è la stessa
 
 - _Occhio druidico:_ se utilizzi _Skulblakas ven,_ puoi controllare i movimenti dell’animale. (L’animale può provare a ribellarsi.)
+
     - Non puoi perdere la Concentrazione usando Skulblakas Ven
 
 - _Segno di Stonehenge_: puoi castare "Cronomalia" fino a 3 volte per riposo breve al posto che uno.
+
 ### Duellante
 
 - _Passo di Fata_: puoi usare un’azione bonus per teletrasportarti entro metri pari a 2INT, un n° di volte pari a INT per ogni fight.
@@ -314,6 +342,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - _Passo etereo_: hai velocità aggiuntiva pari a INT e 2 reazioni.
 
 - _Passo schermidore_: Il tuo modificatore per combattere in fight è INT. Hai reazioni pari al suo bonus di INT. Conosci inoltre 3 *manovre*. 
+
     - Puoi castare "Boogie-Woogie", "Proiettile di Fata" e "Tremori essenziali" come azione bonus se non hai usato un'azione per castare.
     - Puoi usare "Boogie-Woogie" senza battere le mani.
 
@@ -332,6 +361,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - _Aura d'ardesia:_ puoi dimenticare 1 magia per la giornata. Fino alla fine del suo prossimo turno è invulnerabile a ogni effetto magico e non. Può utilizzare questa capacità in reazione per Dipendenza 1.
 
 - _Sciamano_: puoi lanciare 2 magie in un turno, purché siano diverse tra loro. Se si tratta di "Dorukh" può lanciarne fino a int.
+
 ### Incantatore Persistente
 
 - _Dolore schiarente_: ricarichi 2 punti Dipendenza ogni volta che subisci un totale di 4 PF.
@@ -343,7 +373,9 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - _Cuore di Vishnù_: puoi dimenticare una magia per la giornata (che non sia sotto _Ricarica_): guadagna 7 PF o perde 4 punti Dipendenza. Puoi usare questa abilità un n° di volte pari alla sua int. 
 
 # Disintossicazione
+
 (di questi, o ne creo altri 3 o fanculo. Ma sono carini per avere molta narrativa alle spalle)
+
 - puoi dimenticare all'inizio della giornata, per la durata della giornata, 4 magie e ricaricare 2 punti Dipendenza. 
 - Se iberi un Fantasma (Vedi "Daino") che non ha più rancore nei suoi confronti Recuperi 3 Dipendenza. 
 - Se regali un oggetto importante e significativo precedentemente sigillato, guadagni 3 Dipendenza. 
@@ -351,6 +383,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 # Razze
 
 *Mezzelfo*
+
 - Scurovisione minore (18 metri, bianco e nero)
 - Conosce l’elfico, il comune.
 - 2 a 2 _Abilità_
@@ -359,11 +392,13 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - Ottiene una vita virtualmente immortale. 
 
 *Umano*
+
 - +2 a 3 _Abilità_
 - Una lingua in più
 - Ottiene *Neanide*
 
 *Nano*
+
 - Ottiene la statistica Fortuna: quando loota in generale può chiedere al DM di lanciare un d20 che migliori la possibilità di trovare qualche tesoro in più che il DM non aveva inizialmente programmato (una sola volta per riposo Lungo)
 - Spirito giudaico: Vantaggio ai tiri per ogni trattativa commerciale.
 - 6m movimento
@@ -371,6 +406,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - Se è mago di classe ottiene _Marchio dell’orgoglio_
 
 *Dragonide*
+
 -  Armatura naturale: se non indossa armature ha un’armatura naturale di 2 contro tutti i tipi di danni (se le indossa, -1 a tutti i danni).
 - Ottiene soffio: entro 3 metri può usare l’azione bonus per colpire a raggio con il fuoco. Il fuoco infligge 2+1d6 danni da fuoco. Il druido mantiene questa capacità per Creature più grandi di un coniglio.
 - Ottiene l’abilità Termocezione. Estraendo a lingua velocemente come un rettile, è in grado di avvertire le fonti di calore entro 10m.
@@ -378,6 +414,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - Se è mago di classe ottiene _Cuore forte_
 
 *Tiefling*
+
 - Ha vantaggio a tutti i tiri contro la morte
 - Ottiene colpo con la coda, con azione bonus fa 2d4 danni a un bersaglio ingaggiato con lui (perforante), tira con vantaggio.
 - Quando termina un riposo breve, guadagna pf pari ai pf che gli rimangono, fino a max.
@@ -386,6 +423,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - Se è di classe Mago, ottiene automaticamente _Aura grema._
 
 *Orco*
+
 - Ha 2 metri in più di movimento data l’altezza
 - +1 a Forza.
 - Vantaggio alle prove di costituzione.
@@ -394,6 +432,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 - Se è mago di classe ottiene _Dolore schiarente o Sciamano_
 
 *Gnomo*
+
 - +2 int
 - Destrezza max è 5.
 - 5m movimento
@@ -405,6 +444,7 @@ Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 # Preset di maghi 
 
 ## Foresta benedetta 
+
 *Il mago che protegge la povera gente che abita i margini della Foresta, bilancia l'equilibrio tra loro e le creature che vivono lì vicino. Una sorta di loro angelo custode.*
 
 Razza: Gnomo 
@@ -465,6 +505,7 @@ Magie:
 - Proiettile di fata
 - Veto arcano
 - Neralbo
+
 ## L'alchimista 
 
 *Quewsto mago ha studiato i materiali, come trasformarli e soggiogarli al suo controllo. Un accademico, un puro studioso. In altre parole, un nerd*
@@ -531,6 +572,7 @@ Incantesimi:
 - Esisiema
 - Valzorack
 - Maledizione di Crhollo
+
 ## Il mago Bianco
 
 *Un mago che ha studiato la vera essenza della magia, il cuore pulsante dell'argomento arcano in sè, esperto dell'analisi e controllo della magia stessa.* 

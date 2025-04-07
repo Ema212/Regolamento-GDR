@@ -14,3 +14,12 @@ Si diventa più forti quando il master concede abilità, in linea con il character
 
 Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bensì il gioco che state realmente giocando è "scegliete come sviluppare i conflitti che il DM ha pensato sulla base del background del vostro pg". I livelli  si fottano.  Se giocate bene e l'ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)
 
+
+::: {.dm-only style="display: none;"}
+
+### Sezione per il DM
+
+Questa parte è segreta.
+
+:::
+

@@ -12,9 +12,17 @@ website:
       - Regole.qmd
       - Classe combattente.qmd
       - Classe Mago di Merlino.qmd
+      - Regole Biblioteca.qmd
+      
+  navbar:
+    right:
+      - text: "Sei un DM?"
+        href: "javascript:dm-unlock.js"
 
 format:
   html:
     theme: cosmo
     toc: true
     include-in-header: include-head.html
+    include-after-body: 
+     - assets/dm-unlock.js
