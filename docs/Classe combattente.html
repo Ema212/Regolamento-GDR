@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="javascript:dm-unlock.js"> 
+    <a class="nav-link" href="javascript:showDMModal()"> 
 <span class="menu-text">Sei un DM?</span></a>
   </li>  
 </ul>
@@ -811,27 +811,31 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
-function unlockDM() {
+<div id="dm-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; 
 
-  const password = prompt("Inserisci la password DM:");
+  background:rgba(0,0,0,0.7); justify-content:center; align-items:center; z-index:1000;">
 
-  if (password === "drago123") {  // Cambia la password qui
+  <div style="background:white; padding:2rem; border-radius:1rem; max-width:300px; text-align:center; box-shadow:0 0 10px black;">
 
-    document.querySelectorAll('.dm-only').forEach(el =&gt; {
+    <h3>Accesso DM</h3>
 
-      el.style.display = 'block';
+    <input type="password" id="dm-password" placeholder="Password" style="width:100%; padding:0.5rem; margin:1rem 0;">
 
-    });
+    <div>
 
-    alert("Sezioni DM sbloccate.");
+      <button onclick="unlockDM()" style="margin-right: 0.5rem;">Sblocca</button>
 
-  } else {
+      <button onclick="closeDMModal()">Annulla</button>
 
-    alert("Password errata.");
+    </div>
 
-  }
+  </div>
 
-}
+</div>
+
+
+
+<script src="assets/dm-unlock.js"></script>
 
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

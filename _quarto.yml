@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+   - assets/**
 
 website:
   title: "GDR per Babbei"
@@ -17,12 +19,13 @@ website:
   navbar:
     right:
       - text: "Sei un DM?"
-        href: "javascript:dm-unlock.js"
+        href: "javascript:showDMModal()"
 
 format:
   html:
     theme: cosmo
     toc: true
-    include-in-header: include-head.html
+    include-in-header: assets/include-head.html
     include-after-body: 
-     - assets/dm-unlock.js
+      - assets/dm-modal.html
+      - assets/scripts.html
