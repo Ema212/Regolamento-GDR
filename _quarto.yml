@@ -21,13 +21,13 @@ website:
         - capitoli/Regole/Regole Biblioteca.qmd
      - section: "<img src='imagines/money.png' width='20' style='vertical-align:middle;'> Mercato"
        contents: 
-        - veleni.qmd
+        - capitoli/Mercato/veleni.qmd
      - section: "<img src='imagines/location.png' width='20' style='vertical-align:middle;'>️ Lore" 
        contents: 
-        - Cultura generale.qmd
-     - section: "<img src='imagines/pen-tool/book.png' width='20' style='vertical-align:middle;'>️ Utilities"
+        - capitoli/Lore/Cultura generale.qmd
+     - section: "<img src='imagines/pen-tool.png' width='20' style='vertical-align:middle;'>️ Utilities"
        contents: 
-        - regole fight rapide.qmd
+        - capitoli/Utilities/regole fight rapide.qmd
      - capitoli/credits.qmd
       
   navbar:

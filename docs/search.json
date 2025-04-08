@@ -243,7 +243,12 @@
     "href": "capitoli/Mercato/veleni.html",
     "title": "Erboristeria- Veleni",
     "section": "",
-    "text": "questi sono i veleni"
+    "text": "questi sono i veleni",
+    "crumbs": [
+      "Sei un DM?",
+      "<img src='imagines/money.png' width='20' style='vertical-align:middle;'> Mercato",
+      "Erboristeria- Veleni"
+    ]
   },
   {
     "objectID": "capitoli/credits.html",
@@ -261,7 +266,12 @@
     "href": "capitoli/Lore/Cultura generale.html",
     "title": "Lore-Cultura Generale",
     "section": "",
-    "text": "La cultura generale del mondo"
+    "text": "La cultura generale del mondo",
+    "crumbs": [
+      "Sei un DM?",
+      "<img src='imagines/location.png' width='20' style='vertical-align:middle;'>️ Lore",
+      "Lore-Cultura Generale"
+    ]
   },
   {
     "objectID": "capitoli/Regole/Classe combattente.html",
@@ -460,6 +470,11 @@
     "href": "capitoli/Utilities/regole fight rapide.html",
     "title": "Regole di fight",
     "section": "",
-    "text": "meccaniche base del figtht"
+    "text": "meccaniche base del figtht",
+    "crumbs": [
+      "Sei un DM?",
+      "<img src='imagines/pen-tool.png' width='20' style='vertical-align:middle;'>️ Utilities",
+      "Regole di fight"
+    ]
   }
 ]
