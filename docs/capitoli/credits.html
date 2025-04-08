@@ -71,7 +71,32 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<style>
+
+/* Nasconde tutto il blocco del titolo, breadcrumb inclusa */
+
+.quarto-title-block.default .quarto-title-breadcrumbs {
+
+  display: none !important;
+
+}
+
+
+
+/* E fallback: nasconde anche se separato */
+
+nav.breadcrumbs, .quarto-title-breadcrumbs {
+
+  display: none !important;
+
+}
+
+</style>
+
+
+
 <link rel="stylesheet" href="../assets/title_style.css">
+<link rel="stylesheet" href="../assets/navbar_style.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed">
@@ -91,6 +116,11 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../pdf/scheda.pdf"> <i class="bi bi-file-arrow-down" role="img">
+</i> 
+<span class="menu-text">Scarica scheda PG</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="javascript:showDMModal()"> 
 <span class="menu-text">Sei un DM?</span></a>
@@ -135,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text"><img src="../imagines/book.png" width="20" style="vertical-align:middle;"> Manuale</span></a>
+ <span class="menu-text">Manuale</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -170,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text"><img src="../imagines/money.png" width="20" style="vertical-align:middle;"> Mercato</span></a>
+ <span class="menu-text">Mercato</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -187,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text"><img src="../imagines/location.png" width="20" style="vertical-align:middle;">️ Lore</span></a>
+ <span class="menu-text">Lore</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -204,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
- <span class="menu-text"><img src="../imagines/pentool.png" width="20" style="vertical-align:middle;">️ Utilities</span></a>
+ <span class="menu-text">Utilities</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 

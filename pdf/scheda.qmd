@@ -1,0 +1,10 @@
+---
+title: "Scheda"
+format: pdf
+execute:
+  echo: false
+  eval: false
+---
+
+Questa è la scheda fighissima di Vito
+

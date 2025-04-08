@@ -13,27 +13,32 @@ website:
     search: true
     contents:
      - index.qmd
-     - section: "<img src='/imagines/book.png' width='20' style='vertical-align:middle;'> Manuale"
+     - section: "Manuale"
        contents:
         - capitoli/Regole/Regole.qmd
         - capitoli/Regole/Classe combattente.qmd
         - capitoli/Regole/Classe Mago di Merlino.qmd
         - capitoli/Regole/Regole Biblioteca.qmd
-     - section: "<img src='/imagines/money.png' width='20' style='vertical-align:middle;'> Mercato"
+     - section: "Mercato"
        contents: 
         - capitoli/Mercato/veleni.qmd
-     - section: "<img src='/imagines/location.png' width='20' style='vertical-align:middle;'>️ Lore" 
+     - section: "Lore" 
        contents: 
         - capitoli/Lore/Cultura generale.qmd
-     - section: "<img src='/imagines/pentool.png' width='20' style='vertical-align:middle;'>️ Utilities"
+     - section: "Utilities"
        contents: 
         - capitoli/Utilities/regole fight rapide.qmd
      - capitoli/credits.qmd
       
   navbar:
     right:
+      - text: "Scarica scheda PG"
+        icon: file-arrow-down
+        href: pdf/scheda.pdf
       - text: "Sei un DM?"
         href: "javascript:showDMModal()"
+
+
 
 format:
   html:
@@ -46,8 +51,10 @@ format:
       - assets/dm-modal.html
       - assets/scripts.html
       - assets/footer.html
-    css: assets/title_style.css
-    
+    css: 
+      - /assets/title_style.css
+      - /assets/navbar_style.css
+  
 
 language:
   toc-title: "Indice"
