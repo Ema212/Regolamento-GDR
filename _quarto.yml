@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources: 
    - assets/**
+   - imagines/**
 
 website:
   title: "GDR per Babbei"
@@ -11,11 +12,23 @@ website:
     style: "docked"
     search: true
     contents:
-      - index.qmd
-      - capitoli/Regole.qmd
-      - capitoli/Classe combattente.qmd
-      - capitoli/Classe Mago di Merlino.qmd
-      - capitoli/Regole Biblioteca.qmd
+     - index.qmd
+     - section: "<img src='imagines/book.png' width='20' style='vertical-align:middle;'> Manuale"
+       contents:
+        - capitoli/Regole/Regole.qmd
+        - capitoli/Regole/Classe combattente.qmd
+        - capitoli/Regole/Classe Mago di Merlino.qmd
+        - capitoli/Regole/Regole Biblioteca.qmd
+     - section: "<img src='imagines/money.png' width='20' style='vertical-align:middle;'> Mercato"
+       contents: 
+        - veleni.qmd
+     - section: "<img src='imagines/location.png' width='20' style='vertical-align:middle;'>️ Lore" 
+       contents: 
+        - Cultura generale.qmd
+     - section: "<img src='imagines/pen-tool/book.png' width='20' style='vertical-align:middle;'>️ Utilities"
+       contents: 
+        - regole fight rapide.qmd
+     - capitoli/credits.qmd
       
   navbar:
     right:

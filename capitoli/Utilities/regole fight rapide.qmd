@@ -1,0 +1,7 @@
+---
+title: "Regole di fight"
+format:
+  html:
+    theme: default
+---
+meccaniche base del figtht

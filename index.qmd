@@ -5,21 +5,21 @@ format:
     theme: default
 ---
 
-Il manuale è liberamente ispirato ai più famosi dei giochi di ruolo. Le regole però  sono state ripensate per essere più flessibili e personalizzabili.
+Il manuale Ã¨ liberamente ispirato ai piÃ¹ famosi dei giochi di ruolo. Le regole perÃ²  sono state ripensate per essere piÃ¹ flessibili e personalizzabili.
 
 ### Ma i Livelli? 
 
 Il GDR per Babbei nasce risolvendo l'annoso problema dei livelli con una risposta decisamente elegante: niente livelli. 
-Si diventa più forti quando il master concede abilità, in linea con il character development, quando vi potenziate da soli (parlando con Fabbri magicanti ed Erboristi andando avanti nel gioco non ? difficile), facendo patti con creature, dèi, e così via. 
+Si diventa piÃ¹ forti quando il master concede abilitÃ , in linea con il character development, quando vi potenziate da soli (parlando con Fabbri magicanti ed Erboristi andando avanti nel gioco non Ã¨ difficile), facendo patti con creature, dÃ¨i, e cosÃ¬ via. 
 
-Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bensì il gioco che state realmente giocando è "scegliete come sviluppare i conflitti che il DM ha pensato sulla base del background del vostro pg". I livelli  si fottano.  Se giocate bene e l'ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)
+Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bensÃ¬ il gioco che state realmente giocando Ã¨ "scegliete come sviluppare i conflitti che il DM ha pensato sulla base del background del vostro pg". I livelli  si fottano.  Se giocate bene e l'ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)
 
 
 ::: {.dm-only style="display: none;"}
 
 ### Sezione per il DM
 
-Questa parte è segreta.
+Questa parte Ã¨ segreta.
 
 :::
 

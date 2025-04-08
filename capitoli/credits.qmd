@@ -1,0 +1,8 @@
+---
+title: "credits"
+format:
+  html:
+    theme: default
+---
+
+Humbly thanking <a href="https://www.flaticon.com/free-icons/writer" title="writer icons">Flaticon</a> for the icons.
