@@ -25,7 +25,7 @@ website:
      - section: "<img src='imagines/location.png' width='20' style='vertical-align:middle;'>️ Lore" 
        contents: 
         - capitoli/Lore/Cultura generale.qmd
-     - section: "<img src='imagines/pen-tool.png' width='20' style='vertical-align:middle;'>️ Utilities"
+     - section: "<img src='imagines/pentool.png' width='20' style='vertical-align:middle;'>️ Utilities"
        contents: 
         - capitoli/Utilities/regole fight rapide.qmd
      - capitoli/credits.qmd
