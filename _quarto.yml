@@ -50,7 +50,7 @@ format:
       - assets/dm-modal.html
       - assets/scripts.html
       - assets/footer.html
-      - assets/swipe.js
+      - assets/scripts_loader.html
     css: 
       - /assets/title_style.css
       - /assets/navbar_style.css
