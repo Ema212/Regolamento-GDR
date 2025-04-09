@@ -39,7 +39,6 @@ website:
         href: "javascript:showDMModal()"
 
 
-
 format:
   html:
     theme: 
@@ -51,6 +50,7 @@ format:
       - assets/dm-modal.html
       - assets/scripts.html
       - assets/footer.html
+      - assets/swipe.js
     css: 
       - /assets/title_style.css
       - /assets/navbar_style.css
