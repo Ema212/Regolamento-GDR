@@ -438,6 +438,110 @@ nav.breadcrumbs, .quarto-title-breadcrumbs {
 
 <script src="assets/swipe.js"></script>
 
+<!-- File: swipe-gestures.html -->
+
+<script>
+
+// Abilita gesture swipe su Quarto solo per mobile (<768px)
+
+(function() {
+
+  // Esegui solo se la larghezza dello schermo � inferiore a 768px
+
+  if (window.innerWidth >= 768) return;
+
+  // Variabili per registrare la posizione iniziale del tocco
+
+  let startX = 0, startY = 0;
+
+  // Soglia minima (in pixel) per riconoscere lo swipe orizzontale
+
+  // (serve a evitare interpretazioni errate di tocchi brevi o scroll)
+
+  const threshold = 50;
+
+  // Evento touchstart: salva le coordinate iniziali del tocco
+
+  document.addEventListener('touchstart', function(e) {
+
+    if (e.touches.length === 1) {  // considera solo il primo dito sullo schermo
+
+      startX = e.touches[0].clientX;
+
+      startY = e.touches[0].clientY;
+
+    }
+
+  }, { passive: true });
+
+  // Evento touchend: il dito viene sollevato, calcola lo swipe
+
+  document.addEventListener('touchend', function(e) {
+
+    if (e.changedTouches.length === 1) {
+
+      let endX = e.changedTouches[0].clientX;
+
+      let endY = e.changedTouches[0].clientY;
+
+      // Calcola differenze di movimento orizzontale e verticale
+
+      let dx = endX - startX;
+
+      let dy = endY - startY;
+
+      // Verifica se lo swipe � principalmente orizzontale e supera la soglia
+
+      if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > threshold) {
+
+        if (dx > 0) {
+
+          // Swipe verso destra: apre la sidebar di navigazione
+
+          let toggleBtn = document.querySelector('.quarto-btn-toggle');
+
+          if (toggleBtn) {
+
+            toggleBtn.click();  // simula il click sul pulsante toggle della sidebar
+
+          }
+
+        } else {
+
+          // Swipe verso sinistra: mostra/nasconde la TOC (sidebar destra)
+
+          let tocSidebar = document.getElementById('quarto-margin-sidebar');
+
+          if (tocSidebar) {
+
+            // Controlla lo stato corrente (visibile o nascosta)
+
+            let currentDisplay = window.getComputedStyle(tocSidebar).display;
+
+            if (currentDisplay === 'none') {
+
+              tocSidebar.style.display = 'block';   // mostra la TOC
+
+            } else {
+
+              tocSidebar.style.display = 'none';    // nasconde la TOC
+
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+  }, { passive: true });
+
+})();
+
+</script>
+
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

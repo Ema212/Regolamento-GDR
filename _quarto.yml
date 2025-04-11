@@ -51,6 +51,7 @@ format:
       - assets/scripts.html
       - assets/footer.html
       - assets/scripts_loader.html
+      - assets/swipe.html
     css: 
       - /assets/title_style.css
       - /assets/navbar_style.css
