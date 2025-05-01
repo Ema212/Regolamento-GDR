@@ -16,15 +16,17 @@ website:
      - section: "Manuale"
        contents:
         - capitoli/Regole/Regole.qmd
-        - capitoli/Regole/Classe combattente.qmd
-        - capitoli/Regole/Classe Mago di Merlino.qmd
-        - capitoli/Regole/Regole Biblioteca.qmd
+        - capitoli/Regole/Combattente.qmd
+        - capitoli/Regole/Mago.qmd
+        - Capitoli/Regole/Chierico.qmd
+        - capitoli/Regole/Biblio.qmd
      - section: "Mercato"
        contents: 
         - capitoli/Mercato/veleni.qmd
      - section: "Lore" 
        contents: 
-        - capitoli/Lore/Cultura generale.qmd
+        - capitoli/Lore/Generale.qmd
+        - capitoli/Lore/Magia.qmd
      - section: "Utilities"
        contents: 
         - capitoli/Utilities/regole fight rapide.qmd
@@ -48,13 +50,14 @@ format:
     include-in-header: assets/include-head.html
     include-after-body: 
       - assets/dm-modal.html
+      - assets/dm-unlock.html
       - assets/scripts.html
       - assets/footer.html
       - assets/scripts_loader.html
       - assets/swipe.html
     css: 
-      - /assets/title_style.css
-      - /assets/navbar_style.css
+      - assets/title_style.css
+      - assets/navbar_style.css
   
 
 language:
