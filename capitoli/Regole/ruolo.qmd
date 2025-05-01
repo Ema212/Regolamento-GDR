@@ -10,6 +10,15 @@ In Generale si può riconosere un ruiolo senza tante cerimonie, cioè davanti a 
 
 Alcuni ruoli però hanno un valore più rilevante per l'ambientazione in generale, per questo non posso semplicemenete dire di sì, senza che ci assicuriamo che sappiate cosa significa e che abbiate la build almeno adeguata per giocarla. 
 
+
+<div class="pg-only" style="display:none;">
+  <p>Contenuto segreto per PG</p>
+</div>
+
+<div class="dm-only" style="display:none;">
+  <p>Contenuto per DM</p>
+</div>
+
 ### Bardo 
 
 Se avete il sogno bardico siete un bardo, avete cioè ricevuto l'addestramento da Bardo. In ogni città in cuio andrete, se vi farete riconsocere come Bardi, vi porteranno rispetto. Gli altri Bardi del mondo vi riconosceranno e così molti altri npc avranno rispetto del vostro ruolo. Ottenete queste capacità
