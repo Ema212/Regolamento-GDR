@@ -16,6 +16,8 @@ Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bens√
 
 modifica
 
+Link di prova per la [cultura generale](capitoli/Lore/Cultura generale.qmd)
+
 
 ::: {.dm-only style="display: none;"}
 

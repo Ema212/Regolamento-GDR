@@ -1,0 +1,29 @@
+---
+title: "Chierico"
+format:
+  html:
+    theme: default
+---
+
+Chi intende giocare un Chierico deve sapere ovviamente che la questione dell'interpretazione del rapporto col Dio è centrale, e speccifica, caso per caso. (Come le fedi vere.)
+
+A seconda del Dio si può personalizzare la declinazione delle regole. Alcuni dèi hanno però delle regole già ordinate dalla lore,  quindi bisogna parlarne col DM. 
+
+Un Chierico è in grado di elargire i Sacramenti. Una persona che ottiene il Battesimo diventa un Apostolo del dio. 
+Una volta che ottiene l'Ordine, diventa un Chierico a sua volta. 
+
+I Sacramenti: sono 
+
+-  Battesimo: ti rende un apostolo del Dio
+    - Sussurri divini: Se segui la volontà del Dio ottieni punti Karma. Ovviamente questo dipende dal Dio specifico, e il DM dà punti karma a seconda di quanto il ruolo è coerente e allineato alla questione del Dio.
+    - Le creature con capacità o visioni magiche riconsocnono il tuo status di Apostolo
+    - Giuramento: in base al tuo dio, ti accordi col DM: un punto karma ti consente di usare una abilità che il dio ti ha donato.
+- Confessione: ottieni la pace, il tuo stato spirituale è inattacbile, pertanto 
+    - Sei immune ai veleni 
+    - Immune alle maledizioni con Autorità inferiore a quella divina
+    - Resistente alle condizioni mentali 
+    - Invecchi più lentamente 
+- Comunione: ottieni una parte pura del potere del Dio, che si manifesta di te
+    - (Espansione del Dominio, in parole povere). Viene attivato una volta al giorno. Gli effetti particolari vengono concordati col DM.
+- Ordine: Diventi un Chierico a tutti gli effetti. Per ottenere questo sacramento è necessario passare delle prove e la valutazione del dio, non può semplicemente essere dato da un Chierico.
+

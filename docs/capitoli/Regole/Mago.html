@@ -136,7 +136,7 @@ nav.breadcrumbs, .quarto-title-breadcrumbs {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../capitoli/Regole/Regole.html">Manuale</a></li><li class="breadcrumb-item"><a href="../../capitoli/Regole/Classe Mago di Merlino.html">Mago di Merlino</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../capitoli/Regole/Regole.html">Manuale</a></li><li class="breadcrumb-item"><a href="../../capitoli/Regole/Mago.html">Mago di Merlino</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -179,22 +179,19 @@ nav.breadcrumbs, .quarto-title-breadcrumbs {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../capitoli/Regole/Classe combattente.html" class="sidebar-item-text sidebar-link">
+  <a href="../../capitoli/Regole/Combattente.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Classe combattente</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../capitoli/Regole/Classe Mago di Merlino.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../capitoli/Regole/Mago.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Mago di Merlino</span></a>
   </div>
 </li>
           <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../capitoli/Regole/Regole Biblioteca.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Regole Biblioteca</span></a>
-  </div>
-</li>
+ <span class="menu-text">capitoli/Regole/Biblio.qmd</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -225,10 +222,13 @@ nav.breadcrumbs, .quarto-title-breadcrumbs {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../capitoli/Lore/Cultura generale.html" class="sidebar-item-text sidebar-link">
+  <a href="../../capitoli/Lore/Generale.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lore-Cultura Generale</span></a>
   </div>
 </li>
+          <li class="sidebar-item">
+ <span class="menu-text">capitoli/Lore/Magia.qmd</span>
+  </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -313,7 +313,7 @@ nav.breadcrumbs, .quarto-title-breadcrumbs {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../capitoli/Regole/Regole.html">Manuale</a></li><li class="breadcrumb-item"><a href="../../capitoli/Regole/Classe Mago di Merlino.html">Mago di Merlino</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../capitoli/Regole/Regole.html">Manuale</a></li><li class="breadcrumb-item"><a href="../../capitoli/Regole/Mago.html">Mago di Merlino</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Mago di Merlino</h1>
 </div>
@@ -911,27 +911,25 @@ nav.breadcrumbs, .quarto-title-breadcrumbs {
 </section>
 
 </main> <!-- /main -->
-<div id="dm-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; 
+<div id="dm-modal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.6); z-index:9999; align-items:center; justify-content:center;">
 
-  background:rgba(0,0,0,0.7); justify-content:center; align-items:center; z-index:1000;">
+  <div style="background:white; padding:2rem; border-radius:8px; max-width:300px; text-align:center;">
 
-  <div style="background:white; padding:2rem; border-radius:1rem; max-width:300px; text-align:center; box-shadow:0 0 10px black;">
+    <h3>Accesso riservato</h3>
 
-    <h3>Accesso DM</h3>
+    <input id="access-password" type="password" placeholder="Password..." style="width:100%; margin-bottom:1rem;">
 
-    <input type="password" id="dm-password" placeholder="Password" style="width:100%; padding:0.5rem; margin:1rem 0;">
+    <button onclick="unlockGeneric(document.getElementById('access-password').value)">Sblocca</button>
 
-    <div>
+    <br><br>
 
-      <button onclick="unlockDM()" style="margin-right: 0.5rem;">Sblocca</button>
-
-      <button onclick="closeDMModal()">Annulla</button>
-
-    </div>
+    <button onclick="closeDMModal()">Chiudi</button>
 
   </div>
 
 </div>
+
+<script src="assets/dm-unlock.js"></script>
 
 
 

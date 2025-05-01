@@ -1,0 +1,6 @@
+---
+title: "Lore dei Bardi"
+format:
+  html:
+    theme: default
+---

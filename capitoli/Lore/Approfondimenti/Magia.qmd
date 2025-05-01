@@ -1,0 +1,73 @@
+---
+title: "Istruzione magica"
+format:
+  html:
+    theme: default
+---
+
+La magia, che altro non è che le forze che i mortali non si spiegano, è così spiegata: la manipolazione dei Metalli. 
+
+I metalli si muovono secondo le logiche proprie, ma attraverso una serie di modalità possono essere forzate, "castate", come si castano i metalli in una guida. Per lanciare magie esistono diverse modalità, ciascuna delle quali ha diverso potere, ossia diverse Autorità.
+
+Per risolvere i contrasti di autorità si attribuisce per comodità un punteggio, dove un punteggio minore ha più autorità.
+
+## Magia Dell'Ordine: 
+una magia più che leggendaria. La magia che si dice sia stata scritta sulla Pergamena del mondo, che contiene tutte le rune. Si cita per importanza, ma non ce ne si fa nulla. _Autorità: 0_
+
+## Magia Runica 
+la magia delle Rune. Le Rune sono la forma scritta della Lingua degli dei, la forma più pura e primaria. Solo il sapere le rune, l'avete padroneggiate, è un codice esatto. Una combinazione forzata, dettata la quale, tutti i metalli rispondono, sotto la massima autorità. Chi sa scrivere, comprendere e pronunciare una Runa sa usare la magia tunica. Le rune prevedono una gerarchia, pertanto tutto quanto legato alle rune segua la gerarchia delle rune. _Autorità 1 
+
+## Magia Divina: 
+la magia divina utilizza la Lingua degli dei. Solo la versione non scritta. Estremamente potente, infatti quasi tutti i metalli rispondono bene all'autorità della Magia Divina. Ciononostante, siccome non è esplicitamente nota agli dèi la runa, la magia siffatta riguarda la loro identità, pertanto tanto più un dio si sente "il dio del mare", tanto più i metalli ad esso legati risponderanno (le "Benedizioni" hanno tecnicamente questo livello di autorità). _Autorità 2_. 
+
+### Inni: 
+gli inni sono formule che richiamano gli dèi ad agire con una forza a loro irresistibile, come un solletico. _Autorità 2.1_
+
+### Magia Celestiale: 
+una sottocategoria di magia divina parlata dai Celestiali, appunto. La loro conoscenza della lingua divina è ancora più intuitiva, come la modalità solo Interiezioni. Per questo sottomesso alla magia divina, ma giusto sotto. _Autorità 2.2_
+
+### Astrologia: 
+magia che si basa sulla materia delle [[Stelle]] _Autorità: 2.3_
+
+### Titolo leggendario: 
+titolo che vengono dati da delle divinità quando fanno qualcosa di lodevole ai loro occhi _Autorità: 2.4_
+
+## Magia Bardica: 
+l'arte dei Bardi. Solo i Bardi la capiscono, si sa che è collegata alla runa [[Dagaz]] , e quello che sappiamo è che influenza l'Irradion, un altro metallo in grado di influenzarne molti altri. L'autorità in teoria è veramente alta, anche se è difficile senza conoscere la runa stessa influenzare l'Irradion in modo forte. Pertanto, se i Bardi conoscessero la runa, potrebbero essere superiori ai maghi. Ma non la conoscono, e pertanto la loro magia in realtà rimane inferiore. _Autirità: 3_
+
+## Magia Arcana: 
+la magia arcana è una translitterazione non runica della lingua degli dèi, che i maghi cercano di mandare a memoria. Questo tipo di magia ha una forte influenza su un metallo in particolare, cioè l'Oricalco. Il quale Oricalco ha una fortissima influenza sulla maggior parte dei metalli. Manipolarli, ti rende infatti un Mago, classicamente inteso. _Autorità: 4_
+
+    Nota: la difficoltà di questa magia consiste nel memorizzare interamente la formula magica, che viene dimenticata per lo choc una volta castata e va reimparata. Per risolvere questo problema sono stati creati 
+
+### Maghi di Merlino
+cioè che funzionano con effetti collaterali. Vedi [[Ordine dei maghi di Merlino]] _Autorità: 4_
+
+### Maghi da battaglia
+e del linguaggio arcano, che mandano a memoria l'essenza del linguaggio, generando una manipolazione dei metalli semplice ma molto efficace, vedi [[Ordine dei maghi della nuova era|ordine dei maghi da battaglia]]. _Autorità: 4_
+
+### Magia monastica: 
+una magia che manipola l'Oricalco ma non tramite la parola, ma tramite lo spirito. Riesce pertanto ad essere molto valida anche se un po' ristretta _Autorità: 4.3_
+
+### Necromanzia: 
+magia basata sul dialetto di Mondul, magia sulla quale Mondul ha una autorità quasi unica, pertanto vale la pena citarla. _Autorità: 4.4_
+
+## Fattucchieria: 
+capacità di imprimere segni sulle cose. Questi segni vengono tenuti segreti da chi è in grado di tracciarli. Danno in questo modo agli oggetti proprietà uniche. _Autorità: 4.1_
+
+### Stregoneria: 
+
+## Erboristeria: 
+una complessa pratica che prevede la modifica dei corpi, che ottengono proprietà insolite, smuovendo diversi metalli con ottima autorità, assumendo determinate sostanze. Sostanze che sono state contaminate da numerosi effetti. _Autorità: 4.2_
+
+### Marchi
+una modifica a Marchio è una modifica che viene fatta alla struttura della creatura che lo possiede, che acquisisce una capacità magica, come se fosse innata. Ha _Autorità: 4.2_
+
+## Arte magica: 
+un tipo magia basata sulla manipolazione di metalli che hanno una influenza minoritaria. _Autorità: 5_
+
+### Abilità leggendarie 
+senza che sia noto a chi le pratica, esse hanno una minima influenza magica. Pertanto hanno in realtà _Autorità 5_
+
+## Alchimia: 
+un tipo di magia che prova a muovere il Pavranio con altro Pavranio. Solitamente infatti tra le più deboli, e forse vicina alla scienza come la intendiamo fuori dal gioco. _Autorità: 6_ 

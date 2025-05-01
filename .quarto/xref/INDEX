@@ -58,5 +58,32 @@
   },
   "pdf/scheda.qmd": {
     "scheda.tex": "9aebb293"
+  },
+  "capitoli/Lore/Cos'è la magia.qmd": {
+    "Cos'è la magia.html": "404788b4"
+  },
+  "capitoli/Lore/Approfondimenti/Bardi.qmd": {
+    "Bardi.html": "bea7edad"
+  },
+  "capitoli/Lore/Approfondimenti/Magia.qmd": {
+    "Magia.html": "75de3bf7"
+  },
+  "capitoli/Lore/Approfondimenti/Venatores.qmd": {
+    "Venatores.html": "3506a3b0"
+  },
+  "capitoli/Lore/Generale.qmd": {
+    "Generale.html": "84a5bd1d"
+  },
+  "capitoli/Regole/Chierico.qmd": {
+    "Chierico.html": "ed15b986"
+  },
+  "capitoli/Regole/Combattente.qmd": {
+    "Combattente.html": "07e7923b"
+  },
+  "capitoli/Regole/Mago.qmd": {
+    "Mago.html": "4bbddf9d"
+  },
+  "capitoli/Regole/ruolo.qmd": {
+    "ruolo.html": "16660fdb"
   }
 }

@@ -1,9 +1,0 @@
----
-title: "Lore-Cultura Generale"
-format:
-  html:
-    theme: default
----
-
-La cultura generale del mondo
-
