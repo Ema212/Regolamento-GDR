@@ -231,70 +231,130 @@
     "href": "capitoli/Lore/Approfondimenti/Magia.html",
     "title": "Istruzione magica",
     "section": "",
-    "text": "La magia, che altro non è che le forze che i mortali non si spiegano, è così spiegata: la manipolazione dei Metalli.\nI metalli si muovono secondo le logiche proprie, ma attraverso una serie di modalità possono essere forzate, “castate”, come si castano i metalli in una guida. Per lanciare magie esistono diverse modalità, ciascuna delle quali ha diverso potere, ossia diverse Autorità.\nPer risolvere i contrasti di autorità si attribuisce per comodità un punteggio, dove un punteggio minore ha più autorità."
+    "text": "La magia, che altro non è che le forze che i mortali non si spiegano, è così spiegata: la manipolazione dei Metalli.\nI metalli si muovono secondo le logiche proprie, ma attraverso una serie di modalità possono essere forzate, “castate”, come si castano i metalli in una guida. Per lanciare magie esistono diverse modalità, ciascuna delle quali ha diverso potere, ossia diverse Autorità.\nPer risolvere i contrasti di autorità si attribuisce per comodità un punteggio, dove un punteggio minore ha più autorità.",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#magia-dellordine",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#magia-dellordine",
     "title": "Istruzione magica",
     "section": "Magia Dell’Ordine:",
-    "text": "Magia Dell’Ordine:\nuna magia più che leggendaria. La magia che si dice sia stata scritta sulla Pergamena del mondo, che contiene tutte le rune. Si cita per importanza, ma non ce ne si fa nulla. Autorità: 0"
+    "text": "Magia Dell’Ordine:\nuna magia più che leggendaria. La magia che si dice sia stata scritta sulla Pergamena del mondo, che contiene tutte le rune. Si cita per importanza, ma non ce ne si fa nulla. Autorità: 0",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#magia-runica",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#magia-runica",
     "title": "Istruzione magica",
     "section": "Magia Runica",
-    "text": "Magia Runica\nla magia delle Rune. Le Rune sono la forma scritta della Lingua degli dei, la forma più pura e primaria. Solo il sapere le rune, l’avete padroneggiate, è un codice esatto. Una combinazione forzata, dettata la quale, tutti i metalli rispondono, sotto la massima autorità. Chi sa scrivere, comprendere e pronunciare una Runa sa usare la magia tunica. Le rune prevedono una gerarchia, pertanto tutto quanto legato alle rune segua la gerarchia delle rune. _Autorità 1"
+    "text": "Magia Runica\nla magia delle Rune. Le Rune sono la forma scritta della Lingua degli dei, la forma più pura e primaria. Solo il sapere le rune, l’avete padroneggiate, è un codice esatto. Una combinazione forzata, dettata la quale, tutti i metalli rispondono, sotto la massima autorità. Chi sa scrivere, comprendere e pronunciare una Runa sa usare la magia tunica. Le rune prevedono una gerarchia, pertanto tutto quanto legato alle rune segua la gerarchia delle rune. _Autorità 1",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#magia-divina",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#magia-divina",
     "title": "Istruzione magica",
     "section": "Magia Divina:",
-    "text": "Magia Divina:\nla magia divina utilizza la Lingua degli dei. Solo la versione non scritta. Estremamente potente, infatti quasi tutti i metalli rispondono bene all’autorità della Magia Divina. Ciononostante, siccome non è esplicitamente nota agli dèi la runa, la magia siffatta riguarda la loro identità, pertanto tanto più un dio si sente “il dio del mare”, tanto più i metalli ad esso legati risponderanno (le “Benedizioni” hanno tecnicamente questo livello di autorità). Autorità 2.\n\nInni:\ngli inni sono formule che richiamano gli dèi ad agire con una forza a loro irresistibile, come un solletico. Autorità 2.1\n\n\nMagia Celestiale:\nuna sottocategoria di magia divina parlata dai Celestiali, appunto. La loro conoscenza della lingua divina è ancora più intuitiva, come la modalità solo Interiezioni. Per questo sottomesso alla magia divina, ma giusto sotto. Autorità 2.2\n\n\nAstrologia:\nmagia che si basa sulla materia delle [[Stelle]] Autorità: 2.3\n\n\nTitolo leggendario:\ntitolo che vengono dati da delle divinità quando fanno qualcosa di lodevole ai loro occhi Autorità: 2.4"
+    "text": "Magia Divina:\nla magia divina utilizza la Lingua degli dei. Solo la versione non scritta. Estremamente potente, infatti quasi tutti i metalli rispondono bene all’autorità della Magia Divina. Ciononostante, siccome non è esplicitamente nota agli dèi la runa, la magia siffatta riguarda la loro identità, pertanto tanto più un dio si sente “il dio del mare”, tanto più i metalli ad esso legati risponderanno (le “Benedizioni” hanno tecnicamente questo livello di autorità). Autorità 2.\n\nInni:\ngli inni sono formule che richiamano gli dèi ad agire con una forza a loro irresistibile, come un solletico. Autorità 2.1\n\n\nMagia Celestiale:\nuna sottocategoria di magia divina parlata dai Celestiali, appunto. La loro conoscenza della lingua divina è ancora più intuitiva, come la modalità solo Interiezioni. Per questo sottomesso alla magia divina, ma giusto sotto. Autorità 2.2\n\n\nAstrologia:\nmagia che si basa sulla materia delle [[Stelle]] Autorità: 2.3\n\n\nTitolo leggendario:\ntitolo che vengono dati da delle divinità quando fanno qualcosa di lodevole ai loro occhi Autorità: 2.4",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#magia-bardica",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#magia-bardica",
     "title": "Istruzione magica",
     "section": "Magia Bardica:",
-    "text": "Magia Bardica:\nl’arte dei Bardi. Solo i Bardi la capiscono, si sa che è collegata alla runa [[Dagaz]] , e quello che sappiamo è che influenza l’Irradion, un altro metallo in grado di influenzarne molti altri. L’autorità in teoria è veramente alta, anche se è difficile senza conoscere la runa stessa influenzare l’Irradion in modo forte. Pertanto, se i Bardi conoscessero la runa, potrebbero essere superiori ai maghi. Ma non la conoscono, e pertanto la loro magia in realtà rimane inferiore. Autirità: 3"
+    "text": "Magia Bardica:\nl’arte dei Bardi. Solo i Bardi la capiscono, si sa che è collegata alla runa [[Dagaz]] , e quello che sappiamo è che influenza l’Irradion, un altro metallo in grado di influenzarne molti altri. L’autorità in teoria è veramente alta, anche se è difficile senza conoscere la runa stessa influenzare l’Irradion in modo forte. Pertanto, se i Bardi conoscessero la runa, potrebbero essere superiori ai maghi. Ma non la conoscono, e pertanto la loro magia in realtà rimane inferiore. Autirità: 3",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#magia-arcana",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#magia-arcana",
     "title": "Istruzione magica",
     "section": "Magia Arcana:",
-    "text": "Magia Arcana:\nla magia arcana è una translitterazione non runica della lingua degli dèi, che i maghi cercano di mandare a memoria. Questo tipo di magia ha una forte influenza su un metallo in particolare, cioè l’Oricalco. Il quale Oricalco ha una fortissima influenza sulla maggior parte dei metalli. Manipolarli, ti rende infatti un Mago, classicamente inteso. Autorità: 4\nNota: la difficoltà di questa magia consiste nel memorizzare interamente la formula magica, che viene dimenticata per lo choc una volta castata e va reimparata. Per risolvere questo problema sono stati creati \n\nMaghi di Merlino\ncioè che funzionano con effetti collaterali. Vedi [[Ordine dei maghi di Merlino]] Autorità: 4\n\n\nMaghi da battaglia\ne del linguaggio arcano, che mandano a memoria l’essenza del linguaggio, generando una manipolazione dei metalli semplice ma molto efficace, vedi [[Ordine dei maghi della nuova era|ordine dei maghi da battaglia]]. Autorità: 4\n\n\nMagia monastica:\nuna magia che manipola l’Oricalco ma non tramite la parola, ma tramite lo spirito. Riesce pertanto ad essere molto valida anche se un po’ ristretta Autorità: 4.3\n\n\nNecromanzia:\nmagia basata sul dialetto di Mondul, magia sulla quale Mondul ha una autorità quasi unica, pertanto vale la pena citarla. Autorità: 4.4"
+    "text": "Magia Arcana:\nla magia arcana è una translitterazione non runica della lingua degli dèi, che i maghi cercano di mandare a memoria. Questo tipo di magia ha una forte influenza su un metallo in particolare, cioè l’Oricalco. Il quale Oricalco ha una fortissima influenza sulla maggior parte dei metalli. Manipolarli, ti rende infatti un Mago, classicamente inteso. Autorità: 4\nNota: la difficoltà di questa magia consiste nel memorizzare interamente la formula magica, che viene dimenticata per lo choc una volta castata e va reimparata. Per risolvere questo problema sono stati creati \n\nMaghi di Merlino\ncioè che funzionano con effetti collaterali. Vedi [[Ordine dei maghi di Merlino]] Autorità: 4\n\n\nMaghi da battaglia\ne del linguaggio arcano, che mandano a memoria l’essenza del linguaggio, generando una manipolazione dei metalli semplice ma molto efficace, vedi [[Ordine dei maghi della nuova era|ordine dei maghi da battaglia]]. Autorità: 4\n\n\nMagia monastica:\nuna magia che manipola l’Oricalco ma non tramite la parola, ma tramite lo spirito. Riesce pertanto ad essere molto valida anche se un po’ ristretta Autorità: 4.3\n\n\nNecromanzia:\nmagia basata sul dialetto di Mondul, magia sulla quale Mondul ha una autorità quasi unica, pertanto vale la pena citarla. Autorità: 4.4",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#fattucchieria",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#fattucchieria",
     "title": "Istruzione magica",
     "section": "Fattucchieria:",
-    "text": "Fattucchieria:\ncapacità di imprimere segni sulle cose. Questi segni vengono tenuti segreti da chi è in grado di tracciarli. Danno in questo modo agli oggetti proprietà uniche. Autorità: 4.1\n\nStregoneria:"
+    "text": "Fattucchieria:\ncapacità di imprimere segni sulle cose. Questi segni vengono tenuti segreti da chi è in grado di tracciarli. Danno in questo modo agli oggetti proprietà uniche. Autorità: 4.1\n\nStregoneria:",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#erboristeria",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#erboristeria",
     "title": "Istruzione magica",
     "section": "Erboristeria:",
-    "text": "Erboristeria:\nuna complessa pratica che prevede la modifica dei corpi, che ottengono proprietà insolite, smuovendo diversi metalli con ottima autorità, assumendo determinate sostanze. Sostanze che sono state contaminate da numerosi effetti. Autorità: 4.2\n\nMarchi\nuna modifica a Marchio è una modifica che viene fatta alla struttura della creatura che lo possiede, che acquisisce una capacità magica, come se fosse innata. Ha Autorità: 4.2"
+    "text": "Erboristeria:\nuna complessa pratica che prevede la modifica dei corpi, che ottengono proprietà insolite, smuovendo diversi metalli con ottima autorità, assumendo determinate sostanze. Sostanze che sono state contaminate da numerosi effetti. Autorità: 4.2\n\nMarchi\nuna modifica a Marchio è una modifica che viene fatta alla struttura della creatura che lo possiede, che acquisisce una capacità magica, come se fosse innata. Ha Autorità: 4.2",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#arte-magica",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#arte-magica",
     "title": "Istruzione magica",
     "section": "Arte magica:",
-    "text": "Arte magica:\nun tipo magia basata sulla manipolazione di metalli che hanno una influenza minoritaria. Autorità: 5\n\nAbilità leggendarie\nsenza che sia noto a chi le pratica, esse hanno una minima influenza magica. Pertanto hanno in realtà Autorità 5"
+    "text": "Arte magica:\nun tipo magia basata sulla manipolazione di metalli che hanno una influenza minoritaria. Autorità: 5\n\nAbilità leggendarie\nsenza che sia noto a chi le pratica, esse hanno una minima influenza magica. Pertanto hanno in realtà Autorità 5",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Approfondimenti/Magia.html#alchimia",
     "href": "capitoli/Lore/Approfondimenti/Magia.html#alchimia",
     "title": "Istruzione magica",
     "section": "Alchimia:",
-    "text": "Alchimia:\nun tipo di magia che prova a muovere il Pavranio con altro Pavranio. Solitamente infatti tra le più deboli, e forse vicina alla scienza come la intendiamo fuori dal gioco. Autorità: 6"
+    "text": "Alchimia:\nun tipo di magia che prova a muovere il Pavranio con altro Pavranio. Solitamente infatti tra le più deboli, e forse vicina alla scienza come la intendiamo fuori dal gioco. Autorità: 6",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Lore",
+      "Approfondimenti",
+      "Istruzione magica"
+    ]
   },
   {
     "objectID": "capitoli/Lore/Generale.html",
@@ -560,14 +620,19 @@
     "href": "capitoli/Regole/ruolo.html",
     "title": "Ruolo di gioco",
     "section": "",
-    "text": "Alcune costruzioni del personatggio danno accesso a un determinato ruolo di gioco.\nIn Generale si può riconosere un ruiolo senza tante cerimonie, cioè davanti a un “posso essere l’investigatore della città?” non ho motivi per dire di no. Magari mi assicuro che non abbiuate la buiild di un barbaro razziatore, ma in linea di massima si può dire di sì e basta. ù\nAlcuni ruoli però hanno un valore più rilevante per l’ambientazione in generale, per questo non posso semplicemenete dire di sì, senza che ci assicuriamo che sappiate cosa significa e che abbiate la build almeno adeguata per giocarla.\n\n\nContenuto segreto per PG\n\n\n\n\nContenuto per DM\n\n\n\nBardo\nSe avete il sogno bardico siete un bardo, avete cioè ricevuto l’addestramento da Bardo. In ogni città in cuio andrete, se vi farete riconsocere come Bardi, vi porteranno rispetto. Gli altri Bardi del mondo vi riconosceranno e così molti altri npc avranno rispetto del vostro ruolo. Ottenete queste capacità\n\nPuoi vedere l’irradion tirando di Carisma, e provare a dominarlo.\nHai accesso ai file di Istruzione Magica\nHai vissuto il Battesimo del Lago Bianco (vedi file apposito)\n\n\n\nPirata\nSe hai preso Marinaio puoi chiedere di essere un pirata.\n\nHai accesso a una nave, nel ruolo che preferisci\nDisponi di contatti nei traffici mercantili illegali e/o legali\nConosci le rotte per navigare nel mondo, che hanno un altissimo valore dal punto di vista commerciale\n\n\n\nVenator\nSe hai un numero sensato di capaccità da cacciatore, puoi esserte un Venator. ù I venatores si dividono a seconda della caccia di pertinenza (Vampiri, Draghi, Demoni, Bestie) Ottieni quanto segue\n\nAccesso alla Lore dei Venatores\nDevi rispettare il Codex Venatorium, come spiegato nel file della Lore\nHai accesso ai Rifugi dei Cacciatori\nEquipaggiamento specifico a seconda della categoria, vedi sotto\n\n\nCacciatore di Vampiri\nUn cacciatore di vampiri possiede le seguenti abilità e strumenti:\n\nPercezione dell’aura: un venatores specializzato riconosce a occhio nudo quanta aura possiede un vampiro in una scala da 1 a 20. 20 non è il tetto massimo, è solo il tetto massimo percepibile dal cacciatore.\nPercezione magia vampirica: può tirare per cercare di capire se il vampiro che ha di fronte può accedere all’aura di un mago (che sarebbe molto pericoloso, ovviamente)\nPossiede tra il suo equipaggiamento una spada o altra arma di argento.  (che tiene in un fodero che li maschera all’olfatto raffinato dei vampiri) (Le armi in argento triplicano il danno inferto ai vampiri)\nPossiede anche una catena di Argento di 12 metri, utile alle sue operazioni di caccia ai vampiri.\nHa avuto la grazia di sviluppare l’immunità al loro specifico anestetico\nÈ in grado di creare un Cerchio alchemico: un perimetro entro il quale la capacità del vampiro di accedere all’aura è molto indebolita. Per attivarlo deve preparare con dei rituali magici che gli sono stati insegnati di cui non conosce il significato, ma sa replicarli. L’area si estende per una trentina di metri di raggio, e viene preparata in un paio di minuti.\nTecniche di caccia condivise: se ha tanti aiuti, può utilizzare delle catene fatte in solo argento (dal costo molto molto elevato) per imprigionare un vampiro. Questo può avere molti benefici per reperire informazioni.\nFiale di Veleno per vampiri (di quello autoiniettabile): se il vampiro ti beve mentre l’hai in corpo dovrebbe perdere conoscenza. Hai avuto la grazia di sviluppare l’immunità anche a questo veleno.\n\n\n\nCacciatore di Demoni\nSei equipaggiato con un arma in Argento Bianco\nL’argento Bianco è un materiale a base argento ( quindi un sottoprodotto del [[Pavranio]] come tutti i metalli) infuso col sangue degli angeli. Queste armi hanno la proprietà di poter colpire - gli [[Dèi]], anche se si tratterebbe di una mossa suicida, - i [[Mannari]] più come effetto collaterale che voluto, - i [Tiefling] visti inizialmente come servitori degli dei della Luna.\nCome caratteristiche generali invece - Un’arma in argento bianco non può essere danneggiata in alcun modo. - L’argento bianco ha come altra caratteristica notevole quella di lasciarsi incantare con molta facilità, offrendo poca se non nulla resistenza ai sovraincantamenti senza alcun limite.\nInoltre, ovviamente conosci il Demoniaco\n\n\nCacciatore di Draghi\nOttieni i seguenti vantaggi\n\nConosci il draconico\nTu hai l’addestramento di primo livello per l’utilizzo del sangue di drago. Qualsiasi classe costruirai, avrai a disposizione tre boccette iniettabili col seguente effetto: “Per 5 turni ottieni le seguenti caratteristiche\n\n+30 punti ferita\n+4 ai tutti i danni inferti\n+2 ai tiri per colpire\nnon puoi essere spaventato Una volta esaurite le boccette devi trovare un rifugio da Venatores e io vedo se te ne danno altro tirando. Come regola non ne si dà più di tre alla volta, perché sono molto costose. Ne puoi usare una per riposo breve.\n\nGiacca di pelle di drago (la prima vittima che hai fatto), ignifuga, armatura media.\nDardi per balestra in [[Meteorite]] che hanno qualche porbabilità in più di perforare le scaglie dei draghi.\nArpione retrattile\n\n\n\nCacciatore di Bestie\nSei stato addestrato alle seguenti capacità\n\nTecniche di caccia avanzate (Vedi File Venatores)\nOttieni Parlare con animali\nOttieni uno sconto del 50% in tutte le erboristerie (non valido per Infusioni)"
+    "text": "Alcune costruzioni del personatggio danno accesso a un determinato ruolo di gioco.\nIn Generale si può riconosere un ruiolo senza tante cerimonie, cioè davanti a un “posso essere l’investigatore della città?” non ho motivi per dire di no. Magari mi assicuro che non abbiuate la buiild di un barbaro razziatore, ma in linea di massima si può dire di sì e basta. ù\nAlcuni ruoli però hanno un valore più rilevante per l’ambientazione in generale, per questo non posso semplicemenete dire di sì, senza che ci assicuriamo che sappiate cosa significa e che abbiate la build almeno adeguata per giocarla.\n\nBardo\nSe avete il sogno bardico siete un bardo, avete cioè ricevuto l’addestramento da Bardo. In ogni città in cuio andrete, se vi farete riconsocere come Bardi, vi porteranno rispetto. Gli altri Bardi del mondo vi riconosceranno e così molti altri npc avranno rispetto del vostro ruolo. Ottenete queste capacità\n\nPuoi vedere l’irradion tirando di Carisma, e provare a dominarlo.\nHai accesso ai file di Istruzione Magica\nHai vissuto il Battesimo del Lago Bianco (vedi file apposito)\n\n\n\nPirata\nSe hai preso Marinaio puoi chiedere di essere un pirata.\n\nHai accesso a una nave, nel ruolo che preferisci\nDisponi di contatti nei traffici mercantili illegali e/o legali\nConosci le rotte per navigare nel mondo, che hanno un altissimo valore dal punto di vista commerciale\n\n\n\nVenator\nSe hai un numero sensato di capaccità da cacciatore, puoi esserte un Venator. ù I venatores si dividono a seconda della caccia di pertinenza (Vampiri, Draghi, Demoni, Bestie) Ottieni quanto segue\n\nAccesso alla Lore dei Venatores\nDevi rispettare il Codex Venatorium, come spiegato nel file della Lore\nHai accesso ai Rifugi dei Cacciatori\nEquipaggiamento specifico a seconda della categoria, vedi sotto\n\n\nCacciatore di Vampiri\nUn cacciatore di vampiri possiede le seguenti abilità e strumenti:\n\nPercezione dell’aura: un venatores specializzato riconosce a occhio nudo quanta aura possiede un vampiro in una scala da 1 a 20. 20 non è il tetto massimo, è solo il tetto massimo percepibile dal cacciatore.\nPercezione magia vampirica: può tirare per cercare di capire se il vampiro che ha di fronte può accedere all’aura di un mago (che sarebbe molto pericoloso, ovviamente)\nPossiede tra il suo equipaggiamento una spada o altra arma di argento.  (che tiene in un fodero che li maschera all’olfatto raffinato dei vampiri) (Le armi in argento triplicano il danno inferto ai vampiri)\nPossiede anche una catena di Argento di 12 metri, utile alle sue operazioni di caccia ai vampiri.\nHa avuto la grazia di sviluppare l’immunità al loro specifico anestetico\nÈ in grado di creare un Cerchio alchemico: un perimetro entro il quale la capacità del vampiro di accedere all’aura è molto indebolita. Per attivarlo deve preparare con dei rituali magici che gli sono stati insegnati di cui non conosce il significato, ma sa replicarli. L’area si estende per una trentina di metri di raggio, e viene preparata in un paio di minuti.\nTecniche di caccia condivise: se ha tanti aiuti, può utilizzare delle catene fatte in solo argento (dal costo molto molto elevato) per imprigionare un vampiro. Questo può avere molti benefici per reperire informazioni.\nFiale di Veleno per vampiri (di quello autoiniettabile): se il vampiro ti beve mentre l’hai in corpo dovrebbe perdere conoscenza. Hai avuto la grazia di sviluppare l’immunità anche a questo veleno.\n\n\n\nCacciatore di Demoni\nSei equipaggiato con un arma in Argento Bianco\nL’argento Bianco è un materiale a base argento ( quindi un sottoprodotto del [[Pavranio]] come tutti i metalli) infuso col sangue degli angeli. Queste armi hanno la proprietà di poter colpire - gli [[Dèi]], anche se si tratterebbe di una mossa suicida, - i [[Mannari]] più come effetto collaterale che voluto, - i [Tiefling] visti inizialmente come servitori degli dei della Luna.\nCome caratteristiche generali invece - Un’arma in argento bianco non può essere danneggiata in alcun modo. - L’argento bianco ha come altra caratteristica notevole quella di lasciarsi incantare con molta facilità, offrendo poca se non nulla resistenza ai sovraincantamenti senza alcun limite.\nInoltre, ovviamente conosci il Demoniaco\n\n\nCacciatore di Draghi\nOttieni i seguenti vantaggi\n\nConosci il draconico\nTu hai l’addestramento di primo livello per l’utilizzo del sangue di drago. Qualsiasi classe costruirai, avrai a disposizione tre boccette iniettabili col seguente effetto: “Per 5 turni ottieni le seguenti caratteristiche\n\n+30 punti ferita\n+4 ai tutti i danni inferti\n+2 ai tiri per colpire\nnon puoi essere spaventato Una volta esaurite le boccette devi trovare un rifugio da Venatores e io vedo se te ne danno altro tirando. Come regola non ne si dà più di tre alla volta, perché sono molto costose. Ne puoi usare una per riposo breve.\n\nGiacca di pelle di drago (la prima vittima che hai fatto), ignifuga, armatura media.\nDardi per balestra in [[Meteorite]] che hanno qualche porbabilità in più di perforare le scaglie dei draghi.\nArpione retrattile\n\n\n\nCacciatore di Bestie\nSei stato addestrato alle seguenti capacità\n\nTecniche di caccia avanzate (Vedi File Venatores)\nOttieni Parlare con animali\nOttieni uno sconto del 50% in tutte le erboristerie (non valido per Infusioni)",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Manuale",
+      "Ruolo di gioco"
+    ]
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Introduzione",
     "section": "",
-    "text": "Il manuale è liberamente ispirato ai più famosi dei giochi di ruolo. Le regole però sono state ripensate per essere più flessibili e personalizzabili.\n\nMa i Livelli?\nIl GDR per Babbei nasce risolvendo l’annoso problema dei livelli con una risposta decisamente elegante: niente livelli. Si diventa più forti quando il master concede abilità, in linea con il character development, quando vi potenziate da soli (parlando con Fabbri magicanti ed Erboristi andando avanti nel gioco non è difficile), facendo patti con creature, dèi, e così via.\nMa il gdr in primis non nasce con l’idea di diventare semplicemente forti, bensì il gioco che state realmente giocando è “scegliete come sviluppare i conflitti che il DM ha pensato sulla base del background del vostro pg”. I livelli si fottano. Se giocate bene e l’ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)\nmodifica\nLink di prova per la cultura generale\n\n\nSezione per il DM\nQuesta parte è segreta.",
+    "text": "Il manuale è liberamente ispirato ai più famosi dei giochi di ruolo. Le regole però sono state ripensate per essere più flessibili e personalizzabili.\n\nMa i Livelli?\nIl GDR per Babbei nasce risolvendo l’annoso problema dei livelli con una risposta decisamente elegante: niente livelli. Si diventa più forti quando il master concede abilità, in linea con il character development, quando vi potenziate da soli (parlando con Fabbri magicanti ed Erboristi andando avanti nel gioco non è difficile), facendo patti con creature, dèi, e così via.\nMa il gdr in primis non nasce con l’idea di diventare semplicemente forti, bensì il gioco che state realmente giocando è “scegliete come sviluppare i conflitti che il DM ha pensato sulla base del background del vostro pg”. I livelli si fottano. Se giocate bene e l’ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)\nmodifica\nLink di prova per la cultura generale\n\n\nContenuto segreto per PG\n\n\n\n\nContenuto per DM",
     "crumbs": [
       "Scarica scheda PG",
       "Introduzione"
