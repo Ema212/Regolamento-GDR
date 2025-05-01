@@ -17,16 +17,20 @@ website:
        contents:
         - capitoli/Regole/Regole.qmd
         - capitoli/Regole/Combattente.qmd
+        - capitoli/Regole/ruolo.qmd
         - capitoli/Regole/Mago.qmd
         - Capitoli/Regole/Chierico.qmd
-        - capitoli/Regole/Biblio.qmd
      - section: "Mercato"
        contents: 
         - capitoli/Mercato/veleni.qmd
      - section: "Lore" 
        contents: 
         - capitoli/Lore/Generale.qmd
-        - capitoli/Lore/Magia.qmd
+        - section: "Approfondimenti"
+          contents:
+          - capitoli/Lore/Approfondimenti/Magia.qmd
+          - capitoli/Lore/Approfondimenti/Bardi.qmd
+          - capitoli/Lore/Approfondimenti/Venatores.qmd
      - section: "Utilities"
        contents: 
         - capitoli/Utilities/regole fight rapide.qmd

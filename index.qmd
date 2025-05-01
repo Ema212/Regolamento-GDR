@@ -18,12 +18,11 @@ modifica
 
 Link di prova per la [cultura generale](capitoli/Lore/Cultura generale.qmd)
 
+<div class="pg-only" style="display:none;">
+  <p>Contenuto segreto per PG</p>
+</div>
 
-::: {.dm-only style="display: none;"}
-
-### Sezione per il DM
-
-Questa parte è segreta.
-
-:::
+<div class="dm-only" style="display:none;">
+  <p>Contenuto per DM</p>
+</div>
 
