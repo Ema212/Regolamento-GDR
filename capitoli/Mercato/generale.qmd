@@ -1,8 +1,9 @@
 ---
 title: "Mercato generico"
-output-file: generale
+output-file: generale.html
 format:
   html:
     theme: default
 ---
 
+Il mercato generale

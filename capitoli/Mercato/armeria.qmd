@@ -1,15 +1,15 @@
 ---
 title: "Armeria, benvenuti dal fabbro"
-output-file: armeria
+output-file: armeria.html
 format:
   html:
     theme: default
 ---
 
-### **Armi Bianche**
+## **Armi Bianche**
 
-| **Armi in mischia** | **Danno**   | **Descrizione** | **Costo Indicativo** |
-|  |  |  |  |
+| **Nome** | **Danno**   | **Descrizione** | **Costo Indicativo** |
+| ---- | ---- | ---- | ---- |
 | Coltello| 3 taglienti | - | 5k  |
 | Spada Corta  | 6 taglienti | Possibilità di effettuare Disarmo e Destreggiarsi (se possedute)| 15k  |
 | Ascia da guerra | 4 taglienti + Forza | Impugnabile con competenza spada corta  | 25 k |
@@ -23,7 +23,7 @@ format:
 
 ## **Armi a Distanza**
 
-| **Armi a distanza** | **Danno**     | **Descrizione**                         | **Costo Indicativo** |
+| **Nome** | **Danno**     | **Descrizione**                         | **Costo Indicativo** |
 | ------------------- | ------------- | --------------------------------------- | -------------------- |
 | Coltello da lancio  | 2 taglienti   | 20m gittata                             | 5k                   |
 | Arco corto          | 4 perforanti  | 90m gittata                             | 20k                  |
@@ -35,7 +35,7 @@ Ogni altra arma può essere offerta come una skin diversa di queste armi, o come
 
 ## **Armature e Scudi**
 
-| **Scudi e armature** | **Descrizione** | **Costo Indicativo** |
+| **Nome** | **Descrizione** | **Costo Indicativo** |
 | -------------------- | --------------- | -------------------- |
 | Scudo piccolo  | Ogni colpo in mischia che passa viene parato con 1 su 1d6 | 20k    |
 | Scudo grande  | Ogni colpo in mischia che passa viene parato con 1-2-3 su 1d8.<br><br>Difende in questo modo (tirando) anche da fiancheggi ed opportunità.<br><br>2 Forza richiesto. | 40k   |
@@ -46,9 +46,9 @@ Ogni altra arma può essere offerta come una skin diversa di queste armi, o come
 
 ## Armi da fuoco 
 
-| **Nome**      | **Danno**         | **CD**            | **Portata massima** | **Colpi e ricarica** |
+| **Nome**      | **Danno**         | **CD**            | **Portata massima** | **Colpi** |
 | ------------- | ------------------ | ----------------- | ------------------- | -------------------- |
-| Pistola       | 7 perforanti       | +1 ogni 20 metri  |      200m              |      6 Colpi,   |
+| Pistola       | 7 perforanti       | +1 ogni 20 metri  |      200m              |      6 Colpi   |
 | Fucile        | 10 perforanti       | +1 ogni 100 metri | 700m                 | 4 Colpi              |
 | Gran Bastardo | 16 perforanti (danno doppio se ingaggiato corpo a corpo) | +1 ogni 5 metri   | 30m | 1 Colpo   |
 NB: Ricaricare costa un'azione 

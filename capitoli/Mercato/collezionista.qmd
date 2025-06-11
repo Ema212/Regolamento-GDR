@@ -1,6 +1,6 @@
 ---
 title: "Collezionista Arcano"
-output-file: collezionista
+output-file: collezionista.html
 format:
   html:
     theme: default
