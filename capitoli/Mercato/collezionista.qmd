@@ -1,0 +1,26 @@
+---
+title: "Collezionista Arcano"
+output-file: collezionista
+format:
+  html:
+    theme: default
+---
+
+Dal Collezionista molti oggetti saranno dei falsi o per nulla magici. È pertanto importante che sia possibile avere conferma con percezione del magico.
+
+Tutti gli oggetti hanno *Autorità 4.1*
+
+- Lente del rimpianto: con questa puoi leggere solo cose che sono state cancellate da una superficie scrivibile. 
+- Lampada di Lupin: illumina solo per chi la impugna
+- Giratempo: consente di aggiungere ore alla giornata nel momento in cui ci si trova. (L'effetto vale a tutto il mondo). Un mago può farlo senza pagare. Una persona normale paga 5 pf ogni volta. (Va sinotizzata, sintonizzata a sangue)
+- Portagioie
+- Maschera di Rulah: riesci a respirare evitando veleno nell'aria 
+- Orologio di Rulah: per il tempo in cui viene attivato l'orologio passi inosservato finché non parli con qualcuno. L'orologio conserva 1 ora tutti i giorni e le accumula.
+- Ghiandaia sentinella: questo piccolo uccello magico si lega al suo propietario. Inizia a canticchiare quando qualcuno ti sta origliando
+- Barattolo lunga forma: qualcosa di contenuto qui dentro non deperisce
+- Forziere dei pirati: quando qualcosa viene nascosto qui dentro, chiunque si scorda di cosa fosse quel qualcosa, ma da che c'è qualcosa.
+- Sfera atmosfera: una sfera di vetro appesa a una bella catena d'argento, all'iterno della quale ruota del pulviscolo, che assume le fattezze del meteo attuale. È possibile ruotare l'aggancio e fare variare il meteo.
+- Filo delle Parche: una bobina con 400 metri di filo molto sottile, che può essere tagliato solo da quelle forbici 
+- Lunga pipa di Odino: fumando questa pipa al contrario rilascia una enorme quantità di fumo. Pagando 2 danni ogni turno ci vedi. Nessun'altro vede niente (se non con Occhio arcano). Il fumo è denso e pesante, si disperde da quanto smetti di fumare in una trentina di secondi.
+- Libro di non-dove: se lasci una pagina del libro in un posto le persone all'interno sono perse. L'effetto termina nell'istnate in cui viene staccata dal muro, (e se viene riattaccata comunqeu ha perso il suo effetto)
+- Pennello di Rikka: devi comprare l'inchiostro, si misura in unità di disegno. (1 boccetta materiale base cioè tipo legno e corda 5 unità di disegno, acciaio e ferro a 5 oro a boccetta.)

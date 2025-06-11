@@ -1,0 +1,8 @@
+---
+title: "Storia"
+output-file: storia
+search: false
+format:
+  html:
+    theme: default
+---

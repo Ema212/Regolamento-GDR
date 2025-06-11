@@ -1,0 +1,16 @@
+---
+title: "Nephelim- Mezzo angelo"
+search: false
+format:
+  html:
+    theme: default
+---
+**Razza giocabile**
+
+- Puoi fare apparire sulla schiena delle ali, velocità di volo 9m
+- Lingua Celestiale
+- 9m movimento
+- Ottiene la capacità speciale *Empatia* (puoi tirare per capire quale sia il maggiore turbamento del momento di una creatura).
+- Sei virtualmente immortale
+- Ottieni *Rilucere vita* (fino a una volta per riposo breve, un colpo o effetto che dovrebbe farti scendere sotto 1 pf non ti fa invece niente)
+

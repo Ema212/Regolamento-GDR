@@ -1,0 +1,14 @@
+---
+title: "Pirata"
+search: false
+format:
+  html:
+    theme: default
+---
+**Ruolo nascosto**
+
+Se hai preso Marinaio puoi chiedere di essere un pirata. 
+
+- Hai accesso a una nave, nel ruolo che preferisci
+- Disponi di contatti nei traffici mercantili illegali e/o legali
+- Conosci le rotte per navigare nel mondo, che hanno un altissimo valore dal punto di vista commerciale 

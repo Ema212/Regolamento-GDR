@@ -1,0 +1,36 @@
+---
+title: "Elfo"
+search: false
+format:
+  html:
+    theme: default
+---
+
+**Razza Segreta**
+*NB* per giocare questa razza è necessario accordarsi col DM. Tipicamente giocare razze così forti lascia la possibilità al DM di concedere potenziamenti anche agli altri player, oppure è essenziale costruire la run non attorno al combattimento, per non oscureare gli altri giocatori, e dare uno spessore narrativo molto impattante al tuo pg. Il DM potrebbe anche non accordartelo, o accordartelo con delle limitazioni.
+
+- Hanno vittoria automatica prove di forza tranne 1 Nat. Punteggio dj forza, qualora servisse per i modificatori da aggiungere, è 10
+
+- Statistica: Potenza (Possono eseguire quei gesti che per le persone non sono nemmeno pensabili (sollevare una lavatrice a braccio teso per capirci))
+
+- Vantaggio 
+  - prove di arrampicarsi 
+  - triplo nelle prove di costituzione (non contro veleni) 
+
+- Scherma elfica automatica (cioè provano a romperti l'arma ad ogni prova colpo con una prova di forza. Se l'arma resiste per 20 Nat o metallo, subisci comunque 1d8 danni da urto)
+
+- Hanno invulnerabilità generiche alle condizioni legate alla temperatura, possono rimanere senza bere per 10 giorni, senza mangiare per 3 mesi, immunità a knockbakc di qualsiasi sorta. 
+
+- Hanno scuro visione superiore
+
+- La loro velocità raddoppia.
+
+- Danno senz'arma 5 pesanti 
+
+- Colpo a max forza: se lo dichiarano prima, possono aggiungere
+  - 10 danni a tutte le armi pesanti 
+  - 8 danni a tutte le armi perforanti 
+  - 5 danni a tutte le armi taglienti. 
+- Nota, l'arma rischia di rompersi o danneggiarsi in alcuni punti, a discrezione del dm, se non è stata fatta apposta, e non può esserlo di background 
+
+- Un elfo aggiunge 30 pf ai suoi pf permanenti.

@@ -1,0 +1,134 @@
+---
+title: "Dèi"
+output-file: dèi
+format:
+  html:
+    theme: default
+---
+
+Gli dèi sono reali, esistono, e non c'è nessuno sano di mente che non ci crede in senso stretto. Piuttosto, la fede si misura rispetto a quanto si può essere folli nel pregare un dio che pur esistendo ti sta ignorando, non ha motivo di amarti o di aiutarti. 
+
+Eppure gli dèi possono essere pregati. Se la preghiera è abbastanza credibile, il DM può fare tirare un dado. E una certezza è che un Venti Nat significa che se non altro il dio ti ascolterà.  
+
+### Dei ctoni
+
+#### Minis
+
+che ha indicato una miniera fruttuosa agli abitanti di [[Tindia]], i quali sono diventati abili fabbri, rendendo famosa la manifattura delle loro armi.
+
+#### Argelun
+
+dio dei metalli e delle pietre preziose. Preghiere a lui consentono di sapere se un metallo è di un certo tipo o meno, anche se una piccola parte del metallo o della pietra svanisce. Un figlio di Selune, creato da lei appositamente per ottenere più controllo sul mondo, e per generare le stelle. 
+Pertanto acnhe adorato come dio Fabbro.
+-  Si dice che per farlo abbia ucciso l'antico dio Tronek, che era la forma del Pavranio solido con un pizzico di Giada, un Antico Elementale, sparpagliando in giro i suoi metalli ora dispersi.
+
+### Dei Che regolano il Mondo
+
+#### Heluvian
+
+Dio del tempo. Il Dio del tempo è fondamentalmente un grande Organo, che muvoe le sabbie del tempo contenuto al [[Cosmologia#Zona Celeste|Zona celeste]] del mondo. Questo organo costruito attorno ad un orologio, ha molte delle sue corde più acute forgiate con le corde vocali degli Angeli Potestà, vedi [[Angeli]]. 
+
+#### Mondul
+
+dio della vita e della Morte. Il Dio mantiene un ordine di chierici, detto i [[Ordine dei Chierici di Mondul]]
+
+#### Vardarack
+
+un dio sapiente, delle pestilenze, dei veleni e per estensione della medicia (non che abbia interessi a salvare la gente). Si dice che se esiste un veleno su Irradan è per opera sua, che sia stato da lui creato, nel tentativo di ingannare gli altri dei: egli era i grado di operare strane magie, senza l'ausilio di Oricaclo. In quanto tale un genio. 
+
+#### Freyma
+
+una dea spietata, guerriera, ferocissima, in grado di benedire gli uomini, con la benedizione di Freyma, che si dice abbia fondato  la famiglia [[De Cervantes]]. Nelle leggende del Vanghaal (vedi [[Fate]]) il sangue dei grandi guerrieri ha invece nome Freymar, appunto in collegamento alla dea. 
+
+La dea è nota per il suo carattere belligerante ed il suo spasmodico amore per la battaglia. Ha infatti generato per il solo desiderio di combattere un tempio, il tempio di [[Loriana]] collocato a Drasua [[Mappa Mondo.jpg]]. 
+
+
+### Divinità della Luna 
+
+#### Indra
+
+temutissima dea dei patti, è all'effettivo la prima dea della Luna. 
+Vedi [[Patto con Indra]] 
+
+#### Vengra
+
+divinità mostruosa partorita da Indra, fu lei a donare agli umani la runa [[Ingwaz]].  Fu lei a creare i [[Vampiri]], lasciando al mondo delle progenitrici Immortali, inscalfibili, [[Nalara e Lahzara]]. 
+
+#### Selune
+
+Dea della notte e della caccia. 
+
+Ella Bloccò il [cosmo](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/cosmo.html) come lo conosciamo: quando era il Chaos nell'universo, Selune per prima diede la Caccia ai Celestiali, i primi temibili esseri che si generarono, stabilendo che i loro confini doveesero essere nella Zona Celeste. Per Farlo generò le Stelle a chiudere la Galassia.
+
+Ha creato i Mannari utilizzando degli uomini, da cui la loro parziale intelligenza, come punizione per aver osato uccidere i suoi cervi bianchi. 
+è in grado di tracciare la runa Ehwaz per le coppie cacciatori-companion più  meritveoli. 
+
+Estratto dalle guerre degli angeli. "Ovviamente ne seguì un'ultima alleanza tra Espero e Allumi. Ma Ya'dhal profetizzò ad Estia che ne sarebbe risultato il massacro di tutti gli angeli. Allora Estia riscosse un favore alla dea Selune, che fu responsabile quel giorno del massacro di Cherubini e Dominazioni. Da quel giorno Selune potè illuminare la Luna, col sangue di molti angeli avanzato dalla guerra."
+
+### Divinità del Sole
+
+Il giorno in cui la Luna si arrabbiò col sole, la colpì. Indra uccise Elios. La divinità Sole è andata distrutta nelle sue quattro componenti. Il calore e la luce del Sole sono dovuti al potere di Elio. Quando Indra lo uccise, ne tagliò a pezzi la volontà, eludendo le sue difese. Ma la sua forza ed essenza non andò mai perduta. Rimane lì, il cadavere del sole.
+
+Al giorno in cui fu distrutta, avvenne una grandissima guerra, nota nelle ballate delle [Guerre degli Angeli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/guerreangeli.html), in cui fu deciso a chi appartenesse l'esercito  una volta appartenuto al dio Sole. La guerra infine fu vinta da Elìa, per cui ora a lui fanno capo.
+
+#### Allumi 
+
+La parte del sole che traccia i confini. La divinità del limite, della precisione in qualche modo. Come una divinità che incarna l'insennatezza del limite fine a se stesso, per questo visto come divinità capricciosa, infantile nei suoi assolutismi. Una divinità giovane (relativamente). Sceglie i suoi seguaci senza che loro possano opporsi, li minaccia se non lo venerano, e li aiuta se lo fanno. Tirannico e terribile. Tra le altre cose, al popolo del Surdan di cui Helemon fu l'ultimo portatore, insegnò la runa Sowilo. 
+
+#### Estia
+
+Dea del focolare. Il suo ordine  di chierici sa che Estia non esiste più, è morta, uccisa da Indra, ma prima di morire ha fondato molti e molti altari, concedendo la sua energia agli altari per continuare a fondare altri chierici. Si usa il ricordo del potere della dea. Ma nessun altro al mondo ne è a conoscenza: i falò  di estia, sparsi in tutto il mondo, sono lupoghi sacri, dove vige l' *interdizione delle armi*, perimetri interni ai quali brucia un fuoco e perenne, e non è possibile ferire nessuno. In questi falò si è al riparo da tutti i pericoli. Se si brucia un *Carbone incantato* all'interno di questi perimetri nel focolare, si evoca un sacerdote di Estia
+
+(Una sacerdotessa che risponde ancora a questo rituale è Esimira)
+
+**I Focolare di Estia**: lungo alcuni percorsi essistono delle zone franche seminascoste. Sono i punti in cui la dea Estia ha imposto che non vi potessero essere attacchi, in cui non ci si può uccidere. Nessuno viola questo comandamento alla leggera, pertanto è uno dei pochi ancoraggi di sicurezza del mondo.
+
+Una dea che conosceva molte Rune
+- Berkano, tracciata in prossimità di tutti i suoi focolari, magia sopra le magie che li protegge 
+
+#### Elìa
+
+Dio della giusta rettitudine. O meglio, così si vende, specialmente ai suoi fratelli. Ha preso in consegna ciò che è rimasto dell'esercito di Elio, e lo governa. A lui appartengono le schiere di Angeli che riposano sulle Rocche del Sole, e da lui discendono gli Ephelim
+
+#### Espero
+
+Dio del tramonto e dell'alba, dai significati complessi, al limite morale, intrattiene grandi rapporti con Mondul a mediare i loro poteri.
+
+Una grande lontana saggezza conservata nel [Bka’-’gyur](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/espero.html), il canone esperiano. 
+
+### Dei oceanici
+
+#### Seltan
+antico dio dimenticato dei naviganti. Un antico dio delle tempeste, della forza, del mare e della roccia.
+
+-  Ha insegnato la runa Laguz all’umanità, navi con quella runa, quelle che rimangono, sono incredibili: riescono a navigare nei venti in tempesta, non hanno bisogno di manutenzione, non hanno quasi mai bonaccia, riescono in manovre pericolose,  e tornano sempre a casa. Ora è stato dimenticato, rimangono solo poche navi a sua memoria. 
+- Inoltre, è il dio che ha creato gli elfi ai tempi dei Giorni senza Nome
+
+
+#### Quolnam
+
+Che ha purificato le acque putride di [[Croce dei Popoli]], donando al popolo di [[Linzia]] la supremazia su quelle acque, che loro sono in grado di utilizzare.
+
+### Dei del cielo
+
+#### Manor
+
+dio del fulmine e della tempesta. Si dice che quando l'Oricalco torna ad essere Pavranio cada sulla terra in forma di fulmine. si dice che la pioggia sia il dono che Manor fa all'umanità dopo aver purificato l'acqua con la magia. Manor si configura come un dio alto e smilzo, con vesti lunghe e capelli lunghi e neri. Impugna un grandissimo martello a due mani. Ha creato lui tutta una serie di creature. Suo figlio è Mistral.
+
+#### Mistral
+
+antico dio del vento che ha concesso di cavalcare i grifoni, donando alla città di [[Klessa]] (Nota anche come Mistral, per semplicità) il potere di restare dove si trova per molto tempo. I suoi figli sono i [[Grifoni]], 
+
+#### Farahl
+
+dio antico del fuoco. Si intende come dio del fuoco perché è il dio che gli umani pregavano quando avevano paura del fuoco. 
+- Si dice che il fuoco sia solo un'emanazione del Pavranio che si avvicina allo stadio di Oricalco, e porti con sè tutta la materia che riesce. Pertanto è usato con idea sacrificale, e si dice che quando il fuoco prende qualcosa sia Farahl, almeno quelli che credono in lui, a riprendersi ciò che gli uomini hanno rubato. (Pertanto tutti i rari adoratori dei [[Draghi]] hanno questa opinione dei draghi, anche se in realtà non si sa il motivo della loro creazione)
+- A sua diretto controllo è [[Ordine dei Braceri]]
+
+####  Bora
+
+Dea dei ghiacci e del freddo
+
+#### Meltani
+
+Dio del vento caldo ma poi vedo se eliminarti 

@@ -1,5 +1,6 @@
 ---
 title: "Mago di Merlino"
+search: false
 format:
   html:
     theme: default
@@ -644,6 +645,6 @@ Conoscere: (Aggiungere 28x+1)
 
 Abilità Speciali:
 
-- Individuazione magico
+- [Percezione magico](/capitoli/Regole/meccaniche_nascoste/percezione_magico.html)
 
 

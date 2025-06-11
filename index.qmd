@@ -1,28 +1,131 @@
 ---
-title: "Introduzione"
+title: "Benvenuto, Giocatore"
 format:
   html:
     theme: default
 ---
 
-Il manuale è liberamente ispirato ai più famosi dei giochi di ruolo. Le regole però  sono state ripensate per essere più flessibili e personalizzabili.
-
-### Ma i Livelli? 
-
-Il GDR per Babbei nasce risolvendo l'annoso problema dei livelli con una risposta decisamente elegante: niente livelli. 
-Si diventa più forti quando il master concede abilità, in linea con il character development, quando vi potenziate da soli (parlando con Fabbri magicanti ed Erboristi andando avanti nel gioco non è difficile), facendo patti con creature, dèi, e così via. 
-
-Ma il gdr in primis non nasce con l'idea di diventare semplicemente forti, bensì il gioco che state realmente giocando è "scegliete come sviluppare i conflitti che il DM ha pensato sulla base del background del vostro pg". I livelli  si fottano.  Se giocate bene e l'ambientazione lo prevede diventerete forti. (se non morite nel frattempo.)
-
-modifica
-
-Link di prova per la [cultura generale](capitoli/Lore/Cultura generale.qmd)
-
-<div class="pg-only" style="display:none;">
-  <p>Contenuto segreto per PG</p>
+<!-- Hero header con immagine -->
+<div style="height: 80vh; background-image: url('imagines/immagine.jpg'); background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; color: white; font-size: 2em;">
 </div>
+
 
 <div class="dm-only" style="display:none;">
   <p>Contenuto per DM</p>
+
+<!-- INIZIO COSE DM ------------------------------------------------------------------------- -->
+
+## Lore Nascosta 
+
+- [Angeli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/angeli.html)
+- [Bardi](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/bardi.html)
+- [Celestiali](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/celestiali.html)
+- [Cosmologia](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/cosmo.html)
+- [Bestiario](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/creature.html)
+- [Guerre degli angeli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/guerreangeli.html)
+- [Elenco metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html)
+- [Rune](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/rune.html)
+- [Stelle](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/stelle.html)
+- [Venatores](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/venatores.html)
+- [Vie sicure](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/vie_sicure.html)
+
+## Classi Nascoste 
+
+- [Arcanista](/capitoli/Regole/Classi%20Nascoste/arcanista.html)
+- [Astrologo](/capitoli/Regole/Classi%20Nascoste/astrologo.html)
+- [Bardo](/capitoli/Regole/Classi%20Nascoste/bardo.html)
+- [chierico](/capitoli/Regole/Classi%20Nascoste/chierico.html)
+- [Elfo](/capitoli/Regole/Classi%20Nascoste/elfo.html)
+- [Figlio di Fata](/capitoli/Regole/Classi%20Nascoste/figlio_di_fata.html)
+- [Gnomo](/capitoli/Regole/Classi%20Nascoste/gnomo.html)
+- [Mago da Guerra](/capitoli/Regole/Classi%20Nascoste/mago_guerra.html)
+- [Nephelim](/capitoli/Regole/Classi%20Nascoste/nephelim.html)
+- [Pirata](/capitoli/Regole/Classi%20Nascoste/pirata.html)
+- [Vampiro](/capitoli/Regole/Classi%20Nascoste/vampiro.html)
+- [Venatores](/capitoli/Regole/Classi%20Nascoste/venatores.html)
+
+## Meccaniche Nascoste
+
+- [Percezione magico](/capitoli/Regole/meccaniche_nascoste/percezione_magico.html)
+
+## Power up 
+
+
+<!-- FINE COSE DM ------------------------------------------------------------------------- -->
 </div>
 
+## Orientarsi nel Gioco
+
+### Come cazzo si chiamava il file quello con le regole? 
+
+[Eccolo](/capitoli/Regole/combattente.qmd)
+
+### Bellissimo Ema ma come mi oriento? 
+
+- La cartella "**Lore**" risponde alle tue domande sull'ambientazione, ci sono 5 files di approfondimento. Le altre 3000 pagine del sito non sono elencate, ma si raggiungono leggendo la lore, perché la struttura è a imbuto.  Se trovate una pagina un po' imboascata che vi interessa vi consiglio di salvarvi il link da qualche parte.
+
+- La cartella "**Mercato**" contiene i punti di interesse che potete realisticamente trovare in quasi tutte le città. I prezzi e tutte le informazioni sono comunque rimessi  all'ultima parola del DM (mica che qualcuno pensi che una volta scritto su un sito statico in qmd abbia un significato esagerato.)
+
+- Il file [regole](/capitoli/Regole/regole.qmd) risponde alle domande tecniche sulle regole in generale. 
+
+Tenete a mente che molte parti sono ancora in costruzione. A brevissimo dovrebbe arrivare l'aggiornamento più significativo cioè quello dei veleni. 
+
+### Suggerimenti 
+
+Siete invitati a mandarmi suggerimenti, proposte di lore, segnalazioni di errori e compagnia, proposte  di oggetti che vi interesserebbe creare, etc, alla casella di posta che si apre infondo alle pagine.
+
+
+### Diffusione 
+
+Per ora non fate girare il sito. Per una decina di ragioni diverse. Perché non è pronto, perché non ho deciso cosa ce ne faremo, per ragioni di sicurezza (è hostato su ghithub, ma il codice sorgente è sempre a un click di distanza. E ci sono dei javascript qua dentro). E poi c'è un indirizzo email, che non è il massimo. 
+
+## Filosofia di Gioco
+
+Se avete già giocato con me, skippate pure.
+
+### Gioco di ruolo?
+
+Se per caso qualcuno non avesse mai giocato di ruolo, ecco a voi lo [spiegone](/capitoli/Regole/spiegone.html)
+
+### Ma non hai altro da fare nella vita? 
+
+Lasciamo stare 
+
+### Ma i Livelli? Presentazione del gioco
+
+A Ema i livelli non sono mai piaciuti. Non trovo che rendano possibile una massima espressività narrativa, non lasciano maglie abbastanza larghe alla fantasia, e suppongono che si possa diventare "forti" solo in una dimensione principalmente legata al combattimento. 
+
+Nonostante menare le mani sia centrale anche nel mio gioco, e ci mancherebbe, il combattimento è per me subordinato alla storia, allo sviluppo narrativo del vostro personaggio. 
+
+Ve lo spiego meglio, in DND normale, il contesto di gioc è "Siete degli avventurieri che hanno bisogno di soldi (pretesto per menare le mani molto battuto, solida alternativa a "cerco vendetta") quindi andate nei dungeon, menate i mostri, e livellate e diventate più forti". Non c'è contesto narrativo che mi stia più antipatico di così. 
+
+Io propongo un gioco in cui il vostro obbiettivo sia Dominare l'Ambientazione. Tipicamente ci sarà una qualche questione, legata sicuramente al background del vostro personaggio che vi darà motivo di menare le mani dove ce n'è bisogno, affinché voi possiate risolvere quel problema. Tipicamente per risolverloi vi sarà necessario (o facilitante)  esplorare la lore, l'ambientazione che ho così (ossessivamente) preparato per  e con voi. Diventerete forti quindi in un contesto preciso che riguarda il mondo che abbiamo creato assieme e la storia del vostro persoanggio. 
+
+Sia messo in chiaro che questo stile di gioco potrebbe anche non piacervi. In DND è quasi mandatorio una fight per sessione, o poco vicino. Qui no. Il fight c'è, se serve, se ve lo andate a cercare, ma si può anche schivare. C'è sempre un modo alternativo per superare i conflitti. 
+
+Per riassumere il mio gioco "L'ambientazione che ho creato procederà in una direzione o l'altra a seconda di come la influenzate voi. Finché vi muovete nei contorni della mia ambientazione, potete agire come volete. "
+
+### Si,si, bello, quindi come si diventa forti? 
+
+Ci sono una serie  di modi. 
+- Narrativa: il DM può accordare un ruolo forte, un esercito, un che cazzo ne so, a seconda di come giocate, di cosa scegliete di fare 
+- Negozi: non sottovalutate tutto quello che può essere reperito nelle sezione mercato. Una manciata di pozioni può rendervi molto forte, specie se le infondete nelle armi. Oppure potete andare a fare incantare le armi. Questi sono i metodi pigri, e comunque giocatori molto raffinati riusciranno a rompere il gioco anche solo con queste meccaniche. 
+- Power-up: ci sono molti tipi di power up che potete trovare quà e là nel gioco, o che potete  andarvi anche a cercare 
+  - Item: oggetti, armi e affini che vi rendano più forti 
+  - Abilità: potete sbloccare numerose abilità nel gioco
+  - Patti: potete creare patti con numerose entità (es: la dea Indra)
+  - Ricerca e sviluppo: andando per biblioteche, chiedendo a NPC di insegnarvi una capacità, esplorare la lore. Tutte modaliità che se ben gestite vi consentono di ottenere un power-up. 
+In generale più ci mettete del vostro più io facilmente vi seguirò. Non abbiate paura di chiedere e sperimentare. Potete anche propormi classi di gioco ex-novo. Tipicamente la mia risposta sarà un "possiamo provarci". 
+
+Ho avuto PG in grado di diventare forti facendo 20 nat al momento giusto, altri facendo improbabili patti con le Sirene, altri solo fregandomoi adeguatamente con i potenziamenti, altri sottomettendosi a una divinità.
+
+## Ma questo sito è sicuro? 
+
+Lo scrivo solo perché qualcuno dei miei giocatori è un po' paranoico ed è riuscito a farmi questa domanda:
+- Questo è un sito statico
+- Ci sono solo due file js e li ho scritti interamente con le mie manine d'oro (sbatta)
+- HTTPS 
+- Hostato su Github 
+- Ogni push request deve essere approvata in due passaggi (sbatta)
+
+Per essere un sito con le regole di un gdr e basta, è fin troppo sicuro. 

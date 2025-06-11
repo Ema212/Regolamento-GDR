@@ -85,5 +85,153 @@
   },
   "capitoli/Regole/ruolo.qmd": {
     "ruolo.html": "16660fdb"
+  },
+  "capitoli/Lore/Approfondimenti/venatores.qmd": {
+    "venatores.html": "64c878cc"
+  },
+  "capitoli/Mercato/armeria.qmd": {
+    "armeria.html": "89a4f405"
+  },
+  "capitoli/Mercato/collezionista.qmd": {
+    "collezionista.html": "e5714d2b"
+  },
+  "capitoli/Mercato/fabbromagico.qmd": {
+    "fabbromagico.html": "4d735e56"
+  },
+  "capitoli/Mercato/generale.qmd": {
+    "generale.html": "72d6ae73"
+  },
+  "capitoli/Lore/Approfondimenti/città.qmd": {
+    "città.html": "da6d89ab"
+  },
+  "capitoli/Lore/Approfondimenti/dèi.qmd": {
+    "dèi.html": "5632afb9"
+  },
+  "capitoli/Lore/Approfondimenti/foreste.qmd": {
+    "foreste.html": "7948b561",
+    "bardi.html": "ca4e130c"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/angeli.qmd": {
+    "angeli.html": "8238fd3f"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/bardi.qmd": {
+    "bardi.html": "83092a37"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/celestiali.qmd": {
+    "celestiali.html": "a688d6c3"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/cosmo.qmd": {
+    "cosmo.html": "a8c3dc5a"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/creature.qmd": {
+    "creature.html": "b03a2af8"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/guerreangeli.qmd": {
+    "guerreangeli.html": "f8fd0d92"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/metalli_completo.qmd": {
+    "metalli_completo.html": "aea5a57b"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/rune.qmd": {
+    "rune.html": "be51086e"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/stelle.qmd": {
+    "stelle.html": "9eabcba0"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/venatores.qmd": {
+    "venatores.html": "aeb5bc2e"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/vie_sicure.qmd": {
+    "vie_sicure.html": "6809bdd0"
+  },
+  "capitoli/Lore/Approfondimenti/magia.qmd": {
+    "magia.html": "74a7efc4"
+  },
+  "capitoli/Lore/Approfondimenti/storia.qmd": {
+    "storia.html": "466084bd"
+  },
+  "capitoli/Lore/generale.qmd": {
+    "generale.html": "631f7326"
+  },
+  "capitoli/Power-Up/abilità.qmd": {
+    "abilità.html": "65da319e"
+  },
+  "capitoli/Power-Up/armi_legg.qmd": {
+    "armi_legg.html": "1fb4c740"
+  },
+  "capitoli/Power-Up/oggetti_legg.qmd": {
+    "oggetti_legg.html": "d868875c"
+  },
+  "capitoli/Regole/Classi Nascoste/arcanista.qmd": {
+    "arcanista.html": "f7838d81"
+  },
+  "capitoli/Regole/Classi Nascoste/astrologo.qmd": {
+    "astrologo.html": "0b891266"
+  },
+  "capitoli/Regole/Classi Nascoste/bardo.qmd": {
+    "bardo.html": "f11d6c42"
+  },
+  "capitoli/Regole/Classi Nascoste/chierico.qmd": {
+    "chierico.html": "6a25f9e8"
+  },
+  "capitoli/Regole/Classi Nascoste/elfo.qmd": {
+    "elfo.html": "0b758d16"
+  },
+  "capitoli/Regole/Classi Nascoste/figlio_di_fata.qmd": {
+    "figlio_di_fata.html": "64bef505"
+  },
+  "capitoli/Regole/Classi Nascoste/gnomo.qmd": {
+    "gnomo.html": "1e6df690"
+  },
+  "capitoli/Regole/Classi Nascoste/mago.qmd": {
+    "mago.html": "9433715f"
+  },
+  "capitoli/Regole/Classi Nascoste/mago_guerra.qmd": {
+    "mago_guerra.html": "6e9f2c32"
+  },
+  "capitoli/Regole/Classi Nascoste/nephelim.qmd": {
+    "nephelim.html": "f4df009a"
+  },
+  "capitoli/Regole/Classi Nascoste/pirata.qmd": {
+    "pirata.html": "71fc06cc"
+  },
+  "capitoli/Regole/Classi Nascoste/vampiro.qmd": {
+    "vampiro.html": "0d7bd1d3"
+  },
+  "capitoli/Regole/Classi Nascoste/Venatores.qmd": {
+    "Venatores.html": "b1da24b0"
+  },
+  "capitoli/Regole/combattente.qmd": {
+    "combattente.html": "141212b8"
+  },
+  "capitoli/Regole/regole.qmd": {
+    "regole.html": "85ed9d5e"
+  },
+  "docs/capitoli/Lore/Approfondimenti/Città.qmd": {
+    "Città.html": "834f0595"
+  },
+  "docs/capitoli/Lore/Approfondimenti/Dèi.qmd": {
+    "Dèi.html": "bdebe87c"
+  },
+  "docs/capitoli/Lore/Approfondimenti/Lore Nascosta/Rune.qmd": {
+    "Rune.html": "5e82cb8f"
+  },
+  "docs/capitoli/Lore/Approfondimenti/Storia.qmd": {
+    "Storia.html": "defb57dc"
+  },
+  "docs/capitoli/Regole/Classi Nascoste/Mago.qmd": {
+    "Mago.html": "59f77bcb"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/espero.qmd": {
+    "espero.html": "53e219d1"
+  },
+  "capitoli/Power-Up/abilità/benedizioni.qmd": {
+    "benedizioni.html": "601909e2"
+  },
+  "capitoli/Regole/meccaniche_nascoste/percezione_magico.qmd": {
+    "percezione_magico.html": "c0a444ef"
+  },
+  "capitoli/Regole/spiegone.qmd": {
+    "spiegone.html": "8c22e856"
   }
 }

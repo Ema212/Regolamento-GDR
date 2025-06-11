@@ -1,0 +1,87 @@
+---
+title: "Chierico"
+search: false
+format:
+  html:
+    theme: default
+---
+
+
+**Classe segreta**
+Per giocare questa classe è necessario pagare un tot di punti CAR o GEN, spoecificatai a seconda del livello dell'Apostolo. In ogni caso, questa classe richiede di collaborare e decidere molte cose col DM. (aka: è una cosa un po' lunga)
+
+## Intro
+
+Chi intende giocare un Chierico deve sapere ovviamente che la questione dell'interpretazione del rapporto col Dio è centrale, e specifica, caso per caso. (Come le fedi vere,  per altro.)
+
+A seconda del Dio si può personalizzare la declinazione delle regole. Alcuni dèi hanno però delle regole già ordinate dalla lore,  quindi bisogna parlarne col DM. Gli dèi che hanno meccaniche diverse e sfuggono alla regolamentazione sono
+- Indra
+- Estia 
+- Mondul
+
+Un Chierico è in grado di elargire i Sacramenti. Una persona che ottiene il Battesimo diventa un Apostolo del dio. 
+Una volta che ottiene l'Ordine, diventa un Chierico a sua volta. 
+
+## Capacità 
+
+Ognuna delle capacità sbloccate dal Chierico ha _Autorità: 2_
+
+### I Sacramenti 
+
+-  Battesimo: ti rende un apostolo del Dio (**2 Car**)
+    - Sussurri divini: Se segui la volontà del Dio ottieni punti Karma. Ovviamente questo dipende dal Dio specifico, e il DM dà punti karma a seconda di quanto il ruolo è coerente e allineato alla questione del Dio. (Devi chiedere al DM punti karma alla fine della giornata di default. Il DM può darteli anche in altri momenti che ritiene meritevoli.)
+    - Le creature con capacità o visioni magiche riconsocnono il tuo status di Apostolo
+    - Giuramento: in base al tuo dio, ti accordi col DM: un punto karma ti consente di usare una abilità che il dio ti ha donato.
+- Confessione: ottieni la pace, il tuo stato spirituale è inattacbile, pertanto (**3 Car**)
+    - Sei immune alle maledizioni con Autorità inferiore a quella divina
+    - Sei resistente alle condizioni mentali, anche quelle magiche, con autorità inferiore 
+    - Invecchi più lentamente 
+- Comunione: ottieni una parte pura del potere del Dio, che si manifesta di te (**5 Car** + **20 Gen**)
+    - (Espansione del Dominio, in parole povere). Viene attivato una volta al giorno. Gli effetti particolari vengono concordati col DM.
+    - Io ti invoco: qualunque cosa tu stia compiendo adesso, il dio ti sta guardando.
+- Ordine: Diventi un Chierico a tutti gli effetti. Per ottenere questo sacramento è necessario passare delle prove e la valutazione del dio, non può semplicemente essere dato da un Chierico. (→ Vedi la Nota)
+    - Puoi impartire, se il dio concorda, la [benedizione](/capitoli/Power-Up/abilit%C3%A0/benedizioni.html) del tuo dio.
+
+
+### Talismani
+
+Un apostolo come un chierico è in grado di elargire anche i Talismani, e legarli alle divinità, con specifici effetti magici. Ovviamente è in grado di generare Talismani solo legati al proprio Dio. 
+
+Un chierico non può portare con sè un talismano, e li concede con parsimoniosità, perché sono un simbolo della benevolenza del Dio. 
+
+La creazione di Talismani costa punti Karma. A seconda di quanti ha intenzione di darne. 
+
+Un creatore di Talismani dalla sua ha solo che sa esattamente cosa fa il talismano quando viene creato, ma a meno che non sia divino, non può saperlo prima.
+
+### Nota
+
+per giocare questa classe è necessario accordarsi col DM. Tipicamente giocare razze così forti lascia la possibilità al DM di concedere potenziamenti anche agli altri player, oppure è essenziale costruire la run non attorno al combattimento, per non oscureare gli altri giocatori, e dare uno spessore narrativo molto impattante al tuo pg. Il DM potrebbe anche non accordartelo, o accordartelo con delle limitazioni.A seconda del sacramento che vuoi avere.
+
+## Chierici già creati 
+
+Si può usare questo elenco come una sorta di archivio dei poteri che sono stati sviluppati
+
+### Espero 
+
+Teniamo questo potere, sarà una cosa che farà avanzare le cose nel loro ciclo naturale.
+
+A seconda delle cose costerà di più o di meno.
+Tu puoi solo fare avanzare.
+
+Questo sarà chiaramente negativo perché ad esempio un albero marcisce, un muro si sgretola.
+Ma alcune cose hanno un ciclo ripetuto. Pertanto se procedi con la pianta, salirà un germoglio, e poi un nuovo fusto. Il muro, sgretolato che era, sgretolato rimane
+
+Questo dal punto di vista dei pf e delle pozioni può significare un po' di cose. Si, puoi accelerare i cicli di guarigione (ma sulle persone ti faccio pagare di più). Attento che se c'era un veleno mortale, o un cancro, e non lo sapevi, il ciclo naturale potrebbe ucciderlo
+
+Se si parla di un bambino, il ciclo accelerato lo farà crescere forte
+Se si tratta di una donna potrebbe anche farla partorire
+
+Se lo fai sul mare può cambiare il ciclo di marea
+
+Se lo fai su un fuoco, a seconda se si sarebbe estinto o meno, finirai per spegnerlo o per bruciare un'intera foresta
+Questo ci porta a "puoi vedere quale sarebbe il ciclo naturale di una X cosa"
+
+Ovviamente il ciclo se nessuno interviene
+
+Potenzialmente sai se qualcuno ha il cancro. Con il ciclo dovrebbe morire. Poi magari in giro c'è un medico con la chemio e si salva
+
