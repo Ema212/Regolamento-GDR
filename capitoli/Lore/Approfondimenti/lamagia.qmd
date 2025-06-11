@@ -1,6 +1,6 @@
 ---
 title: "Istruzione magica"
-output-file: magia
+output-file: lamagia
 format:
   html:
     theme: default
