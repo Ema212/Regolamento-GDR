@@ -1,6 +1,6 @@
 ---
 title: "Lo Siegone"
-output-file: spiegone
+output-file: spiegone.html
 format:
   html:
     theme: default

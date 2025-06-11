@@ -1,6 +1,6 @@
 ---
 title: "Regole e meccaniche"
-output-file: regole
+output-file: regole.html
 format:
   html:
     theme: default

@@ -1,6 +1,6 @@
 ---
 title: "Erboristeria- Veleni"
-output-file: veleni
+output-file: veleni.html
 format:
   html:
     theme: default

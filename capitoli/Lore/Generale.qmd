@@ -1,5 +1,6 @@
 ---
 title: "Lore-Cultura Generale"
+output-file: generale.html
 format:
   html:
     theme: default
