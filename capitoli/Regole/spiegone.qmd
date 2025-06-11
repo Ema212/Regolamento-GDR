@@ -1,6 +1,5 @@
 ---
-title: "Lo Siegone"
-output-file: spiegone.html
+title: "Lo Spiegone"
 format:
   html:
     theme: default

@@ -1,6 +1,5 @@
 ---
 title: "Creazione Del Personaggio"
-output-file: combattente.html
 format:
   html:
     theme: default

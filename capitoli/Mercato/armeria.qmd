@@ -1,6 +1,5 @@
 ---
 title: "Armeria, benvenuti dal fabbro"
-output-file: armeria.html
 format:
   html:
     theme: default
