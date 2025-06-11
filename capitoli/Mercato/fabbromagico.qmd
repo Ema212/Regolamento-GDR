@@ -1,6 +1,5 @@
 ---
 title: "Fabbro Magicante"
-output-file: fabbromagico.html
 format:
   html:
     theme: default
