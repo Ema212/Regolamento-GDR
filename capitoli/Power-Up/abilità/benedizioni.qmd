@@ -1,0 +1,60 @@
+---
+title: "Benedizioni"
+format:
+  html:
+    theme: default
+---
+
+Queste sono solo alcune delle Benedizioni raccolte dalla Lore, divise a seconda della Divinità che l'ha elargita. 
+Ricordiamo che l'*Autorità* è 5
+
+
+#### Seltan
+
+- Re dei Fondali: Se tocchi un bacino d'acqua chiuso sai tutto quello che vi è contenuto. Puoi fare risalire dal fondale un oggetto grande fino alle tue dimensioni.
+
+#### Quolnam
+
+- Amico del Mare: le creature marine non ti attaccano. Sai nuotare come un pesciolino (ma non respiri sott'acqua)
+- Amante del Mare: Le creature marine sono tue alleate (anche le Sirene). Puoi parlare Oceanico. Respiri sott'acqua. (NB: devi prima avere Amico del Mare)
+
+#### Estia
+
+- Fratellanza: Tu e creature consenzienti fino a che riesci a vederne potete contare sui pf degli altri come fossero i vostri. Quando arrivate a 1 pf, i pf che perdereste vengono invece sottratti a chi ne possiede di più.
+- La pace sia con voi: se sta in presenza può fare voto di non aggredirlo e di non toccarlo mai contro la sua volontà. Quella creatura non può ferirlo a sua volta.
+
+#### Indra
+
+- Presenza di Indra: Come aura grema ma senza CD. Bisogna valutare la reazione dei pg alla paura in modo realistico.
+- Tremotino: puoi firmare documenti e fare sparire la tua firma. Una sola volta, puoi farlo anche con Indra stessa.
+
+#### Vengra
+
+- Iscariota: se una uccidi una che ti sta realmente a cuore, può rubare da lui a scelta tra pf permanenti, una capacità o la sua essenza magica.
+
+#### Selune 
+
+- Aura delle selve: ogni creatura non umanoide è tua alleata (tranne i Draghi)
+
+#### Elìa
+
+- Angelo Custode: il dio del Sole manda un Angelo a proteggerti nei modi che ritiene opportuni.
+
+#### Mondul
+
+-  Scambio equivalente: se una persona muore, puoi offrire entro tre turni un'altra vita al suo posto. La persona morta risorge.
+
+#### Minis
+
+- Percezione sismica: in qualunque momento senti le vibrazioni del terreno. Quando  lontane sono, quanto profonde, da quale fonte provengono. 
+
+#### Mistral 
+
+- Lahima: puoi volare. (Velocità di Volo pari a due volte il tuo movimento)
+
+#### Freyma 
+
+- Freymar Cadetto: la benedizione che si ottiene è minoritaria rispetto a quella piena, che spetta ai membri dei [[De Cervantes]], comunque sono validi uno di questi tra
+    1. abilità "Eroico": 5 volte a riposo breve può riprovare un tiro 
+    2. Abilità "Invinto": sceglie tre abilità che ha dai tiri di abilità. Puo sostituire un tiro che fa in una di quelle abilita con 20 naturale una volta a riposo breve 
+    3. Abilità "Fiero": i tiri effettuati da un Fraymar con risultato 1 vengono ritirati.

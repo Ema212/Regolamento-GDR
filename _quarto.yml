@@ -15,22 +15,38 @@ website:
      - index.qmd
      - section: "Manuale"
        contents:
-        - capitoli/Regole/Regole.qmd
-        - capitoli/Regole/Combattente.qmd
-        - capitoli/Regole/ruolo.qmd
-        - capitoli/Regole/Mago.qmd
-        - Capitoli/Regole/Chierico.qmd
+        - href: capitoli/Regole/regole.qmd
+          text: "Regole generiche"
+        - href: capitoli/Regole/combattente.qmd
+          text: "Costruzione del Personaggio"
+        - href: capitoli/Regole/spiegone.qmd
+          text: "Lo Spiegone"
      - section: "Mercato"
        contents: 
-        - capitoli/Mercato/veleni.qmd
-     - section: "Lore" 
+        - href: capitoli/Mercato/generale.qmd
+          text: "Mercato Generico"
+        - href: capitoli/Mercato/veleni.qmd
+          text: "Erboristeria"
+        - href: capitoli/Mercato/armeria.qmd
+          text: "Fabbro e Armaiolo"
+        - href: capitoli/Mercato/collezionista.qmd
+          text: "Il Collezionista"
+     - section: "Lore di Irradan" 
        contents: 
-        - capitoli/Lore/Generale.qmd
+        - href: capitoli/Lore/generale.qmd
+          text: "Lore Generale"
         - section: "Approfondimenti"
           contents:
-          - capitoli/Lore/Approfondimenti/Magia.qmd
-          - capitoli/Lore/Approfondimenti/Bardi.qmd
-          - capitoli/Lore/Approfondimenti/Venatores.qmd
+          - href: capitoli/Lore/Approfondimenti/città.qmd
+            text: "Città"
+          - href: capitoli/Lore/Approfondimenti/foreste.qmd
+            text: "Foreste"
+          - href: capitoli/Lore/Approfondimenti/storia.qmd
+            text: "Storia"
+          - href: capitoli/Lore/Approfondimenti/dèi.qmd
+            text: "Dèi"
+          - href: capitoli/Lore/Approfondimenti/magia.qmd
+            text: "Magia"
      - section: "Utilities"
        contents: 
         - capitoli/Utilities/regole fight rapide.qmd

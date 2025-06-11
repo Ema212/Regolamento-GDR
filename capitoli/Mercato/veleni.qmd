@@ -1,9 +1,204 @@
 ---
 title: "Erboristeria- Veleni"
+output-file: veleni
 format:
   html:
     theme: default
 ---
 
-questi sono i veleni
+### Veleni 
+
+#### Acido Agnico 
+
+- *Rarità*: 2/3
+- *Prezzo*:25
+- *Tipo*: Veleno
+- *Disponibilità*:2d4
+- *Descrizione*: Tossina ricavata dalla fermentazione delle pelli di molti animali
+- *Effetto*: Chiunque venga a contatto diretto col veleno aggiunge 1d4 a tutti i danni che riceve fino a riposo lungo. 
+
+_Infusione_: +35, 5min
+L'avversario colpito subisce 1d4 danni per 43 turni ogni volta che subisce danno da un'altra arma. 
+
+#### Acrilica
+
+- *Rarità*: 3/3
+- *Prezzo*: 38k
+- *Tipo*: Veleno
+- *Disponibilità*: 1d10
+- *Descrizione*: Viene ottenuto dalla cenere del pelo delle [[Nuvivolpe]]. Ci sono modi perché l'effetto contagi altre code di volpi comuni
+- *Effetto*: perdi 1d6 vita permanenti
+
+#### Arlekin
+
+- *Rarità*: 3/3
+- *Prezzo*: 70l
+- *Tipo*: Veleno
+- *Disponibilità*: 1d4 (mensile)
+- *Descrizione*: Questo pesce camaleontico affascina magicamente i suoi nemici. SI ottiene fondendo e riducendo le sue ossa. Il pesce dev'essere deliscato mentre ancora vivo. 
+- *Effetto*: una creatura colpita tira su Intelligenza contro il propietario: se passa il tiro, questo non considera il porpietario come nemico. Se fallsice lo considera alleato. Ogni volta che il proprietario agisce contro di  lui, ritira. L'effetto dura 3 turni. Se ingerito dura 2 minuti, e hai svantaffio nelle prove sociali contro il propietario. 
+
+*Infusione*: +100k, 2 notti 
+Stessi effetti. 
+
+**NB**: una goccia del sangue del propietario va inseirta nel veleno.
+
+#### Arrandro 
+
+- *Rarità*: 2/3
+- *Prezzo*: 28 k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d8
+- *Descrizione*: Ottenuto dai [[Cristalli Naturali]] inventati da Eric, l'arcanista
+- *Effetto*: Tira su forza 
+	- 18-13:  sei sordo
+	- 12-9: sei sordo, -3 D, 1/2 movimento 
+	- >8: sei sordo, -3 D  e sei immobilizzato 
+ Per 4 ore
+
+  **NB**: se sei sotto [[Antiveleno]] ne sei immune 
+
+*antidoto* 
+- Dirmorfa
+- Alloro Bianco
+- Ultima Ombra
+
+#### Belladonna
+
+- *Rarità*: 1/3
+- *Prezzo*: 36k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d4 
+- *Descrizione*: Estratto dal fiore di Belladonna Rossa, facilmente reperibile in boschi dai climi anche poco temperati
+- *Effetto*: a ogni sforzo fisico significativo (anche brandire un'arma, ma non parlare o camminare) subisci 1d6 danni. Fino a fine giornata. 
+
+*Antidoto noto*: [[Alloro Bianco]]
+
+*Infusione*: +25k, 1/2 giornata
+Colpito da questo veleno infuso, per 1 ora subisci 1d4 danni ogni 9 m di movimento, a meno di camminare molto lentamente. 
+
+#### Désiem 
+
+- *Rarità*: 2/3
+- *Prezzo*: 38k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d6
+- *Descrizione*: Un paralizzante ottenuto da radici lasciate riposare in spcifici cicli lunari. spesso però non funzionano, l'unica è testarle ogni volta
+- *Effetto*: 
+	- Un arto a casa viene paralizzato per 1d4 ore. (lo stesso flacone paralizza sempre lo stesso arto)
+	- Se si ha la resistenza ai veleno o si è sotto [[Antiveleno]] non ha effetto
+
+#### Dirmorfa
+
+- *Rarità*: 3/3
+- *Prezzo*: 30k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d6
+- *Descrizione*: Ottenuto dall'essicazione di coralli sviluppati in baie abitate da [[Sirene]]
+- *Effetto*: Bevendo o inalando  (se disperso in ambiuente ad alta temperatura) fai una prova di Forza con CD 18. Se non passi entru 1h svieni 
+
+**NB**: il sapore e odore dolciastro vengono identificati facilmente. Una dose dispersa in ambiente copre efficaciemente una piccola distanza (5x5x3). Se hai bevuto [[Acrilica]] oggi, ne sei immune.
+
+#### Endodardo
+
+- *Rarità*: 1/3
+- *Prezzo*: 40k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d6
+- *Descrizione*: Ottenuto dalla resida dei [[Pioppi Violetta]] vibra leggermente a contatto con l'acciaio
+- *Effetto*: 
+	- un'arma con applicato questo veleno non infuso, ignora armature e resistenzee ai danni 
+	- se applicato in una serratura delicata la rompe, rendendo impossibile l'apertura tradizionale
+
+#### Fiele del Surdan
+
+- *Rarità*: 3/3
+- *Prezzo*: 78k
+- *Tipo*: Veleno
+- *Disponibilità*: 1d6
+- *Descrizione*: Dagli alveari della [[Vespa Amaranto]] del Surdan si estrae questo veleno che causa una violenta reazione allergica
+- *Effetto*: per 1 minuto a ogni round tiri 1d4
+	- 1: passi la tua azione a vomitare
+	- 2-3: perdi 1 d6 danni 
+	- 4: perdi 1d4 danni 
+	(non puoi scendere sotto i 5 pf, ma se arrivi a 5 fai automaticamente 1)
+	
+#### Filtro Nero
+
+- *Rarità*: 3/3
+- *Prezzo*: 75k
+- *Tipo*: Veleno
+- *Disponibilità*: 1d6
+- *Descrizione*: Estratto della coda del [[Cracken di fiume]], molto difficile da estrarre
+- *Effetto*: 
+	- Per dure ore hai -2 D
+	- Poi svieni 
+	- Entro 48h muori 
+
+*Antidoto*: Pasta di Violette
+
+#### Lacrime di Mezzanotte
+
+- *Rarità*:2/3
+- *Prezzo*: 48k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d4
+- *Descrizione*: Una forte pulsazione infiammatoria colora le vene di violaceo
+- *Effetto*: Allo scoccare della mezzanote tira su Forza con CD 17
+	- Passi: subisci 4d8
+	- Non passi: subisci 6d8 e non guadagni pf del riposo lungo
+
+*Antidoto*: 
+-  Ocra di Serpe
+- Fiore di Glicine Marmoreo
+
+#### Ocra di Serpre
+
+- *Rarità*: 3/3
+- *Prezzo*: 95k
+- *Tipo*: Veleno
+- *Disponibilità*: 1d4
+- *Descrizione*: Veleno della Vipera Gialla  originaria del Sud. Vipera rara e difficile da allevare. Il veleno ossida e si neutralizza all'aria aperta se non ben trattato. 
+- *Effetto*: Entro 12 secondi sei paralizzato per 1h. 
+
+*Infusione*: +120k,  1 notte
+Stessi effetti, ma dura 1 minuto
+
+**Nota di vendita**: questo veleno viene venduto solo a Cacciatore di bestie certificati dei Venatores, o a persone in possesso di un'autorizzazione nel contesto specifico. 
+
+In alternativa viene venduto al mercato nero coi giusti agganci al triplo del prezzo
+
+#### Sangue di Basilisco
+
+- *Rarità*: 2/3
+- *Prezzo*: 70k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d4 (settimanale)
+- *Descrizione*: Un denso liquido rosso dal sapore di aceto. Ottenuto dalle fermentazione e filtraggio del sangue.
+- *Effetto*: Chi  lo assume fa una prova di costituzione con CD 19, se fallisce attacca furiosament esenza distinguere nemici o amici. Dura 1d6 turni.
+**NB**: se hai bevuto [[Acrilica]] oggi, fallisci la prova e l'effetto dura un'ora
+
+#### Ultima Ombra
+
+- *Rarità*: 2/3
+- *Prezzo*: 67k
+- *Tipo*: Veleno
+- *Disponibilità*: 2d4
+- *Effetto*: 
+	- chiunque entri a contatto (ferita o ingestione) per 6 ore
+		- non può recuperare pv tramite pozioni
+		- se bevi una pozione subisci 1d6 danni 
+	- Se eri sotto Antiveleno questo effetto dura solo 3 turni 
+	- Subisci 1d6 danni 
+
+*Infusione*: +45k, 5 min
+Ogni volta che l'avversario colpito da questo veleno cerca di recupare pv in qualsiasi modo, non riesce. 
+
+
+### Pozioni e Antidoti
+
+ Adamantina: +4 intelligenza, per 1 minuto ma subisci 1d8 danni ogni volta che vieni colpito, costa 20.
+
+### Pozioni avanzate
+
 

@@ -1,0 +1,18 @@
+---
+title: "Gnomo"
+search: false
+format:
+  html:
+    theme: default
+---
+
+**Razza Segreta**
+
+(Benvenuto, hai trovato la razza più sbroccata del gioco, complimenti)
+
+- +1 Intelligenza
+- Destrezza max è 5.
+- 5m movimento
+- Immune a veleni e droghe
+- Ottiene vantaggio a furtività, nascondersi, origliare, percezione.
+- Ottiene parlare con animali.

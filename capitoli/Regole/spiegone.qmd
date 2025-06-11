@@ -1,0 +1,37 @@
+---
+title: "Lo Siegone"
+output-file: spiegone
+format:
+  html:
+    theme: default
+---
+
+Se è la prima volta che giochi di ruolo, spero che diventi una tua nuova ossessione, leggi la parte 1. 
+Se è la prima volta che giochi con me, ma hai già giocato altro, leggi la parte 2. 
+
+## 1, Vergine
+
+I giochi di ruolo (GdR) sono giochi in cui interpreti un personaggio. L'inizio e la fine del gioco, il tono, spesso anche le regole, sono decisi insieme tra giocatori. Un GdR è una piccola recita con regole, una improvissazione con i dadi.
+
+Uno di noi – il Dungeon Master, da qui DM – descrive il mondo, gli altri – i giocatori, da qui PG– ci vivono dentro. Ognuno interpreta un personaggio immaginario (un guerriero, una ladra…), lo fa parlare, decide cosa prova, e soprattutto cosa fa.
+
+Un PG dichiara cosa fa e interpreta quello che dice. 
+Il DM gli mette davanti reazioni del mondo, di tutti gli altri personaggi - da qui NPC - e di tutto il resto del mondo. Il DM è arbitro e regola ultima. Prende tutte le decisioni. Nel limite della coerenza possibile ad un essere umano, ddecide lui. Si può chiaramente contestare un DM, ma in ultima battuta, decide il DM. (altrimenti non si va da nessuna parte)
+
+**Esempio di gioco**
+Es 1
+- PG: “Gli punto al collo la spada e gli dico «Fermati!».” 
+- DM: Il ladro alza le mani tremante «Va bene, calmo amico, stai calmo...»
+
+Es 2
+- PG: "Provo ad aprire la porta"
+- DM: "La maniglia non si muove, chiusa"
+- PG: "Beh, gli tiro un calcio molto forte"
+- DM: Tira di forza 
+- PG: Tira di forza?
+
+E con questo esempio introduciamo l'unica regola del gioco. Il DM fa fare delle Prove. Fare una prova di Forza o di qualsiasi altra cosa/ Tirare di Forza, di Destrezza... significa che tu tiri quasi sempre un Dado a 20 Facce. Il master ha in mente un numero che devi fare come minimo per passare la prova. Diciamo che per abbattere quella porta un po' marcescente bastava un 5. Quasi sicuramente farai dal 5 in su, quasi sicuramente ce la farai.
+
+## 2, Ne ho viste tante 
+
+Se vieni da DND, allora è come DND, ma non abbiamo i livelli, per il resto è la copia brutta. Ci sono solo un paio di regole diverse, ad esempio niente classe armatura, niente bonus competenza, ma dando una letta e facendo un paio di domande dovresti riuscire a venirne a capo in no time. 

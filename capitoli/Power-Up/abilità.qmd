@@ -1,0 +1,216 @@
+---
+title: "Abilità Leggendarie"
+format:
+  html:
+    theme: default
+---
+
+## Abilità Leggendarie
+
+### Di Spada
+
+#### Dove credi di andare
+
+L'intero campo di battaglia è alla tua portata. Puoi usare il tuo movimento per muoverti di quanti metri vuoi se intendi raggiungere un nemico entro il campo di battaglia. 
+
+Non offri attacco di opportunità. 
+
+In altre parole, è come se tu fossi in mischia con tutti ma gli altri non fossero tutti in mischia con te.
+
+#### Fendente vitale di Helemon
+
+Se combatti in mischia e lo dichiari in anticipo puoi eseguire un Fendente Vitale: 
+- se il tuo tiro è pari o superiore a 10 e colpisce, il danno post-armstura è raddoppiato
+- se il tuo tiro è inferiore a 10, non passa.
+#### Fioritura di spade
+
+Quando tiri per colpire puoi colpire più bersagli che combattono in mischia con te, abbandonando l'arma nel nemico. (il primo nemico usa l'arma senza bbandonarla, dal nemico due in poi si conderano le armi abbandonate)
+
+La quantità di nemici che puoi colpire non dipende dalla quantità di ingaggi che puoi tollerare nel caso avessi Destreggiarsi
+
+L'arma deve essere da combattimento in mischia. 
+
+_Combo_: 
+- se hai Dove credi di andare puoi colpire ogni nemico del campo di battaglia, se hai abbastanza spade (anche se di default non potresti perché dovresti uscire dall'azione per usare il movimento, ma puoi farlo)
+
+#### Impeto
+
+Quando combatti contro qualcuno la tua velkcoità è sovrechiante: il tuo avversartio ha solo azione. (se usa disingaggio in quel turno ha comunque perso azione bonus e movimento)
+
+#### Maestria 
+
+Annulli tutte le manovre avversarie (e abilità di spada, tranne Tattico)
+	Non puoi fare 1 nat 
+
+#### Mancino
+
+Puoi contrattaccare ogni volta che para, senza usare reazioni.
+
+#### Non ho finito
+
+Se colpisci un nemico con arma in mischia e con quel colpo lo uccidi, ottieni un'altra azione in questo turno (con questa azione puoi effettuare solamente attacco).
+
+_Combo_: sì, se uccidi nuovamente un nemico con questa abilità puoi usare ancora Non ho finito. 
+
+#### Reazione a catena
+
+Se con arma in mischia sconfiggi un nemico i cui parametri siano di molto inferiore ai tuoi (almeno 2 destrezza, armatura non pesante) puoi sconfiggere tutti i nemici sul campo di battaglia equipaggiati alla stesso modo. (Non offri attacco di opportunità )
+
+_Combo_: questa manovra non comba con nessun'altra abilità.
+
+### Monastiche
+
+#### Planare 
+
+Non subisci danno da caduta. Hai un minimo dio movimento mentre sei in aria. 
+
+Se colpisci atterrando aggiungi intelligenza ai danni, e consideralo critico(solo il primo). (Devi comunque tirare) 
+
+### A distanza 
+
+#### Fioritura di coltelli
+
+Nell'azione, se hai colpito un nemico, puoi tirare per colpire contro lo stesso bersaglio quanti coltelli da lancio quanti ne vuoi, finché ne possiedi. (Ma per coerenza massimo 20)
+
+#### Legolas
+
+Puoi colpire se tiri con Arco tanti avversari in contemporanea quante sono le tue reazioni o quanta è la tua intelligenza.
+
+_Combo_: 
+- puoi usare scaricare con un solo nemico.
+- puoi usare comunque Proiettile su tanti nemici quanti possibile.
+
+#### Parabola 
+
+Puoi colpire un nemico cha sai dove si trovi con un tiro parabolico
+
+_Combo_
+- Si, puoi risolvere alcune limitazioni dare da Scaricare
+
+#### Proiettile 
+
+Puoi colpire tanti nemici quanti sulla stessa linea di tiro con lo stesso attacco a distanza. (La taglia dei nemici deve logicamente garantirlo)
+
+#### Scaricare 
+
+Se colpisci con un attacco a distanza con un arco, puoi usare la tua azione bonus per attaccare nuovamente fintanto che colpisci (non esegui critici con i colpi con Scaricare). Ovviamente i nemici devono poter essere disponibili alla linea di tiro.
+
+_Combo_: 
+- puoi usare proiettile se un nemico è coperto da un altro. (Parabola può limitare in parte questo discorso)
+
+## Benedizioni
+
+#### Dominio di Seltan
+
+Se tocchi un bacino d'acqua chiuso sai tutto quello che vi è contenuto. Puoi fare risalire dal fondale un oggetto grande fino alle tue dimensioni.
+
+#### Fratelli in Estia
+
+Tu e creature consenzienti fino a che riesci a vederne potete contare sui pf degli altri come fossero i vostri. Quando arrivate a 1 pf, i pf che perdereste vengono invece sottratti a chi ne possiede di più.
+
+#### Presenza di Indra
+
+Come aura grema ma senza CD. Bisogna valutare la reazione dei pg alla paura in modo realistico.
+
+## Marchi
+
+#### Occhio inquisitore
+
+Sei in grado di vedere di quante assassini una persona è responsabile
+Sei in grado di vedere quante di quelle persone si trattava di 
+- Difesa personale 
+- Vendetta 
+- Morti collaterali 
+Sei in grado di vedere quante persone ha anche salvato. 
+
+Un numero di volte pari a Intelligenza (minimo1) per ogni riposo lungo, sai se una persona sta dicendo una bugia o meno. 
+
+#### Oculus Mundi
+
+Il tuo tiro a percezione su prove visive è un 20 naturale. 
+
+Riesci a zoomare senza limiti finché una cosa è dritta davanti a te (la curvatura terrestre è il tuo limite ideale) 
+
+Vedi al buio
+
+(Ottenuto dall'occhio di uno dei Troni)
+
+#### Occhio greco 
+
+- Riesci a stimare con esattezza se una costruzione reggerà un certo peso, una certa pressione, un certo impatto, e simili. Puoi anche sapere per quanti secondi, giorni, mesi, anni reggerà. 
+
+- Riesci a stimare a occhio qualsiasi ordine di grandezza
+- Ti ricordi tutto quello che hai visto. La gonna di quella ragazza vista tre anni fa? Verde. In quale posizione sul muro gigante era la macchia? Lo sai. 
+- Riesci a contare con esattezza gruppi numerosi ad una prima occhiata 
+
+#### Odio del drago
+
+Una persona che ti stia guardando negli occhi vive la pressione psicologica che esercita un Dragone. 
+Non importa quale sia l'avversario: lo schock è tale che per un turno non può muoversi nè effettuare azioni. 
+
+Puoi usare questa capacità un numero di volte pari al numero di [[Draghi]] che hai sconfitto nella tua vita per ogni riposo lungo. 
+
+Questa capacità non ha effetto sui draghi, ma ce l'ha sui dragonidi. Questa capacità sorpassa la Capacità base del manuale che consentono immunità a effetti mentali. 
+
+#### Sangue del Naga
+
+Sei immune ai veleni. 
+Puoi richiamare nel tuo sangue qualsiasi veleno a cui sei mai stato esposto con un'azione bonus
+
+#### Scherma infetta
+
+se hai un veleno nel corpo, puoi iniettarlo in una creatura che colpisci con arma in mischia.
+
+#### Spettare
+
+Come reazione puoi diventare uno spettro. Sei invulnerabile, diventi una immagine eterea. In questa forma non puoi ingaggiare, colpire o fare spell. 
+
+Non passi le pareti o altri Power play. Non sei invisibile.
+
+Puoi annullare la condizione quando vuoi senza spendere azioni, ma va fatto nel tuo turno.
+
+Se spettri, sei comunque vulnerabile nel piano Astrale.
+
+#### Testa dell'Idra
+
+Non puoi essere colto di sorpresa. Sei sempre conscio se qualcuno sta cercando di seguirti o ti sta guardando da lontano. 
+
+Puoi tenere d'occhio contemporaneamente persone quante puoi vederne a 360 gradi senza nessun tipo difficoltà cognitiva
+
+#### Tattico 
+
+Tattico è una capacità che consente a una personalità di un antico e saggio guerriero di parlare con te, rendendoti partecipe dei suoi pensieri impliciti. 
+
+Il guerriero può guidarti in situazioni che ti i diano un vantaggio tattico, suggeriscano il momento esatto in cui attaccare, o di prendere un nemico finché è debole. Consente di rilevare le debolezze del nemico, o consente di capire in quale situazione sul terreno si sarà più in vantaggio tatticamente.
+
+Il guerriero che ti parla ha l'esperienza per fare una stima della forza dell'avversario, e per capire se sia il caso di muovere in ritirata o meno, e con che possibilità farcela grossomodo. (Per quanto riguarda le capacità di battaglia)
+
+Questa capacità può anche essere richiamata dal PG per ottenere informazioni su cosa fare, ma il momento dev'essere chiave, non un semplice momento in cui il PG è nella merda, o la spada potrebbe rispondere "la battaglia è stata perduta quattro mosse fa, ora tenya il tutto per tutto".
+
+Se non avevi Stratega lo ottieni. 
+
+Se lo avevi già, puoi "cercare il 20". Se si osserva un nemico combattere indisturbato per 4 turni di fila, rimanendo fermi, si può tirare Stratega a ogni turno. Se nessuna di quelle volte si fa da 1 a 4, allora si ottiene un Attacco-Ad-Hoc. Con questo attacco il PG ha diritto a effettuare 1d6 attacchi con una mossa sola che vengano considerati dal dm come un 20 naturale. 
+
+Se tirando Stratega ottieni un 20, allora pari automaticamente tutti gli attacchi del nemico, senza tirare (a meno che questi non faccia 20, o a meno che non ricadano nella categoria del DM "Manovre speciali".)
+
+## Titolo leggendario
+
+#### Dio marziale
+
+Questo power up è ottenibile solo sostenendo le prove di [[Loriana]]
+
+Un dio Marziale o una Dea Marziale
+- diviene in grado di convertire tutti i suoi tiri di combattimento dal 2 al 12 in 20 nat. 
+- I suoi 20 naturali non valgono come due critici, ma come un critico normale.
+- tutti i suoi 1 naturali, sono considerati non critici. 
+
+#### Stemma del Re
+
+Lo stemma dei Re dà la possibilità di ottenere la cosidetta Autorità su qualcosa. Viene ottenuta solo dopo che si fa qualcosa di lodevole per ottenerla. La si ottiene quando il dio [[Dèi#Heluvian|Heluvian]] ritiene che l'impresa compiuta sia degna di nota di Regnante.  
+
+I Re Stemmati sono i seguenti 
+- Re Mercenario 
+- Re dei Mari
+- Re degli Elfi 
+- Re dei Draghi 
+

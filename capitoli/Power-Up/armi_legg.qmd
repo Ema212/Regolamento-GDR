@@ -1,0 +1,6 @@
+---
+title: "Armi Leggendarie"
+format:
+  html:
+    theme: default
+---

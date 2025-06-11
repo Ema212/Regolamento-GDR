@@ -1,0 +1,12 @@
+---
+title: "Vampiro"
+search: false
+format:
+  html:
+    theme: default
+---
+
+**Razza Segreta**
+*NB* per giocare questa razza è necessario accordarsi col DM. Tipicamente giocare razze così forti lascia la possibilità al DM di concedere potenziamenti anche agli altri player, oppure è essenziale costruire la run non attorno al combattimento, per non oscureare gli altri giocatori, e dare uno spessore narrativo molto impattante al tuo pg. Il DM potrebbe anche non accordartelo, o accordartelo con delle limitazioni.
+
+/spiase, non è ancora pronto/

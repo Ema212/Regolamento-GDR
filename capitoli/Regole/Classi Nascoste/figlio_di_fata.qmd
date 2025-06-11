@@ -1,0 +1,14 @@
+---
+title: "Figlio di fata"
+search: false
+format:
+  html:
+    theme: default
+---
+
+**Razza Segreta**
+
+- 9m movimento base
+- Ottiene 9 metri di movimento come azione bonus in teletrasporto (5 volte a riposo breve)
+- Può scegliere fino a 3 creature alleate: di queste creature conosce lo stato emotivo (ottenendo vantaggio con loro per le prove di inganno e percepire intenzioni). Sa inoltre se i loro pf vanno a zero. Per cambiare creatura occorre un riposo lungo.
+- Ottiene percezione magica

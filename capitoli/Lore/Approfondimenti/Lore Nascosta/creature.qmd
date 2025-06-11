@@ -1,0 +1,7 @@
+---
+title: "Bestiario del Cacciatore"
+search: false
+format:
+  html:
+    theme: default
+---

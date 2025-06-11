@@ -1,0 +1,20 @@
+---
+title: "Percezione magico"
+search: false
+format:
+  html:
+    theme: default
+---
+
+La percezione del magico è lo sviluppo di un sesto senso molto complesso.
+L'incantatore riempie gli occhi del metallo che può sviluppare la sua magia, e tutti le fonti di magia iniziano a illuminarsi. La quantità e qualità di luce dipende dal tipo e forza della magia. 
+Con questa indagine, a seconda della distanza, è possibile ottenere conoscenza sul tipo di magia che emana l'oggetto: 
+
+- Più questa è forte più è facile ottenerla
+- Più l'autorità del mago che analizza è di livello superiore più è facile ottenerla
+- Se si possiede anche "Conoscere Magia" sarà più facile
+
+Se non altrimenti specificato dalla vostra fonte, si fa riferimento a un livello di magia con _Autorità_ pari alla magia Arcana, cioè 4.
+
+Per maghi addestrati, è possibile nascondere la propria emanazione magica. Ogni altro caster avendo Percezione del Magico può provare a violare questa  copertura, tirando di intelligenza se sospetta che possa esserci della magia. 
+Ad ogni buon conto però, se il tuo livello di Autorità è superiore a quello della magia che maschera, vinci automaticamente il tiro.  

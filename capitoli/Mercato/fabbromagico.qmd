@@ -1,0 +1,16 @@
+---
+title: "Fabbro Magicante"
+output-file: fabbromagico
+format:
+  html:
+    theme: default
+---
+
+Dal fabbro magicante è possibile Incantare gli oggetti. 
+Per incantare gli oggetti occorre mettersi d'accordo con il caster di riferimento sul tipo di incantamento che si desidera e valutarne insieme il costo. Comunque sono operazioni molto costose. (>300). Inoltre un incantamento prende una notte. 
+
+**Regole**
+- Quando si incanta un'arma, il DM tira un D20, se fa 1 l'incanto fallisce. Il PG paga comunque il prezzo dell'incanto. Occorre ritentare. Se si ottiene 1 tre volte di fila sulla stessa arma, la stessa si rompe. 
+- Quando un oggetto ha già 1 magia, e se ne vuole apporre una seconda, se il master fa 1 si perde sia la prima che la vecchia seconda, se il master fa 2,3,4,5 invece la seconda non va a buon fine, e occorre ritentare. 
+- Quando si tenta di incantare un'arma con un veleno infuso, il DM ha svantaggio al tiro.
+- A meno di armi in metalli particolari, non è possibile apporre più di 2 incanti. 

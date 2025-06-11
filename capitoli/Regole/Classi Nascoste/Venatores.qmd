@@ -1,0 +1,117 @@
+---
+title: "Venator"
+search: false
+format:
+  html:
+    theme: default
+---
+
+**Ruolo nascosto**
+
+Se hai un numero sensato di capaccità da cacciatore, puoi esserte un Venator. ù
+I venatores si dividono a seconda della caccia di pertinenza (Vampiri, Draghi, Demoni, Bestie)
+Ottieni quanto segue
+
+- Accesso alla Lore dei [venatores](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/venatores.html)
+- Devi rispettare il Codex Venatorium, come spiegato nel file della Lore
+- Hai accesso ai Rifugi dei Cacciatori
+- Equipaggiamento specifico a seconda della categoria, vedi sotto 
+
+#### Cacciatore di Vampiri 
+
+Un cacciatore di vampiri possiede le seguenti abilità e strumenti:
+
+- Percezione dell’aura: un venatores specializzato riconosce a occhio nudo quanta aura possiede un vampiro in una scala da 1 a 20. 20 non è il tetto massimo, è solo il tetto massimo percepibile dal cacciatore.
+- Percezione magia vampirica: può tirare per cercare di capire se il vampiro che ha di fronte può accedere all’aura di un mago (che sarebbe molto pericoloso, ovviamente)
+- Possiede tra il suo equipaggiamento una spada o altra arma di argento.  (che tiene in un fodero che li maschera all’olfatto raffinato dei vampiri) (Le armi in argento triplicano il danno inferto ai vampiri)
+- Possiede anche una catena di Argento di 12 metri, utile alle sue operazioni di caccia ai vampiri.
+- Ha avuto la grazia di sviluppare l’immunità al loro specifico anestetico
+- È in grado di creare un Cerchio alchemico: un perimetro entro il quale la capacità del vampiro di accedere all’aura è molto indebolita. Per attivarlo deve preparare con dei rituali magici che gli sono stati insegnati di cui non conosce il significato, ma sa replicarli. L’area si estende per una trentina di metri di raggio, e viene preparata in un paio di minuti.
+- Tecniche di caccia condivise: se ha tanti aiuti, può utilizzare delle catene fatte in solo argento (dal costo molto molto elevato) per imprigionare un vampiro. Questo può avere molti benefici per reperire informazioni.
+- Fiale di Veleno per vampiri (di quello autoiniettabile): se il vampiro ti beve mentre l’hai in corpo dovrebbe perdere conoscenza. Hai avuto la grazia di sviluppare l’immunità anche a questo veleno.
+
+#### Cacciatore di Demoni
+
+Sei equipaggiato con un arma in Argento Bianco 
+
+L'argento Bianco è un materiale a base argento ( quindi un sottoprodotto del [[Pavranio]] come tutti i metalli) infuso col sangue degli angeli. Queste armi hanno la proprietà di poter colpire 
+- gli [[Dèi]], anche se si tratterebbe di una mossa suicida, 
+- i [[Mannari]] più come effetto collaterale che voluto, 
+- i [[Tiefling]]( e sono infatti in dotazione ai [[Cacciatore di Tiefling]]) visti inizialmente come servitori degli dei della Luna.  
+
+Come caratteristiche generali invece
+- Un'arma in argento bianco non può essere danneggiata in alcun modo.
+- L'argento bianco ha come altra caratteristica notevole quella di lasciarsi incantare con molta facilità, offrendo poca se non nulla resistenza ai sovraincantamenti senza alcun limite.
+
+Inoltre, ovviamente conosci il Demoniaco
+
+#### Cacciatore di Draghi
+
+Ottieni i seguenti vantaggi
+
+- Conosci il draconico
+- Tu hai l'addestramento di primo livello per l'utilizzo del sangue di drago. Qualsiasi classe costruirai, avrai a disposizione tre boccette iniettabili col seguente effetto: 
+	"Per 5 turni ottieni le seguenti caratteristiche 
+	- +30 punti ferita 
+	- +4 ai tutti i danni inferti 
+	- +2 ai tiri per colpire 
+	- non puoi essere spaventato 
+Una volta esaurite le boccette devi trovare un rifugio da Venatores e io vedo se te ne danno altro tirando. Come regola non ne si dà più di tre alla volta, perché sono molto costose. Ne puoi usare una per riposo breve. 
+
+- Giacca di pelle di drago (la prima vittima che hai fatto), ignifuga, armatura media. 
+- Dardi per balestra in [[Meteorite]] che hanno qualche porbabilità in più di perforare le scaglie dei draghi. 
+- Arpione retrattile
+
+#### Cacciatore di Bestie
+
+In quanto Venator, hai diritto a sconti nelle erboristerie per l'acquisto dei veleni (non per l'infuione) del 20%. Questo sconto non è automaticamente estendibile al resto del party (prove per mentire, l'erborista proverà a stimare se tu stia comprando una quantità ragionevole di veleno)
+
+Hai studiato il Bestiario. Questo ti dà la possibilità di 
+- Conoscere il comportamento delle bestie. Se incontri una bestia, puoi tirare per provare a decifrare il loro comportamento. 
+- Conoscere la collocazione del territorio. Se stai in un territorio per qualche ora, puoi capire chi è il predatore dominante con un tiro. Inoltre, il dm ti avvisa se il predatore cambia muovendoti in un'altra zona.
+
+##### Atteggiamenti 
+Gli atteggiamenti non sono specie specifici, spesso sono invece appresi, modellati sulla base di comportamenti di altri animali, o degli uomini intorno a loro. Come Venator sei in grado di identificarli
+
+- **Sentinella innocua**
+	- **Descrizione**: Sorvegli il territorio ma non attacca le creature  umanoidi se non provocata. Addirittura possibile avvicinarsi con la tecnica giusta fino ad accarezzarle. Così facendo sarebbe possbile anche parlare conla creatura.
+
+- **Dormienti**
+	- **Descrizione**: Innocua finché non viene svegliata, a quel punto è troppo tardi
+
+- **Lotta di misura**
+	- **Descrizione**: Cerca solo combattimenti frontali. Non attacca prede deboli o ferite, ma solo chi ritiene abbastanza forte. Se il suo contendente lotta un po' e poi perde o si arrende lo strapazza per dimostrare la sua superiorità e poi lo abandona. Se si riesce a sottometterlo invece diventerà obbediente nei confronti dell'avversario. 
+
+- **Difensore Furente**
+	- **Descrizione**: Attacca solo se provocata o se il suo territorio/cuccioli vengono minacciati. Una volta provocata, diventa estremamente pericolosa. Allontanarsi abbastanza se si tratta del territorio. Se si tratta dei cuccioli c'è poco da fare. Fingersi morti può facilmente essere un modo per salvarsi, la bestia ti porta a 1 pf svenuto.
+
+- **Capo Branco**
+	- **Descrizione**: Guida un branco e sfrutta la cooperazione. Spinge le prede in trappole, usa diversivi. Dividere il branco con esche o rumori. Eliminare i membri più deboli per indebolire la struttura. Mirare al capobranco.
+
+- **Predatore Paziente**
+	- **Descrizione**: Tende agguati silenziosi, si muove poco, osserva a lungo prima di attaccare. Colpisce con violenza, poi si ritira di nuovo. Tende ad attaccare prima i embri deboli di un gruppo. Forzare lo scontro aperto con rumore o fuoco. Attirarla fuori con esche vive o sanguinanti. 
+
+- **Segugio Ossessivo**
+	- **Descrizione**: Non smette di inseguire la preda finché non la elimina. Sembra ignorare il pericolo per completare la caccia. Usare la preda designata come esca. Tende a ignorare minacce laterali.
+
+- **Opportunista**
+	- **Descrizione**: Attacca solo se il vantaggio è certo. Evita i rischi e si nutre anche di carogne. Farla sentire al sicuro con apparenza di vulnerabilità. Appena si avvicina, colpirla con imboscate letali.
+
+- **Trappolatrice**
+	- **Descrizione**: Finge di essere ferita per fare abbassare la guardai agli assaltatori.
+
+- **Imitatrice**
+	- **Descrizione**: Imita i comportamenti di altri animali, tra le più difficili da identificare. Non abbassare la guardia nemmeno contro quello che si consoce
+
+- **Caccia Ludica**
+	- **Descrizione**: La bestia non caccia per fame, ma per divertimento. Gioca con la preda, la stanca, la tormenta. Fugge non appena il pericolo è reale. Mostrarsi aggressivi e pericolosi, fingere superiorità per spaventarla. Simulare ferite gravi per attirarla in trappola, poi colpire duramente. 
+
+- **Collezionista Macabro**
+	- **Descrizione**: Uccide per prendere trofei, o solo alcune parti della preda. Si ritira se ottiene quello che cerca. Lasciare falsi trofei o oggetti desiderabili per attirarla. Ingannarla sul fatto che la “preda” sia già stata predata.    
+
+- **Venedicativa**
+	- **Descrizione**: Ricorda chi l'ha ferita o minacciata. Segue a lungo, colpisce con precisione, e prende di mira specifici individui.
+
+- **Aggressivo instabile**
+	- **Descrizione**: Attacchi irrazionali e imprevedibili, motivati da una strana sete di Sangue. Potrebbe attaccare alleati o distruggere risorse senza motivo. Sfruttare la sua impulsività per portarlo su un campo di battaglia preparato. Evitare lo scontro se non si è preparati.
+
