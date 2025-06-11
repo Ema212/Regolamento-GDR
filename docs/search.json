@@ -558,11 +558,22 @@
     ]
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Benvenuto, Giocatore",
+    "section": "",
+    "text": "Contenuto per DM\n\n\n\n\n\nAngeli\nBardi\nCelestiali\nCosmologia\nBestiario\nGuerre degli angeli\nElenco metalli\nRune\nStelle\nVenatores\nVie sicure\n\n\n\n\n\nArcanista\nAstrologo\nBardo\nchierico\nElfo\nFiglio di Fata\nGnomo\nMago da Guerra\nNephelim\nPirata\nVampiro\nVenatores\n\n\n\n\n\nPercezione magico",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Benvenuto, Giocatore"
+    ]
+  },
+  {
     "objectID": "index.html#lore-nascosta",
     "href": "index.html#lore-nascosta",
     "title": "Benvenuto, Giocatore",
-    "section": "Lore Nascosta",
-    "text": "Lore Nascosta\n\nAngeli\nBardi\nCelestiali\nCosmologia\nBestiario\nGuerre degli angeli\nElenco metalli\nRune\nStelle\nVenatores\nVie sicure",
+    "section": "",
+    "text": "Angeli\nBardi\nCelestiali\nCosmologia\nBestiario\nGuerre degli angeli\nElenco metalli\nRune\nStelle\nVenatores\nVie sicure",
     "crumbs": [
       "Scarica scheda PG",
       "Benvenuto, Giocatore"
@@ -572,8 +583,8 @@
     "objectID": "index.html#classi-nascoste",
     "href": "index.html#classi-nascoste",
     "title": "Benvenuto, Giocatore",
-    "section": "Classi Nascoste",
-    "text": "Classi Nascoste\n\nArcanista\nAstrologo\nBardo\nchierico\nElfo\nFiglio di Fata\nGnomo\nMago da Guerra\nNephelim\nPirata\nVampiro\nVenatores",
+    "section": "",
+    "text": "Arcanista\nAstrologo\nBardo\nchierico\nElfo\nFiglio di Fata\nGnomo\nMago da Guerra\nNephelim\nPirata\nVampiro\nVenatores",
     "crumbs": [
       "Scarica scheda PG",
       "Benvenuto, Giocatore"
@@ -583,19 +594,8 @@
     "objectID": "index.html#meccaniche-nascoste",
     "href": "index.html#meccaniche-nascoste",
     "title": "Benvenuto, Giocatore",
-    "section": "Meccaniche Nascoste",
-    "text": "Meccaniche Nascoste\n\nPercezione magico",
-    "crumbs": [
-      "Scarica scheda PG",
-      "Benvenuto, Giocatore"
-    ]
-  },
-  {
-    "objectID": "index.html#power-up",
-    "href": "index.html#power-up",
-    "title": "Benvenuto, Giocatore",
-    "section": "Power up",
-    "text": "Power up",
+    "section": "",
+    "text": "Percezione magico",
     "crumbs": [
       "Scarica scheda PG",
       "Benvenuto, Giocatore"
@@ -617,7 +617,7 @@
     "href": "index.html#filosofia-di-gioco",
     "title": "Benvenuto, Giocatore",
     "section": "Filosofia di Gioco",
-    "text": "Filosofia di Gioco\nSe avete già giocato con me, skippate pure.\n\nGioco di ruolo?\nSe per caso qualcuno non avesse mai giocato di ruolo, ecco a voi lo spiegone\n\n\nMa non hai altro da fare nella vita?\nLasciamo stare\n\n\nMa i Livelli? Presentazione del gioco\nA Ema i livelli non sono mai piaciuti. Non trovo che rendano possibile una massima espressività narrativa, non lasciano maglie abbastanza larghe alla fantasia, e suppongono che si possa diventare “forti” solo in una dimensione principalmente legata al combattimento.\nNonostante menare le mani sia centrale anche nel mio gioco, e ci mancherebbe, il combattimento è per me subordinato alla storia, allo sviluppo narrativo del vostro personaggio.\nVe lo spiego meglio, in DND normale, il contesto di gioc è “Siete degli avventurieri che hanno bisogno di soldi (pretesto per menare le mani molto battuto, solida alternativa a”cerco vendetta”) quindi andate nei dungeon, menate i mostri, e livellate e diventate più forti”. Non c’è contesto narrativo che mi stia più antipatico di così.\nIo propongo un gioco in cui il vostro obbiettivo sia Dominare l’Ambientazione. Tipicamente ci sarà una qualche questione, legata sicuramente al background del vostro personaggio che vi darà motivo di menare le mani dove ce n’è bisogno, affinché voi possiate risolvere quel problema. Tipicamente per risolverloi vi sarà necessario (o facilitante) esplorare la lore, l’ambientazione che ho così (ossessivamente) preparato per e con voi. Diventerete forti quindi in un contesto preciso che riguarda il mondo che abbiamo creato assieme e la storia del vostro persoanggio.\nSia messo in chiaro che questo stile di gioco potrebbe anche non piacervi. In DND è quasi mandatorio una fight per sessione, o poco vicino. Qui no. Il fight c’è, se serve, se ve lo andate a cercare, ma si può anche schivare. C’è sempre un modo alternativo per superare i conflitti.\nPer riassumere il mio gioco “L’ambientazione che ho creato procederà in una direzione o l’altra a seconda di come la influenzate voi. Finché vi muovete nei contorni della mia ambientazione, potete agire come volete.”\n\n\nSi,si, bello, quindi come si diventa forti?\nCi sono una serie di modi. - Narrativa: il DM può accordare un ruolo forte, un esercito, un che cazzo ne so, a seconda di come giocate, di cosa scegliete di fare - Negozi: non sottovalutate tutto quello che può essere reperito nelle sezione mercato. Una manciata di pozioni può rendervi molto forte, specie se le infondete nelle armi. Oppure potete andare a fare incantare le armi. Questi sono i metodi pigri, e comunque giocatori molto raffinati riusciranno a rompere il gioco anche solo con queste meccaniche. - Power-up: ci sono molti tipi di power up che potete trovare quà e là nel gioco, o che potete andarvi anche a cercare - Item: oggetti, armi e affini che vi rendano più forti - Abilità: potete sbloccare numerose abilità nel gioco - Patti: potete creare patti con numerose entità (es: la dea Indra) - Ricerca e sviluppo: andando per biblioteche, chiedendo a NPC di insegnarvi una capacità, esplorare la lore. Tutte modaliità che se ben gestite vi consentono di ottenere un power-up. In generale più ci mettete del vostro più io facilmente vi seguirò. Non abbiate paura di chiedere e sperimentare. Potete anche propormi classi di gioco ex-novo. Tipicamente la mia risposta sarà un “possiamo provarci”.\nHo avuto PG in grado di diventare forti facendo 20 nat al momento giusto, altri facendo improbabili patti con le Sirene, altri solo fregandomoi adeguatamente con i potenziamenti, altri sottomettendosi a una divinità.",
+    "text": "Filosofia di Gioco\nSe avete già giocato con me, skippate pure.\n\nGioco di ruolo?\nSe per caso qualcuno non avesse mai giocato di ruolo, ecco a voi lo spiegone\n\n\nMa non hai altro da fare nella vita?\nLasciamo stare\n\n\nMa i Livelli? Presentazione del gioco\nA Ema i livelli non sono mai piaciuti. Non trovo che rendano possibile una massima espressività narrativa, non lasciano maglie abbastanza larghe alla fantasia, e suppongono che si possa diventare “forti” solo in una dimensione principalmente legata al combattimento.\nNonostante menare le mani sia centrale anche nel mio gioco, e ci mancherebbe, il combattimento è per me subordinato alla storia, allo sviluppo narrativo del vostro personaggio.\nVe lo spiego meglio, in DND normale, il contesto di gioc è “Siete degli avventurieri che hanno bisogno di soldi (pretesto per menare le mani molto battuto, solida alternativa a”cerco vendetta”) quindi andate nei dungeon, menate i mostri, e livellate e diventate più forti”. Non c’è contesto narrativo che mi stia più antipatico di così.\nIo propongo un gioco in cui il vostro obbiettivo sia Dominare l’Ambientazione. Tipicamente ci sarà una qualche questione, legata sicuramente al background del vostro personaggio che vi darà motivo di menare le mani dove ce n’è bisogno, affinché voi possiate risolvere quel problema. Tipicamente per risolverloi vi sarà necessario (o facilitante) esplorare la lore, l’ambientazione che ho così (ossessivamente) preparato per e con voi. Diventerete forti quindi in un contesto preciso che riguarda il mondo che abbiamo creato assieme e la storia del vostro persoanggio.\nSia messo in chiaro che questo stile di gioco potrebbe anche non piacervi. In DND è quasi mandatorio una fight per sessione, o poco vicino. Qui no. Il fight c’è, se serve, se ve lo andate a cercare, ma si può anche schivare. C’è sempre un modo alternativo per superare i conflitti.\nPer riassumere il mio gioco “L’ambientazione che ho creato procederà in una direzione o l’altra a seconda di come la influenzate voi. Finché vi muovete nei contorni della mia ambientazione, potete agire come volete.”\n\n\nSi,si, bello, quindi come si diventa forti?\nCi sono una serie di modi:\n\nNarrativa: il DM può accordare un ruolo forte, un esercito, un che cazzo ne so, a seconda di come giocate, di cosa scegliete di fare\nNegozi: non sottovalutate tutto quello che può essere reperito nelle sezione mercato. Una manciata di pozioni può rendervi molto forte, specie se le infondete nelle armi. Oppure potete andare a fare incantare le armi. Questi sono i metodi pigri, e comunque giocatori molto raffinati riusciranno a rompere il gioco anche solo con queste meccaniche.\nPower-up: ci sono molti tipi di power up che potete trovare quà e là nel gioco, o che potete andarvi anche a cercare\n\nItem: oggetti, armi e affini che vi rendano più forti\nAbilità: potete sbloccare numerose abilità nel gioco\nPatti: potete creare patti con numerose entità (es: la dea Indra)\nRicerca e sviluppo: andando per biblioteche, chiedendo a NPC di insegnarvi una capacità, esplorare la lore. Tutte modaliità che se ben gestite vi consentono di ottenere un power-up.\n\n\nIn generale più ci mettete del vostro più io facilmente vi seguirò. Non abbiate paura di chiedere e sperimentare. Potete anche propormi classi di gioco ex-novo. Tipicamente la mia risposta sarà un “possiamo provarci”.\nHo avuto PG in grado di diventare forti facendo 20 nat al momento giusto, altri facendo improbabili patti con le Sirene, altri solo fregandomoi adeguatamente con i potenziamenti, altri sottomettendosi a una divinità.",
     "crumbs": [
       "Scarica scheda PG",
       "Benvenuto, Giocatore"
