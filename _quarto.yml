@@ -45,7 +45,7 @@ website:
             text: "Storia"
           - href: capitoli/Lore/Approfondimenti/dèi.qmd
             text: "Dèi"
-          - href: capitoli/Lore/Approfondimenti/lamagia.qmd
+          - href: capitoli/Lore/Approfondimenti/magia.qmd
             text: "Magia"
      - section: "Utilities"
        contents: 
