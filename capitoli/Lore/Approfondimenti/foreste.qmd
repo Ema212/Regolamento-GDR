@@ -1,6 +1,6 @@
 ---
-title: "I Bardi"
-output-file: bardi
+title: "Le foreste"
+output-file: foreste
 search: false
 format:
   html:
