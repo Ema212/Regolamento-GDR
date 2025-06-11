@@ -233,5 +233,17 @@
   },
   "capitoli/Regole/spiegone.qmd": {
     "spiegone.html": "8c22e856"
+  },
+  "capitoli/Regole/regolamento.qmd": {
+    "regolamento.html": "3b638741"
+  },
+  "capitoli/Regole/creazione.qmd": {
+    "creazione.html": "68b0908e"
+  },
+  "capitoli/Lore/lore.qmd": {
+    "lore.html": "3fa56284"
+  },
+  "capitoli/Lore/Approfondimenti/lamagia.qmd": {
+    "magia.html": "0d85c53b"
   }
 }

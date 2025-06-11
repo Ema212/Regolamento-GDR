@@ -15,9 +15,9 @@ website:
      - index.qmd
      - section: "Manuale"
        contents:
-        - href: capitoli/Regole/regole.qmd
+        - href: capitoli/Regole/regolamento.qmd
           text: "Regole generiche"
-        - href: capitoli/Regole/combattente.qmd
+        - href: capitoli/Regole/creazione.qmd
           text: "Costruzione del Personaggio"
         - href: capitoli/Regole/spiegone.qmd
           text: "Lo Spiegone"
@@ -33,7 +33,7 @@ website:
           text: "Il Collezionista"
      - section: "Lore di Irradan" 
        contents: 
-        - href: capitoli/Lore/generale.qmd
+        - href: capitoli/Lore/lore.qmd
           text: "Lore Generale"
         - section: "Approfondimenti"
           contents:
@@ -45,7 +45,7 @@ website:
             text: "Storia"
           - href: capitoli/Lore/Approfondimenti/dèi.qmd
             text: "Dèi"
-          - href: capitoli/Lore/Approfondimenti/magia.qmd
+          - href: capitoli/Lore/Approfondimenti/lamagia.qmd
             text: "Magia"
      - section: "Utilities"
        contents: 
