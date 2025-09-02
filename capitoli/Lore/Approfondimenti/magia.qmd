@@ -43,6 +43,7 @@ Solo i Bardi la comprendono, e solo alcuni sanno che è collegata alla runa Daga
 la magia divina utilizza la Lingua degli dei. Solo la versione non scritta. Estremamente potente, infatti quasi tutti i metalli rispondono bene all'autorità della Magia Divina. Ciononostante, siccome non è esplicitamente nota agli dèi la runa, la magia siffatta riguarda la loro identità, pertanto tanto più un dio si sente "il dio del mare", tanto più i metalli ad esso legati risponderanno.  
 
 Oltre alle magie in se per sè, hanno questo livello di autorità:
+
 - le [benedizioni](/capitoli/Power-Up/abilit%C3%A0/benedizioni.html) 
 - i talismani
 
@@ -120,7 +121,7 @@ capacità di imprimere segni sulle cose. Questi segni vengono tenuti segreti da 
 
 ## Erboristeria:
 
-una complessa pratica che prevede la modifica dei corpi, che ottengono proprietà insolite. 
+Una complessa pratica che prevede la modifica dei corpi, che ottengono proprietà insolite: 
 
 - Quando un veleno o pozuione di erboristeria appllica un effetto aggiuntivo, ha un' *Autorità: 4.2*
 - Quando invece un veleno o pozione toglie un effetto, blocca i circuiti fisici responsabili della loro attivazione, risultando in *Autorità 1.9*
@@ -151,7 +152,8 @@ un tipo di magia che prova a muovere il Pavranio con altro Pavranio. Solitamente
 
 # I metalli
 
-Esistono tre classificazioni di [metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html),
+Esistono tre classificazioni di [metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html):
+
 - I metalli primari, che sono i metalli attorno a cui si fondano tutte le cose materiali e immateriali dell'universo, magiche e non magiche, divine e non divine 
 - I metalli da forgia, una sottocategoria di Pavranio che offre numerosi impieghi diversi, tipicamente adatte a costruire armi e oggetti magici
 - I metalli da battaglia, una sottoclassificazione di metalli, studiati da una categoria di maghi, che hanno costituito un ordine di Maghi da Guerra, con una filosofia di magia tutta loro. 

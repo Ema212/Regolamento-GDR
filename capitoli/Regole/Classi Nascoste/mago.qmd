@@ -248,7 +248,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 Puoi in alternativa non prendere un Celestiale e ottenere altri due incantesimi.
 
 ```
-Questi incantesimi sono stati creato ricalcando la magia di alcuni celestiali
+Questi incantesimi sono stati creati ricalcando la magia di alcuni celestiali
 ```
 
 - _Urania:_ modifichi il meteo da una condizione a un'altra, anche al chiuso. Se crei delle condizioni estreme, l’incantesimo aggiunge i seguenti costi: (_Dipendenza_) (le conseguenze vengono concordate col DM, ma per capirci una tempesta forte può impedire di vedere oltre qualche metro, di scagliare frecce e di perdere l’equilibrio con certe sferzate di vento). Sei immune agli effetti che genera, con un n° alleati pari a INT.
