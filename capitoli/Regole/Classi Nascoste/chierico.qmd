@@ -34,14 +34,13 @@ Ognuna delle capacità sbloccate dal Chierico ha _Autorità: 2_
     - Giuramento: in base al tuo dio, ti accordi col DM: un punto karma ti consente di usare una abilità che il dio ti ha donato.
 - Confessione: ottieni la pace, il tuo stato spirituale è inattacbile, pertanto (**3 Car**)
     - Sei immune alle maledizioni con Autorità inferiore a quella divina
-    - Sei resistente alle condizioni mentali, anche quelle magiche, con autorità inferiore 
+    - Sei resistente alle condizioni mentali, anche quelle magiche, con Autorità inferiore a quella divina
     - Invecchi più lentamente 
 - Comunione: ottieni una parte pura del potere del Dio, che si manifesta di te (**5 Car** + **20 Gen**)
-    - (Espansione del Dominio, in parole povere). Viene attivato una volta al giorno. Gli effetti particolari vengono concordati col DM.
-    - Io ti invoco: qualunque cosa tu stia compiendo adesso, il dio ti sta guardando.
+    - Apparizione: da te si propaga la manifestazione del dominio del dio sulla terra. Viene attivato una volta al giorno. Gli effetti particolari vengono concordati col DM.
+    - Invocazione: qualunque cosa tu stia compiendo adesso, il dio ti sta guardando.
 - Ordine: Diventi un Chierico a tutti gli effetti. Per ottenere questo sacramento è necessario passare delle prove e la valutazione del dio, non può semplicemente essere dato da un Chierico. (→ Vedi la Nota)
     - Puoi impartire, se il dio concorda, la [benedizione](/capitoli/Power-Up/abilit%C3%A0/benedizioni.html) del tuo dio.
-
 
 ### Talismani
 

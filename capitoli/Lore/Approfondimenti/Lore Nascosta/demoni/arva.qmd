@@ -1,0 +1,18 @@
+---
+title: "Diavolo Arva"
+format:
+  html:
+    theme: default
+---
+
+Un demone che ha portato dentro di sè l'odio che il mondo nutre per lui. Così facendo ha smesso dia vere paura degli uomini e ha deciso  di identifficarsi con esso. Così vistolo, ha stretto un patto con a dea Vengra,  che gli ha concesso di diventare quello che è. Anche uccidendolo però, Arva è una maledizione che può riapparire in un altro Tiefling che soddisfi i requisiti di odio sufficiente. 
+
+### Culto di Arvan 
+
+Un mostro che ha sete di Sangue: passa di contrada in contrada a uccidere la gente, a richiedere vittime sacrificali. Offre la possibilità di unirti al suo culto, così facendo ottieni i seguenti benefici 
+
+- Il tuo corpo si ricompone se viene mutilato 
+- Diventi più forte 
+- Non proverai più paura 
+
+In cambio devi offrire la tua obbedienza ad Arvan. Quando Arvan dovesse essere sconfitto, uno di quegli uomini diventerebbe il nuovo Arvan.

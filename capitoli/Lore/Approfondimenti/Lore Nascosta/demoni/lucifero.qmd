@@ -1,0 +1,31 @@
+---
+title: "Demone Lucifero"
+format:
+  html:
+    theme: default
+---
+
+Grado: Arcidemone 
+Titoli: Re delle Forme
+
+Il Demone responsabile di aver portato sull aterra i 
+
+### 7 Peccati Capitali
+
+Portati sulla  terra dal Demone Lucifero. 
+Demone portatore dei 7 peccati capitali. Chi se ne vede imposto uno guadagna i seguenti effetti 
+
+- Accidia: tanti turni hai fatto fermo (mezzo movimento e schivare) quanto obblighi nemici fino a intelligenza o carisma a stare fermo
+    - lv2: fino a nemici illimati, due volte i turni
+- Avarizia: puoi fare sparire un item: a discrezione del dm torna tanto più forte quanto tempo è passata (ma ogni item ci va solo una volta)
+    - lv2: puoi sapere prima in che stato è 
+- Superbia: se  dichiari un duello dettato dalla superbia, e ucccidi il nemico, a seconda del suo livello, il DM ti fa tirare x d20. Segna quei risultati. Quando ottieni quel risultato puoi sostituirlo con un 20 nat, tante volte quante hai stoccato quel numero. 
+    - lv2: 
+- Invidia: puoi copiare una abilità di un nemico e stoccarla, per usarla una volta sola
+    - lv2: l'avversario non l'ha più finché tu non la usi 
+- Ira: aggiungi danni all'arma quanti i danni che ti separano dai tuoi pf massimi 
+    - lv2: pari ai danni che hai preso
+- Lussuria: nel punto in cui vuoi Proietti il desiderio di una persona, e solo quella persona può vederla 
+    - lv2: lo vedi e puoi interagirci
+- Gola: se ti mangi una persona prendi metà dei suoi pf permanenti 
+    - lv2: puoi anche mangiarti le armi e armature 

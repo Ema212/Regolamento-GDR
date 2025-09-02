@@ -215,9 +215,13 @@ SURVIVAL (Ottiene Vantaggio alla prove di "Caccia Leggera" per ottenere Cibo)
     -   Puoi usare Contrattacco come Reazione quando schivi
     -   Sei immune a effetti mentali, come Ruggito e Aura della Bestia, non causati da veleni.
 
--   *Istinto predatorio*: **4** sa se una persona davanti a lui sia qualcuno di particolarmente potente. Se è in dubbio può chiedere al master se la persona davanti a lui sia forte. La descrizione deve essere narrata e non usare parametri come statistiche. *(+1 Iniziativa)*
+-   *Percezione dell'Aura*: **4** sa se una persona davanti a lui sia qualcuno di particolarmente potente. Il Master deve offrire una descrizione del personaggio secondo questi parametri (ma non deve usarli per forza tutti) NB:  *(+1 Iniziativa)*
+    - Impronta dell'aura: l'aura offre una traccia del temperamento della persona che si ha davanti. Gli aggettivi proposti sono indizi: il player potrebbe percepire ferocia, una grande sete di sangue, una violenta arroganza, una generica  indecifrabilità, una  compostissima eleganza, una solidissima pace, un atteggiamento freddo o instabile. 
+    - Comportamento dell'aura: l'aura potrebbe essere vista come pulsante, che ddi solito indica una forza simil magica, o distorta,  che indica qualche grado di decezione, affilata e netta, che indica magari abilità e capacità... questa descrizione rende merito di un tipo di forza, di uno stile di combattimento  nella maggior parte delle volte.
+    - Ampiezza: l'ampiezza dell'aura indica la forza relativa dell'aura. Il DM deve descrivere la sensazione che proverebbe una bestia braccata da quell'aura, grossomodo con i seguenti livelli: non si accorgerebbe o ne riderebbe, terrebbe la guardia  comunque bassa, starebbe in guardia, avrebbe paura, avrebbe una radicata paura che lo indurebbe a scappare o lottare, avrebbe un terrore viscerale finendo nel panico più totale, o vivrebbbe un senso di angoscia così primordiale da renderlo impotente. (Nota: l'ultimo grado non rende merito di differenze superiori, come a dire che per una formica un gatto e un elefante sono ugualmente invalicabili)
 
--   *Companion donato dalla dea* **8** può avere un companion, accordandosi con il DM. L'animale obbedisce ai comandi senza bisogno di dover tirare alle prove di parlare animali. L’animale è straordinariamente intelligente ed abituato al pericolo. Sa evitare con relativa autonomia le situazioni di pericolo, ed è molto resiliente. Specifiche sul carattere dell’animale possono essere concordate col DM. L’animale può essere rievocato la sera del giorno dopo la sua morte offrendo un sacrificio alla dea. (La dea  va concordata col DM).
+-   *Sintonia con la bestia* **8** può avere un companion, accordandosi con il DM. Avendo ottenuto una fortissima sintonia con l'animale, tra i due si è generato un fortissimo legame magico, naturalmente, per volontà della dea Selune. L'animale obbedisce ai comandi senza bisogno di dover tirare alle prove di parlare animali. L’animale è straordinariamente intelligente ed abituato al pericolo. Specifiche sul carattere dell’animale possono essere concordate col DM. L’animale può essere rievocato la sera del giorno dopo la sua morte offrendo un sacrificio alla dea Selune. 
+    - NB: il legame con il cacciatore è protetto da un Vincolo (W)
 
 -   *Nottilungo*: **7** Non dorme di notte. Il suo riposo lungo dura un’ora riposando di notte senza addormentarsi. Vede al buio.
 
@@ -299,9 +303,9 @@ Ogni manovra comprata aggiunge +1 ai tuoi punti generici.
 
 -   *Inchiodatura*: **7** sceglie un nemico contro cui sta combattendo in mischia usando un’azione bonus o una reazione: il nemico non può disingaggiare, né può abbandonare il combattimento. (MN)
 
--   *Incalzare*: **5** se sta combattendo contro una sola creatura umanoide, può aggiungere a ogni colpo una prova di Forza contrapposta. Che il colpo passi o non passi, se la prova di Forza viene superata il nemico e si spostano di movimento pari a 2+Forza del guerriero metri nella direzione desiderata dal guerriero. (+1 Iniziativa).  Inoltre, se il colpo passa, aggiunge il suo punteggio di Forza ai danni pre-armatura. (6 volte a riposo breve.) (MN)
+-   *Incalzare*: **5** se sta combattendo contro una sola creatura umanoide, e passa il tiro a colpire, può eseguire movimento costringendo l'avversario a muoversi nella sua direzione. Se l'avversario si rifiuta, ottiene un attacco di opportunià. (+1 Iniziativa). 
 
--   *Carica incessante*: **7** Se colpisce un avversario può dimezzare il danno (post-armatura) e fare un tiro di Forza (se la creatura umanoide non è di taglia grande): se passa può respingrlo di metri fino al suo punteggio di Forza, seguire il nemico, e può colpirlo nuovamente. Può attivare questa manovra per un totale di 6 volte a fight, massimo 3 per volta. (MN)
+-   *Carica incessante*: **7** Se colpisce un avversario può fare un tiro di Forza (se la creatura umanoide non è di taglia grande): se passa può usare un'azione bonus per respingerlo di metri fino al suo punteggio di Forza, seguire il nemico, e può colpirlo nuovamente (finché non conludi il movimento). Può attivare questa manovra tante volte quante il suo punteggio di Forza per fight, massimo 1 per volta. (MN)
 
 # **Competenze**
 
@@ -374,8 +378,9 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 
 -   Scurovisione minore (18 metri, bianco e nero)
 -   Conosce l’elfico, il comune.
--   2 a 2 *Abilità*
--   +1 a Destrezza
+-   Velocità: 15m
+-   Impatto: se combatte in mischia può spendere un'azione bonus prima di colpire e dare stunnn all'avversario (cioè l'avversairo non può eseguire la sua prossima azione.) Questo effetto non si applica con 1 naturale,  ma si applica anche se il tiro non passa.
+-   Ha +12 pf base
 -   Ottiene una vita virtualmente immortale. 
 
 *Umano*
@@ -389,7 +394,7 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 -   Ottiene la statistica Fortuna: quando loota in generale può chiedere al DM di lanciare un d20 che migliori la possibilità di trovare qualche tesoro in più che il DM non aveva inizialmente programmato (una sola volta per riposo Lungo)
 -   Spirito giudaico: Vantaggio ai tiri per ogni trattativa commerciale.
 -   6m movimento
--   Inizia con 30 Kilia in più
+-   Inizia con 300 Kilia in più
 
 *Dragonide*
 

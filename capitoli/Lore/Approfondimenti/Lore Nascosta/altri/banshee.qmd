@@ -1,0 +1,17 @@
+---
+title: "Banshee"
+search: false
+format:
+  html:
+    theme: default
+---
+
+L'esperimento fallito di un mago, un Banshee è uno spirito che ha preso possesso di un cadavere senza riuscire a fondersene. Viene data forma a un nuovo tipo di vita,  non più spirito, non più materia. 
+
+Il Banshee può attaccare passando attraverso le persone, consumando 1d12 pf e rovinando gli oggetti che i player possiedono (3 oggetti a caso dall'inventario sono considerati danneggiati, se usati ancora senza riaprazione si romperanno). 
+
+Son vulnerabili ad attacchi magici, armi da monaco (cioè in Ametista), in argento bianco, armi  da mago (Osso di Balena)
+
+Un Banshee può essere uscciso, ma una volta che viene ucciso il DM tira un D20 su Intelligenza per determinare la CD contro l'urlo che lancerà. Chiunque senza l'urlo deve tirare di Intelligenza, chi non passa cade sventuo con 1 pf. _Autorità 4_ 
+
+Con un Banshee non è completamente impossible ragionare, ma sarà molto difficile. 

@@ -246,5 +246,53 @@
   "capitoli/Lore/Approfondimenti/lamagia.qmd": {
     "magia.html": "0d85c53b",
     "lamagia.html": "7543fda8"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/altri/banshee.qmd": {
+    "banshee.html": "ebd7a2be"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/arva.qmd": {
+    "arva.html": "497771c5"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/ashra.qmd": {
+    "ashra.html": "a8ec791c"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/bianconiglio.qmd": {
+    "bianconiglio.html": "3a56bfc9"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/carceriere.qmd": {
+    "carceriere.html": "62671ecb"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/cerbero.qmd": {
+    "cerbero.html": "5e0919b1"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/elencodemoni.qmd": {
+    "elencodemoni.html": "09f49582"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/lucifero.qmd": {
+    "lucifero.html": "7b659f1a"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/sisteleide.qmd": {
+    "sisteleide.html": "55187831"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni/terebrissa.qmd": {
+    "terebrissa.html": "c4edb6c3"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/demoni.qmd": {
+    "demoni.html": "4de09ccf"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/egosword.qmd": {
+    "egosword.html": "d4e5ae94"
+  },
+  "capitoli/Lore/Approfondimenti/Lore Nascosta/pirati.qmd": {
+    "pirati.html": "a2ffa6b9"
+  },
+  "capitoli/Power-Up/armi/c.rasnak.qmd": {
+    "c.rasnak.html": "d6a2be35"
+  },
+  "capitoli/Power-Up/armi/s.valak.qmd": {
+    "s.valak.html": "f69a47dc"
+  },
+  "capitoli/Power-Up/item/eralughia.qmd": {
+    "eralughia.html": "7719aa3b"
   }
 }

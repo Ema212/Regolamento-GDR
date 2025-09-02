@@ -1,0 +1,11 @@
+---
+title: "Diavolo Sisteleide"
+format:
+  html:
+    theme: default
+---
+
+Grado: Vissàl
+Titoli: il Sole Nero 
+
+Il demone Sisteleide: un demone in grado di rubare la luce al sole, vero problema di questa regione, la prende e crea i suoi sacerdoti, i quali sacerdoti sono tipo dottori che contaminano le bestie (immagino vene arancioni che esplodono, ali tipo di farfalle e cose così)

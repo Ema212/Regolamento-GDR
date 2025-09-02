@@ -14,7 +14,7 @@ Eppure gli dèi possono essere pregati. Se la preghiera è abbastanza credibile,
 
 #### Minis
 
-che ha indicato una miniera fruttuosa agli abitanti di [[Tindia]], i quali sono diventati abili fabbri, rendendo famosa la manifattura delle loro armi.
+che ha indicato una miniera fruttuosa agli abitanti di [Tindia](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/luoghi/tindia.qmd), i quali sono diventati abili fabbri, rendendo famosa la manifattura delle loro armi.
 
 #### Argelun
 
@@ -45,25 +45,28 @@ La dea è nota per il suo carattere belligerante ed il suo spasmodico amore per 
 
 ### Divinità della Luna 
 
-#### Indra
-
-temutissima dea dei patti, è all'effettivo la prima dea della Luna. 
-Vedi [[Patto con Indra]] 
-
-#### Vengra
-
-divinità mostruosa partorita da Indra, fu lei a donare agli umani la runa [[Ingwaz]].  Fu lei a creare i [[Vampiri]], lasciando al mondo delle progenitrici Immortali, inscalfibili, [[Nalara e Lahzara]]. 
+Tra le divinità della Luna, Selune è l'unica con atteggiamento duro ma neutrale verso gli uomini. Le altre, sono famose per essere crudeli ed empietose. 
 
 #### Selune
 
-Dea della notte e della caccia. 
+La vera dea Signora della Luna.
+Sorella di Indra
+Dea dell'ordine del Cosmo, della notte e della caccia. 
 
-Ella Bloccò il [cosmo](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/cosmo.html) come lo conosciamo: quando era il Chaos nell'universo, Selune per prima diede la Caccia ai Celestiali, i primi temibili esseri che si generarono, stabilendo che i loro confini doveesero essere nella Zona Celeste. Per Farlo generò le Stelle a chiudere la Galassia.
+- *Dea del Cosmo*: ella bloccò e impose il [cosmo](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/cosmo.html) come lo conosciamo: quando era il Chaos nell'universo, Selune per prima diede la Caccia ai Celestiali, i primi temibili esseri che si generarono, stabilendo che i loro confini doveesero essere nella Zona Celeste. Per Farlo generò le Stelle a chiudere la Galassia.
+- *Sigora della Luna*: Durante le Guerre degli Angeli, ella ottenne il potere che serviva per dare alla luna la forza per illuminare il cielo durante la notte. Come si legge da un estratto dalle guerre degli angeli. _"Ovviamente ne seguì un'ultima alleanza tra Espero e Allumi. Ma Ya'dhal profetizzò ad Estia che ne sarebbe risultato il massacro di tutti gli angeli. Allora Estia riscosse un favore alla dea Selune, che fu responsabile quel giorno del massacro di Cherubini e Dominazioni. Da quel giorno Selune potè illuminare la Luna, col sangue di molti angeli avanzato dalla guerra."_ 
+- *Il migliore amico dell'uomo*: è in grado di tracciare la runa Ehwaz per le coppie cacciatori-famiglio più  meritveoli. Quando un cacciatore crea una forte sintonia con una bestia, sorge naturalmente il legame per la runa Ehwaz.
 
-Ha creato i Mannari utilizzando degli uomini, da cui la loro parziale intelligenza, come punizione per aver osato uccidere i suoi cervi bianchi. 
-è in grado di tracciare la runa Ehwaz per le coppie cacciatori-companion più  meritveoli. 
+#### Indra
 
-Estratto dalle guerre degli angeli. "Ovviamente ne seguì un'ultima alleanza tra Espero e Allumi. Ma Ya'dhal profetizzò ad Estia che ne sarebbe risultato il massacro di tutti gli angeli. Allora Estia riscosse un favore alla dea Selune, che fu responsabile quel giorno del massacro di Cherubini e Dominazioni. Da quel giorno Selune potè illuminare la Luna, col sangue di molti angeli avanzato dalla guerra."
+La temutissima dea dei patti, sorella di Selune. Gli accordi condotti con lei non portano mai a una buona conclusione. La dea articola i patti con delle clausole meschine ed infide, godendo del tormento che genera sul mondo. 
+
+#### Vengra
+
+Divinità mostruosa partorita dalla stessa Indra
+- Fu lei a donare agli umani la runa Ingwaz.  
+- Fu lei a creare i Vampiri, lasciando al mondo delle progenitrici Immortali, inscalfibili, [[Nalara e Lahzara]]. 
+- Ha creato i Mannari, per schernire la dea Selune: se gli uomini che uccidevano le sue bestie sacre fossero diventati bestie, allora la dea della caccia non avrebbe più potuto agire contro di loro, ormai solo bestie guidate dal solo istinto.
 
 ### Divinità del Sole
 

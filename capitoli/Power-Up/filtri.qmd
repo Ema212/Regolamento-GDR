@@ -1,0 +1,18 @@
+---
+title: "Filtri e Pozioni Avanzate"
+search: false
+format:
+  html:
+    theme: default
+---
+
+#### Sangue dell'avarizia 
+
+Per la prossima ora, il modificatore del tuo tiro di combattimento è 1.  
+
+Ogni volta che un nemico ti colpisce, ottieni +1 alle prove di combattimento e il tuo avversario prende -1. Inoltre, aggiungi quel bonus ai tuoi danni dell'arma. 
+
+#### Neralbo liquido 
+
+attivit l'incantesimo Neralbo
+

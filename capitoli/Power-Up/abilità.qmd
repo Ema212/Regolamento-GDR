@@ -1,11 +1,22 @@
 ---
 title: "Abilità Leggendarie"
+search: false
 format:
   html:
     theme: default
 ---
 
 ## Abilità Leggendarie
+
+Autorità 5
+
+#### Danza della spia
+
+puoi usare invariabilmente una capacità con azione bonus, azione, reazione.
+
+#### Aritmia
+
+ottieni altre 2 azioni bonus.
 
 ### Di Spada
 
@@ -22,6 +33,7 @@ In altre parole, è come se tu fossi in mischia con tutti ma gli altri non fosse
 Se combatti in mischia e lo dichiari in anticipo puoi eseguire un Fendente Vitale: 
 - se il tuo tiro è pari o superiore a 10 e colpisce, il danno post-armstura è raddoppiato
 - se il tuo tiro è inferiore a 10, non passa.
+
 #### Fioritura di spade
 
 Quando tiri per colpire puoi colpire più bersagli che combattono in mischia con te, abbandonando l'arma nel nemico. (il primo nemico usa l'arma senza bbandonarla, dal nemico due in poi si conderano le armi abbandonate)
@@ -66,6 +78,12 @@ Non subisci danno da caduta. Hai un minimo dio movimento mentre sei in aria.
 
 Se colpisci atterrando aggiungi intelligenza ai danni, e consideralo critico(solo il primo). (Devi comunque tirare) 
 
+#### Blackflash
+
+- Disintegra le armature (cioè azzera) 
+- Il nemico è disingaggisto 
+- Il danno è il danno del pugno + 1 per ogni Blackflash già landato in fight.
+
 ### A distanza 
 
 #### Fioritura di coltelli
@@ -100,6 +118,8 @@ _Combo_:
 
 ## Benedizioni
 
+Autorità 2
+
 #### Dominio di Seltan
 
 Se tocchi un bacino d'acqua chiuso sai tutto quello che vi è contenuto. Puoi fare risalire dal fondale un oggetto grande fino alle tue dimensioni.
@@ -114,6 +134,8 @@ Come aura grema ma senza CD. Bisogna valutare la reazione dei pg alla paura in m
 
 ## Marchi
 
+4.2
+
 #### Occhio inquisitore
 
 Sei in grado di vedere di quante assassini una persona è responsabile
@@ -121,6 +143,7 @@ Sei in grado di vedere quante di quelle persone si trattava di
 - Difesa personale 
 - Vendetta 
 - Morti collaterali 
+
 Sei in grado di vedere quante persone ha anche salvato. 
 
 Un numero di volte pari a Intelligenza (minimo1) per ogni riposo lungo, sai se una persona sta dicendo una bugia o meno. 
@@ -143,12 +166,12 @@ Vedi al buio
 - Ti ricordi tutto quello che hai visto. La gonna di quella ragazza vista tre anni fa? Verde. In quale posizione sul muro gigante era la macchia? Lo sai. 
 - Riesci a contare con esattezza gruppi numerosi ad una prima occhiata 
 
-#### Odio del drago
+#### Odio del Drago
 
 Una persona che ti stia guardando negli occhi vive la pressione psicologica che esercita un Dragone. 
 Non importa quale sia l'avversario: lo schock è tale che per un turno non può muoversi nè effettuare azioni. 
 
-Puoi usare questa capacità un numero di volte pari al numero di [[Draghi]] che hai sconfitto nella tua vita per ogni riposo lungo. 
+Puoi usare questa capacità un numero di volte pari al numero di Draghi che hai sconfitto nella tua vita per ogni riposo lungo. 
 
 Questa capacità non ha effetto sui draghi, ma ce l'ha sui dragonidi. Questa capacità sorpassa la Capacità base del manuale che consentono immunità a effetti mentali. 
 
@@ -194,6 +217,8 @@ Se lo avevi già, puoi "cercare il 20". Se si osserva un nemico combattere indis
 Se tirando Stratega ottieni un 20, allora pari automaticamente tutti gli attacchi del nemico, senza tirare (a meno che questi non faccia 20, o a meno che non ricadano nella categoria del DM "Manovre speciali".)
 
 ## Titolo leggendario
+
+Autorità 2.4
 
 #### Dio marziale
 

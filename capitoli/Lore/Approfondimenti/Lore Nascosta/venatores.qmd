@@ -53,7 +53,7 @@ Nel corso dei secoli i Venatores hanno creato molte basi qua e là
 
 Un cacciatore di [[Vampiri]] è addestrato nell'arte della caccia ai vampiri, alla quel dedica tutta la sua vita. 
 
-Un cacciatore di vampiri possiede le seguenti abilità e strumenti
+Un cacciatore di vampiri possiede le seguenti abilità e strumenti:
 
 - Percezione dell’aura: un venatores specializzato riconosce a occhio nudo quanta aura possiede un vampiro in una scala da 1 a 20. 20 non è il tetto massimo, è solo il tetto massimo percepibile dal cacciatore. 
 - Percezione magia vampirica: può tirare per cercare di capire se il vampiro che ha di fronte può accedere all’aura di un mago (che sarebbe molto pericoloso, ovviamente)
@@ -68,7 +68,6 @@ Un cacciatore di vampiri possiede le seguenti abilità e strumenti
 
 Il problema di affrontare i dragonidi è affrontare i draghi. Per affrontare i draghi i Venatores si sono attrezzati con il Sangue di drago 
 Occorre un lungo addestramento per poter utilizzare il sangue di drago, in grado di migliorare le capacità fisiche e fornire Alcune capacità del drago al cacciatore. Più è grande il drago da cui si ottiene il drago, più forte è l'effetto. 
-In realtà alcuni Venatores hanno anche sviluppato una tecnologia molto rischiosa: impiantarsi il cuore di un drago. Questo li rende come costantemente sotto effetto di sangue di drago, ma è per cacciatori folli, martiri della missione. 
 
 È importante notare che non c'è una gerarchia tra ventaores, solo alcuni che hanno assunto il ruolo di gestori. Tipicamente sono Venatores in pensione che contribuiscono alla causa facendo da organizzatori. 
 
@@ -76,22 +75,26 @@ Una cosa da ricordare dei draghi, è che questi mantengono le capacità che avev
 
 **Equipaggiamento** 
 
-Tu hai l'addestramento di primo livello per l'utilizzo del sangue di drago. Qualsiasi classe costruirai, avrai a disposizione tre boccette iniettabili col seguente effetto: "Per 5 turni ottieni le seguenti caratteristiche 
-
-- +30 punti ferita 
-- +4 ai tutti i danni inferti 
-- +2 ai tiri per colpire 
-- non puoi essere spaventato 
-
-Una volta esaurite le boccette devi trovare un rifugio da Venatores e io vedo se te ne danno altro tirando. Come regola non ne si dà più di tre alla volta, perché sono molto costose. Ne puoi usare una per riposo breve. 
-
 - Giacca di pelle di drago (la prima vittima che hai fatto), ignifuga, armatura media. 
 - Dardi per balestra in [[Meteorite]] che hanno qualche porbabilità in più di perforare le scaglie dei draghi. 
 - Arpione retrattile
+- Inoltre, hai l'addestramento di primo livello per l'utilizzo del sangue di drago grezzo. Qualsiasi classe costruirai, avrai a disposizione tre boccette iniettabili col seguente effetto: "Per 5 turni ottieni le seguenti caratteristiche 
+	- +30 punti ferita 
+	- +4 ai tutti i danni inferti 
+	- +2 ai tiri per colpire 
+	- non puoi essere spaventato 
+
+Una volta esaurite le boccette devi trovare un rifugio da Venatores e io vedo se te ne danno altro tirando. Come regola non ne si dà più di tre alla volta, perché sono molto costose. Ne puoi usare una per riposo breve. 
+
+In realtà alcuni Venatores hanno anche sviluppato una tecnologia molto rischiosa: impiantarsi il cuore di un drago. Questo li rende in grado di grandissimi portenti, ma è per cacciatori folli, martiri della missione. Comunqueè necessario sapere come funzionano. Vedi [cardia draconis](/capitoli/Power-Up/altri/cuoredrago.qmd)
+
 
 #### Cacciatore di Tiefling   
 
 Ha in dotazione armi in [[Argento Bianco]]
+
+Conosci la [Lore dei demoni](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/demoni.html)
+Conosci anche l'[Elenco dei Diavoli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/demoni/elencodemoni.qmd)
 
 #### Cacciatore di Bestie
 

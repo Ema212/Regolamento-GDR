@@ -13,13 +13,15 @@ format:
     - NB: se attacchi un nemico disarmato (o che non ha colpo senz'armi), il risultato complessivo >11 viene considerato un critico. 
 
 - Prove di Abilità: tutti i giocatori possono eseguire le prove di Abilità usando i proprio modificatori 
+  - Prove di Abilità Speciali: queste prove sono abilità non riproducibili dalle persone normalmente senza un training specifico. Molto sta al master decidere se o meno lasciare eseguire tentativi disperati. Per esempio, è facile concedere a una persona che non ne sa nulla, comunque provare un tiro di Medicina, anche se rischia di fare più danno che altro, mentre è un po' meno credibile pensare di improvissare "Percezione del magico" o "Scassinare" senza saperlo fare.
 
-- Prove di Abilità Speciali: queste prove sono abilità non riproducibili dalle persone normalmente senza un training specifico. Molto sta al master decidere se o meno lasciare eseguire tentativi disperati. Per esempio, è facile concedere a una persona che non ne sa nulla, comunque provare un tiro di Medicina, anche se rischia di fare più danno che altro, mentre è un po' meno credibile pensare di improvissare "Percezione del magico" o "Scassinare" senza saperlo fare.
-
-- Prove di Inganno e Persuasione: 
-	- Quando un pg dice una bugia a un npc o pg, deve tirare di Carisma per Ingannare 
-	- Quando un pg cerca di convincere un npc, deve tirare di Carisma per Persuadere
-	- Quando un pg sospetta che un pg o npc gli stia mentendo, deve tirare Intelligenza contrapposta ad un tiro  di Carisma dell'avversario
+- Prove di Carisma: in generale chiamiamo  prova di Carisma il provare a fare una faccia carina, a dare una buona impressione. 
+  - Prove di Inganno e Persuasione: 
+    - Quando un pg dice una bugia a un npc o pg, deve tirare di Carisma per Ingannare.
+      - Quando un pg sospetta che un pg o npc gli stia mentendo, deve tirare Intelligenza contrapposta ad un tiro  di Carisma dell'avversario
+    - Quando un pg cerca di convincere un npc, deve tirare di Carisma per Persuadere. 
+      - Se il pg cerca di spaventare, mettere pressione, o alle strette, allora si usa l'abilità spaventare. 
+      - Un DM può fare rispondere un NPC con intelligenza a una prova di persuasione al posto che usare una CD.
 
 #### Meccaniche di supporto alle prove
 

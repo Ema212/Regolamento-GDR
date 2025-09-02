@@ -1,0 +1,12 @@
+---
+title: "Beniamino"
+search: false
+format:
+  html:
+    theme: default
+---
+
+Un beniamino è qualcuno o qualcosa sacro ad una dea o ad altro essere. 
+La caratteristica più rilevante è che se lo  uccidi, l'entità a cui era legata saprà che sei stata tu, e saprà come trovarti. Una forma di maledizione. 
+
+Un esempio sono certe bestie che se uccise ti fanno inseguire dal resto del branco, o da certi Diavoli, o così via.

@@ -8,28 +8,28 @@ format:
 
 ### Metalli primari 
 
--   **Oricalco:** esso conia l'essenza della magia, esso si inseri e fuse con tutti i metalli. Loricalco è presente allo stato della materia noto come Etereo (Mana). La maggior parte dell'Oricalco è mantenuto nel piano etereo. Quando si usa la magia, si incanalano i metalli in una direzione. Il metallo più flessibile è questo, ed è anche quello in grado di legarsi e manipolare più velocemente ed efficaciemente gli altri, pertanto è detto metallo della magia. Questo è noto con molti nomi: essenza magica, fluido di Mistrya, energia magica, o Mana. L'oricalco risponde a un pensiero magico, basato su una precisa sintassi, la detta Lingua degli \[\[Dèi\]\].
+-   **Oricalco:** esso conia l'essenza della magia, esso si inseri e fuse con tutti i metalli. Loricalco è presente allo stato della materia noto come Etereo (Mana). La maggior parte dell'Oricalco è mantenuto nel piano etereo. Quando si usa la magia, si incanalano i metalli in una direzione. Il metallo più flessibile è questo, ed è anche quello in grado di legarsi e manipolare più velocemente ed efficaciemente gli altri, pertanto è detto metallo della magia. Questo è noto con molti nomi: essenza magica, fluido di Mistrya, energia magica, o Mana. L'oricalco risponde a un pensiero magico, basato su una precisa sintassi, la detta Lingua degli [[Dèi]].
 
-Utilizzando la \[\[Lingua degli dei\]\] è possibile per una persona utilizzare la Magia. Per farlo deve attingere a riserve di Oricalco che derivano dal Cielo. Se una persona è in grado di storare la quantità di informazioni necessarie e tollerare di esdsere usato come una sorta di antenna per il passaggio dell'Oricalco, allora esso si libera dalla mente del caster per produrre effetti molto forti sul mondo.
+Utilizzando la [[Lingua degli dei]] è possibile per una persona utilizzare la Magia. Per farlo deve attingere a riserve di Oricalco che derivano dal Cielo. Se una persona è in grado di storare la quantità di informazioni necessarie e tollerare di esdsere usato come una sorta di antenna per il passaggio dell'Oricalco, allora esso si libera dalla mente del caster per produrre effetti molto forti sul mondo.
 
-Esso è infatti in grado di manipolare gli altri \[\[Elenco Metalli\]\] in modi molto forti. L'Oricalco è una delle forme energetiche più potenti che esistano, molto al di là delle forme energetiche presenti all'interno del \[\[Pavranio\]\]. Si chiama anche Metallo del Comando perché è in grado di muovere gli altri. Un nome appropriato per la magia infatti è anche "Magnetismo Arcano"
+Esso è infatti in grado di manipolare gli altri [[Elenco Metalli]] in modi molto forti. L'Oricalco è una delle forme energetiche più potenti che esistano, molto al di là delle forme energetiche presenti all'interno del [[Pavranio]]. Si chiama anche Metallo del Comando perché è in grado di muovere gli altri. Un nome appropriato per la magia infatti è anche "Magnetismo Arcano"
 
--   **Miasma**: il miasma è una versione dell'Oricalco. Come se fosse un colore, una variazione. Probabilmente una sorta di versione arrugginita o immpoverita dell'oricalco.
+-   **Miasma**: il miasma è una versione dell'Oricalco. Come se fosse un colore, una variazione. Probabilmente una sorta di versione arrugginita o distorta dell'oricalco.
 
 Chi ne viene a contatto testimonia una caratteristica del Miasma cioè quella di attaccarsi in modo molto più instabile alle cose. Come se parassitasse le cose, come se le consumasse una volta che vi si fosse attaccato.
 
 Se non si è studiato in modo approfondito l'Occulto, per altro, il miasma viene facilmente scambiato per Oricalco comune.
 
 Le fonti che solitamente fanno uso di Miasma sono 
-- Alcuni Celestiali 
+- La maggior parte dei Celestiali 
 - La magia di Indra e Vengra 
 - La magia dei Tiefling di alto livello
 
 La sola presenza di grandi quantità di Miasma è in grado di alterare in modi strani e macabri il tessuto del mondo. Luoghi esposti a questo tipo di magia potrebbero essere vittima di strane piaghe, distorsioni della percezione del mondo o delle leggi della natura.
 
--   **Irradion**: il metallo della tonalità, della musica. Si tratta del metallo che dona la musicalità alla Lingua degli dei Esso dona un senso alle cose, il loro normale fluire è descritto da esso come se per la lingua  lui fosse l’intonazione, solo la  runa \[\[Ansuz\]\], sua maestà Sintassi e grammatica, gli è superiore. Ma è questo il metallo che consente la musicalità della \[\[Lingua degli dei\]\] e delle \[[Rune]\], pertanto l'uso preintuitivo delle rune è dovuto all'Irradion.
+-   **Irradion**: il metallo della tonalità, della musica. Si tratta del metallo che dona la musicalità alla Lingua degli dei Esso dona un senso alle cose, il loro normale fluire è descritto da esso come se per la lingua  lui fosse l’intonazione, solo la  runa [[Ansuz]], sua maestà Sintassi e grammatica, gli è superiore. Ma è questo il metallo che consente la musicalità della [[Lingua degli dei]] e delle [[Rune]], pertanto l'uso preintuitivo delle rune è dovuto all'Irradion.
 
-Anche se i Bardi possono come si dice *bendare*, cioè muoverlo per porre delle modifiche al reale (minimali come muovere una foglia, aprire una finestra, o cose così, oltre che usare la capacità di Metadialogo dei bardi) Non viene considerato al pari realmente dell’ \[\[Oricalco\]\] per l’impatto che ha.
+Anche se i Bardi possono come si dice *bendare*, cioè muoverlo per porre delle modifiche al reale (minimali come muovere una foglia, aprire una finestra, o cose così, oltre che usare la capacità di Metadialogo dei bardi) Non viene considerato al pari realmente dell’ [[Oricalco]] per l’impatto che ha.
 
 Noto come il metallo dei Bardi, l'Irradion viene visto dai bardi con delle prove che scalano su Carisma. Il Bardo è in grado di vederlo in tutta la struttura del mondo, e dove esso è silenzioso significa che c'è stata una manipolazione da parte della runa Ansuz, anche se quasi nessuno conosce le rune al punto da poterlo dire.
 
@@ -43,13 +43,15 @@ Bardi esperti possono anche arrivare a capire a seconda del suono che l'irradion
 
 -   **Icore (Dei)** = Giada + Oricalco insieme danno vita a magia con della volontà, fondando pertanto gli dèi. L'icore è altrimenti detto il sangue degli dèi.
 
--   **Ladega**: lega insieme, serve a tracciare le fonti, per esempio lega al sole ogni divinità del sole. È la traccia che consente di generare la proprietà magica. Cioè la Sacralità. Ogni luogo connesso a un altro perché sacro ad altro è intriso di Ladega. Ed è alla base della formazione dei Talismani. Anche il metallo delle firme.
+-   **Ladega**: lega insieme, serve a legare un oggetto o luogo a una fonte di magia, come nei seguenti casi
+    - Sacralità: ogni luogo/oggetto/soggetto che sia sacro a un altro, o ad una divinità, lo è grazie alla Ladega. Un esempio sono i Talismani o i [Beniamini](/capitoli/Regole/meccaniche_nascoste/beniamino.qmd)
+    - Contratti: Le firme dei patti di Indra sono intrise di Ladega
 
 -   **Edenia**: il metallo del piacere 
 
--   **Algheina**: il metallo del dolore. Funge da base per l'\[\[Arte dei tatuaggi\]\].
+-   **Algheina**: il metallo del dolore. Funge da base per l'[[Arte dei tatuaggi]].
 
--   **Taddìma**: il metallo dell'ascendenza, del comando e del controllo. Funge da base all'\[\[Arte Vodoo\]\]
+-   **Taddìma**: il metallo dell'ascendenza, del comando e del controllo. Funge da base all'[[Arte Vodoo]]
 
 -   **Cronomia** metallo del tempo 
 
@@ -104,6 +106,7 @@ Le Fate sono esseri composti dall'unione del neon, oricalco, e ovviamente una pu
     -   gli Dèi, anche se si tratterebbe di una mossa suicida,
     -   i Mannari più come effetto collaterale che voluto,
     -   i Tiefling visti inizialmente come servitori degli dei della Luna.
+    -   I Banshee
 
     Una nota dolente riguarda la quanità. Sono state forgiate intorno alle 300 spade in oro bianco, ma non è stato concesso altro sangue dagli angeli, pertanto non è stato possibile crearne di nuove.
 
@@ -121,13 +124,10 @@ Le Fate sono esseri composti dall'unione del neon, oricalco, e ovviamente una pu
 -   **Diasprite** Un metallo rosso cremisi intenso, si ottiene solo nelle secche di alcune isole molto remote dell Mare dei Tesori, portato a riva dal Vetro Sale. Giunge nelle forme di una conchiglia viola intenso, e se raffinato otteniamo la Diasprite. La Diasprite è un metallo particolare, in grado di legare bene solo con il Miasma. Quando si prova a incantare la Diasprite con dell'Oricalco, si fanno solamente dei danni, si rompe la spada.
 
 -   Le armi non possono essere incantate con magia a base di Oricalco
-
 -   Le armi possono essere incantate con magia a base di Miasma
-
 -   Se si riversa Miasma, o materiale che lo contiene sulla spada, essa lo beve, e acquisisce delle capacità che sono proprie della, almeno così dicono i magicanti, conchiglia di riferimento che l'ha partorito.
 
 -   **Osso di Balena Bianca**: Questo rarissimo materiale è usato (più facilmente trasmutato) per generare armi da mago. Le armi fatte con questo materiale sono capaci di canalizzare la magia dell'incantatore in un modo molto particolare, legandosi alla sua capacità di manipolare l'Oricalco Il caster che impugna quest'arma fa danno tagliente pari a Intelligenza. Usa Intelligenza per colpire e difendere al posto di Destrezza.
 
 -   Il Quarzo trattiene l’Oricalco 
-
 -   Diamanti o Carbone trattengono il Rame.

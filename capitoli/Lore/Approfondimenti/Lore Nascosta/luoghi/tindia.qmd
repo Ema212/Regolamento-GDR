@@ -1,0 +1,11 @@
+---
+title: "Tindia"
+format:
+  html:
+    theme: default
+---
+
+Città famosa  per la forgia delle sue spade, una spada della Forgia  di Tindia avrà sicuramente una serie di proprietà particolari tra cui scegliere, ecco alcuni esempi: 
+
+- Dualdo: questa spada corta (danno 6, tagliente) può colpire due volte in una sola azione. 
+- Excadrill: questa lancia può perforare due avversari con una sola azione (entrambi tirano destrezza) nella stessa azione, se a portata. 

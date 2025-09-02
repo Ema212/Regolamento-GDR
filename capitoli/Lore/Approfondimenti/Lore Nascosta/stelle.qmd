@@ -6,10 +6,20 @@ format:
     theme: default
 ---
 
-Stelle
+# Stelle
 
 Le stelle sono materia Viva. Formate dal Dio Argelun e dalla dea Selune. Esse sono forme di vita care alla dea Selune. Aveva infatti delle Bestie predilette, che ha sacrifiato a questa causa. Argelun, in cambio della libertà, le riempì di nelle vene di certi metalli a lui noti, perché fossero isolate dal resto degli esseri viventi, perché respingessero la maggior parte dei metalli. Queste bestie comunque abituate a vivere in branchim si ammassarono in costellazioni, muovendosi secondo certi deboli ritmi che si combinano tra loro, muovendo gli elementi che gravano sul mondo.
 
 Creano questa rete di bestie quasi immmbili e solitarie, le stelle fungono da barriera al mondo: tra il vuoto oltre la Luna e il mondo creano la Zona Celeste.
 
 Alcuni riescono a sviluppare dei poteri legati alle stelle, in una forma molto [Particolare](/capitoli/Regole/Classi%20Nascoste/astrologo.html)
+
+%PARTE NON PRONTA%
+
+Magie legate alle Costellazioni: 
+- Bussola: puoi vedere il fato di un target. Il fato è una visione approssimativa del suo futuro se il party non interviene in alcun modo significativo nella sua vita.
+- Sagittario: puoi vedere un target, ovunque esso sia nel mondo, e sai dove si trova. Quel target saprà però di essere osservato. 
+- Idra: puoi rompere un legame di Ladega.
+- Bilancia: puoi abbassare l'autorità di un incantesimo.
+- Gemelli: avatar?
+- Acquario: togliere la colpa a qualcuno??

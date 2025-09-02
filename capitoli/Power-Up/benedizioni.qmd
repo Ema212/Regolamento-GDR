@@ -1,5 +1,6 @@
 ---
 title: "Benedizioni"
+search: false
 format:
   html:
     theme: default

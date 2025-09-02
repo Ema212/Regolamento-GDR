@@ -1,0 +1,161 @@
+---
+title: "Istruzione magica"
+format:
+  html:
+    theme: default
+---
+
+La magia, che altro non è che le forze che i mortali non si spiegano, è così spiegata: la manipolazione dei Metalli. "Castare" o "Fare una magia" o tutte le altre varianti, significa forzare i metalli a fare una certa cosa.
+
+Quando le magie confliggono tra loro in modo diretto e opposto si genera un conflitto diretto, che viene risolto a seconda dell'origine della magia: vince la fonte con origine più vicina a quella più pura, ossia con Autorità più vicina allo zero.
+
+L'autorità non significa quale dei due è più forte di per sè, significa solo quale delle due ha superiorità ordinata. Se ad esmepio una magia sigilla una cassa, e una magia cerca di aprirla, il conflitto si risolve con l'autorità. Se una magia viola l'invisibilità di un'altra, si risolve con i livelli di autorità. Ma non sarà il debole scudo del mago a difenderlo dalla grossa meteora celeste del Celestiale fuori controllo solo perché ha 0.1 di Autorità superiore. Perciò si segue lo schema che segue: 
+- Se un effetto è Vincolante ( indicato con il simbolo W), allora occorre autorità pari o superiore per spezzarlo. (se pari, mediamente il DM deciderà una CD). 
+
+In ogni ulteriore caso di dubbio, _ha ragione il DM_.
+
+# Gerarchia della magia
+
+## Magia Dell'Ordine:
+
+*Autorità: 0*
+
+La magia che si dice sia stata scritta sulla Pergamena del mondo, che contiene tutte le rune. Non che nessuno l'abbia mai vista
+
+## Magia Runica
+
+*Autorità 1*
+
+la magia delle Rune. Le Rune sono la forma scritta della Lingua degli dei, la forma più pura e primaria. Solo il sapere le rune, l'avete padroneggiate, è un codice esatto. Una combinazione forzata, dettata la quale, tutti i metalli rispondono, sotto la massima autorità. Chi sa scrivere, comprendere e pronunciare una Runa sa usare la magia tunica. Le rune prevedono una gerarchia, pertanto tutto quanto legato alle rune segua la gerarchia delle rune. 
+
+[Approfondire](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/Rune.html)
+
+### Magia Bardica:
+
+*Autirità: 1.5*
+
+Solo i Bardi la comprendono, e solo alcuni sanno che è collegata alla runa Dagaz, e quello che sappiamo è che influenza principalmente l'Irradion, un altro metallo in grado di influenzarne molti altri. (Nonostante l'autorità alta, spesso i Bardi non sono coosì forti)
+
+## Magia Divina:
+
+*Autorità 2*
+
+la magia divina utilizza la Lingua degli dei. Solo la versione non scritta. Estremamente potente, infatti quasi tutti i metalli rispondono bene all'autorità della Magia Divina. Ciononostante, siccome non è esplicitamente nota agli dèi la runa, la magia siffatta riguarda la loro identità, pertanto tanto più un dio si sente "il dio del mare", tanto più i metalli ad esso legati risponderanno.  
+
+Oltre alle magie in se per sè, hanno questo livello di autorità:
+- le [benedizioni](/capitoli/Power-Up/abilit%C3%A0/benedizioni.html) 
+- i talismani
+
+### Inni:
+
+*Autorità 2.1*
+
+gli inni sono formule che richiamano gli dèi ad agire con una forza a loro irresistibile, come un solletico. 
+
+### Astrologia:
+
+*Autorità: 2.2*
+
+magia che si basa sulla materia delle Stelle 
+
+### Magia Celestiale:
+
+*Autorità 2.3*
+
+una sottocategoria di magia divina parlata dai Celestiali, appunto. La loro conoscenza della lingua divina è ancora più intuitiva, come la modalità solo interiezioni. Per questo sottomesso alla magia divina, ma giusto sotto. 
+
+Ad ogni modo la maggior parte dei Celestiali possiede così tanta magia, che difficilmente un mago riesce a contrastarli. 
+
+NB: si ricorderà che i Celestiali fanno uso del Miasma quando utilizzano la magia.
+
+### Titolo leggendario:
+
+*Autorità: 2.4*
+
+titolo che vengono dati della divinità Storia della quando fanno qualcosa di meritevole di un titolo ai loro occhi 
+
+## Magia Arcana:
+
+*Autorità: 4*
+
+la magia arcana è una translitterazione non runica della lingua degli dèi, che i maghi cercano di mandare a memoria. Questo tipo di magia ha una forte influenza su un metallo in particolare, cioè l'Oricalco. Il quale Oricalco ha una fortissima influenza sulla maggior parte dei metalli. Manipolarli, ti rende infatti un Mago, classicamente inteso. 
+
+```         
+Nota: la difficoltà di questa magia consiste nel memorizzare interamente la formula magica, che viene dimenticata per lo choc una volta castata e va reimparata. Per risolvere questo problema sono stati creati 
+```
+
+### Maghi di Merlino
+
+*Autorità: 4*
+
+Merlino a suo tempo ha sviluppato un innovativo sistema per eseguire le magie, che consentisse ai suoi studenti di studiare e usare moltissime magie, al prezzo di averle un po' imperfette. Costituiscono non la forma più potente di magia, ma che può dare vita a maghi così versatili da risolvere il problema e primeggiare sul vecchio ordine. 
+
+Costituiscono di fatto gli incantatori più [moderni](/capitoli/Regole/Classi%20Nascoste/mago.html)
+
+### Maghi da battaglia
+
+*Autorità: 4*
+
+una nuova generazione di maghi, che cerca di risalire all'essenza della manipolazione dei Metalli, ma si tratta a detta dei Maghi moderni di una mezza follia, un tipo di potere che prende una strada troppo lunga per essere realmente percorsa, è come ripartire dalla scoperta del fuoco. 
+
+### Magia monastica:
+
+*Autorità: 4.3*
+
+una magia che manipola l'Oricalco ma non tramite la parola, ma tramite lo spirito. Riesce pertanto ad essere molto valida anche se un po' ristretta 
+
+### Necromanzia:
+
+*Autorità: 4.4*
+
+magia basata sul dialetto di Mondul, magia sulla quale Mondul ha una autorità quasi unica, pertanto vale la pena citarla.
+
+## Fattucchieria:
+
+*Autorità: 4.1*
+
+capacità di imprimere segni sulle cose. Questi segni vengono tenuti segreti da chi è in grado di tracciarli, i così detti Fabbri Magicanti. Danno in questo modo agli oggetti proprietà uniche. 
+
+### Stregoneria:
+
+## Erboristeria:
+
+una complessa pratica che prevede la modifica dei corpi, che ottengono proprietà insolite. 
+
+- Quando un veleno o pozuione di erboristeria appllica un effetto aggiuntivo, ha un' *Autorità: 4.2*
+- Quando invece un veleno o pozione toglie un effetto, blocca i circuiti fisici responsabili della loro attivazione, risultando in *Autorità 1.9*
+
+### Marchi
+
+*Autorità: 4.2*
+
+una modifica a Marchio è una modifica che viene fatta alla struttura della creatura che lo possiede, che acquisisce una capacità magica, come se fosse innata. 
+
+## Arte magica:
+
+*Autorità: 5*
+
+un tipo magia basata sulla manipolazione di metalli che hanno una influenza minoritaria. 
+
+### Abilità leggendarie
+
+*Autorità 5*
+
+senza che sia noto a chi le pratica, esse hanno una minima influenza magica. Pertanto hanno in realtà 
+
+## Alchimia:
+
+*Autorità: 6*
+
+un tipo di magia che prova a muovere il Pavranio con altro Pavranio. Solitamente infatti tra le più deboli, e forse vicina alla scienza come la intendiamo fuori dal gioco. 
+
+# I metalli
+
+Esistono tre classificazioni di [metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html),
+- I metalli primari, che sono i metalli attorno a cui si fondano tutte le cose materiali e immateriali dell'universo, magiche e non magiche, divine e non divine 
+- I metalli da forgia, una sottocategoria di Pavranio che offre numerosi impieghi diversi, tipicamente adatte a costruire armi e oggetti magici
+- I metalli da battaglia, una sottoclassificazione di metalli, studiati da una categoria di maghi, che hanno costituito un ordine di Maghi da Guerra, con una filosofia di magia tutta loro. 
+
+
+
+

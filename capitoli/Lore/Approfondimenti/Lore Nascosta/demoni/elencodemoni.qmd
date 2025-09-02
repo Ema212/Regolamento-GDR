@@ -1,0 +1,18 @@
+---
+title: "Elenco dei Demoni noti"
+format:
+  html:
+    theme: default
+---
+
+Ecco alcuni demoni noti al nostro ordine per la loro pericolosità. Al tempo della loro registrazione erano sicuramente dei Vissàl
+
+Noti: 
+- Cerbero
+- Il Carceriere
+- Ashra
+- Sisteleide
+- Il Re Coniglio 
+- Lucifero
+- Diavolo di Terebrissa
+- Arva- La bestia dell'odio

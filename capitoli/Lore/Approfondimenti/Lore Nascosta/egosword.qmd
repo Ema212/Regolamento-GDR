@@ -1,0 +1,17 @@
+---
+title: "Oggetti con Coscienza"
+search: false
+format:
+  html:
+    theme: default
+---
+
+Gli oggetti con una coscienza sono stati incantati da un magico di qualche forma in modo che un'anima ne venga imprigionata all'interno. 
+
+Un oggetto con coscienza ha _autorità_ di 4
+
+Esistono diversi tipi di oggetti con una coscienza, e il loro pregio e caratteristiche varia in base all'anima impressa e all'oggetto di interesse. 
+Le più comuni sono le seguenti: 
+
+- Egosword
+- Egochiglia

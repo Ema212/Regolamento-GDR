@@ -1,0 +1,11 @@
+---
+title: "Diavolo Ashra"
+format:
+  html:
+    theme: default
+---
+
+Grado: Arcidemone
+Titoli: il diavolo dei confini
+
+Il demone dei confini. Una volta era buoni confini, ora sono diventati Rovi. Proteggono e non sa più perché. 

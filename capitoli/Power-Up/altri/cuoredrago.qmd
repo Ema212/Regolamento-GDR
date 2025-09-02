@@ -1,0 +1,30 @@
+---
+title: "Cuore di Drago trapiantato"
+search: false
+format:
+  html:
+    theme: default
+---
+
+Questo trattamento sperimentale di alcuni venatores impianta in una persona un cuore di drago.
+(a parte dove diversamente indicato, l'autorità di queste capacità  è 4)
+
+Le essenze più pripmitive di un drago ti vengon impmiantate. 
+
+- Guadagni 30 pf permanenti
+- Sei immune a effetti mentali e spavento (autorità 1)
+- Sei immune ai danni da fuoco
+- +1 a tutte le statistiche, anche oltre i limiti.
+
+Il cuore di drago si adatta al tuo fisico quando ti viene impiantato. 
+Se un colpo dovrebbe ucciderti torni invece a mx pf. In quel momento si attiva il cuore. Il battito del tuo cuore è così frote che si sente risuonare in tutta una stanza. (un venatores addestrato può attivare questa capacità a comanda, una volta a riposo breve)
+
+Farlo ti garantisce alcune capacità 
+
+- Ottieni il Marchio Odio del Drago (autorità 4.2)
+- Triplichi movimento e salto. 
+- Se in due modalità, che iniziano in questo ordine, per susseguirsi di turno in turno. I venatores addestrati sono in grado di controllarne la successione, i non addestrati alternano.
+    - Arresto Cardiaco: il cuore comprime una grande quanità di sangue. Se colpisci rilasci un'onda d'urto di 4d8 per chi sia ingaggiato con te e 2d8 per chi non lo sia. Chi era ingaggiato viene stunnato  (se stai combattendo contro un drago invece, l'arto che colpisci si ferma per 1d4 turni. Possono essere necessari più venatores a seconda della gradnezza del drago). Vengono spente capacità magiche di ogni sorta che non dipendano da fonti esterne (cioè ira, piano... ma non oggetti, maledizioni. Se era un drago, ugualmente) Passi alla fase Tachicardia. 
+    - Tachicardia: il cuore batte a una velocità che puoi tollerare, ma accelerando sempre di più. Quando attacchi, il nemico viene reisponto di 2d8 metri. 
+
+Quando finisci il fight tira 1d20, se fai 1 muori. Un venator addestrato non deve eseguire questo tiro. 

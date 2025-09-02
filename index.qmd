@@ -81,19 +81,15 @@ Se avete già giocato con me, skippate pure.
 
 Se per caso qualcuno non avesse mai giocato di ruolo, ecco a voi lo [spiegone](/capitoli/Regole/spiegone.html)
 
-### Ma non hai altro da fare nella vita? 
+### Cosa posso giocare? 
 
-Lasciamo stare 
+Tutto. O quasi. Puoi combinare le abilità  disponibli, o scegliere tra le numerosissime classi nascoste. Ho pensato a tantissime cose, c'è una lore sufficientemente vasta per accogliere quasi qualsiasi tipo di immaginario di "fanatasy" che si muova fino a un accenno di steampunk (se il temrine vi comunica qualcosa.) Puoi anche chiedermi una classe nuova, un potere nuovo, ne discutiamo assieme e vediamo di trovare un modo viabile per farlo. 
 
 ### Ma i Livelli? Presentazione del gioco
 
-A Ema i livelli non sono mai piaciuti. Non trovo che rendano possibile una massima espressività narrativa, non lasciano maglie abbastanza larghe alla fantasia, e suppongono che si possa diventare "forti" solo in una dimensione principalmente legata al combattimento. 
+A Ema i livelli non sono mai piaciuti. Nel DND classico, il contesto di gioc è "Siete degli avventurieri che hanno bisogno di soldi (pretesto per menare le mani molto battuto, solida alternativa a "cerco vendetta") quindi andate nei dungeon, menate i mostri, e livellate e diventate più forti". Questo contesto narrativo non mi piace, e non mi piace rendervi più forti perché sì. 
 
-Nonostante menare le mani sia centrale anche nel mio gioco, e ci mancherebbe, il combattimento è per me subordinato alla storia, allo sviluppo narrativo del vostro personaggio. 
-
-Ve lo spiego meglio, in DND normale, il contesto di gioc è "Siete degli avventurieri che hanno bisogno di soldi (pretesto per menare le mani molto battuto, solida alternativa a "cerco vendetta") quindi andate nei dungeon, menate i mostri, e livellate e diventate più forti". Non c'è contesto narrativo che mi stia più antipatico di così. 
-
-Io propongo un gioco in cui il vostro obbiettivo sia Dominare l'Ambientazione. Tipicamente ci sarà una qualche questione, legata sicuramente al background del vostro personaggio che vi darà motivo di menare le mani dove ce n'è bisogno, affinché voi possiate risolvere quel problema. Tipicamente per risolverloi vi sarà necessario (o facilitante)  esplorare la lore, l'ambientazione che ho così (ossessivamente) preparato per  e con voi. Diventerete forti quindi in un contesto preciso che riguarda il mondo che abbiamo creato assieme e la storia del vostro persoanggio. 
+Io propongo un gioco in cui il vostro obbiettivo sia Dominare l'Ambientazione. Tipicamente ci sarà una qualche questione, legata sicuramente al background del vostro personaggio che vi darà motivo di menare le mani dove ce n'è bisogno, affinché voi possiate risolvere quel problema. Tipicamente per risolverloi vi sarà necessario (o facilitante)  esplorare la lore, l'ambientazione che ho così (ossessivamente) preparato per e con voi. Diventerete forti quindi in un contesto preciso che riguarda il mondo che abbiamo creato assieme e la storia del vostro persoanggio. 
 
 Sia messo in chiaro che questo stile di gioco potrebbe anche non piacervi. In DND è quasi mandatorio una fight per sessione, o poco vicino. Qui no. Il fight c'è, se serve, se ve lo andate a cercare, ma si può anche schivare. C'è sempre un modo alternativo per superare i conflitti. 
 
@@ -118,6 +114,7 @@ Ho avuto PG in grado di diventare forti facendo 20 nat al momento giusto, altri 
 ## Ma questo sito è sicuro? 
 
 Lo scrivo solo perché qualcuno dei miei giocatori è un po' paranoico ed è riuscito a farmi questa domanda:
+
 - Questo è un sito statico
 - Ci sono solo due file js e li ho scritti interamente con le mie manine d'oro (sbatta)
 - HTTPS 

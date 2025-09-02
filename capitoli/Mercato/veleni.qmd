@@ -5,6 +5,8 @@ format:
     theme: default
 ---
 
+Tipicamente, dove non diversamente specificato, hanno *Autorità: 4.2*.
+
 ### Veleni 
 
 #### Acido Agnico 
@@ -76,6 +78,28 @@ Stessi effetti.
 *Infusione*: +25k, 1/2 giornata
 Colpito da questo veleno infuso, per 1 ora subisci 1d4 danni ogni 9 m di movimento, a meno di camminare molto lentamente. 
 
+#### Bradefrina
+
+- *Rarità*: 2/3
+- *Prezzo*: 38K
+- *Disponibilità*: 2d6
+- *Descrizione*: uno dei veleni partoriti dagli studi sul sangue per combattere vampiri e dragonidi
+- *Effetto*: tira su  Forza con CD 17, se non passi subisci 1d6 danni, perdi 1 forza e destrezza e mezza distanza di movimento. ogno colpo che infliggi fa 4 danni in meno. Hai svatnaggio a colpire a distanza (1h)
+	- Se iniettato con un'arma in argento raffinato, ha effetto sui vampiri
+	- se eri sotto "Tormentina" l'effetto d8iiventa; non puoi fallire una prova di mascheramento  emotivo, non puoi venire spaventato o affasccinato. 
+- Antidoti: fobefrina, acrilica
+
+#### Fobefrina
+
+- *Rarità*: 2/3
+- *Prezzo*: 29k
+- *Disponibilità*: 2d6
+- *Descrizione*: uno dei veleni partoriti dagli studi sul sangue per combattere vampiri e dragonidi
+- *Effetto*: TIa su Forza  CD 17, se fallisci attacchi indistintamente la persona più vicina. Hai mezza distanza in aggiunta al movimento, + 2 Forza e aggiungi Forza ai danni. Aggiungi +1 a Destrezza per ogni 6 pf di distanza dai tuoi pf massimi. Subisci 4 danni aggiuntivi se ricevi danni taglienti. (1h)
+	- Questo veleno ha effetto sui vampiri se si colpisce con arma in argento raffinato
+	- Se chi viene avvelenato era sotto "tormentina" gli effetti sono i seguenti: ottieni +5 moviemnto e 2 attacchi a round. Alla fine del combattimento o dopo  1 minuto subisci 1d6 danno per ogni colpo che hai ricevuto mentre questo veleno era in circolo. 
+- Antidoto: bradefrina. 
+
 #### Désiem 
 
 - *Rarità*: 2/3
@@ -136,6 +160,27 @@ Colpito da questo veleno infuso, per 1 ora subisci 1d4 danni ogni 9 m di movimen
 
 *Antidoto*: Pasta di Violette
 
+#### Fluido Nesfico 
+
+- *Rarità*: 1/3
+- *Prezzo*: 20k
+- *Disponibilità*: 3d6
+- *Descrizione*: foglia dei Platani di Aronne, il re matto. Può essere fumata come allucinogeno, in forma di foglie, in quei casi offre una visione speciale al giocatore. Altrimenti ne si estrae gli olii essenziali per produrre il fluido dalla corteccia.
+- *Effetto*: 
+	- Foglie fumate: puoi avere una visione simile al sogno bardico, ma questa sarà solo riguardo a temi del background del giocatore. 
+	- Olii:  questa notte non guadagni benefici da riposo lungo, nè questa giornata da quello breve. Gli incubi ti tormenteranno. 
+		- NB: se avevi bevuto "Antiveleno" o hai Resistenza ai veleni, puoi tirare su Costituzione CD 15 per annullare gli effetti.
+
+
+#### Illantina 
+
+- *Rarità*: 2/3
+- *Prezzo*: 42 k
+- *Disponibilità*: 2d6
+- *Descrizione*: ottenuto dalla cresta di un Neythune, ragno tessitore di ricordi, estraendone il veleno.
+- *Effetto*: tira su Costituzione (CD 19). Se fallisci non puoi eseguire tiri di Concenza nè provare a ricordare informazioni non immediatamente disponibili fino a riposo lungo. 
+	- Se viene iniettato con una siringa d'argento raffinto in alte dosi a un vampiro (almeno 2 dosi), questo deve tirare la stessa Costituzione per usare l'aura (1 min). 
+
 #### Lacrime di Mezzanotte
 
 - *Rarità*:2/3
@@ -151,10 +196,20 @@ Colpito da questo veleno infuso, per 1 ora subisci 1d4 danni ogni 9 m di movimen
 -  Ocra di Serpe
 - Fiore di Glicine Marmoreo
 
+#### Malascen 
+
+- *Rarità*: 3/3
+- *Prezzo*: 80k
+- *Disponibilità*: 1d4
+- *Descrizione*: Una rara pianta sorge spontanea dopo che sono stati usati tanti effetti magici in un luogo. Dal miele che le api ne ricavano, una famose strega formò un veleno a cui diede il proprio nome.
+- *Effetto*: Non puoi effettuare capacità magiche fino a riposo breve. Se sei in grado di castare, ogni volta devi tirare Costituzione (CD 18). Se ne vengono assunte 3 dosi, non sei in grado di parlare fino a riposo breve. 
+	- Se avevi "antiveleno" o resistenza ai veleni ne sei immune. 
+	- Infusione: non puoi attivare capacità magiche o di casting per 3 turni, tranne che passando CD 16 costituzione ogni volta.
+
 #### Ocra di Serpre
 
 - *Rarità*: 3/3
-- *Prezzo*: 95k
+- *Prezzo*: 140k
 - *Tipo*: Veleno
 - *Disponibilità*: 1d4
 - *Descrizione*: Veleno della Vipera Gialla  originaria del Sud. Vipera rara e difficile da allevare. Il veleno ossida e si neutralizza all'aria aperta se non ben trattato. 
@@ -193,8 +248,35 @@ In alternativa viene venduto al mercato nero coi giusti agganci al triplo del pr
 *Infusione*: +45k, 5 min
 Ogni volta che l'avversario colpito da questo veleno cerca di recupare pv in qualsiasi modo, non riesce. 
 
+#### Nuvivolpe
+
 
 ### Pozioni e Antidoti
+
+#### Acquaforte
+
+- *Rarità*: 1/3
+- *Prezzo*: 15k
+- *Disponibilità*:
+- *Descrizione*: 
+- *Effetto*: Se lacniata a un nemico, diminuisce di 1 gli effetti di un armatura
+
+tra le altre cose l'acquaforte grezza,  non ossidata è utile per 
+- Creare i metalli da forgia
+- Le fasi di infusione dei veleni nelle armi 
+- La catalizzazioni di numerosi incantesimi
+
+#### Cristalli Naturali
+
+#### Tormentina
+
+- *Rarità*: 1/3
+- *Prezzo*: 17k
+- *Disponibilità*: 3d8
+- *Descrizione*: Radice coltivabile sui monti Congedo dell'Oceano.
+- *Effetto*: Il  Filtro è in grado di alterare i principi attivi di molti veleni. 
+
+#### Adamantina
 
  Adamantina: +4 intelligenza, per 1 minuto ma subisci 1d8 danni ogni volta che vieni colpito, costa 20.
 
