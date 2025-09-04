@@ -173,11 +173,11 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 ## Materici
 
-- _Modellare:_ seleziona un materiale, puoi dare una forma diversa a quel materiale se non è sottoposto a pressioni proprie (per esempio se è una casa, o una colonna portante). Può essere una forma qualunque, un vaso di terra, una lancia, un draghetto… 
+- _Modellare:_ seleziona un materiale, puoi dare una forma diversa a quel materiale se non è sottoposto a pressioni proprie (per esempio se è una casa, o una colonna portante). Può essere una forma qualunque, un vaso di terra, una lancia, un draghetto… Alla fine della giornata il materiale torna alla sua forma originale.
 
-- _Alchimia_: scegli dei materiali liberi davanti a te (non soggetti a pressioni esterne o incastonati in altri materiali, o già lavorati). Puoi portare i materiali a stadi di lavorazione successivi. Il DM decreta a seconda della lavorazione se occore pagare _1 Dipendenza_ (per capirci, un sasso diventa una tazzina gratis, i metalli giusti diventano una spada pagano.)
+- _Alchimia_: scegli dei materiali liberi davanti a te (non soggetti a pressioni esterne o incastonati in altri materiali, o già lavorati). Puoi portare i materiali a stadi di lavorazione successivi. Il DM decreta a seconda della lavorazione se occore pagare _1 Dipendenza_ (per capirci, un sasso diventa una tazzina gratis, i metalli giusti diventano una spada pagano.) Alla fine della giornata il materiale torna alla sua forma originale.
 
-- _Trasmutare_: Puoi toccare un materiale per trasformare una sola volta il ferro in Pietra, la pietra in Legno, il Legno in Ferro. (_Dipendenza 1_, dalle dimensioni di un tavolo in poi, il DM può richiedere più dipendenza se ritiene)
+- _Trasmutare_: Puoi toccare un materiale per trasformare una sola volta il ferro in Pietra, la pietra in Legno, il Legno in Ferro. (_Dipendenza 1_, dalle dimensioni di un tavolo in poi, il DM può richiedere più dipendenza se ritiene) Alla fine della giornata il materiale torna alla sua forma originale.
 
 - _Parete diafana_: se tocchi una parete, per il resto della giornata quella parete diviene attraversabile da quella direzione, ma non nel senso inverso, solo da chi sa che è stata applicata la magia. Se la parete appartiene a una costruzione, su tutti i muri collegati alla parete non è possibile riapplicare la magia. Per risolvere ulteriori questioni, la massima sarà “o la usi per entrare, o la usi per uscire” ( _1 Dipendenza_ o _2 PF_)
 
@@ -187,7 +187,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 - _Scatola chiusa_: sei in contatto con una entità sconosciuta. Offri qualcosa, ricevi qualcosa in cambio. Non sai se lo scambio sarà equo in nessun modo. Alla fine della giornata puoi rinnegare lo scambio (_Ricarica 1 giorno)_. 
 
-- _Dimensia_: scegli un oggetto fermo e inanimato, costituito da un materiale non prezioso, scollegato da altro. Esso aumenta di dimensioni (le dimensioni massime raggiungibili sono paragonabili a quelle di una carrozza) o diminuisce (dimensioni minime quelle di una penna). L’operazione richiede un’azione. (_Concentrazione_ per mantenere le dimensioni)
+- _Dimensia_: scegli un oggetto fermo e inanimato, costituito da un materiale non prezioso, scollegato da altro. Esso aumenta di dimensioni (le dimensioni massime raggiungibili sono paragonabili a quelle di una carrozza) o diminuisce (dimensioni minime quelle di una penna). L’operazione richiede un’azione. (_Concentrazione_ per mantenere le dimensioni) Alla fine della giornata il materiale torna alla sua forma originale.
 
 - _Higitus Figitus_: dai vita a un oggetto (non arma) per svolgere la funzione per la quale è stato programmato (es: una scopa si mette a pulire, una carrozza procede in avanti). (_Concentrazione_). Una volta che hanno un ordine gli  oggetti vanno avanti a compierlo, il limite deve essere intrinseco all'azione ("Spazza per terra" è un'azione senza limlite, "pulisci il pavimento" continua finché il pavimento non è pulito). Se si tratta di forme vitali (tipo statua gatto) prendono vita se sono più piccole di 1metro cubo. Eseguono solo un comando di protezione di qualcosa, (non qualcuno) altrimenti vagano liberi.
     - Secondo effetto: forme vitali non hanno limlite di dimensione.
@@ -313,10 +313,8 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 
 ### Alchimista
 
-- _Flamél_: quando usi un "Materico" non devi mantenere la Concentrazione. Le modifiche alle cose apportate con quegli incantesimi si mantengono in modo permanente.
-    - Se usi "Alchimia" impiega un terzo dei Punti Dipendenza.
+- _Flamél_: ottieni i secondi effetti degli incantesimi "materici"e non devi mantenere la Concentrazione per queli incantesimi. Le modifiche alle cose apportate con quegli incantesimi si mantengono in modo permanente.
     - Se conosci "Equoreo" puoi manenere la temperatura eventuale  del liquido.
-    - 
 
 - _Tecniche di Relias_: se utilizzi "Higitus Figitus" puoi usarlo su un'arma bianca in tuo possesso. L'arma ha movimento in aria pari a INT e il tuo  modificatore per colpire. Una tua azione consiste nel dargli ordini. Puoi utilizzarlo su tutte le armi che hai, un'arma per turno. (Non crea ingaggio).
 
@@ -344,7 +342,7 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
     - sai sempre dove si trovano i tuoi oggetti sotto "Innervare"
     - puoi usare l'effetto secondario di "Orbis".
 
-- _Elegia di Lindir_: sei protetto da effetti mentali. Se usi "duello Mentale" puoi pagare altri (_PF 2),_ la magia può essere diviso in bersagli  fino a INT. 
+- _Elegia di Lindir_: sei protetto da effetti mentali (Vincolo W). Se usi "duello Mentale" puoi pagare altri (_PF 2),_ la magia può essere diviso in bersagli  fino a INT. 
     - Hai vantaggio se usi "Oblamente"
 
 - *Cerchi magici*: quando usi "Sigillo" puoi rompere i sigilli degli altri maghi che non hanno Cerchi magici. I tuoi sigilli non possono essere rotti da maghi senza cerchi magici. Quando crei un sigillo puoi scegliere alleati in grado di romperlo, o aprirlo temporaneamente senza romperlo. 
@@ -409,7 +407,7 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 
 - Scurovisione minore (18 metri, bianco e nero)
 - Conosce l’elfico, il comune.
-- + 2 a 2 _Abilità_
+- +2 a 2 _Abilità_
 - +1 a Destrezza
 - Se è Mago di classe ottiene _Passo etereo o Passo di Fata_
 - Ottiene una vita virtualmente immortale. 
