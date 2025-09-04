@@ -58,69 +58,75 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 ## Spaziali e aerei 
 
-- _Coordinata:_ crei un cristallo grande come una candela, detto "cristallo liminale", su una superficie (_Overdose)_. Puoi teletrasportati in quel punto, caricando la magia per un minuto (_Concentrazione_). Se quel cristallo viene spostato si rompe (e tu non te ne avvedi). Puoi creare cristalli pari al tuo punteggio di INT al giorno.
+- _Coordinata:_ crei un cristallo grande come una candela, detto "cristallo liminale", su una superficie (_Overdose_). Puoi teletrasportati in quel punto, caricando la magia per un minuto (_Concentrazione_). Se quel cristallo viene spostato si rompe (e tu non te ne avvedi). Puoi creare cristalli pari al tuo punteggio di INT al giorno.
 	- Secondo effetto; puoi creare cristalli pari a 3xint. Il tempo che impieghi è un'azione e puoi portare con te alleati consenzienti fino a int. 
 
- - _Referto_: richiami un oggetto di tua proprietà da un luogo specifico. Non deve essere in uso da nessuno nè in movimento (Ma per capirci, una nave in movimento viene considerata ferma ) Quando vuoi, l'oggetto torna da dove è venuto. (_Ricarica:_ 1 riposo breve) 
+ - _Referto_: richiami un oggetto di tua proprietà da un luogo specifico. Non deve essere in uso da nessuno nè in movimento (Ma per capirci, una nave in movimento viene considerata ferma) Quando vuoi, l'oggetto torna da dove è venuto. (_Ricarica:_ 1 riposo breve) 
 	- Secondo effetto: ottieni Referto n° pari a int/breve. In alternativa a farlo tornare dov'era, puoi farlo tornare al posto di un altro oggetto, scambiando le due posizioni, con un uso di Referto. Il nuovo oggetto però, o te lo tieni o subisce lo stesso destino. 
 
-- _Boogie-Woogie:_ usi una reazione o azione e inverti la posizione di due creature a vista. (Gli scambi possono essere solo nemico-nemico, alleato-alleato) (_PF 1 o 1 Dipendenza_)
+- _Denique fines:_ Decidere chi può o non può sorpassare un confine che tracci entro 150 metri. Per oltrepassarlo una creatura deve eseguire una prova di INT contro una CD pari a 10+il tuo punteggio di INT. Se una persona passa non ne vieni automaticamente informato (_Ricarica:1 ora_).
+    - Secondo effetto: la CD viene alzata di 5 punti. Il confine si estende a 10 km.
 
-- _Leggero:_ scegli una persona a vista o sé stessa: finché questa precipita puoi decidere la velocità con cui cadere. (_Concentrazione)_
+- _Boogie-Woogie:_ usi una reazione o azione e inverti la posizione di due creature a vista. (Gli scambi possono essere solo nemico-nemico, alleato-alleato) (2 usi gratis a riposo breve, poi _PF 1 o 1 Dipendenza_)
 
-- _Volo innocente_: puoi volare fino quando non ferisci qualcuno. Se sei a mezz'aria in quel momento, cadi. (_Dipendenza, Ricarica_ 1 minuto) 
-	- Secondo effetto: non paghi il Volo Innocente. 
+- _Leggero:_ scegli una persona a vista o sé stessa: finché questa precipita puoi ridurre la velocità con cui cadere. (_Concentrazione)_
 
-- _Levitare:_ puoi levitare a 10 cm da terra o dall’acqua per un tempo indefinito. Non deve portare più del suo equipaggiamento.
+- _Volo innocente_: puoi volare fino quando non ferisci direttamente qualcuno. Se sei a mezz'aria in quel momento, cadi. (_Ricarica_ 1 ora) 
+	- Secondo effetto: non c'è ricarica. 
 
--  _Levolante_: seleziona oggetti inanimati pari a INT a vista. Se vengono lanciati in aria esauriscono lentamente la loro velocità e si fermano a mezz'aria. Se lo desideri tornano a terra, molto lentamente. (Dimensioni massime es. tavolo). (_Concentrazione_)
+- _Levitare:_ puoi levitare a 10 cm da terra o dall’acqua per un tempo indefinito.
+    - Secondo effetto: puoi portare con te alleati fino a INT.
+
+-  _Levolante_: seleziona oggetti inanimati pari a INT a vista. Se lo desideri iniziano a levitare a mezz'aria.Se vengono lanciati in aria esauriscono lentamente la loro velocità e si fermano a mezz'aria. Se lo desideri tornano a terra, molto lentamente. (Dimensioni massime es. tavolo). (_Concentrazione_)
      - Effetto secondario: gli oggetti sono fino a 10xint. Le dimensioni massime sono quelle di un carro. Ha vantaggio a questi tiri di Concentrazione.
 
-- _Cristallizzare_: con un'azione bonus evochi un "Cristallo liminale" a terra e forma i vertici di un poligono. Entro questo poligono scegli tante creature a vista quanti punti _Dipendenza_ intendi pagare. Se attivi l'incantesimo (no action): I cristalli si rompono, la creatura viene confinata nel Vuoto oltre la Luna per turni minimi pari al n° vertici del poligono. Da quel momento, a discrezione del DM, la creatura cercherà di uscire dal Vuoto, con un tiro di INT contrapposta (la creatura ha un vantaggio per ogni viaggio che si è già fatta nel Vuoto). Ricompare nel punto da cui l'hai imprigionata.
+- _Cristallizzare_: con un'azione bonus evochi un "Cristallo liminale" a terra e forma i vertici di un poligono. Entro questo poligono scegli tante creature a vista quanti punti _Dipendenza_ intendi pagare. Se attivi l'incantesimo (non c'è action cost): I cristalli si rompono, la creatura viene confinata nel Vuoto oltre la Luna per turni minimi pari al n° vertici del poligono. Da quel momento, a discrezione del DM, la creatura cercherà di uscire dal Vuoto, con un tiro di INT contrapposta (la creatura ha un vantaggio per ogni viaggio che si è già fatta nel Vuoto). Ricompare nel punto da cui l'hai imprigionata.
     - Secondo effetto: se la creatura è consenziente puoi richiamarla dal Vuoto oltre la Luna quando vuoi.
 
 -  _Vincolare_: scegli una creatura a vista. Tirate INT contrapposta. Se vinci, nessuno dei due può più spostarsi. Se uno dei due viene spostato l'incantesimo è rotto (_Concentrazione_)  
-	- Secondo Effetto: hai vantaggio a quel tiro di int.
+	- Secondo Effetto: hai vantaggio a quel tiro di INT.
 	
 ## Dell’etere 
 
-- _Umbratile:_ Finché rimani nell’ombra sei assolutamente intangibile. Se vieni colpito dalla luce la magia si spezza. La penombra richiede un tiro su int. (_Dipendenza 2, Overdose, Ricarica 1 ora_)
+- _Umbratile:_ Finché rimani nell’ombra sei quasi intangibile: ogni danno post-armatura che ricevi va a 1, non puoi essere catturato, né toccare niente. Se vieni colpito dalla luce la magia si spezza. La penombra richiede un tiro su INT. (_Dipendenza 1 o  Overdose, Ricarica 1 ora_)
+    - Se hai "passo etereo", se vieni colpito dalla luce, la magia non si spezza per 1 minuto.
 
-- _Etereo:_ Finché rimani assolutamente immobile e non casti sei invisibile. (_Concentrazione_, _Dipendenza 2, Overdose)._ 
+- _Etereo:_ Finché rimani assolutamente immobile e non casti sei invisibile. (_Concentrazione_, _Dipendenza 1 o Overdose)._ 
+    - Se hai "passo etereo", puoi muoverti con calma e non devi mantenere concentrazione.
 
-- _Ritiro spirituale_: Entri nel Piano Astrale, con cui puoi interagire solo come segue: puoi vedere e sentire tutto quello che accade nel mondo in uno stato intangibile e invisibile. Non puoi castare. Puoi oltrepassare costruzioni artificiali. Ricompari dove eri scomparso entro un minuto. (_Dipendenza 2_) 
-
-- _Denique fines:_ Decidere chi può o non può sorpassare un confine che tracci entro 15/40 /150/ >150 metri. Per oltrepassarlo una creatura deve eseguire una prova di INT contro una CD pari a 5/10/15/18+il tuo punteggio di int. Se una persona passa non ne vieni automaticamente informato (_Ricarica:1 ora_).
+- _Ritiro spirituale_: Entri nel Piano Astrale, una versione del mondo dalla quale puoi vedere e sentire tutto quello che accade in uno stato intangibile e invisibile. Non puoi castare. Puoi oltrepassare costruzioni artificiali. Ricompari dove eri scomparso entro un minuto. (_Dipendenza 1_) 
+    - Se hai "passo etereo", puoi pagare 1 PF e allungare la tua permanenza nel piano di 1 minuto.
 
 ## Utility 
 
 -  _Fuochi fatui_: Evochi tre fuochi fatui bluastri. I fuochi non bruciano, a meno che tu non lo voglia. Rimangono entro 9 metri illuminando 3 metri di raggio. Si muovono tutti una volta a turno senza costi.
 
 -  _Equoreo:_ Elimini tutti i liquidi da un dato contenitore artificiale e li registri. Una volta registrato un liquido puoi rievocarli liberamente quanto vuoi, dove vuoi (nessun action cost, ma uno per turno massimo). Il liquido si raffredda se era caldo.
+    - Se conosci "Flamèl", puoi mantenere la tempreatura del liquido
 
 - _Lama clama:_ Puoi toccare un’arma. Quell’arma diventa un’arma da mago, in osso di balena bianca. Mantiene le altre caratteristiche magiche, se ne aveva.
 
 ## Benedetti 
 
--  _Stella polare_: Una stella davanti a voi indica la strada da seguire verso la sicurezza. (Il costrutto è relativo a cosa significa sicurezza in quel momento per una persona a scelta da te). In alternativa indica un Focolare di Estia o un luogo dove si possa trovare la soluzione a ciò che rappresenta una minaccia per il gruppo. (Per esempio se un membro sta morendo di sete è possibile che la stella indichi un posto con dell'acqua, magari pure potabile). Dura tutto il giorno. (_2 Dipendenza_ o _2 PF_)
+-  _Stella polare_: Una stella davanti a voi indica la strada da seguire verso la sicurezza. (Il costrutto è relativo a cosa significa sicurezza in quel momento per una persona a scelta da te). In alternativa indica un Focolare di Estia o un luogo dove si possa trovare la soluzione a ciò che rappresenta una minaccia per il gruppo. (Per esempio se un membro sta morendo di sete è possibile che la stella indichi un posto con dell'acqua, magari pure potabile). Dura tutto il giorno. (_1 Dipendenza_ o _2 PF_)
 
 -  *Stella del Mattino*: Solo durante la notte, convochi una stella incandescente nel Cielo che porti con sè un Dio, nella sua manifestazione mondana. Il terreno attorno si modifica per accoglierlo a seconda del dio scelto. Non ha diritto ad essere esaudito, e nemmeno nel caso a non essere punto, ma ha diritto ad essere ascoltato. Quando l'incantesimo termina, la stella ripristina tutti i danni portati dalla divinità, ma non le morti associate a danni secondari (*Dipendenza 2*, *Ricarica: 1 volta a riposo lungo*) 
 
 ## Psichici 
 
--  _Sesto senso:_ Pensi a qualcosa o qualcuno che stai cercando. Puoi vedere se questa cosa si trova oltre una parete, oltre una scatola, o una casa a vista. Se parliamo di grotte o luoghi più grandi tira un D20, con CD a discrezione del DM. (_Ricarica:_ 1 riposo breve oppure 5 *PF*.)
+-  _Sesto senso:_ Pensi a qualcosa o qualcuno che stai cercando. Puoi vedere se questa cosa si trova oltre una parete, oltre una scatola, o una casa a vista. Se parliamo di grotte o luoghi più grandi tira un D20, con CD a discrezione del DM. (_Ricarica:_ 1 riposo breve oppure 4 *PF*.)
 
--  _Sussurri:_ Scegli una creatura che puoi vedere. Quella persona sente la tua voce nella sua testa. Se l’obbiettivo è distrarlo è un tiro di int. Se conosci “Tentazione e Sottomoissionie” hai vantaggio. (_Overdose)_
+-  _Sussurri:_ Scegli una creatura che puoi vedere. Quella persona sente la tua voce nella sua testa. Se l’obbiettivo è distrarlo è un tiro di INT. Se conosci “Tentazione e Sottomoissionie” hai vantaggio. (_Overdose_ o _1 Dipendenza_)
 
--  _Innervare:_ Immetti nervi magici in un oggetto. A qualunque distanza sei sempre conscio del fatto che qualcuno sta usando quell’oggetto, e riesci a riconoscere la stessa creatura che lo prende più di una volta. (Per es, potresti essere consapevole che qualcuno stia impugnando una certa spada, o abbia tolto un certo anello). (_Overdose_.)
+-  _Innervare:_ Immetti nervi magici in un oggetto. A qualunque distanza sei sempre conscio del fatto che qualcuno sta usando quell’oggetto, e riesci a riconoscere la stessa creatura che lo prende più di una volta. (Per es, potresti essere consapevole che qualcuno stia impugnando una certa spada, o abbia tolto un certo anello). (1 gratis a riposo breve, poi _Overdose_.)
 
--  _SonoVoto_: in una zona di massimo 10mxINT da te non è possibile produrre alcun suono da parte di nessuno. (_Dipendenza_ 2)
+-  _SonoVoto_: in una zona di massimo 10mxINT da te non è possibile produrre alcun suono da parte di nessuno. (_1 Dipendenza_ o _1 PF_)
 
 -  _Skulblakas Ven:_ Vedi attraverso i sensi di un animale a tua scelta, non puoi muoverti né parlare col tuo corpo, l’animale si muove in autonomia (_Concentrazione)._ 
     - Se conosci “Sussurri” puoi condividere con alleati pari  a INT quello che vedi
     - Se conosci “Ritiro Spirituale" puoi fare sparire il tuo corpo. Ricompare nello stesso punto esaurito l'incanto.
 
--  _Mondiglie_: Parli con una persona che conosci, ovunque essa sia, per 5 minuti, l’altra persona non ricorderà niente della conversazione. (_Dipendenza, Overdose, Ricarica_ sulla stessa persona 1 giorno).
+-  _Mondiglie_: Parli con una persona che conosci, ovunque essa sia, per 5 minuti, l’altra persona non ricorderà niente della conversazione. (_Dipendenza 1 o Overdose, Ricarica_ sulla stessa persona 1 giorno).
 
 - _Offerta mnesica_: Scegli un ricordo, un significato, e lo invii a una creatura che conosci. Non ricordi nulla di quel messaggio, né di averlo inviato, né il contenuto in sé. Se il messaggio conteneva la tua posizione, non sai più dove ti trovi. Fai fatica ad accettare se cercano di farti recuperare il contenuto.
 
@@ -129,19 +135,19 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
     - Puoi bloccare una capacità o un timbro (ma non una magia) del bersaglio per tutto il fight.
     (2 _PF_)
 
-- *Oblamente*: una creatura bersaglio a contatto fisico con te fa un tiro di INT contrapposto. Se perde dimentica l'ultimo minuto di avvenimenti. ( _Dipendenza 3_ ). La stessa creatura non può essere colpita per il prossimo minuto da questo incantesimo.
+- *Oblamente*: una creatura bersaglio a contatto fisico con te fa un tiro di INT contrapposto. Se perde dimentica l'ultimo minuto di avvenimenti. ( _Dipendenza 2 o 3 PF_ ). La stessa creatura non può essere colpita per il prossimo minuto da questo incantesimo.
 
 ## Demoniaci
 
--  _Tentazione e sottomissione:_ tenti di entrare nell’inconscio di una o più creature a vista con un tiro contrapposto di INT (Se conosci “Sussurri” hai vantaggio). (_Dipendenza 2_) 
-    - Se riesci lo spirito di quella creatura scende di 1. Se lo spirito di quella creatura va a 1 la creatura ha paura di te.
+-  _Tentazione e sottomissione:_ tenti di entrare nell’inconscio di una o più creature a vista con un tiro contrapposto di INT (Se conosci “Sussurri” hai vantaggio). Se riesci lo spirito di quella creatura scende di 1. (_Dipendenza 1_) 
+    - Se lo spirito di quella creatura va a 1 la creatura ha paura di te. Non può scendere sotto l'1 in questo modo.
     - Se la creatura va a 1 di spirito puoi fargli avere incubi mentre dormi ed entrarci, modificandoli.
-    - Se la creatura disobbedisce a un ordine che gli avevi impartito tu lo sai, e sai dove si trova. (_Overdose_)
+    - Se la creatura disobbedisce a un ordine che gli avevi impartito tu lo sai, e sai dove si trova.
 
 -  _Empietà:_ se una o più creature a vista sono intenzionate alla resa incondizionata per causa tua, muoiono istantaneamente (è ben diverso da una creatura che intende fuggire perché capisce di non poter vincere, qui si intende il panico viscerale di una creatura nel pieno terrore, paralizzata da una paura incontenibile.) In alternativa si può usare se lo spirito di quella creatura è 0. 
-   - Se hai “Predatore di Anime” ottieni automaticamente tutte le anime (_Dipendenza 2)_
+   - Se hai “Predatore di Anime” ottieni automaticamente tutte le anime (_Dipendenza 1 o 2 PF)_
 
-- _Permuta:_ scegli due creature svenute davanti a te, con 1 a Spirito. Spendi un minuto del tuo tempo e ne inverti le menti. Puoi porre fine a questo incantesimo quando vuole, ma devi avere davanti a te entrambi i corpi. (_Dipendenza)_
+- _Permuta:_ scegli due creature svenute davanti a te, con 1 a Spirito. Spendi un minuto del tuo tempo e ne inverti le menti. Puoi porre fine a questo incantesimo quando vuole, ma devi avere davanti a te entrambi i corpi. (_Dipendenza 1)_
 
 - _Dissennare:_ scegli una creatura a vista, puoi togliergli una tra le sue *capacità* (le magie non contano come capacità, ma i timbri sì). Conservi quella capacità in una piccola pietra. La creatura che ha perso la capacità guadagna +4 a Forza e Destrezza, anche oltre il limite di statistica. Se quella creatura era un alleato, funzionerà solo se era consenziente, e le capacità devono essere 2. (_PF 3_)
 
@@ -149,9 +155,9 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 ## Negromanzia
 
-- _Amici dall’altra parte_: un cadavere prende vita per 1 minuto. Può subire colpi pari a tua INT (fino a un cap ragionevole a discrezione del DM). Mantiene le sue caratteristiche tranne quelle magiche. Non può parlare nè ricordare nulla. Può allungare la durata di un altro minuto con 1 _PF_. Alla fine di questo incantesimo il cadavere viene distrutto. (_Dipendenza 1, Overdose)
+- _Amici dall’altra parte_: un cadavere prende vita per 1 minuto. Può subire colpi pari a tua INT (fino a un cap ragionevole a discrezione del DM). Mantiene le sue caratteristiche tranne quelle magiche. Non può parlare nè ricordare nulla. Può allungare la durata di un altro minuto con _1 PF_. Alla fine di questo incantesimo il cadavere viene distrutto. (_Dipendenza 1_ o _Overdose_)
 
-- _Seconda Vita_: se hai un ricordo di un'anima (Vedi “Predatore di Anime”) può iniettarla in un cadavere (purché sia abbastanza integro). Il cadavere prende vita coi ricordi della persona cui apparteneva l'anima. Il cadavere ottiene 3 PF permanenti per ogni PF che paghi (*Dipendenza 2*). Il DM tira 1d20, se fa 1, esso si trasforma in un [Banshee](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/altri/banshee.qmd)
+- _Seconda Vita_: se hai un ricordo di un'anima (Vedi “Predatore di Anime”) può iniettarla in un cadavere (purché sia abbastanza integro). Il cadavere prende vita coi ricordi della persona cui apparteneva l'anima. Il cadavere ottiene 3 PF permanenti per ogni PF che paghi (*Dipendenza 1*). Il DM tira 1d20, se fa 1, esso si trasforma in un [Banshee](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/altri/banshee.qmd)
 
 - _Tessitore di anime:_ (vedi _Predatore di anime_), puoi utilizzare un ricordo e imprimerlo in un oggetto o persona a tua scelta.
     - Puoi ritirare l'anima se riprendi in mano l'oggetto. L'oggetto funzionerà meglio se l'anima è sensatamente in grado di farlo lavorare meglio (falegname-ascia). (Tutto a discrezione del DM) 
@@ -160,37 +166,36 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
         Vedi [Oggetti_Coscienti](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/egosword.html)
 
-- _Faino_: (vedi "Predatore di anime") puoi utilizzare un ricordo ed evocare un fantasma della persona che hai ucciso. (_Dipendenza 2_)
+- _Faino_: (vedi "Predatore di anime") puoi utilizzare un ricordo ed evocare un fantasma della persona che hai ucciso. (_Dipendenza 1_)
     - Questo fantasma si comporta secondo la propria volontà, ma non può interagire col mondo sensibile in modo significativo. La sua voce è flebile, e tu decidi che può vederlo e sentirlo. Il fantasma deve rimanere nei pressi del mago. Alla lunga il fantasma potrebbe cambiare le sue opinioni nei confronti del mago, pertanto eventuali fantasmi di background vanno negoziati col DM.  
     - Un fantasma non può essere iniettato con “Seconda Vita”. 
     - Un fantasma può essere relegato ad un luogo, ma una volta fatto questo non può più essere ripreso.
 
 ## Materici
 
-- _Modellare:_ seleziona un materiale, puoi dare una forma diversa a quel materiale se non è sottoposto a pressioni proprie (per esempio se è una casa, o una colonna portante). Può essere una forma qualunque, un vaso di terra, una lancia, un draghetto… Più è grande più tempo è richiesto. Un vaso prende 1 secondo, per capirci.
+- _Modellare:_ seleziona un materiale, puoi dare una forma diversa a quel materiale se non è sottoposto a pressioni proprie (per esempio se è una casa, o una colonna portante). Può essere una forma qualunque, un vaso di terra, una lancia, un draghetto… 
 
-- _Alchimia_: scegli dei materiali liberi davanti a te (non soggetti a pressioni esterne o incastonati in altri materiali, o già lavorati). Puoi portare i materiali a stadi di lavorazione successivi. Il DM decreta a seconda degli stadi il n° di punti _Dipendenza_ che devi pagare (per capirci, un sasso diventa una tazzina gratis, i metalli giusti diventano una spada con 3 punti.)
+- _Alchimia_: scegli dei materiali liberi davanti a te (non soggetti a pressioni esterne o incastonati in altri materiali, o già lavorati). Puoi portare i materiali a stadi di lavorazione successivi. Il DM decreta a seconda della lavorazione se occore pagare _1 Dipendenza_ (per capirci, un sasso diventa una tazzina gratis, i metalli giusti diventano una spada pagano.)
 
-- _Trasmutare_: Puoi toccare un materiale per trasformare una sola volta il ferro in Pietra, la pietra in Legno, il Legno in Ferro. (Il DM può applicare _Dipendenza_ a seconda delle dimensioni del materiale. Per una stima, il muro di una casa sono 4 punti)
+- _Trasmutare_: Puoi toccare un materiale per trasformare una sola volta il ferro in Pietra, la pietra in Legno, il Legno in Ferro. (_Dipendenza 1_, dalle dimensioni di un tavolo in poi, il DM può richiedere più dipendenza se ritiene)
 
-- _Parete diafana_: se tocchi una parete, per il resto della giornata quella parete diviene attraversabile da quella direzione, ma non nel senso inverso, solo da chi sa che è stata applicata la magia. Se la parete appartiene a una costruzione, su tutti i muri collegati alla parete non è possibile riapplicare la magia. Per risolvere ulteriori questioni, la massima sarà “o la usi per entrare, o la usi per uscire” ( _Dipendenza)_
+- _Parete diafana_: se tocchi una parete, per il resto della giornata quella parete diviene attraversabile da quella direzione, ma non nel senso inverso, solo da chi sa che è stata applicata la magia. Se la parete appartiene a una costruzione, su tutti i muri collegati alla parete non è possibile riapplicare la magia. Per risolvere ulteriori questioni, la massima sarà “o la usi per entrare, o la usi per uscire” ( _1 Dipendenza_ o _2 PF_)
 
 - _Corrompere:_ se tocchi un materiale inanimato non magico puoi farlo decadere, invecchiare, e perdere valore. Il legno marcisce, il metallo arrugginisce, e così via. Il tempo necessario per degradare qualcosa fin nel suo interno è molto lungo, per poterlo addirittura rompere. Come linea di massima per ogni dubbio “se vuoi entrare con questa magia non esiste che ci metti poco, anche se bisogna rompere qualcosa di sottile”.
 
 - _Revitalizzare_, se tocchi un materiale inanimato non magico puoi farlo ringiovanire, aggiustarlo, rinvigorirlo. Il legno torna alla gloria di un tempo, i tessuti il loro vecchio splendore e così via. Il tempo è a discrezione del DM, ma generalmente molto rapido. Non puoi rimettere insieme però qualcosa che abbia perduto la propria forma originale (un mucchio di cenere non tonerà ad essere una lettera)
 
-- _Scatola chiusa_: sei in contatto con una entità sconosciuta. Offri qualcosa, ricevi qualcosa in cambio. Non sai se lo scambio sarà equo in nessun modo. Alla fine della giornata puoi rinnegare lo scambio (_Dipendenza, Overdose, Ricarica 2 giorni)_. 
+- _Scatola chiusa_: sei in contatto con una entità sconosciuta. Offri qualcosa, ricevi qualcosa in cambio. Non sai se lo scambio sarà equo in nessun modo. Alla fine della giornata puoi rinnegare lo scambio (_Ricarica 1 giorno)_. 
 
 - _Dimensia_: scegli un oggetto fermo e inanimato, costituito da un materiale non prezioso, scollegato da altro. Esso aumenta di dimensioni (le dimensioni massime raggiungibili sono paragonabili a quelle di una carrozza) o diminuisce (dimensioni minime quelle di una penna). L’operazione richiede un’azione. (_Concentrazione_ per mantenere le dimensioni)
 
-- _Higitus Figitus_: dai vita a un oggetto (non arma) per svolgere la funzione per la quale è stato programmato (es: una scopa si mette a pulire, una carrozza procede in avanti). (_Concentrazione_). Una volta che hanno un ordine gli  oggetti vanno avanti a compierlo, il limite deve essere intrinseco all'azione ("Spazza per terra" è un'azione senza limlite, "pulisci il pavimento" continua finché il pavimento non è pulito). 
-    - Se si tratta di forme vitali (tipo statua gatto) prendono vita se sono più piccole di 1metro cubo. Eseguono solo un comando di protezione di qualcosa, (non qualcuno) altrimenti vagano liberi.
+- _Higitus Figitus_: dai vita a un oggetto (non arma) per svolgere la funzione per la quale è stato programmato (es: una scopa si mette a pulire, una carrozza procede in avanti). (_Concentrazione_). Una volta che hanno un ordine gli  oggetti vanno avanti a compierlo, il limite deve essere intrinseco all'azione ("Spazza per terra" è un'azione senza limlite, "pulisci il pavimento" continua finché il pavimento non è pulito). Se si tratta di forme vitali (tipo statua gatto) prendono vita se sono più piccole di 1metro cubo. Eseguono solo un comando di protezione di qualcosa, (non qualcuno) altrimenti vagano liberi.
+    - Secondo effetto: forme vitali non hanno limlite di dimensione.
 
-- _Piertotum Locomotor_: statue fino a INT si muovono eseguendo un tuo comando. Il comando viene portato a compimento e poi le statue collassano. (Le statue non combatteranno in modo chissà che abile). Se hanno le ali non riescono a volare. (_Concentrazione, Dipendenza 4, Overdose_)
+- _Piertotum Locomotor_: statue fino a INT si muovono eseguendo un tuo comando. Il comando viene portato a compimento e poi l'incantesimo si ferma. (Le statue non combatteranno in modo chissà che abile). Se hanno le ali non riescono a volare. (_Concentrazione, Dipendenza 3 o Overdose_)
+    -  Secondo effetto: se hanno le ali, riescono a volare. Usano l'INT del mago come Destrezza.
 
 ## Evocazioni
-
-- _Guardiano_: evochi un gargoyle. Il Gargoyle esegue un solo comando fin quando non muore. Se lo porta a termine è poi libero. _(Ricarica 1 ora, Overdose, Dipendenza.)_
 
 - _Clonare_: crei uno o più cloni di te stesso, fino a INT. Paghi un *PF* per ogni clone creato. Quel clone ha 1 PF. Quando quei cloni scompaiono non recuperi quei PF. I cloni non possono lanciare magie. I cloni hanno una copia di tutti i tuoi oggetti, ma una copia inutilizzabile. (Non magica, senza scritte...) Quando un clone muore o lo fai scomparire recuperi tutte le informazioni che aveva raccolto. (_Dipendenza_). 
      - NB: per la gestione dei cloni il DM deve avere un approccio narrativo, quindi le sue avventure vengono riassunte. 
@@ -201,34 +206,35 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 - _Calata dei conigli:_ puoi pagare x PF: appaiono per 1 minuto 25xPF conigli che si muovono nella direzione decisa. Hanno una velocità di 18 metri a turno. Non possono fare altro che muoversi. ( _Dipendenza1_)
 
-- _Assalto dei conigli_: puoi pagare x PF: appaiono per 1 minuto 7xPF conigli che si muovono nella direzione decisa da te. Hanno una velocità di 18 metri a turno. I conigli fanno un danno e attaccano indistintamente chiunque trovino, persino il caster. (Possono essere sconfitto a gruppi di 4 da un nemico base armato di spada) (_Dipendenza 3, Overdose._)
+- _Assalto dei conigli_: puoi pagare x PF: appaiono per 1 minuto 7xPF conigli che si muovono nella direzione decisa da te. Hanno una velocità di 18 metri a turno. I conigli fanno un danno e attaccano indistintamente chiunque trovino, persino il caster. (Possono essere sconfitto a gruppi di 4 da un nemico base armato di spada) (_Dipendenza 2, Overdose._)
 
 ## Anatemi 
 
-- _Tremori essenziali_: tutti i personaggi entro 2INT metri vengono scossi da tremiti. Il solo danno pre-armatura inferto da ogni arma non magica nell'area raddoppia.
+- _Tremori essenziali_: tutti i personaggi entro 2INT metri vengono scossi da tremiti. Il solo danno fisico pre-armatura inferto da ogni arma nell'area raddoppia.
 
-- _Spasmo duale_: seleziona un alleato umanoide a vista. Quando prendi danni post-armatura, li prende invece l'alleato o viceversa (senza applicare altre difese) per 1 minuto. ( _Dipendenza 2_)
+- _Spasmo duale_: seleziona un alleato umanoide a vista. Quando prendi danni post-armatura, li prende invece l'alleato o viceversa (senza applicare altre difese) per 1 minuto. ( _Dipendenza 1_)
 
-- _Lama reliquia_: se colpisci un avversario puoi decidere di annullare il danno fisico dell'arma e infliggere la mediazione "Reliquia": se subisci danno da un'arma non magica, subisci altri 2 danni magici (può essere applicata più volte). (Puoi usarla insieme a Ferro Stregato)
+- _Lama reliquia_: se colpisci un avversario puoi decidere di annullare il danno fisico dell'arma e infliggere la mediazione "Reliquia", che recita: a ogni prossimo danno per questa fight, subisci altri 3 danni magici (stack). (Puoi usarla insieme a Ferro Stregato)
 
-- _Esiziema:_ recuperi del sangue da alleati a vista (fino a 7 PF sottratti per alleato, se questi hanno almeno 10 PF) e lo scagli contro il nemico a vista, il danno è considerato perforante, infligge danno pari alla somma dei PF estratti. (_PF 3, Dipendenza 3)_
+- _Esiziema:_ recuperi del sangue da alleati a vista (fino a 7 PF sottratti per alleato, se questi hanno almeno 10 PF) e lo scagli contro il nemico a vista, il danno è considerato perforante, infligge danno pari alla somma dei PF estratti. (_Dipendenza 2 o 3 PF)_
+    - Se hai "Arte vampirica", puoi invece sotrrarre i PF dalla tua fiala.
 
-- _Valzorak:_ spari una magia nera contro il nemico a vista. L’incantesimo può seguire traiettorie curve. Il nemico prova un grandissimo dolore, e riceve danni pari all’ultimo attacco non magico che ha ricevuto. (_PF1, +2 a ogni colpo, Dipendenza 1)_
+- _Valzorak:_ spari una magia nera contro il nemico a vista. L’incantesimo può seguire traiettorie curve. Il nemico prova un grandissimo dolore, e riceve danni pari all’ultimo attacco non magico che ha ricevuto. (_PF1 o Dipendenza 1)_
 
 - _Proiettile di fata:_ colpisci un bersaglio a vista (pagando 1 PF puoi aumentare i bersagli fino a INT), puoi spostarlo di metri pari a INT nella direzione dell’incantesimo. L’incantesimo può seguire traiettorie curve. Quando colpisce infligge 2 PF per ogni volta che hai lanciato questo incantesimo in questa fight.  (_PF 1)_ 
     - Questo incantesimo può essere castato due volte nello stesso turno con “Sciamano”
+    - Se conosci "Fuochi fatui" al posto di spostare, il danno per ogni incanto sale di 1 ed essere considerato di fuoco.
 
-- _Dorukh_: un lampo nero colpisce una figura umanoide entro 3xINT metri da te. Se la figura ha meno PF massimi dei PF massimi dei tuoi, muore istantaneamente. Altrimenti l'incantesimo non produce danno. (_Dipendenza 1_). Se l'avversario indossa un'armatura o possiede energia magica, il danno è comunque nullo. 
+- _Dorukh_: un lampo nero colpisce una figura umanoide a vista. Se la figura ha meno PF massimi dei tuoi, muore istantaneamente. Altrimenti l'incantesimo non produce danno. (_Dipendenza 1_). Se l'avversario indossa un'armatura o possiede energia magica, il danno è comunque nullo. 
+    - Se hai "Tentazione e sottomissione" ottieni 3 usi gratuiti a riposo breve di questa magia, inoltre puoi pagare 2 PF al posto di Dipendenza.
 
 - _Maledizione di Chrollo_: con un'azione o az bonus puoi sacrificare un ricordo di un'anima (vedi "Predatore di anime") ed evocare uno "Scaglia-Bianca Abissale". (1 _Dipendenza_ o 1 _PF_ )
     - Esso ha 0 a destrezza e Forza e movimento in volo pari alla tua INT. Non può essere ferito. Si muove entro la tua vista. Può solo eseguire attacco e movimento. Se colpisce vengono registrati 3 danni perforanti, ma il bersaglio non li sente. Quando termini l'incanto i bersagli subiscono i danni.
-    
     - NB: non creano ingaggio al nemico.
 
 ## Antimagia 
 
 - _Dissolvenza:_  Il DM determina la quantità di tempo in ore necessaria a rompere un incantesimoi sulla base di un tiro di INT. Durante quel periodo, hai svantaggio a tutti i tiri magici e devi rimanere entro 3 km dalla magia.
-
      - Un Celestiale non può essere annullato, a meno che tu non abbia "Cerchi magici" (in turno, non ore)
 
 - _Veto arcano_: se colpisci un creatura con una lama e usi una reazione per usare questa abilità, blocchi qualsiasi abilità magica dell'altra persona per 5 turni. (_Concentrazione_)
@@ -241,7 +247,8 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 - _Sigillo_: crei o sciogli un Sigillo (azione o azione bonus). Il sigillo è un incanto che riesce a tenere chiuso un contenitore, una porta, o altro (Il contenitore diventa molto più resistente, ma non necessariamente infrangibile.)
 
-- _Tracce magiche_: sei in grado di percepire tracce di magie lanciate molto tempo addietro con Percezione del Magico in questo turno. Riesci a vedere (tipo flash-back) come l'incantesimo si è svolto back than. 
+- _Tracce magiche_: sei in grado di percepire tracce di magie lanciate molto tempo addietro con Percezione del Magico. Riesci a vedere (tipo flash-back) come l'incantesimo si è svolto, o come sono finite lì quelle tracce.
+    - Se conosci "Fuochi fatui", puoi cancellare quelle tracce magiche (vincolo W: se  l'autorità è superiore non reisci)
 
 ## Celestiali: (1 solo)
 
@@ -255,9 +262,11 @@ Questi incantesimi sono stati creato ricalcando la magia di alcuni celestiali
 
 - _Cronomalia:_ come reazione puoi piegare il tempo, il turno di un giocatore o di un nemico si ripete, tutti i dadi vengono rilanciati, le scelte possono essere riprese. _(_Dipendenza 1, Ricarica 1 riposo breve, Overdose)_
 
-- _Orbis_: 
-    - generi davanti a te una piccola sfera d'aria che ruota su se stessa, il vento generato allontana da sé tutti i nemici, e tutti gli item con autorità inferiore. Vengono respinti di metri uguale a dipendenza spesi, ed entro questo raggio. La sfera può muoversi di metri pari a 3 Intelligenza ogni turno con azione o azione bonus.  (_Dipendenza x_)
-    - generi davanti a te una piccola sfera d'aria che ruota su se stessa, il vento generato avvicina a sé tutti i nemici, e tutti gli item con autorità inferiore. Se entro metri uguale a punti dipendenza spesi, il nemico non può muoversi iallontanandosi dalla sfera. Gli oggetti liberi o che riescono a finire nel vortice, vengono distrutti se raggiungono il centro. (_Dipendenza x_)
+- _Orbis_: generi una sfera d'aria in un punto vuoto a vista, che genera un vento da uragano: (_Dipendenza 1_)
+    - Exeunte: che allontana da sé tutti i nemici, e tutti gli item con autorità inferiore. 
+    - Ineunte: che avvicina a sé tutti gli item con autorità inferiore, mentre i nemici non possono muoversi controcorrente. Gli oggetti liberi o che riescono a finire nel vortice, vengono distrutti se raggiungono il centro. 
+        - Se conosci "Referto" puoi utilizzare l'incanto e richiamare uno degli oggetti finiti nel vortice (o gruppi di gogetti ove sensato, tipo "sacca di monete"), entro la giornata. Se hai "Mente Alveare" entro quando vuoi.
+    - Puoi pagare 1 pf come azione o azione bonus: inverti il tipo di sfera.
 
 - _Ardere malefico:_ accendi un fuoco di colore verde, viola o nero, che si espande a macchia d’olio, alla stessa velocità, continuando senza fermarsi, fuori dal tuo controllo. Brucia qualsiasi cosa, qualsiasi materiale, finanche l’acqua (se non è tipo un lago), tranne la roccia, e non rimane attaccata alle creature. Ad ogni minuto in cui rimane attivo perdi 5 PF. Puoi aggiungerti tanti punti _Dipendenza_ quanti vuoi. Ogni creatura nel fuoco tranne te, perde punti pari a metà dei tuoi punti Dipendenza a ogni turno. Se muori o lo annulli il fuoco si ferma, ma non può essere spento finché non ha consumato quello su cui si è fermato.
 
@@ -286,57 +295,59 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 - _Terebrissa_: quando  usi "Ardere Malefico" paghi 3 pf all'ora.
 
 - _Predatore di anime:_ quando uccidi qualcuno puoi ottenere un suo ricordo significativo. Vedi magia “_Tessitore di anime_" e “_Faino_”. 
-
     - Puoi anche provare a ottenerlo da un cadavere già morto con una prova di int, tanto più facile quanto più recente è il lutto.
     - Consoci la quantità di Spirito che una creatura ha guardandola.
     - I Neythune non ti attaccano senza un buon motivo.
     - Se spezzi una persona (_Chi ha paua del buio?_), puoi assimilare tutti i suoi ricordi, al posto di rubargli l'anima. 
 
-- _Arte vampirica_: puoi assorbire 3 pf da un bersaglio che uccidi e conservarli nella tua anima
-    - Puoi recuperare INT punti ferita dalla tua anima una volta a riposo breve.
-    - Puoi concedere pf alle tue creazioni con "Seconda vita" utilizzando la riserva.
+- _Arte vampirica_: puoi assorbire 3 pf da un bersaglio che uccidi e conservarli in una fiala
+    - Puoi recuperare fino a INT punti ferita dalla tua fiala una volta a riposo breve.
+    - Puoi concedere pf alle tue creazioni con "Seconda vita" utilizzando dalla tua fiala.
+    - Puoi utilizzare la fiala per pagare i punti di "Esiziema"
 
-- _Necrobambola_: puoi usare "amici dall'altra parte" su cadaveri pari a INT.
+- _Necrobambola_: puoi usare "Amici dall'altra parte" su cadaveri illimiati, finché puoi permettertelo.
 
 - _Monarca delle Ombre_: quando evochi un fantasma ("Faino") questo è contento di servirti. 
 
-- _Aura grema_: se lo vuoi, chiunque si trovi entro 4+INT metri te deve fare una prova di INT (CD 10+ INT) o essere spaventato da te. Se l’avversario fa 1 è invece Terrorizzato, e il suo Spirito va a 0 (vedi “Empietà”)
+- _Aura grema_: se lo vuoi, chiunque si trovi entro 10m te deve fare una prova di INT (CD 10+ INT) o essere spaventato da te. Se l’avversario fa 1 è invece Terrorizzato, e il suo Spirito va a 0 (vedi “Empietà”)
 
 ### Alchimista
 
 - _Flamél_: quando usi un "Materico" non devi mantenere la Concentrazione. Le modifiche alle cose apportate con quegli incantesimi si mantengono in modo permanente.
-
     - Se usi "Alchimia" impiega un terzo dei Punti Dipendenza.
-    - Sai infondere le armi (se gli dai il veleno)
+    - Se conosci "Equoreo" puoi manenere la temperatura eventuale  del liquido.
+    - 
 
-- _Tecniche di Relias_: se utilizzi "Higitus Figitus" puoi usarlo su un'arma bianca in tuo possesso. L'arma ha movimento in aria pari a INT e il tuo  modificatore per colpire. Una tua azione consiste nel dargli ordini. (Non crea ingaggio)
+- _Tecniche di Relias_: se utilizzi "Higitus Figitus" puoi usarlo su un'arma bianca in tuo possesso. L'arma ha movimento in aria pari a INT e il tuo  modificatore per colpire. Una tua azione consiste nel dargli ordini. Puoi utilizzarlo su tutte le armi che hai, un'arma per turno. (Non crea ingaggio).
 
 - _Tesseract_: puoi usare gli effetti secondari degli incantesimi "Aerei"
 
 ### Arcimago
 
 - _Occhio arcano:_ al momento di casting da parte di un magico di una abilità, se hai già visto quella magia, sai che magia sta per castare. Inoltre, se il mago prepara una magia mentre puoi vedere, anche se non la casta, sai che l’aveva preparata, e se la conoscevi già, sai che magia era.
-
     - Vedi attraverso l’oscurità magica creata da _Neralbo_. 
     - Vedi i fantasmi
     - Hai vantaggio a percezione del magico.
 
-- _Aura bianca_: puoi eludere la propria presenza magica. Se una individuazione rischia di esporlo, tira su INT con doppio vantaggio, contrapposto a chi lo sta cercando. (Se l'avversario vince non se ne avvede)
+- _Aura bianca_: puoi eludere la propria presenza magica. 
+    - Se una individuazione rischia di esporlo, tira su INT con doppio vantaggio, contrapposto a chi lo sta cercando. (Se l'avversario vince non se ne avvede)
+    - Quando casta, non è evidente che lui è il caster se non ci ono ottimi motivi per capirlo. (normalmente invece, è chiaro in qualche  modo sempre chi abbia castato una magia, se non ci si preoccupa di farlo in modo nascosto)
+    - Se conosci "fuochi fatui", incantesimi lanciati da te non lasciano tracce magiche. (ad es: se un oggetto è sotto innervare, altri maghi non possono saperlo.)
 
-- _Mente Alveare_: se usi un effetto mentale e Vince, l'avversario non se ne avvede. Ti accorgi se
-
-    - una sua magia viene indagata da qualcuno 
-    - Qualcuno cerca di varcare "Denique fines" da yr castato
-    - un tuo sigillo viene rotto
-    - una statua di "Coordinata" viene spostata 
-    - un tuo oggetto di "Referto" viene rubato.
-    - un tuo oggetto sotto "Innervare" sai sempre dove si trova
+- _Mente Alveare_: se usi un effetto mentale e Vince, l'avversario non se ne avvede. Inoltre, ti accorgi se
+    - una tua magia viene indagata da qualcuno 
+    - qualcuno cerca di varcare "Denique fines" da te castato
+    - qualcuno rompe un tuo "Sigillo"
+    - una tua statua di "Coordinata" viene spostata 
+    - un tuo oggetto di "Referto" viene rubato
+    Infine, 
+    - sai sempre dove si trovano i tuoi oggetti sotto "Innervare"
+    - puoi usare l'effetto secondario di "Orbis".
 
 - _Elegia di Lindir_: sei protetto da effetti mentali. Se usi "duello Mentale" puoi pagare altri (_PF 2),_ la magia può essere diviso in bersagli  fino a INT. 
     - Hai vantaggio se usi "Oblamente"
 
 - *Cerchi magici*: quando usi "Sigillo" puoi rompere i sigilli degli altri maghi che non hanno Cerchi magici. I tuoi sigilli non possono essere rotti da maghi senza cerchi magici. Quando crei un sigillo puoi scegliere alleati in grado di romperlo, o aprirlo temporaneamente senza romperlo. 
-
     - Se usi "Cristallizzare" hai il secondo effetto. 
     - Se usi "Dissolvenza" non hai Concentrazione e il raggio è 100km.
 
@@ -345,61 +356,52 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 - _Kagebushin alveare_: quando crei un clone, puoi spostare la presenza originale con i suoi pf da un clone all'altro con un'azione bonus. 
 
     - Sei consapevole contemporaneamente di tutto quello che sanno tutti i cloni.
-    - Incantesimi sotto ricarica, se possono castare, sono sotto ricarica per singolo clone. 
+    - Incantesimi sotto ricarica (non celestiali), se possono castare, sono sotto ricarica per singolo clone. 
     - La pool di Dipendenza è la stessa
 
-- _Occhio druidico:_ se utilizzi _Skulblakas ven,_ puoi controllare i movimenti dell’animale. (L’animale può provare a ribellarsi.)
-
+- _Occhio druidico:_ se utilizzi _Skulblakas ven,_ puoi controllare i movimenti dell’animale. (L’animale può provare a ribellarsi, a seconda di quanto è potente. Come indicazione, un cavallo non si ribellerà granché nemmeno chiedendogli di buttarsi da un burrone, un orso sì.)
     - Non puoi perdere la Concentrazione usando Skulblakas Ven
 
 - _Segno di Stonehenge_: puoi castare "Cronomalia" fino a 3 volte per riposo breve al posto che uno.
 
 ### Duellante
 
-- _Passo di Fata_: puoi usare un’azione bonus per teletrasportarti entro metri pari a 2INT, un n° di volte pari a INT per ogni fight.
+- _Passo di Fata_: puoi usare un’azione bonus per teletrasportarti entro metri pari a 2INT, un n° di volte pari a INT per ogni fight. Se non le hai già ottenute in altro modo, ottieni 2 reazioni.
 
-- _Passo etereo_: hai velocità aggiuntiva pari a INT e 2 reazioni.
+- _Passo etereo_: hai velocità aggiuntiva pari a INT e 3 reazioni. 
+    - Ottieni i secondi effetti di "Umbratile", "Etereo" e "Ritiro Spirituale"
 
-- _Passo schermidore_: Il tuo modificatore per combattere in fight è INT. Hai reazioni pari al suo bonus di INT. Conosci inoltre 3 *manovre*. 
-
+- _Passo schermidore_: Il tuo modificatore per combattere in fight è INT. Hai reazioni pari al suo bonus di INT. Conosci inoltre 3 *manovre* (vedi il file "costruzione del personaggio"). 
     - Puoi castare "Boogie-Woogie", "Proiettile di Fata" e "Tremori essenziali" come azione bonus se non hai usato un'azione per castare.
-    - Puoi usare "Boogie-Woogie" senza battere le mani.
+    - Conosci "Lama Clama" gratuitamente.
 
-- _Furia dei morenti_: se hai tra i 5 e gli 0 pf, tutti i danni che infliggi con l'arma raddoppiano
+- _Furia dei morenti_: se hai tra i 10 e gli 0 pf, tutti i danni che infliggi con l'arma raddoppiano, i danni pre-armatura che subisci sono dimezzati.
 
-- _Sangue maledetto_: ogni volta che vieni colpito da un’arma, il nemico subisce danno pari alla differenza tra i tuoi PF permanenti e attuali dopo il colpo.
+- _Sangue maledetto_: ogni volta che vieni colpito da un’arma non a distanza, il nemico subisce danno pari alla differenza tra i tuoi PF permanenti e attuali dopo il colpo.
 
-- _Ferro stregato_: puoi avere vantaggio a colpire, ma l’arma non infligge danni con quel colpo (a parte danni provocati da incantamenti dell’arma, veleni o altro.).
+- _Ferro stregato_: puoi avere triplo vantaggio a colpire, ma l’arma non infligge danni con quel colpo (a parte danni provocati da incantamenti dell’arma, veleni o altro.).
 
 - _Cuore forte_: hai armatura naturale 4.
 
 - _Aura tagliente_: puoi rilasciare la tua aura con un’azione bonus: entro metri pari alla sua INT infligge a chiunque danni taglienti pari alla INT ogni turno. Puoi estinguere questo effetto quando vuoi.
 
-- _Aura densa_: quando sei colpito da un’arma puoi scegliere di non subire danni. (Nel qual caso non attiva "Sangue maledetto") Se lo fai, quei danni vengono registrati. Se vieni colpito entro il prossimo minuto, subisci anche i danni registrati
+- _Aura densa_: quando sei colpito da un’arma puoi scegliere di non subire danni. (Nel qual caso non attiva "Sangue maledetto") Se lo fai, quei danni vengono registrati. Se vieni colpito entro il prossimo minuto, subisci anche i danni registrati.
 
-- _Aura d'ardesia:_ puoi dimenticare 1 magia per la giornata. Fino alla fine del suo prossimo turno è invulnerabile a ogni effetto magico e non. Può utilizzare questa capacità in reazione per Dipendenza 1.
+- _Aura d'ardesia:_ puoi dimenticare 1 magia per la giornata. Fino alla fine del suo prossimo turno è invulnerabile a ogni effetto magico e non. (Può utilizzare questa capacità in reazione per Dipendenza 1).
 
-- _Sciamano_: puoi lanciare 2 magie in un turno, purché siano diverse tra loro. Se si tratta di "Dorukh" può lanciarne fino a int.
+- _Sciamano_: puoi lanciare 2 magie in un turno, purché siano diverse tra loro. Se si tratta di "Dorukh" può lanciarne fino a INT. Se non le hai già ottenute in altro modo, ottieni 2 reazioni.
 
-- _Fragile, ma non ingenuo (Ema)_: puoi schivare solo e soltanto le freccie usando la tua Intelligenza. 
+- _Mamma non voglio morire_: puoi schivare solo e soltanto le freccie usando la tua Intelligenza. 
 
 ### Incantatore Persistente
 
-- _Dolore schiarente_: ricarichi 2 punti Dipendenza ogni volta che subisci un totale di 4 PF.
+- _Dolore schiarente_: ricarichi 1 punto Dipendenza ogni volta che subisci un totale di 4 PF.
 
-- _timbro dell'orgoglio_: alla fine di un riposo lungo elimina dalla barra di Dipendenza altri 3 punti Dipendenza. Quando tiri Overdose hai vantaggio.
+- _Timbro dell'orgoglio_: alla fine di un riposo lungo elimina dalla barra di Dipendenza altri 3 punti Dipendenza. Quando tiri Overdose hai vantaggio.
 
 - _Nettare Linfatico_: alla fine di ogni riposo lungo e breve guadagni 10 PF. 
 
-- _Cuore di Vishnù_: puoi dimenticare una magia per la giornata (che non sia sotto _Ricarica_): guadagna 7 PF o perde 4 punti Dipendenza. Puoi usare questa abilità un n° di volte pari alla sua int. 
-
-# Disintossicazione
-
-(di questi, o ne creo altri 3 o fanculo. Ma sono carini per avere molta narrativa alle spalle)
-
-- puoi dimenticare all'inizio della giornata, per la durata della giornata, 4 magie e ricaricare 2 punti Dipendenza. 
-- Se iberi un Fantasma (Vedi "Daino") che non ha più rancore nei suoi confronti Recuperi 3 Dipendenza. 
-- Se regali un oggetto importante e significativo precedentemente sigillato, guadagni 3 Dipendenza. 
+- _Cuore di Vishnù_: puoi dimenticare una magia per la giornata (che non sia sotto _Ricarica_): guadagna 7 PF o perde 4 punti Dipendenza. Puoi usare questa abilità un n° di volte pari alla sua INT. 
 
 # Razze
 
@@ -407,7 +409,7 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 
 - Scurovisione minore (18 metri, bianco e nero)
 - Conosce l’elfico, il comune.
-- 2 a 2 _Abilità_
+- + 2 a 2 _Abilità_
 - +1 a Destrezza
 - Se è Mago di classe ottiene _Passo etereo o Passo di Fata_
 - Ottiene una vita virtualmente immortale. 
@@ -424,11 +426,11 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 - Spirito giudaico: Vantaggio ai tiri per ogni trattativa commerciale.
 - 6m movimento
 - Inizia con 30 Kilia in più
-- Se è mago di classe ottiene _timbro dell’orgoglio_
+- Se è mago di classe ottiene _Timbro dell’orgoglio_
 
 *Dragonide*
 
--  Armatura naturale: se non indossa armature ha un’armatura naturale di 2 contro tutti i tipi di danni (se le indossa, -1 a tutti i danni).
+-  Armatura naturale: se non indossa armature ha un’armatura naturale di 1 contro tutti i tipi di danni non magici (se le indossa, -1 a tutti i danni).
 - Ottiene soffio: entro 3 metri può usare l’azione bonus per colpire a raggio con il fuoco. Il fuoco infligge 2+1d6 danni da fuoco. Il druido mantiene questa capacità per Creature più grandi di un coniglio.
 - Ottiene l’abilità Termocezione. Estraendo a lingua velocemente come un rettile, è in grado di avvertire le fonti di calore entro 10m.
 - Lingua draconica.
@@ -475,6 +477,8 @@ Statistiche: Si aggiungano 8x+1 e 2x-1. Limite max. +6
 Competenze: nessuna, solo _arma da mago_
 Capacità: ottiene solo le magie.
 
+Lingue: conosci comune e Arcano
+
 Abilità: (segnare 16x +1, 8x-1) (limite min. -4, limite max. +6)
 
 - Arrampicarsi
@@ -487,7 +491,7 @@ Abilità: (segnare 16x +1, 8x-1) (limite min. -4, limite max. +6)
 - Origliare
 - Percezione
 
-Conoscere: (Aggiungere 28x+1)
+Conoscere: (Aggiungere 28x+1, limite +7)
 
 - Natura
 - Religione

@@ -52,7 +52,7 @@ format:
 
 ### Come cazzo si chiamava il file quello con le regole? 
 
-[Eccolo](/capitoli/Regole/combattente.qmd)
+[Eccolo](/capitoli/Regole/creazione.html)
 
 ### Bellissimo Ema ma come mi oriento? 
 
@@ -60,7 +60,7 @@ format:
 
 - La cartella "**Mercato**" contiene i punti di interesse che potete realisticamente trovare in quasi tutte le città. I prezzi e tutte le informazioni sono comunque rimessi  all'ultima parola del DM (mica che qualcuno pensi che una volta scritto su un sito statico in qmd abbia un significato esagerato.)
 
-- Il file [regole](/capitoli/Regole/regole.qmd) risponde alle domande tecniche sulle regole in generale. 
+- Il file [regole](/capitoli/Regole/regolamento.html) risponde alle domande tecniche sulle regole in generale. 
 
 Tenete a mente che molte parti sono ancora in costruzione. A brevissimo dovrebbe arrivare l'aggiornamento più significativo cioè quello dei veleni. 
 
