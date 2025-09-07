@@ -16,3 +16,8 @@ Ogni volta che un nemico ti colpisce, ottieni +1 alle prove di combattimento e i
 
 attivit l'incantesimo Neralbo
 
+#### Inchiostro di Keleborn
+
+Evochi ali d'uccello nere, magre e ossute sulla tua schiena. In un area di 6m i tuoi nemici subiscono 2d6 danni necrotici per 1 minuto. Ogni creatura fa INT contro il tuo Carisma per non  essere spaventato da te. 
+
+**Infusione**: può essere infuso su armi o armature, l'effetto dura però 3 turni, ed è riattivabile al prossimo riposo lungo. 

@@ -100,6 +100,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 ## Utility 
 
 -  _Fuochi fatui_: Evochi tre fuochi fatui bluastri. I fuochi non bruciano, a meno che tu non lo voglia. Rimangono entro 9 metri illuminando 3 metri di raggio. Si muovono tutti una volta a turno senza costi.
+    - Se hai "Aura bianca" puoi decidere chi riesce  a vedere grazie a questi fuochi. 
 
 -  _Equoreo:_ Elimini tutti i liquidi da un dato contenitore artificiale e li registri. Una volta registrato un liquido puoi rievocarli liberamente quanto vuoi, dove vuoi (nessun action cost, ma uno per turno massimo). Il liquido si raffredda se era caldo.
     - Se conosci "Flamèl", puoi mantenere la tempreatura del liquido
@@ -120,7 +121,7 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 -  _Innervare:_ Immetti nervi magici in un oggetto. A qualunque distanza sei sempre conscio del fatto che qualcuno sta usando quell’oggetto, e riesci a riconoscere la stessa creatura che lo prende più di una volta. (Per es, potresti essere consapevole che qualcuno stia impugnando una certa spada, o abbia tolto un certo anello). (1 gratis a riposo breve, poi _Overdose_.)
 
--  _SonoVoto_: in una zona di massimo 10mxINT da te non è possibile produrre alcun suono da parte di nessuno. (_1 Dipendenza_ o _1 PF_)
+-  _SonoVoto_: in una zona di massimo 10mxINT da te non è possibile produrre alcun suono da parte di bersagli che puoi decidere (_1 Dipendenza_ o _1 PF_)
 
 -  _Skulblakas Ven:_ Vedi attraverso i sensi di un animale a tua scelta, non puoi muoverti né parlare col tuo corpo, l’animale si muove in autonomia (_Concentrazione)._ 
     - Se conosci “Sussurri” puoi condividere con alleati pari  a INT quello che vedi

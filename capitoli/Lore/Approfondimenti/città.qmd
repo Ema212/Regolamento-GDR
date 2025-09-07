@@ -6,3 +6,14 @@ format:
   html:
     theme: default
 ---
+
+Le città sono i luoghi della civiltà, sono gusci di sopravvivenza, preziose in sè. Se una città esiste infatti, significa che ha trovato un modo di difendersi dalle minacce esteriori, cioè dai mostri, dai cataclismi, dai nemici... 
+
+Ci sono molti modi con cui una città può difendersi: un patto con un essere, una magia, una benedizione, un mago che l'ha resa la propria casa, un ordine di guerrieri, o anche un Re. 
+
+Non è detto che una città resista in eterno, anzi, è probabile che cada molto presto. Poche sono le città note per resistere molti secoli,  e riscono a scavare la memoria nella storia, e sono le seguenti: 
+
+- Librio: nota per la grande conoscenza che dispone, tenuta sotto chiave. 
+- Mistral: nota per l'addestramento dei Grifoni.
+- Primo Faro: nota per essere lo zoccolo del commercio dei due continenti
+- Tindia: famosa per  [le tecniche di forgia delle loro spade](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/luoghi/tindia.html)

@@ -5,7 +5,9 @@ format:
     theme: default
 ---
 
-Tipicamente, dove non diversamente specificato, hanno *Autorità: 4.2*.
+Gli erboristi sono magici che hanno dedicato la vita ai veleni: la loro creazione, identificazione, ed eventuale vendita. Come tutti i magici di questo mondo, sono sostanzialmente dei tossici: il  motivoo per cui fannno questo lavoro è che produrre magia è come una droga, e lo stesso vale per la produzione e assimilazione dei veleni.
+
+**Autorità**:tipicamente, dove non diversamente specificato, hanno *Autorità: 4.2*.
 
 ### Veleni 
 
@@ -251,7 +253,44 @@ Ogni volta che l'avversario colpito da questo veleno cerca di recupare pv in qua
 #### Nuvivolpe
 
 
-### Pozioni e Antidoti
+### Pozioni di cura e antidoti
+
+#### Pozione Vitale 
+- *Prezzo*: 26-36-68 K
+- *Disponibilità*: ?
+- *Descrizione*: Classica pozione vitale, da conservare sigillata. Alcune malelingue ritengono che il punto del gdr per Babbei sia comprare un botto di pozioni.  
+- *Effetto*: Recuperi 10, 17, 35 pf.
+
+#### Biscotti di Marika
+- *Prezzo*: 1d10 K (tirati dal dm, e vale per tutta  la run)
+- *Disponibilità*: ?
+- *Descrizione*: Una rara ricetta custodita gelosamente. Sono buoni, alla banana con goccie di cioccolat. 
+- *Effetto*: Recuperi 1d10 pf.
+
+#### Antiveleno (generico)
+- *Rarità*: 2/3
+- *Prezzo*: 18k
+- *Disponibilità*: 2d4
+- *Descrizione*: Un carbone ottenuto bruciando del Salice Bianco in un focolaio di Estia. 
+- *Effetto*: Inibisce l'azione di moltli veleni.
+
+#### Vino rosso di Giuda
+- *Rarità*: 2/3
+- *Prezzo*: 35k
+- *Disponibilità*: 1d4
+- *Descrizione*: Una bevanda rara la cui uva cresce solo in presenza di Tieflieng che siano vecchi oltre i 100 anni
+- *Effetto*: Ogni turno per 3 turni guadagni 2d4 pf. fino al prossimo riposo lungo hai -2 Carisma, -2 Forza, svantaggio a Percepire Intenzioni. 
+
+**NB** Non ha effetto sui Tiefling.
+
+#### Adrilika
+- *Rarità*: 2/3
+- *Prezzo*: 43k
+- *Disponibilità*: 2d4
+- *Descrizione*: Ottenibile dal cuore di Viverne, Manticore e Salamandre tiranno.
+- *Effetto*: Ottieni 3m  movimento, +2 a Forza, +3 a Destrezza per prove diverse da combattimento, se hai malus a statistiche sono temporaneamente ignorate e ottieni 12 pf per 4 turni (alla fine dei turni perdi tutti i vantaggi compresi i pf). Non recuperi alcun beneficio che normalmente otterresti dal riposo breve oggi. 
+
+
 
 #### Acquaforte
 
@@ -259,9 +298,10 @@ Ogni volta che l'avversario colpito da questo veleno cerca di recupare pv in qua
 - *Prezzo*: 15k
 - *Disponibilità*:
 - *Descrizione*: 
-- *Effetto*: Se lacniata a un nemico, diminuisce di 1 gli effetti di un armatura
+- *Effetto*: Se lanciata a un nemico, diminuisce di 1 gli effetti di un armatura
 
-tra le altre cose l'acquaforte grezza,  non ossidata è utile per 
+tra le altre cose l'acquaforte grezza è utile per:
+
 - Creare i metalli da forgia
 - Le fasi di infusione dei veleni nelle armi 
 - La catalizzazioni di numerosi incantesimi
@@ -276,10 +316,60 @@ tra le altre cose l'acquaforte grezza,  non ossidata è utile per
 - *Descrizione*: Radice coltivabile sui monti Congedo dell'Oceano.
 - *Effetto*: Il  Filtro è in grado di alterare i principi attivi di molti veleni. 
 
+#### Pasta di Violette
+
+- *Rarità*: 1/3
+- *Prezzo*: 20k
+- *Disponibilità*: 2d6
+- *Descrizione*: fiore dello stelo tossico per la maggior parte degli animali quando è appena raccolto
+- *Effetto*: Se assunto con Illantina e ci si concentra su un ricordo per un'ora, dal giorno seguente non si avrà più memoria di quel ricordo.  
+
 #### Adamantina
+- *Rarità*: 1/3
+- *Prezzo*: 20k
+- *Disponibilità*: 3d8
+- *Descrizione*: una pozione ottenuta osservando la deita dei Basilischi, esseri dalla grande intelligenza. Purtroppo l'effetto indebolente è legato alla diversità degli organi che la assimilano, e sempre per questo, gli effetti non riescono ad essere permenanenti.
+- *Effetto*: +4 intelligenza, per 1 minuto ma subisci 1d8 danni ogni volta che vieni colpito.
 
- Adamantina: +4 intelligenza, per 1 minuto ma subisci 1d8 danni ogni volta che vieni colpito, costa 20.
+#### Fiore di Glicine marmoreo
+- *Prezzo*: 24k
+- *Disponibilità*: 2d4
+- *Descrizione*: Il fiore di glicine sboccia solo in prossimità della magia  dei druidi o in luoghi con grande concentrazione di magia del Ki.
+- *Effetto*: ripulisce le vede da traccie di magia o capacità.  Chiunque possa normalmente analizzarla fa  fatica a percepire le tue capacità (CD: 20, senza Vincolo). Se sei un mago però, questo effetto svanisce dopo la prima magia che effettui.
 
-### Pozioni avanzate
+#### Alloro Bianco
+- *Prezzo*: 18k
+- *Disponibilità*: 3d4
+- *Descrizione*: cresce in posti che ricordano una grandissima tristezza nella loro storia
+- *Effetto*: un estratto a cui si aggiunge anche una  dose di Mirimar toglie un livello di esaurimento per 1d4 ore.
 
+#### Forensus
+- *Rarità*: 2/3
+- *Prezzo*: 80k
+- *Disponibilità*: 3d6
+- *Descrizione*: Estratto dalla sclera degli elfi
+- *Effetto*: vedi in bianco e nero con scruvocione e hai +3 a percezione fino al prossimo riposo lungo.
+
+#### Mirimar
+- *Rarità*: 2/3
+- *Prezzo*: 3k
+- *Disponibilità*: 4d8
+- *Descrizione*: Una ricetta originale delle storie fittizie del Vanghaal, legata agli alberi delle città elfiche. Trovabile anche in alcuni bar altolocati come euforico leggero.
+- *Effetto*: 
+	- Bottiglia: Se consumata durante un riposo breve fa guadagnare 2d4 pf. (non stack)
+	- Radice: se fumata ha un leggero effetto allucinogeno e rilassante. Ottieni +1 int e Carisma, -1 a Forza e Destrezza 1 un'ora. Hai vantaggio in prove "psichiche" o "da sesto senso" (psicometria, percezione del pericolo, rilevare tesori...)
+
+#### Vino di Yanuar
+- *Rarità*: 3/3
+- *Prezzo*: 80k
+- *Disponibilità*: 1d4
+- *Descrizione*: vino della fiabesca città di Yanuar, dalla ricetta segreta. La pianta da cui si estrae è una varietà di uva nota come Vangalina.
+- *Effetto*: Guadagni 1d8 pf permanenti.
+
+#### Resintor
+- *Rarità*: 3/3
+- *Prezzo*: 80k
+- *Disponibilità*: 3d6
+- *Descrizione*: Un fluido ottenibile dall'ira dei Bruti in cattività, spesso pertanto venduta sottobanco. 
+- *Effetto*: non puoi scendere sotto i 2 pf per i prossimi 3 turni (a meno di colpi ceh superino i 60 danni per volta)
 

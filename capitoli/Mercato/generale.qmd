@@ -5,4 +5,48 @@ format:
     theme: default
 ---
 
-Il mercato generale
+Il mercato generale, dove potete comprare il "Master, ma per caso qui lo vendono il...", sì, lo vendono qui. 
+
+Se per caso vi  trovate in una grande città, guardate anche se può interessare la sezione mercato esteso, che contiene tutti i posti che si possono trovare in una grande città. Quelli invece li dovete chiedere uno per uno.
+
+### Mercato default
+
+Ricordo a chi non lo sa, che la valuta sono i "Kilia", moneta con la loro incredibile lore. Dove non altrimenti specificato, stiamo parlando di oro. L'argento (au) vale 0,1 K, mentre il rame (cu) vale 0,01 K. Questo significa che 10 cu fanno 1 au, e che 10 au fanno 1 K. 
+
+Scrivere
+- Rotolone di pergamena o plichi di fogli: 5 au
+- Penna e calamaio: 1 au
+- Bottiglia di inchiostro: 1k al litro 
+
+Illuminare:
+- Torcia (1h): 5 au 
+- Lanterna: 2k  
+- Olio per lanterna (1h): 2 au 
+- 1l di olio infiammabile: 1k
+- Acciarino e pietra focaia: 1 cu
+
+Cargo e survival:
+- Zaino: 5 k 
+- 30 metri di corda: 1k 
+- Coltello generico: 3 k
+
+Vestiti: 
+- Vestito generico: 1 k al pezzo (viva l'economia dei fantasy)
+- Equipaggiamento tecnico per il freddo: 15 k (comprensivo di tutto, dalla giacca ai guanti)
+- Bandoliera o altro gadget simile: 0.5 au al pezzo.
+
+### Mercato Esteso
+
+Sono elencati in ordine più o meno di plausibilità, più si sale più la città deve essere ricca. Vi serva giusto per avere un'idea di cosa si può trovare
+
+- Banchiere
+- Gioielliere
+- Abbigliamento nobile
+- Animali esotici
+- Cartografo e venditore  di mappe
+- Meccanico (fa meccanismi, serrature, e via dicendo)
+- Falconiere
+- Negozio di strumenti musicali
+- Stalliere
+- Fornaio
+- Indovino

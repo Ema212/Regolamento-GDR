@@ -20,7 +20,8 @@ Chi ne viene a contatto testimonia una caratteristica del Miasma cioè quella di
 
 Se non si è studiato in modo approfondito l'Occulto, per altro, il miasma viene facilmente scambiato per Oricalco comune.
 
-Le fonti che solitamente fanno uso di Miasma sono 
+Le fonti che solitamente fanno uso di Miasma sono: 
+
 - La maggior parte dei Celestiali 
 - La magia di Indra e Vengra 
 - La magia dei Tiefling di alto livello
@@ -81,25 +82,20 @@ Le Fate sono esseri composti dall'unione del neon, oricalco, e ovviamente una pu
 
 -   **Meteorite**: Le armi in meteorite hanno una serie di particolarità
 
--   Particolare abilità perforante (sono infatti usate dai Cacciatori di draghi e alla base delle Armi da fuoco)
-
--   Non hanno molta resistenza agli incantamenti, pertanto possono tollerare fino a 3 incantamenti che vengono sovrapposti, senza possibilità di fallimento.
-
--   Possono legarsi alla Giada del propietario, facendo in modo di volare nella direzione del propietario se questo lo desidera.
+    - Particolare abilità perforante (sono infatti usate dai Cacciatori di draghi e alla base delle Armi da fuoco)
+    - Non hanno molta resistenza agli incantamenti, pertanto possono tollerare fino a 3 incantamenti che vengono sovrapposti, senza possibilità di fallimento.
+    - Possono legarsi alla Giada del propietario, facendo in modo di volare nella direzione del propietario se questo lo desidera.
 
 -   **Osso di Drago**: Armi costruite in osso di Draghi, se prese dalla Carcassa di un Dragone, almeno, hanno la straordinaria capacità di assorbire le sostanze naturali.
 
--   Non può essere incantata
-
--   Può essere infusa con 4 veleni se di "Dragone", 6 veleni se di "masto Dragone", e numero illimato se di "Procura Drago"
+    - Non può essere incantata
+    - Può essere infusa con 4 veleni se di "Dragone", 6 veleni se di "masto Dragone", e numero illimato se di "Procura Drago"
 
 -   **Ametista**: Metallo con cui i Monaci fondano le loro armi. Le armi in Ametista si muovono inoltre secondo l'istinto Marziale del loro possessore, non richiedendo dunque una particolare abilità nellusarli, serve solo un istinto profondamente radicato nell'animo di chi lo usa nel combattere.
 
--   Un arma in Ametista non può essere distrutta
-
--   Particolarmente adatta a essere infusa e incantata, ma di solito i monaci vietano questa pratica.
-
--   Un materiale molto reattivo alla magia anche di bassa frequenza, si adatta bene a tutte le tecniche dei monaci.
+    - Un'arma in Ametista non può essere distrutta
+    - Particolarmente adatta a essere infusa e incantata, ma di solito i monaci vietano questa pratica.
+    - Un materiale molto reattivo alla magia anche di bassa frequenza, si adatta bene a tutte le tecniche dei monaci.
 
 -   **Argento Bianco**: L'argento Bianco è un materiale a base argento ( quindi un sottoprodotto del Pavranio come tutti i metalli) infuso col sangue degli angeli. Queste armi hanno la proprietà di poter colpire
 
@@ -121,11 +117,11 @@ Le Fate sono esseri composti dall'unione del neon, oricalco, e ovviamente una pu
     -   Le armi provocano il rispetto da parte di Giganti di livello inferiore a quello a cui è stato estratto l'arma, e ostilità da quelli di livello uguale e superiore.
     -   Le armi possiedono svariate capacità a seconda dei metalli che il Gigante aveva esaurito quando aveva creato la propria struttura ossea.
 
--   **Diasprite** Un metallo rosso cremisi intenso, si ottiene solo nelle secche di alcune isole molto remote dell Mare dei Tesori, portato a riva dal Vetro Sale. Giunge nelle forme di una conchiglia viola intenso, e se raffinato otteniamo la Diasprite. La Diasprite è un metallo particolare, in grado di legare bene solo con il Miasma. Quando si prova a incantare la Diasprite con dell'Oricalco, si fanno solamente dei danni, si rompe la spada.
+-   **Diasprite** Un metallo rosso cremisi intenso, si ottiene solo nelle secche di alcune isole molto remote dell Mare dei Tesori, portato a riva dal Vetro Sale. Giunge nelle forme di una conchiglia viola intenso, e se raffinato otteniamo la Diasprite. La Diasprite è un metallo particolare, in grado di legare bene solo con il Miasma. Quando si prova a incantare la Diasprite con dell'Oricalco, si fanno solamente dei danni, si rompe la spada:
 
--   Le armi non possono essere incantate con magia a base di Oricalco
--   Le armi possono essere incantate con magia a base di Miasma
--   Se si riversa Miasma, o materiale che lo contiene sulla spada, essa lo beve, e acquisisce delle capacità che sono proprie della, almeno così dicono i magicanti, conchiglia di riferimento che l'ha partorito.
+    - Le armi non possono essere incantate con magia a base di Oricalco
+    - Le armi possono essere incantate con magia a base di Miasma (gli incantatori che sanno usarla sono molto rari)
+    - Se si riversa Miasma puro, o materiale che lo contiene sulla spada (cosa molto difficile da ottenere), essa lo beve, e acquisisce delle capacità che sono proprie della, almeno così dicono i magicanti, conchiglia di riferimento che l'ha partorito.
 
 -   **Osso di Balena Bianca**: Questo rarissimo materiale è usato (più facilmente trasmutato) per generare armi da mago. Le armi fatte con questo materiale sono capaci di canalizzare la magia dell'incantatore in un modo molto particolare, legandosi alla sua capacità di manipolare l'Oricalco Il caster che impugna quest'arma fa danno tagliente pari a Intelligenza. Usa Intelligenza per colpire e difendere al posto di Destrezza.
 

@@ -151,10 +151,11 @@ un tipo di magia che prova a muovere il Pavranio con altro Pavranio. Solitamente
 
 # I metalli
 
-Esistono tre classificazioni di [metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html),
-- I metalli primari, che sono i metalli attorno a cui si fondano tutte le cose materiali e immateriali dell'universo, magiche e non magiche, divine e non divine 
-- I metalli da forgia, una sottocategoria di Pavranio che offre numerosi impieghi diversi, tipicamente adatte a costruire armi e oggetti magici
-- I metalli da battaglia, una sottoclassificazione di metalli, studiati da una categoria di maghi, che hanno costituito un ordine di Maghi da Guerra, con una filosofia di magia tutta loro. 
+Esistono tre classificazioni di [metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html):
+
+- I metalli **primari**, che sono i metalli attorno a cui si fondano tutte le cose materiali e immateriali dell'universo, magiche e non magiche, divine e non divine 
+- I metalli da **forgia**, una sottocategoria di Pavranio che offre numerosi impieghi diversi, tipicamente adatte a costruire armi e oggetti magici
+- I metalli da **battaglia**, una sottoclassificazione di metalli, studiati da una categoria di maghi, che hanno costituito un ordine di Maghi da Guerra, con una filosofia di magia tutta loro. 
 
 
 

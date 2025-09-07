@@ -9,4 +9,25 @@ format:
 **Classe segreta**
 
 
-/spiase, non è ancora pronto/
+% CLASSE IN COSTRUZIONE %
+
+Probabilmente bisogna creare delle capacità, poi fargli scegliere degli oggetti che vuole dalla pagina del collezionista, dividendo in classi di Mistero gli item, tot da ogni classe, dare la sintonizzazione ad lacuni, creare capacità per 
+- bloccare il funzionamento degli item 
+- Un'abilità unica che gli consenta di recuperare pf bevendosi la magia dagli oggetti magici consumandoli? O spostando magia da un item all'altro o ricaricare la magia con i pf. Da valutare 
+- Avere più punti di sintonizzazione 
+- Abilità per fare sintonizzare più oggetti a una persona magari al costo di una sua sintonizzazione finché lui è presente o distante vedremo 
+- Utilizzo delle Pergamene dei maghi della Vecchia era, diciamo bruciandole utilizzando un qualche item tipo una sorta di incensiera  o qualcosa così. Servirebbe anche un elenco di Magie della Vecchia era tra cui scegliere. (es: sì, ancora non ci siamo liberati della palla di fuoco)
+
+*ELENCO OGGETTI* 
+- Qualcosa per bloccare l'inventario. Magari un lucchetto
+- Bracciali magnetici: si ferma uno in un punto e l'altro si avvicina
+- modulatore della voce (un po' mid)
+- item che modifica il tipo di danno di un'arma (perf, tagl, cont) 
+- Chiave dad meccanico: Item che può bloccare o sbloccare un ingranaggio o meccanismo (non serrature)
+- Sismocettore: consente di rilevare tutte le persone nei dintorni e fare mappa 3D dell'ambiente
+- Antison: consente di eliminare tutti i rumori entro una certa portata, vengono annullati
+- Lanterna dei segreti: illumina solo cose che sono messe con l'intenzione di non essere viste o ben nascoste
+- Contrappeso di parità: bilancia immediatamente una forza, creando un equilibrio perfetto
+- Mappa del Labirinto: crea una parete di carta, che sembra però fatta esattamente del materiale di cui la vuoi creare 
+- Sonar localizzato: lasci un sonar in una stanza. Puoi sentire con l'altro sonar cosa si sta dicendo 
+- iniettacorde: una corda o una catena si muove molto lentamente come tu vuoi che si muova, creando i nodi che intendi
