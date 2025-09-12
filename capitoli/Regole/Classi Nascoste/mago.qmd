@@ -69,15 +69,15 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 - _Boogie-Woogie:_ usi una reazione o azione e inverti la posizione di due creature a vista. (Gli scambi possono essere solo nemico-nemico, alleato-alleato) (2 usi gratis a riposo breve, poi _PF 1 o 1 Dipendenza_)
 
-- _Leggero:_ scegli una persona a vista o sé stessa: finché questa precipita puoi ridurre la velocità con cui cadere. (_Concentrazione)_
+- _Graziato:_ scegli una persona a vista o sé stessa: finché questa precipita puoi ridurre la velocità con cui cadere. (_Concentrazione)_
 
-- _Volo innocente_: puoi volare fino quando non ferisci direttamente qualcuno. Se sei a mezz'aria in quel momento, cadi. (_Ricarica_ 1 ora) 
-	- Secondo effetto: non c'è ricarica. 
+- _Leggero e innocente_: 
+    - puoi levitare a 10 cm da terra o dall’acqua per un tempo indefinito.
+        - Secondo effetto: puoi portare con te alleati fino a INT.
+    - puoi volare fino quando non ferisci direttamente qualcuno. Se sei a mezz'aria in quel momento, cadi. (_Ricarica_ 1 ora) 
+	    - Secondo effetto: non c'è ricarica. 
 
-- _Levitare:_ puoi levitare a 10 cm da terra o dall’acqua per un tempo indefinito.
-    - Secondo effetto: puoi portare con te alleati fino a INT.
-
--  _Levolante_: seleziona oggetti inanimati pari a INT a vista. Se lo desideri iniziano a levitare a mezz'aria.Se vengono lanciati in aria esauriscono lentamente la loro velocità e si fermano a mezz'aria. Se lo desideri tornano a terra, molto lentamente. (Dimensioni massime es. tavolo). (_Concentrazione_)
+-  _Levolante_: seleziona oggetti inanimati pari a INT a vista. Se lo desideri iniziano a levitare a mezz'aria. Se vengono lanciati in aria esauriscono lentamente la loro velocità e si fermano a mezz'aria. Se fermi l'incantesimo, tornano a terra, molto lentamente. (Dimensioni massime es. tavolo). (_Concentrazione_)
      - Effetto secondario: gli oggetti sono fino a 10xint. Le dimensioni massime sono quelle di un carro. Ha vantaggio a questi tiri di Concentrazione.
 
 - _Cristallizzare_: con un'azione bonus evochi un "Cristallo liminale" a terra e forma i vertici di un poligono. Entro questo poligono scegli tante creature a vista quanti punti _Dipendenza_ intendi pagare. Se attivi l'incantesimo (non c'è action cost): I cristalli si rompono, la creatura viene confinata nel Vuoto oltre la Luna per turni minimi pari al n° vertici del poligono. Da quel momento, a discrezione del DM, la creatura cercherà di uscire dal Vuoto, con un tiro di INT contrapposta (la creatura ha un vantaggio per ogni viaggio che si è già fatta nel Vuoto). Ricompare nel punto da cui l'hai imprigionata.
@@ -193,8 +193,8 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 - _Higitus Figitus_: dai vita a un oggetto (non arma) per svolgere la funzione per la quale è stato programmato (es: una scopa si mette a pulire, una carrozza procede in avanti). (_Concentrazione_). Una volta che hanno un ordine gli  oggetti vanno avanti a compierlo, il limite deve essere intrinseco all'azione ("Spazza per terra" è un'azione senza limlite, "pulisci il pavimento" continua finché il pavimento non è pulito). Se si tratta di forme vitali (tipo statua gatto) prendono vita se sono più piccole di 1metro cubo. Eseguono solo un comando di protezione di qualcosa, (non qualcuno) altrimenti vagano liberi.
     - Secondo effetto: forme vitali non hanno limlite di dimensione.
 
-- _Piertotum Locomotor_: statue fino a INT si muovono eseguendo un tuo comando. Il comando viene portato a compimento e poi l'incantesimo si ferma. (Le statue non combatteranno in modo chissà che abile). Se hanno le ali non riescono a volare. (_Concentrazione, Dipendenza 3 o Overdose_)
-    -  Secondo effetto: se hanno le ali, riescono a volare. Usano l'INT del mago come Destrezza.
+- _Piertotum Locomotor_: statue fino a INT si muovono eseguendo un tuo comando. Il comando viene portato a compimento e poi l'incantesimo si ferma. (Ogni statua ha 20/40/60 pf e 1,2,3 a destrezza e danno pesante, a seconda delle dimensioni). (No, ragazzi, i sassi non volano). (_Concentrazione, Dipendenza 3 o Overdose_)
+    -  Secondo effetto: Usano l'INT del mago come Destrezza.
 
 ## Evocazioni
 
@@ -235,16 +235,12 @@ Se non si sa da dove cominciare, una lista di preset di maghi viene fornita insi
 
 ## Antimagia 
 
-- _Dissolvenza:_  Il DM determina la quantità di tempo in ore necessaria a rompere un incantesimoi sulla base di un tiro di INT. Durante quel periodo, hai svantaggio a tutti i tiri magici e devi rimanere entro 3 km dalla magia.
-     - Un Celestiale non può essere annullato, a meno che tu non abbia "Cerchi magici" (in turno, non ore)
+Gli incantesimi Antimagia sono stati creati dalla strega [Malascen](/capitoli/Regole/meccaniche_nascoste/antimagia.html) 
+
+- _Dissolvenza:_  Il DM determina la quantità di tempo necessaria a rompere un incantesimoi sulla base di un tiro di INT. Durante quel periodo, hai svantaggio a tutti i tiri magici e devi rimanere entro 3 km dalla magia.
+     - Un Celestiale non può essere annullato, a meno che tu non abbia "Cerchi magici" (in questo caso il DM non può richiedere più di 3 turni)
 
 - _Veto arcano_: se colpisci un creatura con una lama e usi una reazione per usare questa abilità, blocchi qualsiasi abilità magica dell'altra persona per 5 turni. (_Concentrazione_)
-
-- _Countercount:_ puoi usare una reazione per negare un incantesimo o una capacità magica, con un tiro contrapposto di int. Se vinci, quella capacità o magia non può più essere attivata per almeno un’ora dal tuo avversario, inoltre tu tiri (_Overdose, 3pf_) Se perdi, non subisci conseguenze. 
-    - Se hai "Occhio arcano" ottieni vantaggio.
-    - Se hai "Cerchi magici" ottieni Vantaggio. 
-    (Possono essere usati entrambi i vantaggi )
-    - Un Celestiale non può essere counterato, al massimo Dissolto.
 
 - _Sigillo_: crei o sciogli un Sigillo (azione o azione bonus). Il sigillo è un incanto che riesce a tenere chiuso un contenitore, una porta, o altro (Il contenitore diventa molto più resistente, ma non necessariamente infrangibile.)
 
@@ -323,8 +319,9 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 
 ### Arcimago
 
-- _Occhio arcano:_ al momento di casting da parte di un magico di una abilità, se hai già visto quella magia, sai che magia sta per castare. Inoltre, se il mago prepara una magia mentre puoi vedere, anche se non la casta, sai che l’aveva preparata, e se la conoscevi già, sai che magia era.
+- _Occhio arcano:_ puoi usare un'azione o azione bonus e indagare l'aura  di un mago, chiedendo se conosce un certo incantesimo. Inoltre 
     - Vedi attraverso l’oscurità magica creata da _Neralbo_. 
+    - Vedi attraverso invisibilità ed effetti di copertura con Autorità inferiore alla tua (W)
     - Vedi i fantasmi
     - Hai vantaggio a percezione del magico.
 

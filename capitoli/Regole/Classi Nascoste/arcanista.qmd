@@ -10,3 +10,10 @@ format:
 
 
 /spiase, non è ancora pronto/
+
+Probabilmente bisogna creare delle capacità, poi fargli scegliere degli oggetti che vuole dalla pagina del collezionista, dividendo in classi di Mistero gli item, tot da ogni classe, dare la sintonizzazione ad lacuni, creare capacità per 
+- bloccare il funzionamento degli item 
+- Un'abilità unica che gli consenta di recuperare pf bevendosi la magia dagli oggetti magici consumandoli? O spostando magia da un item all'altro o ricaricare la magia con i pf. Da valutare 
+- Avere più punti di sintonizzazione 
+- Abilità per fare sintonizzare più oggetti a una persona magari al costo di una sua sintonizzazione finché lui è presente o distante vedremo 
+- Utilizzo delle Pergamene dei maghi della Vecchia era, diciamo bruciandole utilizzando un qualche item tipo una sorta di incensiera  o qualcosa così. Servirebbe anche un elenco di Magie della Vecchia era tra cui scegliere. (es: sì, ancora non ci siamo liberati della palla di fuoco)

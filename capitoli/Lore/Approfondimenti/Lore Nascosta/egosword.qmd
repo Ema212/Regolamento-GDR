@@ -13,5 +13,5 @@ Un oggetto con coscienza ha _autorità_ di 4
 Esistono diversi tipi di oggetti con una coscienza, e il loro pregio e caratteristiche varia in base all'anima impressa e all'oggetto di interesse. 
 Le più comuni sono le seguenti: 
 
-- Egosword
-- Egochiglia
+- Egosword: spade, con una volontà propria.  Assumnono caratteristiche diverse a seconda dell'anima che le abita.
+- Egochiglia: navi, che assumono la volontà di qualcuno. Molto facilmente però, si tratta di naviganti o capitani legati alla propria nave. Questo di solito dà modo alla nave di muoversi secondo la propria volontà.

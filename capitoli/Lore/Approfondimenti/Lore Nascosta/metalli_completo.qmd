@@ -38,17 +38,17 @@ Bardi esperti possono anche arrivare a capire a seconda del suono che l'irradion
 
 -   **Pavranio**: esso conia l'essenza delle ossa, da esso si originò la roccia come la conosciamo, ed era il più presente.
 
--   **Rame**: un materiale in grado facilmente di unire Pavranio e Giada, ma facilmente deperibile. Tutto ciò che è fatto con il Rame è pertanto mrotale.
+-   **Rame**: un materiale in grado facilmente di unire Pavranio e Giada, ma facilmente deperibile. Tutto ciò che è fatto con il Rame è pertanto mortale.
 
--   **Giada**: elemento della Volontà, è ciò che fonda la vita come intenzione
+-   **Giada**: elemento della Volontà, è ciò che fonda la vita come intenzione. Ciò che rende la vita è merito della Giada. Quando si riesce a legare ad altri metalli efficaciemente, essa genera un metallo detto **Noema**: questo metallo è come se fosse una sorta di risultante, ogni Noema è a sè, come se esistesse solo in quella particolare configurazione. Inoltre, il Noema si organizza in spirali contorte che conservano l'identità del Noema stesso. Piccole bolle di questo Noema sono i ricordi.
 
--   **Icore (Dei)** = Giada + Oricalco insieme danno vita a magia con della volontà, fondando pertanto gli dèi. L'icore è altrimenti detto il sangue degli dèi.
+-   **Icore (Dei)** = Giada + Oricalco insieme danno vita a magia con della volontà, fondando pertanto gli dèi. L'Icore è altrimenti detto il sangue degli dèi, il noema degli dèi si chiama Icore, ed è un metallo estremamente stabile.
 
 -   **Ladega**: lega insieme, serve a legare un oggetto o luogo a una fonte di magia, come nei seguenti casi
     - Sacralità: ogni luogo/oggetto/soggetto che sia sacro a un altro, o ad una divinità, lo è grazie alla Ladega. Un esempio sono i Talismani o i [Beniamini](/capitoli/Regole/meccaniche_nascoste/beniamino.qmd)
     - Contratti: Le firme dei patti di Indra sono intrise di Ladega
 
--   **Edenia**: il metallo del piacere 
+-   **Edenia**: il metallo del piacere.
 
 -   **Algheina**: il metallo del dolore. Funge da base per l'[[Arte dei tatuaggi]].
 

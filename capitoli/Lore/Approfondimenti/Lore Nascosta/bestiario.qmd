@@ -1,0 +1,72 @@
+---
+title: "Bestiario"
+search: false
+format:
+  html:
+    theme: default
+---
+
+Hai studiato il Bestiario Questo ti dà la possibilità di:
+
+- Conosci le caratteristiche principali delle bestie più importanti (vedi giù)
+- Conoscere il comportamento delle bestie. Se incontri una bestia, puoi tirare per provare a decifrare il loro atteggiamento (vedi giù)
+- Conoscere la collocazione del territorio. Se stai in un territorio per qualche ora, puoi capire chi è il predatore dominante con un tiro. Inoltre, il dm ti avvisa se il predatore cambia muovendosi in un'altra zona.
+
+### Atteggiamenti 
+Gli atteggiamenti non sono specie specifici, spesso sono invece appresi, modellati sulla base di comportamenti di altri animali, o degli uomini intorno a loro. Come Venator sei in grado di identificarli
+
+- **Sentinella innocua**
+	- **Descrizione**: Sorvegli il territorio ma non attacca le creature  umanoidi se non provocata. Addirittura possibile avvicinarsi con la tecnica giusta fino ad accarezzarle. Così facendo sarebbe possbile anche parlare conla creatura.
+
+- **Dormienti**
+	- **Descrizione**: Innocua finché non viene svegliata, a quel punto è troppo tardi
+
+- **Lotta di misura**
+	- **Descrizione**: Cerca solo combattimenti frontali. Non attacca prede deboli o ferite, ma solo chi ritiene abbastanza forte. Se il suo contendente lotta un po' e poi perde o si arrende lo strapazza per dimostrare la sua superiorità e poi lo abandona. Se si riesce a sottometterlo invece diventerà obbediente nei confronti dell'avversario. 
+
+- **Difensore Furente**
+	- **Descrizione**: Attacca solo se provocata o se il suo territorio/cuccioli vengono minacciati. Una volta provocata, diventa estremamente pericolosa. Allontanarsi abbastanza se si tratta del territorio. Se si tratta dei cuccioli c'è poco da fare. Fingersi morti può facilmente essere un modo per salvarsi, la bestia ti porta a 1 pf svenuto.
+
+- **Capo Branco**
+	- **Descrizione**: Guida un branco e sfrutta la cooperazione. Spinge le prede in trappole, usa diversivi. Dividere il branco con esche o rumori. Eliminare i membri più deboli per indebolire la struttura. Mirare al capobranco.
+
+- **Predatore Paziente**
+	- **Descrizione**: Tende agguati silenziosi, si muove poco, osserva a lungo prima di attaccare. Colpisce con violenza, poi si ritira di nuovo. Tende ad attaccare prima i embri deboli di un gruppo. Forzare lo scontro aperto con rumore o fuoco. Attirarla fuori con esche vive o sanguinanti. 
+
+- **Segugio Ossessivo**
+	- **Descrizione**: Non smette di inseguire la preda finché non la elimina. Sembra ignorare il pericolo per completare la caccia. Usare la preda designata come esca. Tende a ignorare minacce laterali.
+
+- **Opportunista**
+	- **Descrizione**: Attacca solo se il vantaggio è certo. Evita i rischi e si nutre anche di carogne. Farla sentire al sicuro con apparenza di vulnerabilità. Appena si avvicina, colpirla con imboscate letali.
+
+- **Trappolatrice**
+	- **Descrizione**: Finge di essere ferita per fare abbassare la guardai agli assaltatori.
+
+- **Imitatrice**
+	- **Descrizione**: Imita i comportamenti di altri animali, tra le più difficili da identificare. Non abbassare la guardia nemmeno contro quello che si consoce
+
+- **Caccia Ludica**
+	- **Descrizione**: La bestia non caccia per fame, ma per divertimento. Gioca con la preda, la stanca, la tormenta. Fugge non appena il pericolo è reale. Mostrarsi aggressivi e pericolosi, fingere superiorità per spaventarla. Simulare ferite gravi per attirarla in trappola, poi colpire duramente. 
+
+- **Collezionista Macabro**
+	- **Descrizione**: Uccide per prendere trofei, o solo alcune parti della preda. Si ritira se ottiene quello che cerca. Lasciare falsi trofei o oggetti desiderabili per attirarla. Ingannarla sul fatto che la “preda” sia già stata predata.    
+
+- **Venedicativa**
+	- **Descrizione**: Ricorda chi l'ha ferita o minacciata. Segue a lungo, colpisce con precisione, e prende di mira specifici individui.
+
+- **Aggressivo instabile**
+	- **Descrizione**: Attacchi irrazionali e imprevedibili, motivati da una strana sete di Sangue. Potrebbe attaccare alleati o distruggere risorse senza motivo. Sfruttare la sua impulsività per portarlo su un campo di battaglia preparato. Evitare lo scontro se non si è preparati.
+
+### Bestiario 
+Il Bestiario segue l'ordine alfabetico
+
+#### **Neythune:**
+**Descrizione**: Ragni dalle zampe in avorio, e il corpo come una sorte di conchiglia trasparente. Al loro intrno brilla una piccola luce arancio. Questi ragni hanno dimensioni di un palmo finchè sono piccoli, e crescono fino alle dimenzioni di un cavallo nell'arco di pochi anni. Si muovono in gruppi da massima una ventina di esemplari. 
+
+**Capacità notevoli** Iniettano un veleno che è in grado di eliminare i ricordi alle persone. Il DM  decide quali ricordi sulla base di un tiro, ma tipicamente più il ragno è grande maggiori e più profondi sono i ricordi. I Ricordi vengono storati all'interno della loro conchiglia, rompendo la quale (o uccidendo il ragno) si distruggerebbero i ricordi definitivamente. pertanto devono essere catturati, e bisogna estrarre il globulo di ricordi e riavvicinarlo all atesta della persona. La persona a cui appartenevano i ricordi, avrà comunque idea di dove si trovino i suoi ricordi per una certa quantità di giorni. 
+
+Se il ragno viene danneggiato, la persona a cui appartenevano i ricordi subirà gli stessi danni (e viceversa) per un paio di giorni.
+
+Se lasciati a sè stessi però, questi ricordi vengono condensati in delle perle, che poi vengono utilizzati per fare una struttura vicino a una fonte d'acqua, utile per l'accoppiamento. Questo è il motivo per cui alcune di queste perle si posson o trovare vicino al mare. 
+
+Inoltre, da tipo di mostri il demone Terebrissa ha saputo sviluppare alcuni incantesimi di memoria. Nonché questi ragni vengon utilizzati per produrre l'Illantina.

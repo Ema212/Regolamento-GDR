@@ -1,0 +1,17 @@
+---
+title: "Malascen"
+search: false
+format:
+  html:
+    theme: default
+---
+
+Malascen è stata una maga allieva di Merlino, specializzatasi nel bloccare i meccanismi magici. Se lo desideri, hai studiato  i suoi testi.
+
+Dissolvenza, Veto Arcano, Sigillo, sono solo alcune delle sue creazioni, e più in generale ha offerto la possibilità ai maghi di prepararsi contro le magie degli altri maghi. 
+
+Ottieni dunque la possibilità di _Counterare_ un incantesimo: quando un mago che abbia studiato le tecniche di Malascen si aspetta un certo incantesimo e ne ha studiato  il funzionamento, può bloccarlo come reazione. Perchè questo sia possiblie devi 
+- Sapere che quel mago conosce quell'incantesimo 
+- Conoscere lui stesso l'incantesimo o essersi preparato adeguatamente sull'incanto, studiandolo. 
+
+Se conosci "Fuochi Fatui" e hai "Flamèl", puoi anche creare delle _Perle vuote di Malascen_: inserisci in una perla di vetro il counter di uno specifico incantesimo non Celestiale. Chiunque abbia la perla può rompere la perla e bloccare l'incantesimio la prossima volta che questo viene castato da un mago ragionevolmente a vista.

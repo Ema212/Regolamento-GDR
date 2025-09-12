@@ -6,15 +6,15 @@ format:
     theme: default
 ---
 
-In antica memoria, praticamente una leggenda, esisteva si dice un regno abbastanza forte da essere stato in grado di resistere per molti secoli. Il re di questo regno, il [[Re Probo]], Fondò un ordine di cacciatori, perché riteneva che estirpando molti dei mali del mondo, di cui venne redatta una lista, almeno di quelli affrontabili dall'uomo, fosse possibile creare un mondo in cui vivere senza cataclismi che ogni 50 anni stravolgessero le città, e senza vivere alla mercé degli dei. 
+In antica memoria, praticamente una leggenda, esisteva si dice un regno abbastanza forte da essere stato in grado di resistere per molti secoli. Il re di questo regno, il Re Probo, Fondò un ordine di cacciatori, perché riteneva che estirpando molti dei mali del mondo, di cui venne redatta una lista, almeno di quelli affrontabili dall'uomo, fosse possibile creare un mondo in cui vivere senza cataclismi che ogni 50 anni stravolgessero le città, e senza vivere alla mercé degli dei. 
 
 Queste Creature sono ma non si limitano a:
 
-- [[Draghi]]: i draghi andrebbero sottomessi. Bisognerebbe sottonettere i dragonidi, ma visto che non è possibile è necessario contenere il più possibile la loro più grande minaccia, cioè i draghi più giovani. I draghi più giovani sono più grandi, quindi devono essere abbattuti (aggiungerò specifiche al riguardo) 
-- [[Elfi]]: bisogna instaurare con gli elfi un rapporto di collaborazione. Questo vedrà probabilmente dei conflitti, se necessario, ma con l'idea di arrivare a una tolleranza. Questo perché la longevità degli elfi è una risorsa che va sfruttata. 
-- I demoni (cioè i [[Tiefling]]) bisogna che questa razza si rassegni che passati i 200/300 anni non sono più umani, ma vanno uccisi. Purtroppo non è anche chiaro come eliminare del tutto la minaccia, per il momento si procede tappando i buchi 
-- Le [[Creature selvagge]]: le Creature selvaggie sono tutto quello che può venirti in mente alla voce Mostro (Basilisco, Lupo, Lupo mannaro, Viverne, Manticora, Grifone, serpente marino... Tutto qui dentro. Ciò con qui è impossibile comunicare propriamente, va eliminato) 
-- I [[Vampiri]]: nonostante siano in grado di creare delle collettività governandole, le sfruttano, illudendole di una vita. Pertanto, per quanto siano ragionevoli e capaci di emotività, vanno eliminati (a meno che non si rassegnino a mangiare i nostri vecchi a un passo dalla morte, cosa che pare si rifiutino di fare).
+- Draghi: i draghi andrebbero sottomessi. Bisognerebbe sottonettere i dragonidi, ma visto che non è possibile è necessario contenere il più possibile la loro più grande minaccia, cioè i draghi più giovani. I draghi più giovani sono più grandi, quindi devono essere abbattuti (aggiungerò specifiche al riguardo) 
+- Elfi: bisogna instaurare con gli elfi un rapporto di collaborazione. Questo vedrà probabilmente dei conflitti, se necessario, ma con l'idea di arrivare a una tolleranza. Questo perché la longevità degli elfi è una risorsa che va sfruttata. 
+- I demoni (cioè i Tiefling) bisogna che questa razza si rassegni che passati i 200/300 anni non sono più umani, ma vanno uccisi. Purtroppo non è anche chiaro come eliminare del tutto la minaccia, per il momento si procede tappando i buchi 
+- Le Creature selvagge: le Creature selvaggie sono tutto quello che può venirti in mente alla voce Mostro (Basilisco, Lupo, Lupo mannaro, Viverne, Manticora, Grifone, serpente marino... Tutto qui dentro. Ciò con qui è impossibile comunicare propriamente, va eliminato) 
+- I Vampiri: nonostante siano in grado di creare delle collettività governandole, le sfruttano, illudendole di una vita. Pertanto, per quanto siano ragionevoli e capaci di emotività, vanno eliminati (a meno che non si rassegnino a mangiare i nostri vecchi a un passo dalla morte, cosa che pare si rifiutino di fare).
 
 
 ## Codex Venator
@@ -46,12 +46,13 @@ Nel corso dei secoli i Venatores hanno creato molte basi qua e là
 - Rifugi segreti nei boschi 
 - Città che riconoscono l'ordine (per il tempo che durano le città, s'intende), si parla di locande che offrono rifugio gratuito, armerie eccetera 
 - Alcune alleanze con alcuni gruppi di elfi
+- Inoltre conosci le Vie Sicure per viaggiare tra alcune città più importanti
 
 ### Categorie dei Venatores
 
 #### Cacciatore di Vampiri
 
-Un cacciatore di [[Vampiri]] è addestrato nell'arte della caccia ai vampiri, alla quel dedica tutta la sua vita. 
+Un cacciatore di Vampiri è addestrato nell'arte della caccia ai vampiri, alla quel dedica tutta la sua vita. 
 
 Un cacciatore di vampiri possiede le seguenti abilità e strumenti:
 
@@ -76,7 +77,7 @@ Una cosa da ricordare dei draghi, è che questi mantengono le capacità che avev
 **Equipaggiamento** 
 
 - Giacca di pelle di drago (la prima vittima che hai fatto), ignifuga, armatura media. 
-- Dardi per balestra in [[Meteorite]] che hanno qualche porbabilità in più di perforare le scaglie dei draghi. 
+- Dardi per balestra in Meteorite che hanno qualche porbabilità in più di perforare le scaglie dei draghi. 
 - Arpione retrattile
 - Inoltre, hai l'addestramento di primo livello per l'utilizzo del sangue di drago grezzo. Qualsiasi classe costruirai, avrai a disposizione tre boccette iniettabili col seguente effetto: "Per 5 turni ottieni le seguenti caratteristiche 
 	- +30 punti ferita 
@@ -91,62 +92,13 @@ In realtà alcuni Venatores hanno anche sviluppato una tecnologia molto rischios
 
 #### Cacciatore di Tiefling   
 
-Ha in dotazione armi in [[Argento Bianco]]
+Ha in dotazione armi in Argento Bianco
 
 Conosci la [Lore dei demoni](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/demoni.html)
 Conosci anche l'[Elenco dei Diavoli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/demoni/elencodemoni.qmd)
 
 #### Cacciatore di Bestie
 
-In quanto Venator, hai diritto a sconti nelle erboristerie per l'acquisto dei veleni (non per l'infuione) del 20%. Questo sconto non è automaticamente estendibile al resto del party (prove per mentire, l'erborista proverà a stimare se tu stia comprando una quantità ragionevole di veleno)
+In quanto Venator, hai diritto a sconti nelle erboristerie per l'acquisto dei veleni (non per l'infusione) del 20%. Questo sconto non è automaticamente estendibile al resto del party (prove per mentire, l'erborista proverà a stimare se tu stia comprando una quantità ragionevole di veleno)
 
-Hai studiato il [Bestiario](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/creature.html). Questo ti dà la possibilità di 
-
-- Conoscere il comportamento delle bestie. Se incontri una bestia, puoi tirare per provare a decifrare il loro comportamento. 
-- Conoscere la collocazione del territorio. Se stai in un territorio per qualche ora, puoi capire chi è il predatore dominante con un tiro. Inoltre, il dm ti avvisa se il predatore cambia muovendoti in un'altra zona.
-
-##### Atteggiamenti 
-Gli atteggiamenti non sono specie specifici, spesso sono invece appresi, modellati sulla base di comportamenti di altri animali, o degli uomini intorno a loro. Come Venator sei in grado di identificarli
-
-- **Sentinella innocua**
-	- **Descrizione**: Sorvegli il territorio ma non attacca le creature  umanoidi se non provocata. Addirittura possibile avvicinarsi con la tecnica giusta fino ad accarezzarle. Così facendo sarebbe possbile anche parlare conla creatura.
-
-- **Dormienti**
-	- **Descrizione**: Innocua finché non viene svegliata, a quel punto è troppo tardi
-
-- **Lotta di misura**
-	- **Descrizione**: Cerca solo combattimenti frontali. Non attacca prede deboli o ferite, ma solo chi ritiene abbastanza forte. Se il suo contendente lotta un po' e poi perde o si arrende lo strapazza per dimostrare la sua superiorità e poi lo abandona. Se si riesce a sottometterlo invece diventerà obbediente nei confronti dell'avversario. 
-
-- **Difensore Furente**
-	- **Descrizione**: Attacca solo se provocata o se il suo territorio/cuccioli vengono minacciati. Una volta provocata, diventa estremamente pericolosa. Allontanarsi abbastanza se si tratta del territorio. Se si tratta dei cuccioli c'è poco da fare. Fingersi morti può facilmente essere un modo per salvarsi, la bestia ti porta a 1 pf svenuto.
-
-- **Capo Branco**
-	- **Descrizione**: Guida un branco e sfrutta la cooperazione. Spinge le prede in trappole, usa diversivi. Dividere il branco con esche o rumori. Eliminare i membri più deboli per indebolire la struttura. Mirare al capobranco.
-
-- **Predatore Paziente**
-	- **Descrizione**: Tende agguati silenziosi, si muove poco, osserva a lungo prima di attaccare. Colpisce con violenza, poi si ritira di nuovo. Tende ad attaccare prima i embri deboli di un gruppo. Forzare lo scontro aperto con rumore o fuoco. Attirarla fuori con esche vive o sanguinanti. 
-
-- **Segugio Ossessivo**
-	- **Descrizione**: Non smette di inseguire la preda finché non la elimina. Sembra ignorare il pericolo per completare la caccia. Usare la preda designata come esca. Tende a ignorare minacce laterali.
-
-- **Opportunista**
-	- **Descrizione**: Attacca solo se il vantaggio è certo. Evita i rischi e si nutre anche di carogne. Farla sentire al sicuro con apparenza di vulnerabilità. Appena si avvicina, colpirla con imboscate letali.
-
-- **Trappolatrice**
-	- **Descrizione**: Finge di essere ferita per fare abbassare la guardai agli assaltatori.
-
-- **Imitatrice**
-	- **Descrizione**: Imita i comportamenti di altri animali, tra le più difficili da identificare. Non abbassare la guardia nemmeno contro quello che si consoce
-
-- **Caccia Ludica**
-	- **Descrizione**: La bestia non caccia per fame, ma per divertimento. Gioca con la preda, la stanca, la tormenta. Fugge non appena il pericolo è reale. Mostrarsi aggressivi e pericolosi, fingere superiorità per spaventarla. Simulare ferite gravi per attirarla in trappola, poi colpire duramente. 
-
-- **Collezionista Macabro**
-	- **Descrizione**: Uccide per prendere trofei, o solo alcune parti della preda. Si ritira se ottiene quello che cerca. Lasciare falsi trofei o oggetti desiderabili per attirarla. Ingannarla sul fatto che la “preda” sia già stata predata.    
-
-- **Venedicativa**
-	- **Descrizione**: Ricorda chi l'ha ferita o minacciata. Segue a lungo, colpisce con precisione, e prende di mira specifici individui.
-
-- **Aggressivo instabile**
-	- **Descrizione**: Attacchi irrazionali e imprevedibili, motivati da una strana sete di Sangue. Potrebbe attaccare alleati o distruggere risorse senza motivo. Sfruttare la sua impulsività per portarlo su un campo di battaglia preparato. Evitare lo scontro se non si è preparati.
-
+Hai accesso al [Bestiario](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/bestiario.html)
