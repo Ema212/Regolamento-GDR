@@ -1,0 +1,38 @@
+---
+title: "De Clairen"
+search: false
+format:
+  html:
+    theme: default
+---
+
+I De Clairen sono un Clan, rampollo di una antica famiglia. Sono un'associazione di ladri, furfanti, mercanti, assassini, contrabbandieri. Segnati da un fortissimo senso di appartenenza al Clan. 
+
+Se vuoi, puoi ottenere l'abilità "Qualcuno mi deve un favore" (fino a tre volte per tutta la campagna, puoi chiedere di ottenere informazioni su una persona. Il giorno dopo, essendoti riconfrontato con le tue spie, puoi avere accesso a discrezione del DM a un certo numero di informazioni su detta persona: storia, debolezze, segreti... Queste informazioni possono essere prespecificate al DM.)
+
+Se vuoi, puoi appartenere al Clan. Se lo fai, la tua appartenenza al Clan deve essere sincera e partecipata. 
+
+Questo ti darà dei limiti e dei vantaggi.
+
+**Limiti**
+- Il DM può farti sapere che una serie di NPC sono parte del Clan, o sono associati o alleati del Clan. A meno di dimostrare un loro gravissimo tradimento, non puoi danneggiarli. (Il Clan ha occhi e orecchie ovunque, se vuoi provare a danneggiarlo molto alla lontana, starà a discrezione del DM se o meno il Clan si rivarrà su di te.)
+- Il DM può chiederti una missione da parte di un membro anziano del Clan. Finché non completi la missione, non puoi avere accesso ai vantaggi. 
+
+**Vantaggi**: 
+Ottieni il "Marchio del Clan": puoi accedere alla mente collettiva del Clan, una rete di informazioni e pensieri condivisa dal Clan in modo anonimo. Grazie al Marchio ottieni le seguenti
+- Ottieni "Rumors" in aggiunta alle tue abilità. 
+- Puoi utilizzare l'abilità "Qualcuno mi deve un favore" una volta a riposo lungo. 
+- Puoi richiedere la messa in protezione di una persona, una volta a riposo lungo. Questa persona sarà protetta al meglio delle capacità dei membri del Clan nelle vicinanze (Discrezione del DM)
+- Se ti trovi in presenza di un membro del Clan, il DM ti avvisa (devi starci interagendo). Anche l'altro ne sarà informato.
+    - Se questa persona è un venditore, per 1d6 volte nell'intera campagna, puoi ottenere qualcosa gratis.
+
+**Informazioni sul Clan**
+Un membro del Clan ti ha salvato e cresciuto quando eri piccolo, e ti ha cresciuto e allevato secondo il giuramento del Clan: 
+
+<div style="text-align: center;">
+    <em>Giuro di difenderti, mia sola famiglia. Tu, mia casa, mio tempio, mio segugio. Madre che mi ha nutrito, Padre che mi ha difeso, Sorella che mi consola, Fratello che mi consiglia. A te devo il mio sangue, a te lo rendo.</em>
+</div>
+
+Tu credi fermamente a questo giuramento. Hai trovato nel Clan la tua famiglia, e la tua famiglia ti ha aiutato a muoverti nel mondo, meglio di come ogni altra perssona là furi, che deve proteggersi da mille disgrazie, perché tu hai il Clan: una famiglia estesa in ogni punto della terra, che mantiene una segretezza assoluta. 
+
+I De Clairen che la gente conosce sono pochi, i pochi che esponiamo al mondo, i più esperti. 

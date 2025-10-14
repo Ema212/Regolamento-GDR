@@ -338,7 +338,7 @@ Vengono scelte 3 abilità speciali. Abilità che meritano una posizione apposita
 
 -   *Percezione magico* (occorre fornire una giustificazione di backgorund convincente per averla) la [percezione del magico](/capitoli/Regole/meccaniche_nascoste/percezione_magico.html) consente a una persona di vedere se attorno a lui si muovono fonti di magia. 
 
--   *Calmare animi*
+-   *Calmare animi*: puoi provare a calmare una persona o un gruppo di personee in una situazione agitata. Il DM considererà il tiro una indicazione di quanto le tue parole hanno uon effetto calmante, ma non direttamente un'indicazione di successo o fallimento.
 
 -   *Parlare animali* (NB: questa capacità richiede un tiro, a meno che non sia altrimenti specificato)
 
@@ -355,6 +355,8 @@ Vengono scelte 3 abilità speciali. Abilità che meritano una posizione apposita
 -   *Marinaio*: ottieni +4 in tutte quelle prove che riguardano l’attività in mare, dal veleggiare al nuotare.
 
 -   *Condottiero*: (Devi possedere *Stratega,* o almeno 4 *Manovre*) ottieni l’abilità speciale *Guidare +4, con vantaggio*: al posto di un tiro di Carisma, quando cerchi di convincere la gente a combattere, o cerchi di guidare il Caos di una battaglia, puoi  utilizzare Guidare. (Il Contesto dev’essere però quello di una battaglia) 
+
+-   *Lavorare carcasse*: se sei davanti a una creatura da cui si possono estrarre delle componenti utili, puoi estrarle.
 
 -   *Rumors*: essendo legato al contesto  malavitoso o suburbano della città, ottieni ogni giorno 1d3 informazioni non note sulla città dal DM.
 
@@ -469,13 +471,12 @@ Iniziativa: 0 (più quanto eveulamente concesso dalle capacità)
 
 Competenze - Armi - Armature
 
-*Abilità*: (segnare 16x +1, 8x-1) Dovete distribuire i punti statistica come meglio credete. Aggiungete 16 punti positivi (che valgono +1) e 8 punti negativi (che valgono -1 ciascuno) Ognuna di queste abilità non può scendere sotto -3 né salire sopra +6 (se non diversamente espresso dalle regole). Dove non avete messo niente avete zero.
+*Abilità*: (segnare 15x +1, 8x-1) Dovete distribuire i punti statistica come meglio credete. Aggiungete 16 punti positivi (che valgono +1) e 8 punti negativi (che valgono -1 ciascuno) Ognuna di queste abilità non può scendere sotto -3 né salire sopra +6 (se non diversamente espresso dalle regole). Dove non avete messo niente avete zero.
 
 -   Arrampicarsi: 0
 -   Furtività: 0
 -   Nascondersi: 0
 -   Rapidità di mano: 0
--   Percepire intenzioni: 0
 -   Spaventare-Intimidire: 0
 -   Seguire tracce: 0
 -   Origliare: 0

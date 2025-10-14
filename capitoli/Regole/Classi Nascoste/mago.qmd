@@ -475,13 +475,12 @@ Capacità: ottiene solo le magie.
 
 Lingue: conosci comune e Arcano
 
-Abilità: (segnare 16x +1, 8x-1) (limite min. -4, limite max. +6)
+Abilità: (segnare 15x +1, 8x-1) (limite min. -4, limite max. +6)
 
 - Arrampicarsi
 - Furtività
 - Nascondersi
 - Rapidità di mano
-- Percepire intenzioni
 - Spaventare-intimidire
 - Seguire tracce
 - Origliare

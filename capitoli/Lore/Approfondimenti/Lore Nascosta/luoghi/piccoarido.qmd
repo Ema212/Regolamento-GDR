@@ -1,0 +1,52 @@
+---
+title: "Picco Arido"
+format:
+  html:
+    theme: default
+---
+
+Una montagna alta 6000 metri, asssolutamente impervia, dalle impossibili condizioni climatiche,  dove non c'è niente, non una risorsa, non un materiale utile.  
+
+Ed è dove ha luogo il punto più alto del *Cammino dell'Acciaio*
+
+# Cammino dell'acciaio
+
+Freyma è la dea che incarna la bellezza crudele dell’aggressività. Il duello non è spinto da motivazioni esterne come la fame, ma dall'estasi del confronto, dove la morte è solo un pretesto al desiderio di morte stesso. Gode della via che conduce  alla morte. 
+
+Per chi venera la dea, sviluppare l'arte del combattimento significa venerare la dea, e combattere ad alti livelli  tecnici significa celebrarla. 
+
+Molto tempo fa, un grande spadaccino sfidò la dea Freyma a duello, che si  armò di spada per combatterlo. Il duello fu talmente meraviglioso che la dea gli diede il  Titolo Leggendario di "Dio Marziale." Il Dio marziale continuò a esplorare il mondo per affinare la sua arte, e celebrare la dea Freyma. 
+
+Un giorno, egli incontrò qualcuno che lo sfidò, contendendo il titolo di dio marziale. E quel qualcuno vinse. Uccise il precedente Dio Marziale, diventandolo a sua volta. Nel tempo si istituì una tradizione. 
+
+Una volta all'anno, il dio marziale riposa sul Picco Arido per un mese nel suo tempio. In quel periodo è possibile sfidarlo in due modi:
+- Duello di Superiorità: se non si viene uccisi e si trionfa, si diventa il  prossimo Dio  Marziale. 
+- Duello di Rivelazione: se nel combattimento il Dio Marziale riconosce una superiorità o una tecnica finora da lui mai incontrata di alto valore, allora si viene riconosciuti come "Maestro Marziale". 
+
+I Maestri Marziali fondano solitamente dei templi nascosti in giro per il mondo, spadaccini solitari che venerano la dea migliroando  e affinando  la propria arte. Inoltre, sono gli unici a sapere la posizione del Picco Arido, l'identità del Dio Marziale e il periodo  in cui si troverà sul Picco. L'interezza del _Cammino dell'Acciaio_
+
+## Maestri Marziali 
+
+Un maestro marziale ha tipicamente passato la vita ad affinare una tecnica, migliorandola. Sono quasi tutti segreti, e non per forza hanno un templio. Per poter imparare le loro tecniche  occorre trovarli e spesso non è na cosa facile. 
+
+Ne son però  noti  tre, a quelli che si sono messi a indagare:  
+- Viala, il maestro della via del Ferro  Brumo, che si dice sia nascosto da qualche parte nelle terre dei Laghi
+- Leia, la maestra della via del Ferro Fluido, nascosta da qualche parte verso Keravena
+- Li-Shang, il maestro del Ferro Artico, che si dice sia nascosto da qualche parte vicino a  Istrina
+  - Si dice che questi tre maestri abbiano insegnato allo stesso spadaccino, Nadàr, che abbia appreso tutte e tre le arti. E che fosse un portatore di pace. Un giorno però egli apprese della possibilità di affrontare il Dio Marziale, e morì nel tentativo.
+
+Di tutti gli altri, che sono probabilmente tantissimi, non è dato sapere altro.
+
+# Freymar
+
+I Freymar sono comparsi sul mondo quando la dea ha per la pripma volta assunto forma umana, per insegnare loro un senso della lotta migliore. Così i mortali generarono una linea genealogica fiera e recondita, i Freymar. Quando il sangnue contaminò  rami bastardi, il suo sangue si perse nel mondo. Ma se qualcuno dimostra di avere lo stesso amore per la battaglia e la stessa forza della dea, il sangue  impuro si riscveglia dentro di loro, dando llluogo alla benedizione dei Freymar. 
+
+Un NPC può diventare un Freymare
+
+**Condizioni**: Per essere considerati Freymar, in una sessione un png deve effettuare un minimo di 3 venti naturale e deve avere effettuato almeno 4 tiri con successo, di cui 2 uno dietro l'altro
+
+Una volta scopertosi Freymar , un png ha diritto alle seguenti abilità (Il DM può decidere di diminuire i bonus qui riportati se il Freymar in questione non ha motivo di essere esageratamente forte). Un freymar ha per definizione +1 a tutte le stats, e +4 punti dove vuole distribuiti e può eccedere il limite di statica quanto vuole. Ha inoltre una serie di capacità 
+
+- Abilità "Eroico": 5 volte a riposo breve può riprovare un tiro 
+- Abilità "Invinto": sceglie tre abilità che ha dai tiri di abilità. Puo sostituire un tiro che fa in una di quelle abilita con 20 naturale una volta a riposo breve 
+- Abilità "fiero": i tiri effettuati da un Fraymar con risultato 1 vengono ritirati.

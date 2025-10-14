@@ -6,9 +6,9 @@ format:
     theme: default
 ---
 
-## Abilità Leggendarie
+## Manovre Speciali
 
-Autorità 5
+(Autorità 5) Tecnicamente non consdierate magia.
 
 #### Danza della spia
 
@@ -20,13 +20,23 @@ ottieni altre 2 azioni bonus.
 
 ### Di Spada
 
-#### Dove credi di andare
+#### Ferro Bruma
 
 L'intero campo di battaglia è alla tua portata. Puoi usare il tuo movimento per muoverti di quanti metri vuoi se intendi raggiungere un nemico entro il campo di battaglia. 
 
 Non offri attacco di opportunità. 
 
 In altre parole, è come se tu fossi in mischia con tutti ma gli altri non fossero tutti in mischia con te.
+
+#### Ferro Fluido
+
+Puoi utilizzare il tuo movimento per colpire una volta ciascuno ogni nemico che puoi raggiungere con il movimento. 
+
+Non offri attacco di opportunità.
+
+#### Ferro Artico
+
+Se il nemico para il tiro a schivare, il suo movimento è azzerato fino all'inizio del suo prossimo turno.
 
 #### Fendente vitale di Helemon
 
@@ -51,7 +61,7 @@ Quando combatti contro qualcuno la tua velkcoità è sovrechiante: il tuo avvers
 
 #### Maestria 
 
-Annulli tutte le manovre avversarie (e abilità di spada, tranne Tattico)
+Annulli tutte le manovre avversarie (e abilità di spada - quindi anche tutto quello che si effettua con azione azione bonus reazione legate al combattimento con spada - , tranne Tattico)
 	Non puoi fare 1 nat 
 
 #### Mancino
@@ -74,7 +84,7 @@ _Combo_: questa manovra non comba con nessun'altra abilità.
 
 #### Planare 
 
-Non subisci danno da caduta. Hai un minimo dio movimento mentre sei in aria. 
+Non subisci danno da caduta. Hai un minimo di movimento mentre sei in aria. 
 
 Se colpisci atterrando aggiungi intelligenza ai danni, e consideralo critico(solo il primo). (Devi comunque tirare) 
 
@@ -135,6 +145,7 @@ Come aura grema ma senza CD. Bisogna valutare la reazione dei pg alla paura in m
 ## Marchi
 
 4.2
+I Marchi sono capacità magiche che vengono imposte nella persona, ma che la persona da quel momento possiede naturalmente. 
 
 #### Occhio inquisitore
 
@@ -204,25 +215,22 @@ Puoi tenere d'occhio contemporaneamente persone quante puoi vederne a 360 gradi 
 
 Tattico è una capacità che consente a una personalità di un antico e saggio guerriero di parlare con te, rendendoti partecipe dei suoi pensieri impliciti. 
 
-Il guerriero può guidarti in situazioni che ti i diano un vantaggio tattico, suggeriscano il momento esatto in cui attaccare, o di prendere un nemico finché è debole. Consente di rilevare le debolezze del nemico, o consente di capire in quale situazione sul terreno si sarà più in vantaggio tatticamente.
+- Il guerriero può guidarti in situazioni che ti i diano un vantaggio tattico, suggeriscano il momento esatto in cui attaccare, o di prendere un nemico finché è debole. Consente di rilevare le debolezze del nemico, o consente di capire in quale situazione sul terreno si sarà più in vantaggio tatticamente. Il guerriero che ti parla ha l'esperienza per fare una stima della forza dell'avversario, e per capire se sia il caso di muovere in ritirata o meno, e con che possibilità farcela grossomodo. (Per quanto riguarda le capacità di battaglia) Questa capacità può anche essere richiamata dal PG per ottenere informazioni su cosa fare, ma il momento dev'essere chiave, non un semplice momento in cui il PG è nella merda, o la spada potrebbe rispondere "la battaglia è stata perduta quattro mosse fa, ora tenya il tutto per tutto".
 
-Il guerriero che ti parla ha l'esperienza per fare una stima della forza dell'avversario, e per capire se sia il caso di muovere in ritirata o meno, e con che possibilità farcela grossomodo. (Per quanto riguarda le capacità di battaglia)
+- Se non avevi Stratega lo ottieni. Inoltre, nessuno che non abbia tattico può effettuare stratega su di te.
 
-Questa capacità può anche essere richiamata dal PG per ottenere informazioni su cosa fare, ma il momento dev'essere chiave, non un semplice momento in cui il PG è nella merda, o la spada potrebbe rispondere "la battaglia è stata perduta quattro mosse fa, ora tenya il tutto per tutto".
+- Se lo avevi già, puoi "cercare il 20". Se si osserva un nemico combattere indisturbato per 3 turni di fila, rimanendo fermi, si può tirare Stratega a ogni turno. Se nessuna di quelle volte si fa da 1 a 4, allora si ottiene un Attacco-Ad-Hoc. Con questo attacco il PG ha diritto a effettuare 1d6 attacchi con una mossa sola che vengano considerati dal dm come un 20 naturale. 
 
-Se non avevi Stratega lo ottieni. 
-
-Se lo avevi già, puoi "cercare il 20". Se si osserva un nemico combattere indisturbato per 4 turni di fila, rimanendo fermi, si può tirare Stratega a ogni turno. Se nessuna di quelle volte si fa da 1 a 4, allora si ottiene un Attacco-Ad-Hoc. Con questo attacco il PG ha diritto a effettuare 1d6 attacchi con una mossa sola che vengano considerati dal dm come un 20 naturale. 
-
-Se tirando Stratega ottieni un 20, allora pari automaticamente tutti gli attacchi del nemico, senza tirare (a meno che questi non faccia 20, o a meno che non ricadano nella categoria del DM "Manovre speciali".)
+- Se tirando Stratega ottieni un 20, allora pari automaticamente tutti gli attacchi del nemico, senza tirare (a meno che questi non faccia 20, o a meno che non ricadano nella categoria del DM "Manovre speciali".)
 
 ## Titolo leggendario
 
 Autorità 2.4
+Un Titolo Leggendario è una capacità che viene ottenuta solo da una persona nello stesso momento in tutto il mondo.
 
 #### Dio marziale
 
-Questo power up è ottenibile solo sostenendo le prove di [[Loriana]]
+Questo power up è ottenibile solo sostenendo le prove del Cammino del Ferro.
 
 Un dio Marziale o una Dea Marziale
 - diviene in grado di convertire tutti i suoi tiri di combattimento dal 2 al 12 in 20 nat. 
@@ -231,11 +239,12 @@ Un dio Marziale o una Dea Marziale
 
 #### Stemma del Re
 
-Lo stemma dei Re dà la possibilità di ottenere la cosidetta Autorità su qualcosa. Viene ottenuta solo dopo che si fa qualcosa di lodevole per ottenerla. La si ottiene quando il dio [[Dèi#Heluvian|Heluvian]] ritiene che l'impresa compiuta sia degna di nota di Regnante.  
+Lo stemma dei Re dà la possibilità di ottenere la cosidetta Autorità su qualcosa. Viene ottenuta solo dopo che si fa qualcosa di lodevole per ottenerla. La si ottiene quando il dio Heluvian ritiene che l'impresa compiuta sia degna di nota di Regnante.  
 
 I Re Stemmati sono i seguenti 
 - Re Mercenario 
 - Re dei Mari
 - Re degli Elfi 
 - Re dei Draghi 
+- Re Pirata
 
