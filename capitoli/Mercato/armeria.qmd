@@ -11,13 +11,13 @@ format:
 | ---- | ---- | ---- | ---- |
 | Coltello| 3 taglienti | - | 5k  |
 | Spada Corta  | 6 taglienti | Possibilità di effettuare Disarmo e Destreggiarsi (se possedute)| 15k  |
-| Ascia da guerra | 4 taglienti + Forza | Impugnabile con competenza spada corta  | 25 k |
+| Ascia da guerra | 3 taglienti + Forza | Impugnabile con competenza spada corta  | 25 k |
 | Martello a una mano | 5 contundenti | Se il possessore ha almeno 3 a Forza ottiene +1 al danno. | 16k                  |
 | Spada da lato | 6 taglienti | Possibilità di effettuare disarmo e Destreggiarsi (se possedute)<br><br>Se tira in difesa ottiene contrattacco (non critico) anche con 19.<br><br>Ha vantaggio ai tiri di contrattacco e Disingaggio | 30K  |
 | Spada lunga a una mano | 8 taglienti | Possibilità di effettuare disarmo e Destreggiarsi (se possedute) | 20k  |
 | Spada lunga _due mani_ | 9 taglienti | Possibilità di effettuare disarmo (se si possiede la Manovra) con vantaggio, o Destreggiarsi.<br><br>Aumento al tiro per schivare di 3, se non ingaggia contro un’altra arma a _due mani_.<br><br>Critico con 18, 19 o 20 se il  possessore ha 6 a Destrezza. | 35k                  |
-| Ascia bipenne _due mani_    | 9 taglienti/<br>+ Forza | - | 50k |
-| Martello pesante _due mani_ | 7 Contundenti | Richiede 1 di Forza.<br><br>Se il possessore ha almeno 2 a Forza ottiene +1 al danno.<br><br>Critico con 19 o 20 se il possessore ha almeno 3 Forza.<br><br>Colpire 3 volte un nemico con quest’arma genera stunn (al prossimo turno l’avversario non effettua Azione) | 30k                  |
+| Ascia bipenne _due mani_    | 8 taglienti/<br>+ Forza | - | 50k |
+| Martello pesante _due mani_ | 7 Contundenti | Richiede 1 di Forza.<br><br>Critico con 19 o 20 se il possessore ha almeno 3 Forza.<br><br> Se colpisci con quest'arma, al posto di fare danno puoi genera stunn (al prossimo turno l’avversario non effettua Azione) | 30k                  |
 | Lancia (_Due mani)_ | 10 perforanti | Richiede 1 Forza, ottiene +3 al tiro schivare contro tutte le armi in mischia. Se contrattacchi con parry, o attacchi con attacco furtivo o attacco inaspettato, critti con 18, 19, 20. | 16k                  |
 
 ## **Armi a Distanza**
