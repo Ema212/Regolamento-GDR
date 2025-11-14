@@ -40,7 +40,7 @@
     "href": "capitoli/Regole/creazione.html#guerriere",
     "title": "Creazione Del Personaggio",
     "section": "Guerriere",
-    "text": "Guerriere\n\nPronto alla battaglia: Car 13 ottieni tutte le competenze e +1 a Forza. (+1 Iniziativa)\n\nHORROR: + 1 ai tiri di equilibrio psichico \n\nSempre Reattivo: Car 3 ha a disposizione altre 6 reazioni al minuto.\nStratega: Car 4 può osservare una creatura umanoide con un’azione bonus, dopo di che tira un d20. A seconda del risultato ottiene le seguenti informazioni (può ritentare il tiro e considerare il risultato più alto una volta per riposo breve. Questi effetti vengono mantenuti a vita, o comunque per anni, finchè la creatura rimane la stessa o non cambia drasticamente il suo modo di combattere):\n\nfino a 4 niente\n6-8 sa il suo punteggio di Destrezza e Forza\n9-11 ha +1(pre-armatura) danno contro di lui e vantaggio per tutte le manovre contro di lui.\n12-13 ha vantaggio a due colpi a sua scelta contro di lui ed ha vantaggio a schivare i suoi colpi\n14-15 sa i suoi pf, inoltre infligge 1 altro danno aggiuntivo (pre-armatura) a tutti i colpi\n16-17-18-19 sa le sue capacità di classe in fight. Può diventare  immune alle seguenti capacità: elusione, Attacco furtivo, frenesia senza sosta, colpo possente. Inoltre, non può subire critici da quella persona.\n20  con un venti capisce perfettamente il suo stile di combattimento ed ha +3 a tutti i tiri contro  di lui (di qualsiasi tipo). (+1 Iniziativa)",
+    "text": "Guerriere\n\nPronto alla battaglia: Car 12 ottieni tutte le competenze e +1 a Forza. (+1 Iniziativa)\n\nHORROR: + 1 ai tiri di equilibrio psichico \n\nSempre Reattivo: Car 3 ha a disposizione altre 6 reazioni al minuto.\nStratega: Car 4 può osservare una creatura umanoide con un’azione bonus, dopo di che tira Intelligenza. A seconda del risultato ottiene le seguenti informazioni (può ritentare il tiro e considerare il risultato più alto una volta per riposo breve. Questi effetti vengono mantenuti a vita, o comunque per anni, finchè la creatura rimane la stessa o non cambia drasticamente il suo modo di combattere):\n\nfino a 4 niente\n6-8 sa il suo punteggio di Destrezza e Forza\n9-11 ha +1(pre-armatura) danno contro di lui e vantaggio per tutte le manovre contro di lui.\n12-13 ha vantaggio a due colpi a sua scelta contro di lui ed ha vantaggio a schivare i suoi colpi\n14-15 sa i suoi pf, inoltre infligge 1 altro danno aggiuntivo (pre-armatura) a tutti i colpi\n16-17-18-19 sa le sue capacità di classe in fight. Può diventare  immune alle seguenti capacità: elusione, Attacco furtivo, frenesia senza sosta, colpo possente. Inoltre, non può subire critici da quella persona.\n20  con un venti capisce perfettamente il suo stile di combattimento ed ha +3 a tutti i tiri contro  di lui (di qualsiasi tipo). (+1 Iniziativa)",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -64,7 +64,7 @@
     "href": "capitoli/Regole/creazione.html#investigative",
     "title": "Creazione Del Personaggio",
     "section": "Investigative",
-    "text": "Investigative\n- Sensibile alla verità: Car 2 Vantaggio alle prove di Intelligenza contro inganno. Se vince un tiro contro inganno contro una creatura, ha successo automatico in questo tiro contro quella creatura per il resto della giornata.\n\nInvestigare: Car 2 Ottiene l’abilità Investigare (cioè ricerca di indizi) con vantaggio\n\nHORROR: Non puoi comrpare questa capacità",
+    "text": "Investigative\n- Sensibile alla verità: Car 2 Se vince un tiro contro inganno contro una creatura, ha successo automatico in questo tiro contro quella creatura per il resto della giornata.\n\nSherlock: Car 2 Ottiene l’abilità speciale Investigare (puoi tirare su Intelligenza per cercare indizi, ricostruire avvenimenti legati a un luogo o a un fatto di cui la gente normale non si accorgerebbe. )\n\nHORROR: Non puoi comrpare questa capacità",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -76,7 +76,7 @@
     "href": "capitoli/Regole/creazione.html#barbariche",
     "title": "Creazione Del Personaggio",
     "section": "Barbariche",
-    "text": "Barbariche\n\nFrenesia senza sosta: Car 15 Ottiene +1 a Forza. Se colpisce può poi fare un tiro di Forza (se la creatura non è di taglia grande): se passa contro l’avversario lo può respingere di metri fino al suo punteggio di Forza x 3, e seguire il nemico, e può provare a colpirlo nuovamente. Può attivare questa capacità un numero di volte pari a tre volte il suo modificatore di  Forza a ogni riposo lungo, e fino a 2 volte per ogni turno. (+1 Iniziativa)\nForte: Car 5 Vantaggio alle prove che scalano su Forza",
+    "text": "Barbariche\n\nIra:Car 8 è una condizione di rabbia amplificata dalla magia che uno trattiene nel sangue, che uno sappia di averla o meno, che uno ritenga che sia Forza propria o degli antenati, che uno ci abbia costruito una cultura sopra o che ne ignori l’esistenza. Ogni sessione hai 8 turni di ira (puoi accenderli e spegnerli come vuoi, con un’azione bonus). Mentre sei in Ira raddoppia il tuo punteggio di Forza (anche oltre il limite). (+1 Iniziativa)",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -88,7 +88,7 @@
     "href": "capitoli/Regole/creazione.html#granpasso",
     "title": "Creazione Del Personaggio",
     "section": "Granpasso",
-    "text": "Granpasso\n\nOcchio di Falco: Car 3 Ottiene vantaggio alle prove di percezione e seguire tracce, il suo modificatore è +7.\nRicostruzione: Car 9 osservando un terreno può capire quante creature e quali siano passate, approssimativamente quanto tempo prima e in che direzione siano andate. A seconda del risultato otterrà comunque delle informazioni. (Prova D20).\n\nSURVIVAL (Ottiene Vantaggio alle prove di \"Caccia Grossa\") \n\nMarcare: Car 7 se colpisce una creatura può marcarla con un’azione bonus. Sa sempre dove si trova la creatura marcata ed ha vantaggio a colpire quella creatura. Solo una creatura per volta può essere marcata. La marcatura termina quando lo decide il personaggio.",
+    "text": "Granpasso\n\nOcchio di Falco: Car 3 Ottiene vantaggio alle prove di percezione e seguire tracce, il suo modificatore è +7.\nRicostruzione: Car 9 osservando un terreno tira Intelligenza: può capire quante creature e quali siano passate, approssimativamente quanto tempo prima e in che direzione siano andate. A seconda del risultato otterrà comunque delle informazioni.\n\nSURVIVAL (Ottiene Vantaggio alle prove di \"Caccia Grossa\") \n\nMarcare: Car 7 se colpisce una creatura può marcarla con un’azione bonus. Sa sempre dove si trova la creatura marcata ed ha vantaggio a colpire quella creatura. Solo una creatura per volta può essere marcata. La marcatura termina quando lo decide il personaggio.",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -112,7 +112,7 @@
     "href": "capitoli/Regole/creazione.html#artificiere",
     "title": "Creazione Del Personaggio",
     "section": "Artificiere",
-    "text": "Artificiere\n\nArmi da fuoco: Car 5. Avendo competenza, può usare le [[Armi da fuoco]]. Con un’azione può sparare tirando su Intelligenza. La CD del colpo dipende dal tipo di bersaglio\n\n(Bersaglio fermo e libero: CD 7\nBersaglio fermo ingaggiato: CD 9 (a meno di particolari condizioni o 1nat, il PG non colpisce un alleato involontariamente)\nBersaglio in movimento: CD 10\nBersaglio a mezza copertura: CD 13\nBersaglio a copertura: CD: 17\n\nCD aggiuntiva varia a seconda dell’arma al variare della distanza.\nSe il PG ha 6 a Intelligenza ottiene anche i seguenti benefici\n\npuò ricaricare con azione bonus\nPuò colpire con pistola con azione bonus dandosi svantaggio al tiro.",
+    "text": "Artificiere\n\nArmi da fuoco: Car 5. Avendo competenza, può usare le Armi da fuoco. Con un’azione può sparare tirando su Intelligenza. La CD del colpo dipende dal tipo di bersaglio\n\n(Bersaglio fermo e libero: CD 7\nBersaglio fermo ingaggiato: CD 9 (a meno di particolari condizioni o 1nat, il PG non colpisce un alleato involontariamente)\nBersaglio in movimento: CD 10\nBersaglio a mezza copertura: CD 13\nBersaglio a copertura: CD: 17\n\nCD aggiuntiva varia a seconda dell’arma al variare della distanza.\nSe il PG ha 6 a Intelligenza ottiene anche i seguenti benefici\n\npuò ricaricare con azione bonus\nPuò colpire con pistola con azione bonus dandosi svantaggio al tiro.",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -148,7 +148,7 @@
     "href": "capitoli/Regole/creazione.html#di-battaglia",
     "title": "Creazione Del Personaggio",
     "section": "Di battaglia",
-    "text": "Di battaglia\n\nAllerta: 10 quando è soggetto ad un attacco a sorpresa, tira un d20, se il risultato è pari o superiore a 12, annulla l’effetto sorpresa per tutto il party. (Se il giocatore si dimentica di questa capacità si procede comunque) (+1 Iniziativa)\nReattivo: 3 Hai altre 2 reazioni a fight.\nColpo possente: 8 ottiene +2 a tutti i danni (pre-armatura) che infligge in mischia se ha almeno 3 a Forza, +1 con almeno 2.\nDual di coltelli: 5 può andare in dual di coltelli. Colpisce con entrambi i coltelli in un’azione, oppure può colpire con un coltello con un’azione bonus.\nTemporeggiare e Prevenire: 6 può decidere di spostare il suo turno a ogni round, di volta in volta.",
+    "text": "Di battaglia\n\nAllerta: 10 quando è soggetto ad un attacco a sorpresa, tira Intelligenza, se il risultato è pari o superiore a 12, annulla l’effetto sorpresa per tutto il party. (Se il giocatore si dimentica di questa capacità si procede comunque) (+1 Iniziativa)\nReattivo: 3 Hai altre 2 reazioni a fight.\nDual di coltelli: 5 può andare in dual di coltelli. Colpisce con entrambi i coltelli in un’azione, oppure può colpire con un coltello con un’azione bonus.\nTemporeggiare e Prevenire: 6 può decidere di spostare il suo turno a ogni round, di volta in volta.",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -160,7 +160,7 @@
     "href": "capitoli/Regole/creazione.html#sociali",
     "title": "Creazione Del Personaggio",
     "section": "Sociali",
-    "text": "Sociali\n\nAvvezzo alle menzogne: 4 nei tiri di Intelligenza contro inganno ottiene +3.\nBugiardo 6 nei tiri di Carisma per Ingannare ottieni +3.\nPersuasivo 4 nei tiri di Carisma per Persuadere ottieni +4.\n\nSe compri anche “Bugiardo” persuasivo costa 2\n\nEmpatico: 7 Vantaggio alle prove di Percepire Intenzioni\nCanto del coraggio: 25 se sei ingaggiato in mischia, ogni alleato che ti vede e combatte con te in mischia può aggiungere il tuo modificatore di Carisma al danno (pre-armatura) che infligge (nota, in caso di moltiplicazione dei danni, avviene prima questa somma,  e poi la  moltiplicazione.)\nPasso di velluto: 8 Ottiene +3 a Furtività, anche oltre il limite di 6.",
+    "text": "Sociali\n\nAvvezzo alle menzogne: 4 Hai vantaggio ai tiri di Intelligenza contro menzogna.\nBugiardo: 6 nei tiri di Carisma per Ingannare ottieni vantaggio.\nPersuasivo: 4 nei tiri di Carisma per Persuadere ottieni vantaggio.\n\nSe compri anche “Bugiardo” persuasivo costa 2\n\nCanto del coraggio: 25 se sei ingaggiato in mischia, ogni alleato che ti vede e combatte con te in mischia può aggiungere il tuo modificatore di Carisma al danno (pre-armatura) che infligge (nota, in caso di moltiplicazione dei danni, avviene prima questa somma,  e poi la  moltiplicazione.)\nPasso di velluto: 5 Ottiene +3 a Furtività e Nascondersi, anche oltre il limite di 6.\nRumors: 8 essendo legato al contesto  malavitoso o suburbano della città, ottieni ogni giorno 1d3 informazioni non note sulla città dal DM.",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -184,7 +184,7 @@
     "href": "capitoli/Regole/creazione.html#anime",
     "title": "Creazione Del Personaggio",
     "section": "Anime",
-    "text": "Anime\n\nSfuggente: 15 può usare la sua azione bonus per nascondersi o scattare o disingaggiare.\nVeloce: 3 ottiene +3 metri di movimento.\nPrestante: 4 +3 metri di movimento e +2 metri di salto il lungo\nAgile: 9 ha vantaggio alle prove di Destrezza diverse da colpire o schivare, inoltre guadagna movimento pari al suo punteggio di Intelligenza. (+1 Iniziativa)\nKung-Fuiciko: 4 può saltare in alto di 3 metri, 4 metri in lungo e tollera una caduta di 4 metri. (Si contano i danni da caduta da lì in poi, come se una persona normale saltasse da 1 metro quando lui ne salta da 3.)\nFocalcolpo: 6 Il colpo senza mani infligge 2, e può colpire una volta con l’azione e una volta con azione bonus. I danni sono considerati contundenti.",
+    "text": "Anime\n\nSfuggente: 15 può usare la sua azione bonus per nascondersi o scattare o disingaggiare.\nVeloce: 3 ottiene +5 metri di movimento.\nPrestante: 4 +5 metri di movimento e +2 metri di salto il lungo\nAgile: 9 ha vantaggio alle prove di Destrezza diverse da colpire o schivare, inoltre guadagna movimento pari al suo punteggio di Intelligenza. (+1 Iniziativa)\nKung-Fuiciko: 4 può saltare in alto di 3 metri, 4 metri in lungo e tollera una caduta di 4 metri. (Si contano i danni da caduta da lì in poi, come se una persona normale saltasse da 1 metro quando lui ne salta da 3.)\nFocalcolpo: 6 Il colpo senza mani infligge 2, e può colpire una volta con l’azione e una volta con azione bonus. I danni sono considerati contundenti.",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -204,11 +204,59 @@
     ]
   },
   {
-    "objectID": "capitoli/Regole/creazione.html#ira",
-    "href": "capitoli/Regole/creazione.html#ira",
+    "objectID": "capitoli/Regole/creazione.html#legate-allira",
+    "href": "capitoli/Regole/creazione.html#legate-allira",
     "title": "Creazione Del Personaggio",
-    "section": "Ira:",
-    "text": "Ira:\nQuando compri una delle seguenti abilità sblocchi l’Ira\nL’Ira è una condizione di rabbia amplificata dalla magia che uno trattiene nel sangue, che uno sappia di averla o meno, che uno ritenga che sia Forza propria o degli antenati, che uno ci abbia costruito una cultura sopra o che ne ignori l’esistenza. Chiunque acquisti una capacità derivata dall’Ira guadagna automaticamente la meccanica dell’Ira, e può usare le abilità derivate dall’Ira solo nei tempi dell’Ira.\nHai 2 usi di ira a riposo breve. L’ira dura 1 minuto. Non è possibile entrare in Ira se si indossano armature pesanti. Mentre è in Ira ottiene svantaggio a tutti i tiri di Intelligenza. Mentre sei in Ira, ottieni quelli che accquisti dei seguenti benefici.\n\nDuro a morire: 12 Quando scende fino a -15 pf una volta per ira, i suoi pf vengono ristabiliti a 1 e l’ira termina. Finché non arriva a-10 va avanti a combattere. Tira un dado su Forza con CD10, se non lo passa sviene.\nPelle dura: 8 sottrae a ogni attacco fisico che riceve il suo punteggio di Forza. (non può indossare armature)\nPasso noncurante: 7 ignora le difficoltà del terreno, o altre condizioni generate da effetti che dovrebbero rallentarti o bloccarti, come magia, come il passo rallentato da una magia di ghiaccio di un mago, o così via.\nColpo ostinato: 10 Fino a 4 volte durante l’ira, se manca un attacco può ritentare quello stesso attacco\nEsagerato: 10 può impugnare una lancia a due mani con una (3 a forza richiesto) ma non può andare in dual in nessun modo.",
+    "section": "Legate all’Ira",
+    "text": "Legate all’Ira\n\nDuro a morire: 12 Se sei in ira, puoi scendere fino a - (2 per Forza) pf una volta per ira, i suoi pf vengono ristabiliti a 1 e l’ira termina.\nPelle dura: 8 sottrae a ogni attacco fisico che riceve il suo punteggio di Forza. (non può indossare armature di nessun tipo)\nPasso noncurante: 7 ignora le difficoltà del terreno, o altre condizioni generate da effetti che dovrebbero rallentarti o bloccarti, come magia, come il passo rallentato da una magia di ghiaccio di un mago, o così via.\nColpo ostinato: 10 Numero volte pari alla tua Forza, se manca un attacco può ritentare quello stesso attacco\nEsagerato: 10 può impugnare una lancia a due mani con una sola, ma non può andare in dual in nessun modo. Deve avere almeno 2 a Forza.\nForte: 5 Vantaggio alle prove che scalano su Forza",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Manuale",
+      "Costruzione del Personaggio"
+    ]
+  },
+  {
+    "objectID": "capitoli/Regole/creazione.html#da-nerd",
+    "href": "capitoli/Regole/creazione.html#da-nerd",
+    "title": "Creazione Del Personaggio",
+    "section": "Da Nerd",
+    "text": "Da Nerd\n\nErudito: 3* guadagna +12 da mettere dove vuole tra le conoscenze. Inoltre ha vantaggio quando effettua prove per vedere se conosce cose fuori dal suo raggio di competenze. \nConoscere magia: 5* aggiunge ai suoi tiri di Conoscere anche “Conoscere Magia”. Possiede altri 4 punti da distribuire come vuole tra le conoscenza.\nMultilingue: 3* il Personaggio sa 3 lingue aggiuntive\n\nsa una lingua in più come un madrelingua; può saperla al punto da convincere ad esempio un elfo di essere stato cresciuto da un altro elfo.\nuna lingua che conosce bene\nuna lingua di cui conosce i rudimenti",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Manuale",
+      "Costruzione del Personaggio"
+    ]
+  },
+  {
+    "objectID": "capitoli/Regole/creazione.html#abilità-di-base",
+    "href": "capitoli/Regole/creazione.html#abilità-di-base",
+    "title": "Creazione Del Personaggio",
+    "section": "Abilità di base",
+    "text": "Abilità di base\n\nFurtività e nascondersi (si spiegano da sole)\nPercezione e origliare (tutte le prove che si appoggiano ai due sensi di vista e udito\nArrampicarsi\nSpaventare e intimidire",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Manuale",
+      "Costruzione del Personaggio"
+    ]
+  },
+  {
+    "objectID": "capitoli/Regole/creazione.html#abilità-apprese",
+    "href": "capitoli/Regole/creazione.html#abilità-apprese",
+    "title": "Creazione Del Personaggio",
+    "section": "Abilità apprese:",
+    "text": "Abilità apprese:\n\nSeguire tracce: puoi seguire le tracce di una persona che stai inseguendo, o la pista di una creatura.\nMarinaio: ottieni +4 in tutte quelle prove che riguardano l’attività in mare, dal veleggiare al nuotare, tirando su Intelligenza.\nRapidità di mano puoi tentare di fare un gioco con le mani, un movimento nascosto, tipo da borseggiatore o simili, o solo molto delicato.\nScassinatore: puoi provare a scassinare serrature e meccanismi e individuare trappole e ottieni gli attrezzi da scasso di background\nMedicina: può effettuare prove di primo soccorso, valutare lo stato di salute di un personaggio, provare a rallentare l’effetto dei veleni, provare a rianimare una persona a terra.\nCondottiero: (Devi possedere Stratega, o almeno 4 Manovre) al posto di un tiro di Carisma, quando cerchi di convincere la gente a combattere, o cerchi di guidare il Caos di una battaglia, puoi  utilizzare Guidare. (Il Contesto dev’essere però quello di una battaglia)",
+    "crumbs": [
+      "Scarica scheda PG",
+      "Manuale",
+      "Costruzione del Personaggio"
+    ]
+  },
+  {
+    "objectID": "capitoli/Regole/creazione.html#abilità-speciali",
+    "href": "capitoli/Regole/creazione.html#abilità-speciali",
+    "title": "Creazione Del Personaggio",
+    "section": "Abilità speciali",
+    "text": "Abilità speciali\n\nFalsario: sei perfettamente in grado di riprodurre firme, contraffarre documenti, sigilli e simboli. Per distinguere se un documento è falso o meno tiri di Intelligenza (CD solitamente saranno basse)\nRiconoscere veleni: (che in nessun modo ti dà la possibilità di crearli) tirando su intelligenza.\nPercezione magico (occorre fornire una giustificazione di backgorund convincente per averla) la percezione del magico consente a una persona di vedere se attorno a lui si muovono fonti di magia.\nCalmare animi: puoi provare a calmare una persona o un gruppo di personee in una situazione agitata, tirando su Intelligenza. Il DM considererà il tiro una indicazione di quanto le tue parole hanno uon effetto calmante, ma non direttamente un’indicazione di successo o fallimento.\nParlare animali (NB: questa capacità richiede un tiro su Intelligenza, a meno che non sia altrimenti specificato)\nNatura magica: 1 (questo tiro di conoscere richiede almeno 2 capacità Di Caccia). Riguarda la conoscenza delle caratteristiche magiche delle creature.)\nLavorare carcasse: se sei davanti a una creatura da cui si possono estrarre delle componenti utili, puoi estrarle.\nIngegneria: puoi capire i punti nevralgici di un edificio o se questo è pericolante (non tiri per questa capacità).\nArtigiano: sei in grado di creare piccoli oggetti, riparare le cose, generare nodi, aggiustare meccanismi (puoi aggiungere intelligenza al tiro). Con i giusti strumenti puoi anche creare oggetti più sofisticati, a seconda del tuo background decise col DM.\n\nSURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.\n\nPercezione del Pericolo (un tiro puro che il Personaggio effettua massimo 4 volte a riposo breve. Con questo tiro è in grado di sapere se si sta avvicinando a una situazione di pericolo imminente contro la sua vita. Il DM non dichiara quale sia il pericolo in arrivo, ma i pericoli che il Personaggio percepisce sono oltre quelli che può figurarsi da solo. Se si è in una foresta piena di Manticore e il Personaggio lo sa il DM non può dichiarare alto pericolo solo perché la situazione è tendenzialmente pericolosa, da che il Personaggio se lo aspetta. Dichiarerà invece che il pericolo è alto se una Manticora li sta inseguendo o se invece si prefigura un altro pericolo, che comunque non verrà dichiarato. Se il Personaggio non sapesse di trovarsi nella foresta delle Manticore allora si darà pericolo medio mettendo sull’allerta il Personaggio, in quanto la situazione è genericamente pericolosa. Puoi aggiungere Intelligenza a questo tiro.",
     "crumbs": [
       "Scarica scheda PG",
       "Manuale",
@@ -239,7 +287,7 @@
     "href": "capitoli/Mercato/armeria.html",
     "title": "Armeria, benvenuti dal fabbro",
     "section": "",
-    "text": "Nome\nDanno\nDescrizione\nCosto Indicativo\n\n\n\n\nColtello\n3 taglienti\n-\n5k\n\n\nSpada Corta\n6 taglienti\nPossibilità di effettuare Disarmo e Destreggiarsi (se possedute)\n15k\n\n\nAscia da guerra\n4 taglienti + Forza\nImpugnabile con competenza spada corta\n25 k\n\n\nMartello a una mano\n5 contundenti\nSe il possessore ha almeno 3 a Forza ottiene +1 al danno.\n16k\n\n\nSpada da lato\n6 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)Se tira in difesa ottiene contrattacco (non critico) anche con 19.Ha vantaggio ai tiri di contrattacco e Disingaggio\n30K\n\n\nSpada lunga a una mano\n8 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)\n20k\n\n\nSpada lunga due mani\n9 taglienti\nPossibilità di effettuare disarmo (se si possiede la Manovra) con vantaggio, o Destreggiarsi.Aumento al tiro per schivare di 3, se non ingaggia contro un’altra arma a due mani.Critico con 18, 19 o 20 se il  possessore ha 6 a Destrezza.\n35k\n\n\nAscia bipenne due mani\n9 taglienti/+ Forza\n-\n50k\n\n\nMartello pesante due mani\n7 Contundenti\nRichiede 1 di Forza.Se il possessore ha almeno 2 a Forza ottiene +1 al danno.Critico con 19 o 20 se il possessore ha almeno 3 Forza.Colpire 3 volte un nemico con quest’arma genera stunn (al prossimo turno l’avversario non effettua Azione)\n30k\n\n\nLancia (Due mani)\n10 perforanti\nRichiede 1 Forza, ottiene +3 al tiro schivare contro tutte le armi in mischia. Se contrattacchi con parry, o attacchi con attacco furtivo o attacco inaspettato, critti con 18, 19, 20.\n16k",
+    "text": "Nome\nDanno\nDescrizione\nCosto Indicativo\n\n\n\n\nColtello\n3 taglienti\n-\n5k\n\n\nSpada Corta\n6 taglienti\nPossibilità di effettuare Disarmo e Destreggiarsi (se possedute)\n15k\n\n\nAscia da guerra\n3 taglienti + Forza\nImpugnabile con competenza spada corta\n25 k\n\n\nMartello a una mano\n5 contundenti\nSe il possessore ha almeno 3 a Forza ottiene +1 al danno.\n16k\n\n\nSpada da lato\n6 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)Se tira in difesa ottiene contrattacco (non critico) anche con 19.Ha vantaggio ai tiri di contrattacco e Disingaggio\n30K\n\n\nSpada lunga a una mano\n8 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)\n20k\n\n\nSpada lunga due mani\n9 taglienti\nPossibilità di effettuare disarmo (se si possiede la Manovra) con vantaggio, o Destreggiarsi.Aumento al tiro per schivare di 3, se non ingaggia contro un’altra arma a due mani.Critico con 18, 19 o 20 se il  possessore ha 6 a Destrezza.\n35k\n\n\nAscia bipenne due mani\n8 taglienti/+ Forza\n-\n50k\n\n\nMartello pesante due mani\n7 Contundenti\nRichiede 1 di Forza.Critico con 19 o 20 se il possessore ha almeno 3 Forza. Se colpisci con quest’arma, al posto di fare danno puoi genera stunn (al prossimo turno l’avversario non effettua Azione)\n30k\n\n\nLancia (Due mani)\n10 perforanti\nRichiede 1 Forza, ottiene +3 al tiro schivare contro tutte le armi in mischia. Se contrattacchi con parry, o attacchi con attacco furtivo o attacco inaspettato, critti con 18, 19, 20.\n16k",
     "crumbs": [
       "Scarica scheda PG",
       "Mercato",
@@ -251,7 +299,7 @@
     "href": "capitoli/Mercato/armeria.html#armi-bianche",
     "title": "Armeria, benvenuti dal fabbro",
     "section": "",
-    "text": "Nome\nDanno\nDescrizione\nCosto Indicativo\n\n\n\n\nColtello\n3 taglienti\n-\n5k\n\n\nSpada Corta\n6 taglienti\nPossibilità di effettuare Disarmo e Destreggiarsi (se possedute)\n15k\n\n\nAscia da guerra\n4 taglienti + Forza\nImpugnabile con competenza spada corta\n25 k\n\n\nMartello a una mano\n5 contundenti\nSe il possessore ha almeno 3 a Forza ottiene +1 al danno.\n16k\n\n\nSpada da lato\n6 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)Se tira in difesa ottiene contrattacco (non critico) anche con 19.Ha vantaggio ai tiri di contrattacco e Disingaggio\n30K\n\n\nSpada lunga a una mano\n8 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)\n20k\n\n\nSpada lunga due mani\n9 taglienti\nPossibilità di effettuare disarmo (se si possiede la Manovra) con vantaggio, o Destreggiarsi.Aumento al tiro per schivare di 3, se non ingaggia contro un’altra arma a due mani.Critico con 18, 19 o 20 se il  possessore ha 6 a Destrezza.\n35k\n\n\nAscia bipenne due mani\n9 taglienti/+ Forza\n-\n50k\n\n\nMartello pesante due mani\n7 Contundenti\nRichiede 1 di Forza.Se il possessore ha almeno 2 a Forza ottiene +1 al danno.Critico con 19 o 20 se il possessore ha almeno 3 Forza.Colpire 3 volte un nemico con quest’arma genera stunn (al prossimo turno l’avversario non effettua Azione)\n30k\n\n\nLancia (Due mani)\n10 perforanti\nRichiede 1 Forza, ottiene +3 al tiro schivare contro tutte le armi in mischia. Se contrattacchi con parry, o attacchi con attacco furtivo o attacco inaspettato, critti con 18, 19, 20.\n16k",
+    "text": "Nome\nDanno\nDescrizione\nCosto Indicativo\n\n\n\n\nColtello\n3 taglienti\n-\n5k\n\n\nSpada Corta\n6 taglienti\nPossibilità di effettuare Disarmo e Destreggiarsi (se possedute)\n15k\n\n\nAscia da guerra\n3 taglienti + Forza\nImpugnabile con competenza spada corta\n25 k\n\n\nMartello a una mano\n5 contundenti\nSe il possessore ha almeno 3 a Forza ottiene +1 al danno.\n16k\n\n\nSpada da lato\n6 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)Se tira in difesa ottiene contrattacco (non critico) anche con 19.Ha vantaggio ai tiri di contrattacco e Disingaggio\n30K\n\n\nSpada lunga a una mano\n8 taglienti\nPossibilità di effettuare disarmo e Destreggiarsi (se possedute)\n20k\n\n\nSpada lunga due mani\n9 taglienti\nPossibilità di effettuare disarmo (se si possiede la Manovra) con vantaggio, o Destreggiarsi.Aumento al tiro per schivare di 3, se non ingaggia contro un’altra arma a due mani.Critico con 18, 19 o 20 se il  possessore ha 6 a Destrezza.\n35k\n\n\nAscia bipenne due mani\n8 taglienti/+ Forza\n-\n50k\n\n\nMartello pesante due mani\n7 Contundenti\nRichiede 1 di Forza.Critico con 19 o 20 se il possessore ha almeno 3 Forza. Se colpisci con quest’arma, al posto di fare danno puoi genera stunn (al prossimo turno l’avversario non effettua Azione)\n30k\n\n\nLancia (Due mani)\n10 perforanti\nRichiede 1 Forza, ottiene +3 al tiro schivare contro tutte le armi in mischia. Se contrattacchi con parry, o attacchi con attacco furtivo o attacco inaspettato, critti con 18, 19, 20.\n16k",
     "crumbs": [
       "Scarica scheda PG",
       "Mercato",
