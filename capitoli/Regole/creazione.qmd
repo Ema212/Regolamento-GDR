@@ -5,7 +5,7 @@ format:
     theme: default
 ---
 
-# *Come costruire il personaggio*
+# Come costruire il personaggio
 
 Per generare i personaggi si eseguono i seguenti passaggi
 
@@ -14,7 +14,7 @@ Per generare i personaggi si eseguono i seguenti passaggi
     2.  Comprare le Abilità Generiche (altrimenti note come Abilità meno forti) utilizzando i tuoi 60 punti generici.
     3.  Con i rimanenti punti generici comprare Le Competenze (aka quali armi il tuo pg sa usare).
     4.  Con i rimanenti ancora comprare le Manovre (aka se per esempio il tuo pg sa disarmare, con dette armi).
--   Scegliere le abilità speciali
+-   Scegliere le abilità
 -   Scegliere la razza
 -   Scegliere le lingue
 -   A quel punto, potete compilare la scheda che trovate infondo, seguendo le istruzione della scheda
@@ -40,7 +40,28 @@ Con *Creatura* si intendono
     -   Stratega non funziona sulle bestie
     -   Non si ottiene Attacco Furtivo fiancheggiando una bestia (ma vantaggio Sì)
 
-# **Capacità Caratterizzanti (20)**
+
+Ecco un utile flowchart sintetico: 
+
+```{mermaid}
+graph TD
+    A[Inizio] --> B[Scelta Abilità]
+    B --> C[Capacità Caratterizzanti: 20pt]
+    B --> D[Capacità Generiche: 60pt]
+    D --> E[Altre Capacità Generiche]
+    D --> F[Competenze]
+    D --> G[Manovre]
+    C --> H[Punti Residui: Converti in PF]
+    E --> H
+    F --> H
+    G --> H
+    H --> I[Abilità Speciali]
+    I --> J[Scelta Lingue]
+    J --> K[Scelta Razza]
+    K --> L[Compila Scheda]
+```
+
+# Capacità Caratterizzanti (20)
 
 -   *Conversione a ferita*: in alternativa all’acquisto delle capacità di seguito elencate, si può spendere un unto di capacità car per ottenere 1 punto Ferita permanente aggiuntivo (Fino a un massimo di +15).
 
@@ -157,11 +178,11 @@ Il Ki è l’abilità di sintonizzare il corpo sui ritmi della magia- e non la m
 
 -   *Armi innervate:* ***Car 5*** ( ***4*** se possiede Colpo Nervino) Può lanciare armi: al prezzo di 2 punti ki, con un’azione bonus, l’arma ha una gittata di 10 metri ed infligge il danno che normalmente infliggerebbe. Se il nemico è protetto da armature, subisce comunque 3 danni. Può spendere i punti KI per “Colpo Nervino” anche in questa modalità (NB: occorre acquistare “KI”)
 
-# **Capacità Generiche (60)** 
+# Capacità Generiche (60)
 
 -   *Conversione a ferita*: in alternativa all’acquisto delle capacità di seguito elencate, si può spendere un unto di capacità generico per ottenere 1 punto Ferita permanente aggiuntivo (Fino a un massimo di +15).
 
-## **Di battaglia**
+## Di battaglia
 
 -   *Allerta*: **10** quando è soggetto ad un attacco a sorpresa, tira Intelligenza, se il risultato è pari o superiore a 12, annulla l’effetto sorpresa per tutto il party. (Se il giocatore si dimentica di questa capacità si procede comunque) *(+1 Iniziativa)*
 
@@ -171,7 +192,7 @@ Il Ki è l’abilità di sintonizzare il corpo sui ritmi della magia- e non la m
 
 -   *Temporeggiare e Prevenire*: **6** può decidere di spostare il suo turno a ogni round, di volta in volta.
 
-## **Sociali**
+## Sociali
 
 -   *Avvezzo alle menzogne*: **4** Hai vantaggio ai tiri di Intelligenza contro menzogna.
 
@@ -187,7 +208,7 @@ Il Ki è l’abilità di sintonizzare il corpo sui ritmi della magia- e non la m
 
  -   *Rumors*: **8** essendo legato al contesto  malavitoso o suburbano della città, ottieni ogni giorno 1d3 informazioni non note sulla città dal DM.
 
-## **Di Caccia**
+## Di Caccia
 
 -   *Mimesi del predatore*: **10** non può essere fiutato, non ne si può percepire il calore, ha vantaggio a furtività e le sue tracce non possono essere seguite. (Anche dagli esseri umani. “Ricostruire” può sorpassare mimesi solo con un tiro pari o superiore a 20).
 
@@ -221,7 +242,7 @@ SURVIVAL (Ottiene Vantaggio alla prove di "Caccia Leggera" per ottenere Cibo)
 
 -   *Nottilungo*: **7** Non dorme di notte. Il suo riposo lungo dura un’ora riposando di notte senza addormentarsi. Vede al buio.
 
-## **Anime**
+## Anime
 
 -   *Sfuggente*: **15** può usare la sua azione bonus per nascondersi o scattare o disingaggiare.
 
@@ -235,7 +256,7 @@ SURVIVAL (Ottiene Vantaggio alla prove di "Caccia Leggera" per ottenere Cibo)
 
 -   *Focalcolpo:* **6** Il colpo senza mani infligge 2, e può colpire una volta con l’azione e una volta con azione bonus. I danni sono considerati contundenti.
 
-## ***KI***: **Car 3**
+## KI: Car 3
 
 Possiedi 20 punti ki, pagando i quali può usare le seguenti abilità (recupera 2d4 punti ki a riposo breve) NB: se si acquista abilità KI per un totale minore o uguale a 3 (sommate tra questa sezione e la sezione KI in “Capacità Caratterizzanti”), KI costa ***Car 0*** (Se li hai già pagati  per acquistare Car non lo ripaghi qui)
 
@@ -287,7 +308,7 @@ HORROR: Non a un tiro di equilibrio psichico
     -   una lingua che conosce bene 
     -   una lingua di cui conosce i rudimenti
 
-# **Manovre**
+# Manovre
 
 Le manovre sono speciali tipi di colpi, che vengono insegnati in addestramento all’arma bianca, che chiunque con una competenza in un’arma può imparare.
 
@@ -311,7 +332,7 @@ Ogni manovra comprata aggiunge +1 ai tuoi punti generici.
 
 -   *Carica violenta*: **2** Se l'avversario ha un punteggio di Forza inferiore, quando colpisci puoi spostare l'avversario di 2xForza metri nella direzione opposta a te. 
 
-# **Competenze**
+# Competenze
 
 -   Competenze base **3** (armi a una mano, scudo piccolo, balestra) (NB: se si compra una competenza diversa da questa, questa costa **0**)
 -   Armatura leggera: **3**
@@ -324,8 +345,9 @@ Ogni manovra comprata aggiunge +1 ai tuoi punti generici.
 
 Si può consultare l'elenco delle armi nella sezione [Armeria](/capitoli/Mercato/armeria.html)
 
-# **Abilità**
+# Abilità
 Le abilità speciali sono attività complesse non rappresentate da una sola statistica. Si dividono in:
+
 - Abilità di base: tutti hanno una minima capacità di farle.
 - Abilità apprese: persone che non hanno la competenza per farlo e ci provano tirano con svantaggio (a seconda dei casi il DM può aggiungere uno svantaggio supplementare)
 - Abilità speciali: anche provandoci, non riuscirete mai  nemmeno a iniziare sensatamente.
@@ -426,7 +448,7 @@ SURVIVAL Puoi spendere un'ora e 1d4 risorse per riparare un'oggetto danneggiato.
 -   Vantaggio alle prove di spaventare
 -   Lingua Orchesca.
 
-# **Lingue**
+# Lingue
 
 Ogni personaggio conosce il comune di default. Più quelle concesse da altri fattori.
 
