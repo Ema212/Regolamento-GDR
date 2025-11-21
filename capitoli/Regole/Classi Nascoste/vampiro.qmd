@@ -1,6 +1,5 @@
 ---
 title: "Vampiro"
-search: false
 format:
   html:
     theme: default

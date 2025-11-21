@@ -1,6 +1,5 @@
 ---
 title: "Astrologo"
-search: false
 format:
   html:
     theme: default

@@ -1,6 +1,5 @@
 ---
 title: "Oggetti con Coscienza"
-search: false
 format:
   html:
     theme: default

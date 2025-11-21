@@ -23,7 +23,7 @@ Gli erboristi sono magici che hanno dedicato la vita ai veleni: la loro creazion
 _Infusione_: +35, 5min
 L'avversario colpito subisce 1d4 danni per 43 turni ogni volta che subisce danno da un'altra arma. 
 
-#### Acrilica
+#### Acre e mortale
 
 - *Rarità*: 3/3
 - *Prezzo*: 38k
@@ -288,9 +288,7 @@ Ogni volta che l'avversario colpito da questo veleno cerca di recupare pv in qua
 - *Prezzo*: 43k
 - *Disponibilità*: 2d4
 - *Descrizione*: Ottenibile dal cuore di Viverne, Manticore e Salamandre tiranno.
-- *Effetto*: Ottieni 3m  movimento, +2 a Forza, +3 a Destrezza per prove diverse da combattimento, se hai malus a statistiche sono temporaneamente ignorate e ottieni 12 pf per 4 turni (alla fine dei turni perdi tutti i vantaggi compresi i pf). Non recuperi alcun beneficio che normalmente otterresti dal riposo breve oggi. 
-
-
+- *Effetto*: Ottieni 3m movimento, +2 a Forza, +2 a Destrezza, se hai malus a statistiche sono temporaneamente ignorate e ottieni 12 pf per 4 turni (alla fine dei turni perdi tutti i vantaggi compresi i pf, fino a 1 pf). Non recuperi alcun beneficio che normalmente otterresti dal riposo breve oggi.
 
 #### Acquaforte
 

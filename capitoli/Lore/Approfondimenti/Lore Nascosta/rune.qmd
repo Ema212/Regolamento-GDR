@@ -1,6 +1,5 @@
 ---
 title: "Rune"
-search: false
 format:
   html:
     theme: default

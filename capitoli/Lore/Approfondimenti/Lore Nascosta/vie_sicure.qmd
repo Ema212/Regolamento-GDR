@@ -1,6 +1,5 @@
 ---
 title: "Le vie sicure"
-search: false
 format:
   html:
     theme: default

@@ -1,7 +1,6 @@
 ---
 title: "Le foreste"
 output-file: foreste
-search: false
 format:
   html:
     theme: default

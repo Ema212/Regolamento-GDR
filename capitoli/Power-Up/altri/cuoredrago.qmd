@@ -1,6 +1,5 @@
 ---
 title: "Cuore di Drago trapiantato"
-search: false
 format:
   html:
     theme: default

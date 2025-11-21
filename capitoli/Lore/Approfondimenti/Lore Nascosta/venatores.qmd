@@ -1,6 +1,5 @@
 ---
 title: "Lore dei Venatores"
-search: false
 format:
   html:
     theme: default

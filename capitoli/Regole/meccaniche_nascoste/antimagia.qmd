@@ -1,6 +1,5 @@
 ---
 title: "Malascen"
-search: false
 format:
   html:
     theme: default

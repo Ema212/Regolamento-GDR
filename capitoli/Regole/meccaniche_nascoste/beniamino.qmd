@@ -1,6 +1,5 @@
 ---
 title: "Beniamino"
-search: false
 format:
   html:
     theme: default

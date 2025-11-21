@@ -1,3 +1,10 @@
+---
+title: "Tiefling"
+format:
+  html:
+    theme: default
+---
+
 I Tifleing sono tradotti correttamente (dal demoniaco) con Demoni, o Diavoli, per chi li disprezza. 
 
 I Tiefling sono stati creati da Indra, per una specie di gioco sadico. Riuscì a battere Mondul con un patto. Grazie a  questo riuscì a modificare degli umani, di modo che questi divennero immortali, ma nel tempo perdessero sempre più del metallo chiamato Humja  man mano che la loro vita andasse avanti, rendendo loro impossibile vivere le emozioni e i pieni sentimenti. Inoltre li condannava a sperimentare dosi crescenti di MIasma, un metallo che accrebbe la loro forza nel tempo ma garantendo loro una triste infamia.

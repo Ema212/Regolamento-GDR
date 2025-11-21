@@ -1,6 +1,5 @@
 ---
 title: "Abilità Leggendarie"
-search: false
 format:
   html:
     theme: default

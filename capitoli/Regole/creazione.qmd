@@ -45,8 +45,7 @@ Ecco un utile flowchart sintetico:
 
 ```{mermaid}
 graph TD
-    A[Inizio] --> B[Scelta Abilità]
-    B --> C[Capacità Caratterizzanti: 20pt]
+    B[Scelta Abilità] --> C[Capacità Caratterizzanti: 20pt]
     B --> D[Capacità Generiche: 60pt]
     D --> E[Altre Capacità Generiche]
     D --> F[Competenze]
@@ -82,20 +81,20 @@ HORROR: + 1 ai tiri di equilibrio psichico
     -   9-11 ha +1(pre-armatura) danno contro di lui e vantaggio per tutte le manovre contro di lui.
     -   12-13 ha vantaggio a due colpi a sua scelta contro di lui ed ha vantaggio a schivare i suoi colpi
     -   14-15 sa i suoi pf, inoltre infligge 1 altro danno aggiuntivo (pre-armatura) a tutti i colpi
-    -   16-17-18-19 sa le sue capacità di classe in fight. Può diventare  immune alle seguenti capacità: elusione, Attacco furtivo, frenesia senza sosta, colpo possente. Inoltre, non può subire critici da quella persona.
-    -   20  con un venti capisce perfettamente il suo stile di combattimento ed ha +3 a tutti i tiri contro  di lui (di qualsiasi tipo). (+1 Iniziativa)
+    -   16-17-18-19 sa le sue capacità di classe in fight. Può diventare immune a capacità Assasine, Manovre e Colpo Ostinato. Inoltre, non può subire critici da quella persona.
+    -   20  con un venti capisce perfettamente il suo stile di combattimento ed ha vantaggio a tutti i tiri contro  di lui (di qualsiasi tipo). (+1 Iniziativa)
 
 ## Assassine
 
 -   *Elusione*: **Car 5** tre volte a fight, usando la sua innata sneakicità, può tirare un dado su Destrezza contro il nemico che sia in grado di vedere che ha passato il tiro per colpire contro di lui, se non lo passa dimezza il danno (post-armature), se lo passa lo elude.
 
--   *Attacco Furtivo*: **Car 10** se ha vantaggio a colpire ottiene 2d4 a sommare ai danni (pre-armature) contro una creatura umanoide.
+-   *Attacco Furtivo*: **Car 8** se ha vantaggio a colpire ottiene 2d4 a sommare ai danni (pre-armature) contro una creatura umanoide.
 
--   *Attacco Inaspettato:* ***Car 10*** Se colpisce non visto una creature umanoide. Il danno inferto da ogni arma è triplicato (pre-armature). (con non visto si intende che il nemico non sappia che sei lì)
+-   *Attacco Inaspettato:* ***Car 7*** Se colpisce non visto una creature umanoide. Il danno inferto da ogni arma è triplicato (pre-armature). (con non visto si intende che il nemico non sappia che sei lì)
 
 ## Investigative
 
-- *Sensibile alla verità: **Car 2*** Se vince un tiro contro inganno contro una creatura, ha successo automatico in questo tiro contro quella creatura per il resto della giornata.
+- *Sensibile alla verità: **Car 2*** Se vince un tiro contro inganno contro una creatura, ha successo automatico in questo tiro contro quella creatura per il resto della giornata.
 
 - *Sherlock: **Car 2*** Ottiene l'abilità speciale Investigare (puoi tirare su Intelligenza per cercare indizi, ricostruire avvenimenti legati a un luogo o a un fatto di cui la gente normale non si accorgerebbe. ) 
 
@@ -111,13 +110,13 @@ HORROR: Non puoi comrpare questa capacità
 
 -   *Occhio di Falco: **Car 3*** Ottiene vantaggio alle prove di percezione e seguire tracce, il suo modificatore è +7.
 
--   *Ricostruzione*: **Car 9** osservando un terreno tira Intelligenza: può capire quante creature e quali siano passate, approssimativamente quanto tempo prima e in che direzione siano andate. A seconda del risultato otterrà comunque delle informazioni.
+-   *Ricostruzione*: **Car 7** osservando un terreno tira Intelligenza: può capire quante creature e quali siano passate, approssimativamente quanto tempo prima e in che direzione siano andate. A seconda del risultato otterrà comunque delle informazioni. (Questa abilità sostituisce qualunque tipo di Seguire Tracce, considerando un successo automatico)
 
 ```         
 SURVIVAL (Ottiene Vantaggio alle prove di "Caccia Grossa") 
 ```
 
--   *Marcare*: **Car 7** se colpisce una creatura può marcarla con un’azione bonus. Sa sempre dove si trova la creatura marcata ed ha vantaggio a colpire quella creatura. Solo una creatura per volta può essere marcata. La marcatura termina quando lo decide il personaggio.
+-   *Marcare*: **Car 5** se colpisce una creatura può marcarla con un’azione bonus. Sa sempre dove si trova la creatura marcata ed ha vantaggio a colpire quella creatura. Solo una creatura per volta può essere marcata. La marcatura termina quando lo decide il personaggio.
 
 ## Cacciatore di Maghi
 
@@ -131,7 +130,7 @@ SURVIVAL (Ottiene Vantaggio alle prove di "Caccia Grossa")
 
 -   *Armi da fuoco*: **Car 5**. Avendo competenza, può usare le Armi da fuoco. Con un'azione può sparare tirando su Intelligenza. La CD del colpo dipende dal tipo di bersaglio
 
-    -   (Bersaglio fermo e libero: CD 7
+    -   Bersaglio fermo e libero: CD 7
     -   Bersaglio fermo ingaggiato: CD 9 (a meno di particolari condizioni o 1nat, il PG non colpisce un alleato involontariamente)
     -   Bersaglio in movimento: CD 10
     -   Bersaglio a mezza copertura: CD 13
@@ -224,6 +223,7 @@ SURVIVAL (Ottiene Vantaggio alla prove di "Caccia Leggera" per ottenere Cibo)
 
     -   obbligarle a mantenere l'ingaggio con te
     -   allontanarti senza disingaggiare
+    -   nel caso di un attacco a distanza, può spingere la creatura a puntare contro di te
 
 -   *Punti Deboli*: **3** se colpisci una Bestia, essa perde 1 a Destrezza.
 
@@ -320,7 +320,7 @@ Ogni manovra comprata aggiunge +1 ai tuoi punti generici.
 
 -   *Destreggiarsi*: **10** Richiede una *Spada.* Può ingaggiare fino a 2 creature umanoidi contemporaneamente. Se non ha armatura pesante, fino a 3. Può effettuare un attacco solo contro una di quelle creature, ma può cambiarlo a ogni turno, senza penalità. Non può effettuare Inchiodatura finché usa questa manovra. (+1 Iniziativa)
 
--   *Parry*: **5** se para con lo scudo un avversario, può spingerlo all’indietro con una prova contrapposta di Forza, usando una reazione. Se passa, può tirare per colpire l’avversario, o disingaggiare. Il nemico perde tutto il suo movimento.
+-   *Parry*: **5** se para con lo scudo un avversario, può usare una reazione per colpirlo (non tira)
 
 -   *Parry senza scudo*: **4** (se possiede Parry è gratuita) può utilizzare una reazione, se para il colpo dell'avversario, per eliminare l'ingaggio, e il nemico perde il movimento.
 
@@ -330,7 +330,13 @@ Ogni manovra comprata aggiunge +1 ai tuoi punti generici.
 
 -   *Incalzare*: **5** se sta combattendo contro una sola creatura umanoide, e passa il tiro a colpire, può eseguire movimento costringendo l'avversario a muoversi nella sua direzione. Se l'avversario si rifiuta, ottiene un attacco di opportunià. (+1 Iniziativa). 
 
--   *Carica violenta*: **2** Se l'avversario ha un punteggio di Forza inferiore, quando colpisci puoi spostare l'avversario di 2xForza metri nella direzione opposta a te. 
+-   *Attacco con violenza*: **2** Se l'avversario ha un punteggio di Forza inferiore, quando colpisci puoi spostare l'avversario di 2xForza metri nella direzione opposta a te. 
+
+-   *Attaco in carica*: **2** se colpisci un avversario dopo un movimento completo, ottieni vantaggio a colpire (valido anche se risulta dal movimento del turno precedente e l'avversario è ancora ingaggiato.)
+
+-   *Legolas*: **2** se il DM dichiara il tuo tiro favorevole puoi tirare due frecce usando un arco in una azione. Inoltre, se attacchia  distanza puoi anticipare l'azione a inizio fight, prima del turno di chiunque (anche oltre "Temporeggiare")
+
+**NB**: il tiro è considerato favorevole a discrezione del DM se il nemico non è coperto da ostacoli visibili, non ci sono persone in linea d'aria tra voi due con un ampiosrgine di errore.
 
 # Competenze
 
@@ -352,7 +358,7 @@ Le abilità speciali sono attività complesse non rappresentate da una sola stat
 - Abilità apprese: persone che non hanno la competenza per farlo e ci provano tirano con svantaggio (a seconda dei casi il DM può aggiungere uno svantaggio supplementare)
 - Abilità speciali: anche provandoci, non riuscirete mai  nemmeno a iniziare sensatamente.
 
-Avete tutti di default le tre abilità di base. Scegliete inoltre 3 abilità in più a vostro gradimento tra quelle speciali e quelle magiche. Una volta che le avete selezionate avete 10 punti da distribuire alle 5 abilità selezionate. (il limite di bonus di una abilità è +6)
+Avete tutti di default le tre abilità di base. Scegliete inoltre 3 abilità in più a vostro gradimento tra quelle speciali e quelle magiche. Una volta che le avete selezionate avete 17 punti da distribuire alle 5 abilità selezionate. (il limite di bonus di una abilità è +6)
 
 ## Abilità di base
 
@@ -497,6 +503,7 @@ Reazioni: 1 (più quelle concesse dalle capacità)
 Iniziativa: 0 (più quanto eveulamente concesso dalle capacità)
 
 Competenze: 
+
 - Armi
 - Armature
 

@@ -1,6 +1,5 @@
 ---
 title: "Bardo"
-search: false
 format:
   html:
     theme: default

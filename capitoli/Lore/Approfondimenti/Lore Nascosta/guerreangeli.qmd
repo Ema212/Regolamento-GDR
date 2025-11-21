@@ -1,6 +1,5 @@
 ---
 title: "Guerre degli Angeli"
-search: false
 format:
   html:
     theme: default

@@ -1,6 +1,5 @@
 ---
 title: "Angeli"
-search: false
 format:
   html:
     theme: default

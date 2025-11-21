@@ -1,6 +1,5 @@
 ---
 title: "Mago di Merlino"
-search: false
 format:
   html:
     theme: default

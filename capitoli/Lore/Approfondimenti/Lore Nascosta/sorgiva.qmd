@@ -1,3 +1,9 @@
+---
+title: "Sorgiva"
+format:
+  html:
+    theme: default
+---
 
 Città dove vive la Prima Sacerdotessa che dà vita alle nuove sacerdotesse quando queste muoino per le città della costa Est di Miravia. Siccome ha un templio suo, un ordine a proteggerla, e tutte le sue figlie che sono molto longeve, a cui vengono cantate le Mille storie che contengono le conoscenze per il mondo delle acque, si considera memoria storica. 
 

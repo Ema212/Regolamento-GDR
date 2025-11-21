@@ -1,6 +1,5 @@
 ---
 title: "Bestiario"
-search: false
 format:
   html:
     theme: default

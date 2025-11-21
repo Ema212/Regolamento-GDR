@@ -1,6 +1,5 @@
 ---
 title: "Cosmologia"
-search: false
 format:
   html:
     theme: default

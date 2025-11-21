@@ -1,6 +1,5 @@
 ---
 title: "Venator"
-search: false
 format:
   html:
     theme: default

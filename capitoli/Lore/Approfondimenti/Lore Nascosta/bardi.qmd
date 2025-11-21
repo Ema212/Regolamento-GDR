@@ -1,6 +1,5 @@
 ---
 title: "I Bardi"
-search: false
 format:
   html:
     theme: default

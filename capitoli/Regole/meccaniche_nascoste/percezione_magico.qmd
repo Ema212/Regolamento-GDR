@@ -1,6 +1,5 @@
 ---
 title: "Percezione magico"
-search: false
 format:
   html:
     theme: default

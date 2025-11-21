@@ -9,41 +9,19 @@ format:
 
 <!-- INIZIO COSE DM ------------------------------------------------------------------------- -->
 
-## Lore Nascosta 
+# Mappa del Sito
 
-- [Angeli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/angeli.html)
-- [Bardi](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/bardi.html)
-- [Celestiali](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/celestiali.html)
-- [Cosmologia](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/cosmo.html)
-- [Bestiario](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/creature.html)
-- [Guerre degli angeli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/guerreangeli.html)
-- [Elenco metalli](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/metalli_completo.html)
-- [Rune](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/rune.html)
-- [Stelle](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/stelle.html)
-- [Venatores](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/venatores.html)
-- [Vie sicure](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/vie_sicure.html)
+```{r}
+#| echo: false
+files <- list.files(pattern = "\\.qmd$", recursive = TRUE)
+files <- files[!files %in% c("index.qmd", "_site.qmd")] # escludi file speciali
 
-## Classi Nascoste 
-
-- [Arcanista](/capitoli/Regole/Classi%20Nascoste/arcanista.html)
-- [Astrologo](/capitoli/Regole/Classi%20Nascoste/astrologo.html)
-- [Bardo](/capitoli/Regole/Classi%20Nascoste/bardo.html)
-- [chierico](/capitoli/Regole/Classi%20Nascoste/chierico.html)
-- [Elfo](/capitoli/Regole/Classi%20Nascoste/elfo.html)
-- [Figlio di Fata](/capitoli/Regole/Classi%20Nascoste/figlio_di_fata.html)
-- [Gnomo](/capitoli/Regole/Classi%20Nascoste/gnomo.html)
-- [Mago da Guerra](/capitoli/Regole/Classi%20Nascoste/mago_guerra.html)
-- [Nephelim](/capitoli/Regole/Classi%20Nascoste/nephelim.html)
-- [Pirata](/capitoli/Regole/Classi%20Nascoste/pirata.html)
-- [Vampiro](/capitoli/Regole/Classi%20Nascoste/vampiro.html)
-- [Venatores](/capitoli/Regole/Classi%20Nascoste/venatores.html)
-
-## Meccaniche Nascoste
-
-- [Percezione magico](/capitoli/Regole/meccaniche_nascoste/percezione_magico.html)
-
-## Power up 
-
+cat("## Pagine del Sito\n\n")
+for(file in files) {
+  title <- gsub("\\.qmd$", "", file)
+  cat(paste0("- [", title, "](", file, ")\n"))
+}
+```
 
 <!-- FINE COSE DM ------------------------------------------------------------------------- -->
 </div>

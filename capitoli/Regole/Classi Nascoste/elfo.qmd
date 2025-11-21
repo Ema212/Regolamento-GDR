@@ -1,6 +1,5 @@
 ---
 title: "Elfo"
-search: false
 format:
   html:
     theme: default

@@ -1,6 +1,5 @@
 ---
 title: "Lista completa dei Metalli"
-search: false
 format:
   html:
     theme: default
@@ -90,6 +89,8 @@ Le Fate sono esseri composti dall'unione del neon, oricalco, e ovviamente una pu
 
     - Non può essere incantata
     - Può essere infusa con 4 veleni se di "Dragone", 6 veleni se di "masto Dragone", e numero illimato se di "Procura Drago"
+
+-   **Almarossa**: Puoi ricoprire un'arma fatta di almarossa con un veleno. Il veleno è considerato infuso. Se ne viene infuso un altro va a sostituto del precedente.
 
 -   **Ametista**: Metallo con cui i Monaci fondano le loro armi. Le armi in Ametista si muovono inoltre secondo l'istinto Marziale del loro possessore, non richiedendo dunque una particolare abilità nellusarli, serve solo un istinto profondamente radicato nell'animo di chi lo usa nel combattere.
 
