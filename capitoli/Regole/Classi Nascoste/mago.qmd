@@ -449,41 +449,31 @@ Ottieni 8 timbri. I timbri sono una rappresentazione di quanto nel suo studio si
 
 # Scheda
 
+Devi creare la tua scheda del gioco seguendo le indicazioni del file [di costruzione del personaggo](/capitoli/Regole/creazione.html)
+
+Le variazioni con cui devi però farlo sono le seguenti.
+
 PV 20
 
-Statistiche: Si aggiungano 8x+1 e 2x-1. Limite max. +6
-- I 0
-- D 0
-- F 0
-- C 0
-
 Competenze: nessuna, solo _arma da mago_
-Capacità: ottiene solo le magie.
+Lingue: ricevi in aggiunta anche l'Arcano
 
-Lingue: conosci comune e Arcano
-
-Abilità: (segnare 15x +1, 8x-1) (limite min. -4, limite max. +6)
-
-- Arrampicarsi
-- Furtività
-- Nascondersi
-- Rapidità di mano
-- Spaventare-intimidire
-- Seguire tracce
-- Origliare
-- Percezione
-
-Conoscere: (Aggiungere 28x+1, limite +7)
-
-- Natura
-- Religione
-- Storia
-- Folklore
-- Accademica
-- Magia 
-
-Abilità Speciali:
-
+Per le tua Abilità, sei costretto a scegliere
 - [Percezione magico](/capitoli/Regole/meccaniche_nascoste/percezione_magico.html)
+
+Capacità: 
+
+    Ottieni di default
+    - Erudito
+    - Conoscere magia
+    - Multilingue
+
+Non ottieni alcuna capacità a parte le magie. Si può considerare con il DM una serie di capacità per un certo tipo di personaggio, ma solo, se proprio le vuoi negoziare, tra le seguenti: 
+
+- Stratega 
+- Sensibile alla verità
+- Sherlock
+- Le capacità tra le Sociali 
+- Manovre
 
 

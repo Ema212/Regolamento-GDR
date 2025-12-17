@@ -4,29 +4,14 @@ format:
   html:
     theme: default
 ---
-<div class="dm-only" style="display:none;">
-  <p>Contenuto per DM</p>
-
-<!-- INIZIO COSE DM ------------------------------------------------------------------------- -->
-
-# Mappa del Sito
-
-```{r}
-#| echo: false
-files <- list.files(pattern = "\\.qmd$", recursive = TRUE)
-files <- files[!files %in% c("index.qmd", "_site.qmd")] # escludi file speciali
-
-cat("## Pagine del Sito\n\n")
-for(file in files) {
-  title <- gsub("\\.qmd$", "", file)
-  cat(paste0("- [", title, "](", file, ")\n"))
-}
-```
-
-<!-- FINE COSE DM ------------------------------------------------------------------------- -->
-</div>
 
 ## Orientarsi nel Gioco
+
+La voce "Manuale" ha le regole principali del gioco. 
+La voce "Mercato" enlista una serie di shop che potete trovare quasi in tutte le ambientazioni
+La voce "Lore di Irridan" presenta la lore di base del gioco.
+
+Non tutte le regole e tutta la lore è direttamente navigabile, per rednere più semplice il sito. Se sapete di qualcosa però, potete cercarlo direttamente dall'icona grande della lente. Inoltre, se vagate nel sito potete scoprire cose nuove. Alcune classi, razze, poteri e via discorrendo sono infatti disponibili solo su richiesta se voi li trovate.
 
 ### Come cazzo si chiamava il file quello con le regole? 
 
