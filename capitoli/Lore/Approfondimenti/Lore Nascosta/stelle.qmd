@@ -11,9 +11,37 @@ Le stelle sono materia Viva. Formate dal Dio Argelun e dalla dea Selune. Esse so
 
 Creano questa rete di bestie quasi immmbili e solitarie, le stelle fungono da barriera al mondo: tra il vuoto oltre la Luna e il mondo creano la Zona Celeste.
 
-Alcuni riescono a sviluppare dei poteri legati alle stelle, in una forma molto [Particolare](/capitoli/Regole/Classi%20Nascoste/astrologo.html)
+Alle Stelle sono inoltre legate in modo intimissimo le materie profetiche.
 
-%PARTE NON PRONTA%
+## **Poteri profetici**
+
+I poteri profetici hanno una sola origine, una sola complessissima matrice, che è Nahudiz, la runa che genera la Musica del Mondo. Divers eperò sono le fonti di profezia.
+Vengono qui di seguito riportate le fonti di profezia, in ordine crescente di importanza, per vicinanza alla matrice origianel.
+
+1) **Eco profetico: Magia Bardica - La Musica**
+L'Irradion modifica il senso del mondo, influenzando debolmente tutti i metalli, ma generando una fortissima influenza nel lungo periodo. I Bardi possono percepire l'Irradion. L'origine dell'Irradion viene descritta da Eril, la figlia della Fenice, che era Bardo quando era in vita, come “La frizionie di Naudhiz genera le note dell’Irradion”. La runa Nahudiz infatti è la generatrice della musica del Mondo che coinvolge tutti i metalli in una narrazione. Per questo le profezie dei Bardi sono vaghe, ma quasi sempre veritiere se il bardo era capace, se ha sentito bene.
+
+In breve, i bardi fanno profezie semplici e vaghe, se ascoltano bene. Sono detti per questo "Profeti dell'Eco"
+
+NB: anche le [fate](/capitoli/Lore/Approfondimenti/Lore%20Nascosta/fate.html) possono ascoltare l'Irradion, e la Musica del Mondo ha una fortissima sul Sogno delle Fate. E visto che i sogni delle fate plasmano il mondo del Vanghaal, e le fate del mondo del Vanghaal possono plasmare il mondo di Irradan, ascoltando la musica si può intuire il Sogno, e la direzione in cui va può dare premonizioni sul mondo. Una forma collaterale di profezia, meno universale, ma nell'economia del Mondo in cui viviamo, molto rilevante.
+
+2) **Profezia siderale: Tarocchi - Le Stelle**
+Le stelle regolano il destino del mondo in modo sottile ma efficacie: le stelle generano una sorta di cassa di risonanza dell'universo, che modifica la Melodia del mondo, anche in modo sostanziale. La magia scaturisce da Nahudiz subisce nelle stelle le più grandi variazinoi e adattamenti. Ma chi è il grande direttore d'orchestra? Nessuno. O meglio, 
+
+Selune è detta Signora del Cosmo perché potrebbe orchestrare questa difficilissima direzionalità universale. Ma è una dea che non impone nessun ordine alle stelle, e lascia che gli ordini avvengano con i deboli segnali che le stelle si danno tra loro. Secondo Selune esse devono muoversi in modo implicito, come un branco, come una grande foresta, l'universo deve respirare in autonomia per poter dare forma alle sue meraviglie, come una foresta è regolata dai ritmi dei suoi animali. Così le Stelle si muovono secondo i loro ritmi, detti Ritmi Siderali.
+
+In questo senso entrano in gioco i Tarocchi. I tarocchi sono carte o gingilli che sono legate alle stelle, fatti di non si sa quale materiale, probabilmente hanno in comune alcuni dei metalli misteriosi di Argelun. Fatto sta che possono funzionare come dei segnalatori. Non si sa quale metallo venga mosso quando un cartomante bianco (così chiamati per distinguerli dai ciarlatani) mischia le sue carte, non si sa bene in cosa consista la sua magia. Deve muovere forse _quel_ metallo, che non sappiamo quale sia. Ma riescono, una volta impostate le carte e interpretate, a pronunciare l'interpretazionee consiscurezza. In quel momento i complessi giochi magnetici o di segnali tra le stelle ricevono una direzione forte. 
+
+Per questo motivo la loro profezia è molto forte, e minaccia una realizzabilità molto alta, detta Profezia Siderale.
+
+NB: le eprsone che hanno studiato le stelle possono organizzare la loro magia attorno alla conoscenza dei ritmi siderali, dando origine agli [Astrologi](/capitoli/Regole/Classi%20Nascoste/astrologo.html).
+
+3) **Nodo di Fase: Nahudiz - Meduse** 
+Ma Nahudiz è la Sovrana della Musica del mondo. Quando viene pronunciata una profezia da qualcuno che possiede e comprende la Runa Nahudiz, allora origina un nuovo senso a cui ogni altra melodia deve rendere conto. Tutto il resto si accorda su questo nuovo senso. 
+
+Le Meduse sono tra gli unici esseri si dice a generare un Nodo di Fase, una vera e compiuta profezia. 
+
+## %PARTE NON PRONTA%
 
 Magie legate alle Costellazioni: 
 - Bussola: puoi vedere il fato di un target. Il fato è una visione approssimativa del suo futuro se il party non interviene in alcun modo significativo nella sua vita.

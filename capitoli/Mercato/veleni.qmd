@@ -306,6 +306,12 @@ tra le altre cose l'acquaforte grezza è utile per:
 
 #### Cristalli Naturali
 
+- *Rarità*: 3/3
+- *Prezzo*: 87k
+- *Disponibilità*: 1d6
+- *Descrizione*: Estratti dalle miniere di Tindia.
+- *Effetto*: Un materiale instabile ed esplosivo, in grado, tra le altre cose, di amplificare le capacità magiche.
+
 #### Tormentina
 
 - *Rarità*: 1/3
@@ -370,4 +376,12 @@ tra le altre cose l'acquaforte grezza è utile per:
 - *Disponibilità*: 3d6
 - *Descrizione*: Un fluido ottenibile dall'ira dei Bruti in cattività, spesso pertanto venduta sottobanco. 
 - *Effetto*: non puoi scendere sotto i 2 pf per i prossimi 3 turni (a meno di colpi ceh superino i 60 danni per volta)
+
+#### Filtro di Vishnù
+
+- *Rarità*: 3/3
+- *Prezzo*: 80k
+- *Disponibilità*: 3d8
+- *Descrizione*: Ottenibile dalle pozze dei Celestiali Vishnù.
+- *Effetto*: Il prossimo danno che ricevi è pari a zero. Puoi usare questa pozione in reazione.
 
